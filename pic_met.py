@@ -2,6 +2,7 @@ import flickrapi
 import urllib
 import unicodedata
 import os
+import datetime
 
 default_api_key = '2a738d26af4bf19c596490c1d422818e'
 # output file
@@ -50,7 +51,7 @@ def write_metadata_and_download_photos(api_key=default_api_key, pic_dir=default_
         met_group_photo_data['Photo ID'] = photo_id
         met_group_photo_data['Username'] = username
         met_group_photo_data['Description'] = description
-        met_group_photo_data['Date Posted'] = date_posted
+        met_group_photo_data['Date Posted'] = convert_unix_timestamp_because_wtf_flickr(date_posted)
         met_group_photo_data['Date Taken'] = date_taken
         met_group_photo_data['Views'] = views
         met_group_photo_data['Tags'] = tags
@@ -67,6 +68,9 @@ def write_metadata_and_download_photos(api_key=default_api_key, pic_dir=default_
     return 0
 
 
+def convert_unix_timestamp_because_wtf_flickr(unix_epoch_time):
+    return datetime.datetime.fromtimestamp(int(unix_epoch_time)).strftime('%Y-%m-%d %H:%M:%S')
+
 def write_metadata_dict_to_file(metadata, file_name=default_file_name):
     output = ''
     for k, v in metadata.iteritems():
@@ -82,3 +86,4 @@ def write_metadata_dict_to_file(metadata, file_name=default_file_name):
         f.write(output)
 
 write_metadata_and_download_photos()
+    
