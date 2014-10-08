@@ -17,7 +17,7 @@ met_group_photo_data = {}
 def write_metadata_and_download_photos(api_key=default_api_key, pic_dir=default_pic_dir):
     flickr = flickrapi.FlickrAPI(api_key)
     met_group_photo_data = {}
-    sets = flickr.groups_pools_getPhotos(group_id=group_id)
+    sets = flickr.groups_pools_getPhotos(group_id=group_id, per_page=500, page=1)
     for child in sets[0]:
 
         title = child.attrib['title'] 
