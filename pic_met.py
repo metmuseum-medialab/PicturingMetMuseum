@@ -4,6 +4,8 @@ import unicodedata
 import os
 import datetime
 
+# need to update to get flickr image url!
+
 default_api_key = '2a738d26af4bf19c596490c1d422818e'
 # output file
 default_file_name = './met_metadata.txt'
