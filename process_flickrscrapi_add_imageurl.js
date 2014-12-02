@@ -29,53 +29,6 @@ var options = {api_key : flickrapikey};
 var flickr;
 
 
-var combine_data = function(orig_data, new_data, callback){
-	if(new_data.title){
-		orig_data.push(new_data.title);
-	}else{
-		orig_data.push(" ");
-	}
-	if(new_data.primaryArtist){
-		orig_data.push(new_data.primaryArtist.name);
-	}else{
-		orig_data.push(" ");
-	}
-	if(new_data.galleryLink){
-		orig_data.push(new_data.galleryLink);
-	}else{
-		orig_data.push(" ");
-	}
-	if(new_data.gallery){
-		orig_data.push(new_data.gallery);
-	}else{
-		orig_data.push(" ");	
-	}
-	if(new_data.inTheMuseumList && new_data.inTheMuseumList[0]){
-		orig_data.push(new_data.inTheMuseumList[0].name);
-		orig_data.push(new_data.inTheMuseumList[0].url);
-	}else{
-		orig_data.push(" ");
-		orig_data.push(" ");
-	}
-	if(new_data.classificationList){
-		orig_data.push(new_data.classificationList.join(","));
-	}else{
-		orig_data.push(" ");
-	}
-	if(new_data.whatList){
-		orig_data.push(subarray(new_data.whatList, "name").join(","));
-	}else{
-		orig_data.push(" ");
-	}
-	orig_data.push(new_data.CRDID);
-	orig_data.push(new_data.accessionNumber);
-	orig_data.push("http://scrapi.org/object/"+new_data.CRDID);
-	orig_data.push("http://www.metmuseum.org/collection/the-collection-online/search/"+new_data.CRDID);
-	callback(null, orig_data);
-
-}
-
-
 
 var add_headers = function(orig_data, callback){
 	orig_data.push("flickrid");
