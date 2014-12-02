@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "7264585508",
+    "secret": "a1a0478473",
+    "server": "7239",
+    "farm": 8,
+    "dateuploaded": "1337902136",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "José Costa y Bonells _TheMET(4)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter (51) ]\n.\n\n.Francisco de Goya y Lucientes\nSpanish, 1756-1828\nDetail from: <b><i> José Costa y Bonells (died 1870) called Pepito </i></b>\nOil on canvas\nSigned, dated and inscribed (lower left): Pepito Costa y Bonells / Por Goya.18[]\n\nPepitio’s  father,  Rafael Costa de Quintana, was doctor to Ferdinand VII; his mother was the daughter of Jaime Bonells, doctor to the Alba family.  The portrait is most closely related to works that Goya painted shortly after 1810 and seems to allude to the Spanish War of Independence, 1808-14.  Pepito’s jacket is tailored in imitation of a soldier’s uniform, and his hair is cut in the Napoleaonic fashion.  The military analogy is further enhanced by the drum and the toy rifle with a fixed bayonet.  Pepito’s pose is unquestionably intended as a variation on the so-called “dismounted equestrian portrait,” popular among military figures and royalty during the seventeenth and eighteenth centuries.\n\nGift of Countess Bismark, 1961\n61.259\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1337902136",
+      "taken": "2011-05-06 12:05:46",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1338252559"
+    },
+    "views": "468",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7264585508/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

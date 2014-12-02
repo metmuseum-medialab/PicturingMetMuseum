@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "6111338838",
+    "secret": "457d8fc4d8",
+    "server": "6088",
+    "farm": 7,
+    "dateuploaded": "1314677652",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of the Copy of the Virgin and Child after Jan Gossart in the Metropolitan Museum of Art, August 2010"
+    },
+    "description": {
+      "_content": "Artist:  Copy after Jan Gossart (Netherlandish, about 1522)\n\nTitle:  Virgin and Child\n\nMedium:  Oil on wood\n\nDimensions:  Overall 17 7/8 x 13 5/8 in. (45.4 x 34.6 cm); painted surface 17 1/4 x 13 in. (43.8 x 33 cm)\n\nClassification:  Paintings\n\nCredit Line:  Gift of J. Pierpont Morgan, 1917\n\nAccession Number:  17.190.17\n\n\nGallery Label:\n\nIn his biography of Gossart (published in Het Schilder-Boeck of 1604) Karel van Mander wrote: &quot;Among other things, when in the service of the marquis de Veere, Mabuse (Gossart) painted an image of Mary in which the face was painted after the marquis' wife and the little child after her child . . . .&quot; This painting has been linked to Van Mander's statement, and may well be a portrait of Anna van Bergen, the wife of the marquis de Veere, and their son, Hendrik, in the guise of the Virgin and Child. As such, Anna aspired to emulate the standard of ideal virtue and motherhood exemplified by the Virgin.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/virgin_and_child_copy_after_jan_gossart_netherlandish_about_1522//objectview.aspx?OID=110000981&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1314677652",
+      "taken": "2010-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1411083747"
+    },
+    "views": "385",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6111338838-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-7486897",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NorthernRenaissance",
+          "_content": "northernrenaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-11760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Virgin",
+          "_content": "virgin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-3840",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Child",
+          "_content": "child",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-45134",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copy",
+          "_content": "copy",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6111338838-39530296",
+          "author": "53806536@N00",
+          "authorname": "Sir Gawins",
+          "raw": "LOVELY FLICKR",
+          "_content": "lovelyflickr",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6111338838/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

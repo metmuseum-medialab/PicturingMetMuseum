@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6945716966",
+    "secret": "d80b78a72a",
+    "server": "5338",
+    "farm": 6,
+    "dateuploaded": "1334788945",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "HouseBehindTheTrees_TheMET(4)"
+    },
+    "description": {
+      "_content": "Georges Braque\nFrench, 1882-1963\n<b><i> House Behind the Trees </i></b>\n\nRobert Lehman Collection, 1975\n1975.1.159\n\nFrom the placard:  Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334788945",
+      "taken": "2011-02-25 13:46:28",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334798544"
+    },
+    "views": "365",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629484658454",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "308",
+          "y": "198",
+          "w": "59",
+          "h": "41",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6942645120/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6945716966-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945716966-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945716966-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945716966-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945716966-2861998",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Georges Braque",
+          "_content": "georgesbraque",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945716966-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6945716966/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

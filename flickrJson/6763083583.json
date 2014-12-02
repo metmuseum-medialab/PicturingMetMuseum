@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6763083583",
+    "secret": "59fb2d88a2",
+    "server": "7152",
+    "farm": 8,
+    "dateuploaded": "1327538940",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Josefa de Castilla _TheMET(7)"
+    },
+    "description": {
+      "_content": "Francisco de Goya y Lucientes\nSpanish, 1746-1828\n\n<b><i> Josefa de Castilla Portugal y van Asbrock de Garcini (1775-1850) </i></b>  1804\nOil on canvas\nSigned, dated and inscribed (lower right): Da. Josefa Castilla.  de / Garcini. pr.Goya. 1804\n\nIn this pendant to the portrait of her husband, Ignacio Garcini y Queralt (55.145.1), Dona Garcini is evidently pregnant, which may account for the informality of her hair and dress.  Her Rubensian features and coloring, invariably noted by critics, have only recently been explained: Josefa’s mother, whose name was Van Asbrock, was of Flemish descent.\nBequest of Henry Payne Bingham, 1955\n55.145.2\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1327538940",
+      "taken": "2011-09-25 11:38:04",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1327607312"
+    },
+    "views": "364",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629033242549",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "204",
+          "y": "106",
+          "w": "74",
+          "h": "62",
+          "_content": "..<b><a href=\"http://www.flickr.com/photos/rverc/6758219569/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6763083583-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6763083583-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6763083583-46849",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Goya",
+          "_content": "goya",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6763083583-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6763083583-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6763083583-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6763083583/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "644650614",
+    "secret": "1b0f58cade",
+    "server": "1099",
+    "farm": 2,
+    "dateuploaded": "1183000843",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Antigone Pouring a Libation Over the Corpse of her Brother Polynices Statue in the American Wing of the Metropolitan Museum of Art, May 2007"
+    },
+    "description": {
+      "_content": "Artist/Maker\nWilliam Henry Rinehart (1825–1874)\n\nTitle/Object Name\nAntigone Pouring a Libation Over the Corpse of her Brother Polynices\n\nDate\n1867–70; this version, 1870\n\nMedium\nMarble\n\nDimensions\n70 1/4 x 24 x 39 1/2 in. (178.4 x 61 x 100.3 cm)\n\nCredit Line (Accession No.)\nGift of the family of John H. Hall, in his memory, 1891 (91.4)\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/viewOne.asp?dep=2&amp;viewmode=1&amp;item=91.4\">www.metmuseum.org/Works_of_Art/viewOne.asp?dep=2&amp;view...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1183000843",
+      "taken": "2007-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1311008065"
+    },
+    "views": "800",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-644650614-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-351",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-13824",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "American",
+          "_content": "american",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-103",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "city",
+          "_content": "city",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-213170",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Antigone",
+          "_content": "antigone",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-644650614-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/644650614/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

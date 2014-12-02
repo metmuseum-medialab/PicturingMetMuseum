@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "941177561",
+    "secret": "23370fe847",
+    "server": "1223",
+    "farm": 2,
+    "dateuploaded": "1185732444",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Marble Stele of a Woman in the Metropolitan Museum of Art, July 2007"
+    },
+    "description": {
+      "_content": "Marble stele (grave marker) of a woman\nGreek, Attic, mid-4th century BC\nFound at Acharnae, Menidi, in Attica before 1827.\n\nAccession # 48.11.4\n\nThis noble image of a woman brings to mind the philsopher Aristotle's description of commonly held beliefs about the dead:  &quot;in addition to believing that those who have ended this life are blessed and happy, we also think that to say anything false or slanderous against them is impious, from our feeling that it is directed against those who have already become our betters and superiors.&quot;  (&quot;Of the Soul&quot; quoted in Plutarch, &quot;A Letter to Apollonius&quot; 27).  Larger than life and seated on a throne-like chair, this figure assumes almost heroic-like proportions.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1185732444",
+      "taken": "2007-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1323380051"
+    },
+    "views": "1385",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-941177561-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-24978",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-19957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "classical",
+          "_content": "classical",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-17932",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "stele",
+          "_content": "stele",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-941177561-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/941177561/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

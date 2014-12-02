@@ -1,0 +1,88 @@
+{
+  "photo": {
+    "id": "7264582350",
+    "secret": "43e16095c4",
+    "server": "7212",
+    "farm": 8,
+    "dateuploaded": "1337902137",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Bearded Man with a Velvet Cap _TheMET(4)"
+    },
+    "description": {
+      "_content": "Govert Flinck\nDutch, Cleve 1615-1660 Amsterdam\n\n<b><i> Bearded Man with a Velvet Cap </i></b>\nOil on wood\nSigned and dated (left center): G. flinck f.1645\n\nFlinck, though Russian by birth, was an Amsterdam artist, and one of Rembrandt’s leading pupils of the 1630s.  His portraits and history pictures remained superficially faithful to Rembrandt’s manner until the 1650s, when he, like Van der Helst and Bol, turned to a lighter, looser style based on Flemish models.\n\nBequest of Collis P. Huntington, 1900\n25.110.27\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1337902137",
+      "taken": "2011-02-24 15:02:35",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1338232798"
+    },
+    "views": "263",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629939038922",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "194",
+          "y": "72",
+          "w": "110",
+          "h": "67",
+          "_content": "<b><a href=\"http://www.flickr.com/photos/rverc/7264579434/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7264582350/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,309 @@
+{
+  "photo": {
+    "id": "6035944638",
+    "secret": "e341c476e8",
+    "server": "6148",
+    "farm": 7,
+    "dateuploaded": "1312729474",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Sardonyx Cameo Fragment with a Goddess Flanked by Attendants in the Metropolitan Museum of Art, July 2011"
+    },
+    "description": {
+      "_content": "Title:  Sardonyx cameo with a goddess flanked by attendants\n\nMedium; Technique:  Sardonyx\n\nCulture:  Greek or Roman\n\nPeriod:  Hellenistic or Early Imperial\n\nDate:  1st century B.C.–1st century A.D.\n\nDimensions:  Overall: 1 in. (2.5 cm)\n\nClassification:  Gems\n\nCredit Line:  Gift of Milton Weil, 1929\n\nAccession Number:  29.175.2\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/sardonyx_cameo_with_a_goddess_flanked_by_attendants//objectview.aspx?OID=130013532&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1312729474",
+      "taken": "2011-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1314472732"
+    },
+    "views": "215",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6035944638-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-2062283",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sardonyx",
+          "_content": "sardonyx",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-19275",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "cameo",
+          "_content": "cameo",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-139120",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fragment",
+          "_content": "fragment",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-225550",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hellenistic",
+          "_content": "hellenistic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6035944638-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6035944638/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

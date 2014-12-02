@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "7122258157",
+    "secret": "fd54edda94",
+    "server": "8018",
+    "farm": 9,
+    "dateuploaded": "1330148709",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of the Portrait of the Boy Eutyches in the Metropolitan Museum of Art, March 2011"
+    },
+    "description": {
+      "_content": "Portrait of the Boy Eutyches\n\nPeriod: Roman Period \n\nDate: A.D. 100–150 \n\nGeography: Egypt \n\nMedium: Encaustic on wood, paint \n\nDimensions: h. 38 cm (14 15/16 in); w. 19 cm (7 1/2 in) \n\nCredit Line: Gift of Edward S. Harkness, 1918 \n\nAccession Number: 18.9.2\n\nDescription:\n\nThe young teenage boy in this remarkably lifelike portrait looks calmly at the viewer, his head in three-quarter view. He is dressed in a white Roman tunic with a narrow purple clavus (a vertical stripe) over the right shoulder. A mantle is draped over the left shoulder. The boy wears his dark brown hair short, with locks brushed to both sides of the forehead. The inscription in dark purple pigment below the neckline of the tunic is in Greek, which was the common language of the eastern Mediterranean at the time. Scholars do not completely agree on the inscription's translation. The boy's name (&quot;Eutyches, freedman of Kasanios&quot;) seems indisputable; then follows either &quot;son of Herakleides Evandros&quot; or &quot;Herakleides, son of Evandros.&quot; It is also unclear whether the &quot;I signed&quot; at the end of the inscription refers to the painter of the portrait or to the manumission (act of freeing a slave) that would have been witnessed by Herakleides or Evandros. An artist's signature would be unique in mummy portraits.\n\nPaintings of this type, often called Faiyum portraits (though not all of them come from the Faiyum oasis), are typical products of the multicultural, multiethnic society of Roman Egypt. Most of them are painted in the elaborate encaustic technique, in which pigments were mixed with hot or cold beeswax and other ingredients, such as egg, resin, and linseed oil. This versatile medium allowed artists to create images that in many ways are akin to oil paintings. The boy's head, for instance, stands out from the light olive-colored background, creating an impression of real depth. His face is modeled with flowing brushstrokes and a subtle blend of light and dark colors. Shadows on the left side of the face, neck, and garment and bright shiny spots on the forehead and below the right eye indicate a strong source of light on the boy's right. Most arresting are the dark brown eyes with black pupils reflecting the light with bright spots. This manner of painting, which is very different from the traditional Egyptian style but was well known in Graeco-Roman Egypt, originated in Classical Greece in the fifth and fourth centuries B.C.E.\n\nAlthough the painting techique on Faiyum portrait panels is Greek, their use is entirely Egyptian. When a person died, the portrait panel was placed over the face of the mummy with parts of the outermost wrapping holding it in place. This implies Egyptian beliefs about the afterlife. After having been ruled for three hundred years by a Greek (Macedonian) dynasty and a century or more by Roman administrators, Roman Egypt was an extremely diverse civilization. The population consisted of Roman citizens and citizens of Greek cities such as Alexandria (both of these groups made up of peoples of many different ethnicities) and native Egyptians. The subjects of the mummy portraits clearly were dressed and coiffed like Romans, and many of them bore Greek names or names that were Greek versions of Egyptian names. However, they and their families found consolation in the ancient Egyptian beliefs about the afterlife.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/100004780\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1000...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330148709",
+      "taken": "2011-03-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1357171688"
+    },
+    "views": "1479",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7122258157-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122258157-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7122258157/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

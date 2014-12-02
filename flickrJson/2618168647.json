@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "2618168647",
+    "secret": "41415f0dcf",
+    "server": "3206",
+    "farm": 4,
+    "dateuploaded": "1214676542",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of Lachrymae by Leighton in the Metropolitan Museum of Art, February 2008"
+    },
+    "description": {
+      "_content": "Artist \nFrederic, Lord Leighton (English, 1830–1896)\n\nTitle\nLachrymae (Mary Lloyd)\n\nDate\nca. 1894–95\n\nMedium\nOil on canvas\n\nDimensions\n62 x 24 3/4 in. (157.5 x 62.9 cm)\n\nCredit Line\nCatharine Lorillard Wolfe Collection, Wolfe Fund, 1896\n\nAccession Number\n96.28 \n\n&quot;Lachrymae,&quot; the title chosen by the artist, is the Latin word for &quot;tears.&quot; Every aspect of the composition emphasizes the subject, from the fading sunset to the cypress trees (traditional symbols of death, because once cut, they do not regenerate) and laurel bushes (like cypress, laurel is evergreen and, thus, a symbol of immortality). The overall Hellenic theme of the canvas reflects contemporary Victorian interest in Greek funerary art.\n\nLeighton was already suffering from what would prove to be fatal heart disease when he painted this melancholy work. He was at the height of his fame, having served as president of the Royal Academy for more than fifteen years. As he did with several of his other pictures, Leighton selected the frame; in this case, one that creates the impression of viewing the scene through a doorway.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/Lachrymae_Mary_Lloyd__Frederic_Lord_Leighton/ViewObject.aspx?OID=110001313&amp;pgSz=1\">www.metmuseum.org/Works_of_Art/collection_database/Lachry...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1214676542",
+      "taken": "2008-02-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310970345"
+    },
+    "views": "1226",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2618168647-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-608",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "English",
+          "_content": "english",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2618168647-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2618168647/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

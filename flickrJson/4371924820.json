@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "4371924820",
+    "secret": "ab4fbc2537",
+    "server": "4010",
+    "farm": 5,
+    "dateuploaded": "1266631603",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Limestone Sculpture of Moses with the Tablets of Law in the Metropolitan Museum of Art, March 2009"
+    },
+    "description": {
+      "_content": "Limestone Sculpture of Moses with Tablets of the Law \nFrench, Picardy, from the Cathedral of Noyon\nCarved about 1170\n\nAccession # 65.268\n\nThis sculpture of Moses, holding the tablets with the Ten Commandments, and the opposite figure, his brother Aaron, form part of a rare ensemble of key figures from the Hebrew Bible.  Often shown together on Gothic portals as forerunners of Jesus, they and other statues originally flanked and enthroned Virgin and Child that still survives in the Gothic Cathedral at Noyon.  The sculptures are distinguished by garments of weighty fabric arranged in swelling volumes stretched across the body.  They were removed from the cathedral in the wake of the French Revolution, and the surface of each sculpture was affected by different environmental conditions. \n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1266631603",
+      "taken": "2009-03-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968748"
+    },
+    "views": "461",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4371924820-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-6680",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Gothic",
+          "_content": "gothic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-12518",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Moses",
+          "_content": "moses",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4371924820-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4371924820/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

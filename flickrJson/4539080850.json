@@ -1,0 +1,325 @@
+{
+  "photo": {
+    "id": "4539080850",
+    "secret": "b45607504e",
+    "server": "2692",
+    "farm": 3,
+    "dateuploaded": "1271797061",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Plaque Representing a Greco-Roman Type Temple with Corinthian Columns in the Metropolitan Museum of Art, March 2010"
+    },
+    "description": {
+      "_content": "Plaque Representing a Greco-Roman Type Temple with Corinthian Columns\n1st- 2nd century AD\nBronze\n\nAccession # 04.2.522\n\nFrom left to right, on bases of increasing height, Isis, Serapis, and another goddess stand among the columns.  On the pediment is an eagle with spread wings, an emblem of the god Serapis.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1271797061",
+      "taken": "2010-03-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968649"
+    },
+    "views": "366",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4539080850-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-4541",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "god",
+          "_content": "god",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-44237",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Isis",
+          "_content": "isis",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4539080850-514870",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Serapis",
+          "_content": "serapis",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4539080850/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

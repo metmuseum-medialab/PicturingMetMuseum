@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6847095480",
+    "secret": "ab0be8539b",
+    "server": "7042",
+    "farm": 8,
+    "dateuploaded": "1332086552",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MorningInTheGarden_TheMET(7)"
+    },
+    "description": {
+      "_content": "Pierre Bonnard  \nFrench, 1867 – 1947\n\nDetail from: <b><i> Morning in the Garden </i></b>\nOil on canvas\nSigned, lower right:  Bonnard\nPainted in 1917.\nBequest of Scofield Thayer, 1982\n1984.433.4\nFrom the placard:  Metropolitan Museum of Art\n\n<b><a href=\"http://www.metmuseum.org/Collections/search-the-collections/210003704?rpp=20&amp;pg=1&amp;gallerynos=828&amp;ft=*&amp;pos=5\" rel=\"nofollow\">Metropolitan Museum Link<a></a></a></b>\n.\n.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332086552",
+      "taken": "2011-02-24 09:42:53",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1332091715"
+    },
+    "views": "599",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6847095480-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6847095480-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6847095480-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6847095480-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6847095480-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6847095480-1029196",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Pierre Bonnard",
+          "_content": "pierrebonnard",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6847095480/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

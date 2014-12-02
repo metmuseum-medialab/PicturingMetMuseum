@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6704790043",
+    "secret": "0b789eaffe",
+    "server": "7164",
+    "farm": 8,
+    "dateuploaded": "1326674467",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "12661757@N02",
+      "username": "Peter I. Fifield Photography",
+      "realname": "",
+      "location": "New York, NY, USA",
+      "iconserver": "4031",
+      "iconfarm": 5,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "Descending Night"
+    },
+    "description": {
+      "_content": "Adolph Alexander Weinman  \n(American (born Germany), Karlsruhe 1870–1952 New York City)\nDate: ca. 1914, cast by 1917 \n\nMedium: Bronze \nDimensions: 26 x 22 1/4 x 11 in. (66 x 56.5 x 27.9 cm) \nClassification: Sculpture \nCredit Line: Morris K. Jesup Fund, 1994 \nAccession Number: 1994.501\nThis artwork is currently on display in Gallery 768"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1326674467",
+      "taken": "2012-01-15 14:02:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1339671890"
+    },
+    "views": "208",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "12641409-6704790043-440",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "12641409-6704790043-5392",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "12641409-6704790043-97327",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "12641409-6704790043-766256",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "American Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "12641409-6704790043-772541",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "American art",
+          "_content": "americanart",
+          "machine_tag": 0
+        },
+        {
+          "id": "12641409-6704790043-2759",
+          "author": "12661757@N02",
+          "authorname": "Peter I. Fifield Photography",
+          "raw": "wings",
+          "_content": "wings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/12661757@N02/6704790043/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

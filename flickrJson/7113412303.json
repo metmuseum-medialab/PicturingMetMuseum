@@ -1,0 +1,357 @@
+{
+  "photo": {
+    "id": "7113412303",
+    "secret": "a39d44db00",
+    "server": "7231",
+    "farm": 8,
+    "dateuploaded": "1330147261",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of a South Italian Terracotta Column Krater in the Metropolitan Museum of Art, January 2011"
+    },
+    "description": {
+      "_content": "Terracotta column-krater (bowl for mixing wine and water)\n\nAttributed to the Group of Boston 00.348  \n\nPeriod: Late Classical \n\nDate: ca. 360–350 B.C. \n\nCulture: Greek, South Italian, Apulian \n\nMedium: Terracotta \n\nDimensions: H. 20 1/4 in. (51.5 cm) \n\nClassification: Vases \n\nCredit Line: Rogers Fund, 1950 \n\nAccession Number: 50.11.4\n\nDescription:\n\nObverse, artist painting a statue of Herakles\nReverse, Athena with deities\n\nRepresentations of artists at work are exceedingly rare. This vase illustrates a craft for which virtually no evidence survives, that of applying pigment to stone sculpture using the technique of encaustic. The column and phiale (libation bowl) at the far left indicate an interior space, probably a sanctuary. In the foreground stands a statue of Herakles with his club, bow, and lion-skin. The painter, characterized by his cap and his garment worn to leave his upper body bare, applies a mixture of pigment and wax with a spatula to Herakles’ lion-skin. To the left, an African boy tends the brazier\non which rods are heating that will spread the tinted wax. Above, Zeus, ruler of the gods, and Nike, personification of victory, preside as Herakles himself ambles in from the right to survey his image. \nThe reverse, in an outdoor setting, shows Herakles’ staunch protectress, Athena, seated in conversation with one of the Dioskouroi. To the left, Hermes, the messenger god, turns away from Pan, his son, while Eros plays with a bird below. Surely complementary, the pictures may refer to the apotheosis of Herakles. Rather than driving to Mount Olympos in a chariot, Herakles sees himself monumentalized in stone, while Athena, her task accomplished, takes her ease between divine travelers.\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/130015147\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1300...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330147261",
+      "taken": "2011-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1339296111"
+    },
+    "views": "862",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7113412303-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-18592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "vase",
+          "_content": "vase",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-12878268",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "SouthItalian",
+          "_content": "southitalian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-2779461",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Red-Figure",
+          "_content": "redfigure",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-13572",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "clay",
+          "_content": "clay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-18596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pottery",
+          "_content": "pottery",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-1629",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ceramic",
+          "_content": "ceramic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-200830",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "krater",
+          "_content": "krater",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-19957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Classical",
+          "_content": "classical",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-400783",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Herakles",
+          "_content": "herakles",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-59918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hercules",
+          "_content": "hercules",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-15945",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "hero",
+          "_content": "hero",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7113412303-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7113412303/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

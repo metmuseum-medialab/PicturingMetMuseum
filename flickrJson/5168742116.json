@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "5168742116",
+    "secret": "7583b4e6c2",
+    "server": "4055",
+    "farm": 5,
+    "dateuploaded": "1289018252",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Plaque with a Royal Family in the Metropolitan Museum of Art, January 2009"
+    },
+    "description": {
+      "_content": "Title/Object Name:  Plaque with a Royal Family\n\nCulture:  India (West Bengal, Chandraketugarh)\n\nPeriod:  Shunga period\n\nDate:  1st century B.C.\n\nMedium:  Terracotta\n\nDimensions:  H. 12 3/4 in. (32.5 cm); W. 10 1/4 in. (26 cm)\n\nClassification:  Sculpture\n\nCredit Line:  Purchase, Florence and Herbert Irving Gift, 1992\n\nAccession Number:  1992.129\n\nOn View\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/asian_art/plaque_with_a_royal_family//objectview.aspx?OID=60005534&amp;collID=6&amp;dd1=6\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/asian_...</a>\n\nand\n\nThis extremely fine early Indian molded terracotta plaque portrays a secular subject in an unusually robust style.  As is usual, there are two holes in the upper part of the plaque that probably allowed it to be suspended by means of a cord.  \n\nThe function of such plaques is unknown.  It has been suggested that they either served as a votive purpose or were used as personal cult objects.\n\nText excerpted from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1289018252",
+      "taken": "2009-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310967848"
+    },
+    "views": "413",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5168742116-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-1711",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Asian",
+          "_content": "asian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-5919",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Indian",
+          "_content": "indian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-13572",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "clay",
+          "_content": "clay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168742116-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5168742116/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

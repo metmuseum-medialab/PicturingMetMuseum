@@ -1,0 +1,205 @@
+{
+  "photo": {
+    "id": "5388904063",
+    "secret": "2b9bea14cf",
+    "server": "5131",
+    "farm": 6,
+    "dateuploaded": "1296016056",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "32810914@N03",
+      "username": "NYC-Man",
+      "realname": "",
+      "location": "Brooklyn, New York City, USA",
+      "iconserver": "3383",
+      "iconfarm": 4,
+      "path_alias": "hehussein"
+    },
+    "title": {
+      "_content": "Metropolitan Museum of Art, Manhattan, May 15, 2010."
+    },
+    "description": {
+      "_content": "Terracotta Figure of Isis-Aphrodite, Roman period, 2nd–3rd century\nEgyptian\nAlluvial clay; brown, black, red, and pink paint on white englobe\n\nH. 19 1/2 in. (49.5 cm)\nPurchase, Lila Acheson Wallace Gift, 1991 (1991.76)\n\nSource: Terracotta Figure of Isis-Aphrodite [Egyptian] (1991.76) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296016056",
+      "taken": "2010-05-15 14:13:21",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1296700323"
+    },
+    "views": "678",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "32787860-5388904063-1154",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-607",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-53005",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-97327",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-5392",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-106",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-109",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-351",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-24490531",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Isis-Aphrodite",
+          "_content": "isisaphrodite",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-5458",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "Terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "32787860-5388904063-59219",
+          "author": "32810914@N03",
+          "authorname": "NYC-Man",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779168,
+      "longitude": -73.963383,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/hehussein/5388904063/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

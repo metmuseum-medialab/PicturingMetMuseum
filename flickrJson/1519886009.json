@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "1519886009",
+    "secret": "e940f79d60",
+    "server": "2368",
+    "farm": 3,
+    "dateuploaded": "1191898963",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Gravestone with a Draped Young Man Holding a Bowl from Palmyra in the Metropolitan Museum of Art, August 2007"
+    },
+    "description": {
+      "_content": "Gravestone with a Draped Young Man Holding a Bowl\nLimestone\nSyria, Palmyra\n2nd-3rd century AD\n\nAccession # 01.25.5\n\nInscribed, &quot;Maliku the son of Zabba, the son of...&quot;\n\nFrom the first century BC, the oasis city of Palmyra, in the northern Syrian desert, controlled most of the caravan trade routes from the East to the Mediterranean seacoast.  Originally an independent Arabian principality, it became successively a vassal state, a free city, and a colony under under Roman control.\n\nLavishly decorated temples and processional streets provide evidence of the wealth of the city.  The sculptures exhibited here come from impressive stone funerary monuments.  Family vaults contained multiple burials in stone boxes sealed with relief images of the deceased.  The figural style as well as the divine and human images and symbols reflect the mixed Greek, Syrian, and Iranian Parthian culture of the inhabitants.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1191898963",
+      "taken": "2007-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1339907352"
+    },
+    "views": "1453",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-1519886009-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-52086",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Palmyra",
+          "_content": "palmyra",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-466",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "man",
+          "_content": "man",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fujifinepixs6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519886009-17538",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "limestone",
+          "_content": "limestone",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/1519886009/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

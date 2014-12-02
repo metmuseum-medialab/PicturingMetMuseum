@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "7250804302",
+    "secret": "9d1ee1b0e6",
+    "server": "7082",
+    "farm": 8,
+    "dateuploaded": "1330404026",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Upper Part of a Seated Statue of a Queen in the Metropolitan Museum of Art, May 2011"
+    },
+    "description": {
+      "_content": "Upper Part of the Seated Statue of a Queen\n\nPeriod: New Kingdom \n\nDynasty: Dynasty 17, late–Early Dynasty 18 \n\nReign: reign of Ahmose I \n\nDate: ca. 1580–1550 B.C. \n\nGeography: Egypt, Upper Egypt; Thebes, el-Asasif, Courtyard CC 41, radim, MMA 1915-1916 \n\nMedium: Indurated limestone, paint \n\nDimensions: h. 28 cm (11 in); w. 17.8 cm (7 in); d. 10 cm (3 15/16 in) \n\nCredit Line: Rogers Fund, 1916 \n\nAccession Number: 16.10.224\n\nDescription:\n\nThis image of a queen wearing the vulture headdress over a voluminous tripartite wig was split off its backslab in antiquity, most probably by somebody who wanted to make use of this conveniently shaped piece of stone for other purposes. It is conceivable that a king (her father, son, or husband) was originally represented seated beside her. The sculpture has been identified tentatively as Queen Ahmes Nefertari, mother of Amenhotep I, and dated to the reign of Ahmose (ca. 1550-1525 B.C.) at the very beginning of the Eighteenth Dynasty. However, the remarkable flatness of the face and wig is familiar from certain works created during the Seventeenth Dynasty (compare the seated statueof Siamun in gallery 11), and the intriguing interplay of fleshy musculature in the lower part of the face is even reminiscent of late Middle Kingdom images. This combination of stylistic traits is best understood in the context of the excitingly multifaceted artistic period between the end of the Middle and the beginning of the New Kingdom.\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/100000741\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1000...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330404026",
+      "taken": "2011-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1346000209"
+    },
+    "views": "334",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7250804302-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-139120",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fragment",
+          "_content": "fragment",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-10901",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "queen",
+          "_content": "queen",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7250804302-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7250804302/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

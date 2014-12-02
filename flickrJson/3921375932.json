@@ -1,0 +1,150 @@
+{
+  "photo": {
+    "id": "3921375932",
+    "secret": "1b9fccc4a0",
+    "server": "2566",
+    "farm": 3,
+    "dateuploaded": "1252969983",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheValleyoftheNervia_TheMET(1)"
+    },
+    "description": {
+      "_content": "\nClaude Monet  French, 1840 – 1926\n\nDetail from: <b><i>The Valley of the Nervia</i></b>.    1884\nOil on canvas\nSigned and dated (lower left): Claude Monet 84\n\nMonet painted “The Valley of the Nervia” during a ten-week trip to the Italian Riviera in early 1884.  The river Nervia flows into the Mediterranean near the French-Italian border between Ventimiglia and Bordighera.  The Maritime Alps are visible in the background behind the village of Camporosso.  In this painting Monet employs the lighter, brighter palette that he first adopted after a trip to the Riviera in 1883.\n\nTheodore M. Davis Collection,\nBequest of Theodore M. Davis 1915\n30.95.251\n\n\n\n\nFrom the placard:.  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1252969983",
+      "taken": "2009-08-29 11:21:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1363350328"
+    },
+    "views": "944",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3921375932-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-14198",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Monet",
+          "_content": "monet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-14675864",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "W 881",
+          "_content": "w881",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921375932-182195",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "1884",
+          "_content": "1884",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3921375932/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

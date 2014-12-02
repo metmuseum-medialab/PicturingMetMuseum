@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "3844583247",
+    "secret": "04f7475159",
+    "server": "2423",
+    "farm": 3,
+    "dateuploaded": "1250943432",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MontSainte_Victoire_TheMET (5)"
+    },
+    "description": {
+      "_content": "Paul Cézanne  French, 1839-1906\n\nDetail from:  <b><i>'Mont Sainte-Victoire and the Viaduct of the Arc River Valley </i></b>,  1882-85\n\nCézanne exhibited with the Impressionists in 1874, and although he shared their plein-air approach, he sought to reveal the inner geometry of nature. He aimed &quot;to make of Impressionism something solid and durable, like the art of museums.&quot;\n\nThe distinctive silhouette of Mont Sainte-Victoire rises above the Arc River valley near the town of Aix-en-Provence. Recent research has revealed the precise outlook recorded in this composition: Cézanne stood close to Montbriand, his sister's property, at the top of the hill just behind the house; the wall of the neighboring farmhouse is barely visible. In his later works, Mont Sainte-Victoire came to dominate the entire scene.\n\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\n29.100.64\n\nFrom the placard: Metropolitan Museum of Art.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1250943432",
+      "taken": "2009-07-05 10:04:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1297608840"
+    },
+    "views": "572",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3844583247-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3844583247-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3844583247-500686",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Paul  Cezanne",
+          "_content": "paulcezanne",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3844583247-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3844583247-37613036",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_7",
+          "_content": "bench7",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3844583247/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

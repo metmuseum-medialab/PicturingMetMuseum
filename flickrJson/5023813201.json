@@ -1,0 +1,341 @@
+{
+  "photo": {
+    "id": "5023813201",
+    "secret": "3970838ee8",
+    "server": "4083",
+    "farm": 5,
+    "dateuploaded": "1285433290",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Lead Votive Plaque in the Metropolitan Museum of Art, September 2009"
+    },
+    "description": {
+      "_content": "Title:  Lead votive plaque\n\nMedium; Technique:  Lead\n\nCulture:  Roman\n\nPeriod:  Imperial\n\nDate:  probably 3rd century A.D.\n\nDimensions:  H.: 3 3/4 x 3 1/16 in. (9.5 x 7.8 cm)\n\nCredit Line:  Rogers Fund, 1921\n\nAccession Number:  21.88.175\n\nOn View\n\n\nDescription:\n\nThe plaque contains a complex iconography of divine figures and symbols, probably to be associated with Thracian or Dacian beliefs of the Lower Danube region. Presiding over the whole scene is Sol Invictus (the invicible sun-god) in a quadriga (four-horse chariot). His cult originated in the Near East and gained increasing influence under imperial patronage during the third century A.D. The state worship of Sol was only supplanted by Constantine's adoption of Christianity in A.D. 312.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/lead_votive_plaque//objectview.aspx?OID=130011635&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1285433290",
+      "taken": "2009-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1326593977"
+    },
+    "views": "837",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5023813201-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-41710",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "lead",
+          "_content": "lead",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-835577",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian",
+          "_content": "dacian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-70037440",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian mythology",
+          "_content": "dacianmythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-46984",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-14839948",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "votive plaque",
+          "_content": "votiveplaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-77773",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "votive",
+          "_content": "votive",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-70037446",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian religion",
+          "_content": "dacianreligion",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-81812157",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "sun, solar deities",
+          "_content": "sunsolardeities",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5023813201-688",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "Sol",
+          "_content": "sol",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5023813201/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

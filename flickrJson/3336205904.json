@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "3336205904",
+    "secret": "1427c764d1",
+    "server": "3550",
+    "farm": 4,
+    "dateuploaded": "1236455426",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TeasingASleepingGirl_TheMET"
+    },
+    "description": {
+      "_content": "Gaspare Traversi    Italian, Neapolitan, born about 1722, died 1770\n\nDetail from: <b><i>Teasing a Sleeping Girl</i></b>\nOil on canvas\n\nLittle is known of Traversi’s career, but he was unquestionably the leading genre painter in eighteenth-century Naples.  His pictures parodying the pastimes of the noble classes are particularly striking for their emphatic naturalism and biting wit.  In this work an old woman tickles a young girl who has fallen asleep with her box of keepsakes on her lap.\n\nBequest of Harry G. Sperling, 1971\n1976.100.19\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1236455426",
+      "taken": "2009-02-28 20:48:32",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1302131878"
+    },
+    "views": "419",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3336205904-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3336205904-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3336205904-35283240",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "time_we_met",
+          "_content": "timewemet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3336205904-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3336205904-68946701",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_217",
+          "_content": "bench217",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3336205904/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

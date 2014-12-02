@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "7099766263",
+    "secret": "428a4c11a1",
+    "server": "5451",
+    "farm": 6,
+    "dateuploaded": "1335037545",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "EndofTheHunt_TheMET(6)"
+    },
+    "description": {
+      "_content": "Dale Nichols.  American, 1904-1995\n\n<b><i> End of the Hunt </i></b>, 1934\nOil on canvas\n\nArthur Hoppock Hearn Fund, 1938\n38.173\n\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1335037545",
+      "taken": "2011-02-25 13:33:27",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335831565"
+    },
+    "views": "233",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629869642773",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "240",
+          "y": "234",
+          "w": "63",
+          "h": "45",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7097589829/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7099766263-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-5467",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Art",
+          "_content": "modernart",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7099766263-27458224",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Dale Nichols",
+          "_content": "dalenichols",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7099766263/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

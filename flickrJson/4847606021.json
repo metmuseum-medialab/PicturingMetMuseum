@@ -1,0 +1,192 @@
+{
+  "photo": {
+    "id": "4847606021",
+    "secret": "37da7456d5",
+    "server": "4087",
+    "farm": 5,
+    "dateuploaded": "1280629456",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "8e946c1f95",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "14331765@N02",
+      "username": "christiNYCa",
+      "realname": "",
+      "location": "New York City",
+      "iconserver": "2891",
+      "iconfarm": 3,
+      "path_alias": "christinyca"
+    },
+    "title": {
+      "_content": "NYC - It's Time We MET: Marble sarcophagus with the Triumph of Dionysos and the Seasons"
+    },
+    "description": {
+      "_content": "Title\nMarble sarcophagus with the Triumph of Dionysos and the Seasons\nMedium; Technique\nMarble\nCulture\nRoman\nPeriod\nLate Imperial, Gallienic\nDate\nca. A.D. 260–270\nDimensions\nOverall: 34 x 85 x 36 1/4 in. (86.4 x 215.9 x 92.1 cm)\n\nDescription\nThis highly ornate and extremely well-preserved Roman marble sarcophagus came to the Metropolitan Museum from the collection of the dukes of Beaufort and was formerly displayed in their country seat, Badminton House in Gloucestershire, England. An inscription on the unfinished back of the sarcophagus records that it was installed there in 1733. In contrast to the rough and unsightly back, the sides and front of the sarcophagus are decorated with forty human and animal figures carved in high relief. The central figure is that of the god Dionysos seated on a panther, but he is somewhat overshadowed by four larger standing figures who represent the four Seasons (from left to right, Winter, Spring, Summer, and Fall). The figures are unusual in that the Seasons are usually portrayed as women, but here they are shown as sturdy youths. Around these five central figures are placed other Bacchic figures and cultic objects, all carved at a smaller scale. On the rounded ends of the sarcophagus are two other groups of large figures, similarly intermingled with lesser ones. On the left end, Mother Earth is portrayed reclining on the ground; she is accompanied by a satyr and a youth carrying fruit. On the right end, a bearded male figure, probably to be identified with the personification of a river-god, reclines in front of two winged youths, perhaps representing two additional Seasons. \n\nThe sarcophagus is an exquisite example of Roman funerary art, displaying all the virtuosity of the workshop where it was carved. The marble comes from a quarry in the eastern Mediterranean and was probably shipped to Rome, where it was worked. Only a very wealthy and powerful person would have been able to commission and purchase such a sarcophagus, and it was probably made for a member of one of the old aristocratic families in Rome itself. The subjects - the triumph of Dionysos and the Seasons - are unlikely, however, to have had any special significance for the deceased, particularly as it is clear that the design was copied from a sculptor's pattern book. Another sarcophagus, now in the Hessisches Landesmuseum in Kassel, Germany, has the same composition of Dionysos flanked by the four Seasons, although the treatment and carving of the figures is quite different. On the Badminton sarcophagus the figures are carved in high relief and so endow the crowded scene with multiple areas of light and shade, allowing the eye to wander effortlessly from one figure to another. One must also imagine that certain details were highlighted with color and even gilding, making the whole composition a visual tour de force.\n\nVery few Roman sarcophagi of this quality have survived. Although the Badminton sarcophagus lacks its lid, the fact that it was found in the early eighteenth century and soon thereafter installed in Badminton Hall means that it has been preserved almost intact and only a few of the minor extremities are now missing."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1280629456",
+      "taken": "2010-07-31 16:53:46",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1405278148"
+    },
+    "views": "1515",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "14311417-4847606021-500713",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Museum Mile",
+          "_content": "museummile",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-109",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-1154",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-29835",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Art Museum",
+          "_content": "artmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-308",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-36154482",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "It's Time We Met",
+          "_content": "itstimewemet",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-97327",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-29750",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-106",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-5392",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-59280908",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Marble sarcophagus with the Triumph of Dionysos and the Seasons",
+          "_content": "marblesarcophaguswiththetriumphofdionysosandtheseasons",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-13649915",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Marble sarcophagus",
+          "_content": "marblesarcophagus",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-24978",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-4847606021-22328",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "Gothamist",
+          "_content": "gothamist",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/christinyca/4847606021/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

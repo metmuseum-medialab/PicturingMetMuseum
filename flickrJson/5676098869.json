@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "5676098869",
+    "secret": "9534c0483e",
+    "server": "5270",
+    "farm": 6,
+    "dateuploaded": "1304137800",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Terracotta Barrel Jug with Strainer in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Title:  Terracotta barrel jug with strainer\n\nMedium; Technique:  Terracotta\n\nCulture:  Cypriot\n\nPeriod:  Cypro-Archaic I\n\nDate:  ca. 750–600 B.C.\n\nDimensions:  H. 13 3/4 in. (35 cm) length 12 5/8 in. (32.1 cm) diameter 3 15/16 in. (10 cm)\n\nClassification:  Vases\n\nCredit Line:  The Cesnola Collection, Purchased by subscription, 1874–76\n\nAccession Number: 74.51.517\n\n\n Description:\n\nBarrel-shaped jugs, with and without strainers, are quite common in Archaic Cypriot pottery. Because they do not stand on their own, they must have served a very specific function. Found in tombs mainly in eastern Cyprus, they may have been purely funerary. This example is decorated with a large bird in flight, his talons drawn up, flanked by a pair of lotus flowers.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/terracotta_barrel_jug_with_strainer//objectview.aspx?OID=130000570&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1304137800",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969450"
+    },
+    "views": "317",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5676098869-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-18592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "vase",
+          "_content": "vase",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-18596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pottery",
+          "_content": "pottery",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-13572",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "clay",
+          "_content": "clay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-1629",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ceramic",
+          "_content": "ceramic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-594",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bird",
+          "_content": "bird",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5676098869-174756",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Archaic",
+          "_content": "archaic",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5676098869/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

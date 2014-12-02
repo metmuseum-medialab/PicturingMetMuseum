@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "5596564354",
+    "secret": "90a4c42393",
+    "server": "5302",
+    "farm": 6,
+    "dateuploaded": "1302128969",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Annunciation of the Death of the Virgin_TheMET (10)"
+    },
+    "description": {
+      "_content": "Samuel van Hoogstraten   Dutch,  Dordrecht 1627-1678  Dordrecht\n\nDetail from: <b><i>The Annunciation of the Death of the Virgin</i></b>\nOil on canvas\nSigned (lower left): S.v.H.\n\nThis solemn picture by Rembrandt’s pupil and critic employs some of the classicist qualities that became fashionable in Holland during the 1670s.  The unusual subject was probably intended for a Catholic patron\n\nPurchase, Rogers Fund and Joseph Pulitzer Bequest, 1992\n1992.133\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1302128969",
+      "taken": "2011-03-05 11:53:01",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1307141355"
+    },
+    "views": "463",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5596564354-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-68946699",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_216",
+          "_content": "bench216",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5596564354-68946701",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_217",
+          "_content": "bench217",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5596564354/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

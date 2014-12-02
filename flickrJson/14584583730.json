@@ -1,0 +1,183 @@
+{
+  "photo": {
+    "id": "14584583730",
+    "secret": "aa1d965e92",
+    "server": "2904",
+    "farm": 3,
+    "dateuploaded": "1406585439",
+    "isfavorite": 0,
+    "license": "4",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "5e1077bc39",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "88876166@N00",
+      "username": "Phil Roeder",
+      "realname": "Phil Roeder",
+      "location": "Des Moines, IA, USA",
+      "iconserver": "3710",
+      "iconfarm": 4,
+      "path_alias": "tabor-roeder"
+    },
+    "title": {
+      "_content": "The Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": "Getting a look at Girl with a Water Pitcher by Vermeer."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1406585439",
+      "taken": "2014-07-17 15:34:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1406603786"
+    },
+    "views": "417",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2833404-14584583730-109",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-5392",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-97327",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-1154",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-29835",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-55972325",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "Leica X2",
+          "_content": "leicax2",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-96",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "Leica",
+          "_content": "leica",
+          "machine_tag": 0
+        },
+        {
+          "id": "2833404-14584583730-59219",
+          "author": "88876166@N00",
+          "authorname": "Phil Roeder",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779404,
+      "longitude": -73.963372,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/tabor-roeder/14584583730/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

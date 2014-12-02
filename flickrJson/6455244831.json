@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "6455244831",
+    "secret": "fddf6f088b",
+    "server": "7017",
+    "farm": 8,
+    "dateuploaded": "1323034180",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Denial of Saint Peter _TheMET(7)"
+    },
+    "description": {
+      "_content": "Caravaggio (Michelangelo Merisi)\nItalian,  Milan or Caravaggio 1571-1610  Porto Ercole\n\nDetail from: <b><i>  The Denial of Saint Peter </i></b>\nOil on canvas.\n\nPeter is shown before a fireplace in the courtyard of the high priest, where a woman accuses him of being a follower of Christ.  The pointing finger of the soldier and two pointing fingers of the woman allude to the three accusations and Peter’s three denials.\nThe picture, a marvel of narrative as well as pictorial concision, was painted by Caravaggio in the last months of his tempestuous life and marks an extreme stage in his revolutionary style.  In it he eschews delicacy and beauty of color and, with extraordinary psychological penetration, concentrates exclusively on the human drama.  The painting is first recorded in 1624 in the Savelli collection in Rome, where it is studied by a number of artists.\nCarravaggio’s late works depend for their dramatic effect on brightly lit areas standing in stark contrast to a dark background.  These effects become exaggerated over time as the paint becomes more transparent.\n\nGift of Herman and Lila Shickman, and Purchase, Lila Acheson Wallace Gift, 1997\n1997.167\n\nFrom the placard: Metropolitan Museum\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1323034180",
+      "taken": "2011-09-25 12:20:01",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1340422093"
+    },
+    "views": "426",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6455244831-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455244831-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455244831-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455244831-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455244831-79492747",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_229",
+          "_content": "bench229",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6455244831/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8087873206",
+    "secret": "25fc07fd98",
+    "server": "8334",
+    "farm": 9,
+    "dateuploaded": "1350250951",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Identify the Painter (247)"
+    },
+    "description": {
+      "_content": "[This photograph was identify the painter (247)]\n.\nCamille Corot   French,  1796-1875\n\nDetail from: <b><i>Banks of the Stream near the Corot Property, Ville d’Avray </i></b>, ca. 1823\nOil on paper laid down on wood\nStamped (lower left):  VENTE / COROT\n\nThaw Collection, Jointly owned by the Metropolitan Museum of Art and The Morgan Library &amp; Museum,  Gift of Eugene V. Thaw, 2009\n2009.400.27\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1350250951",
+      "taken": "2012-07-21 09:56:46",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1350353265"
+    },
+    "views": "220",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8087873206-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087873206-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087873206-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087873206-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087873206-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8087873206/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

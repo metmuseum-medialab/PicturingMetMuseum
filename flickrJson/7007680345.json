@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "7007680345",
+    "secret": "e73c8b9229",
+    "server": "7236",
+    "farm": 8,
+    "dateuploaded": "1325829752",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ostracon with Lines from the Iliad in the Metropolitan Museum of Art, January 2011"
+    },
+    "description": {
+      "_content": "Ostrakon with Lines from Homer’s Iliad\n\nDate: 580–640 \n\nGeography: Made in, Thebes, Byzantine Egypt \n\nCulture: Coptic \n\nMedium: Limestone with ink incription \n\nDimensions: 4 3/4 x 3 9/16 in. (12 x 9.1 cm) \n\nClassification: Miscellany-Stone \n\nCredit Line: Rogers Fund, 1914 \n\nAccession Number: 14.1.140\n\nDescription: \n\nOstraca are texts written on broken pottery, which were employed when parchment was unavailable or too expensive. At Epiphanius a large number of ostraca were discovered in the monastery, including in its rubbish heaps; they record biblical verses, legal documents, sermons, financial accounts, school texts, and letters requesting assistance and prayers. Some reveal that, even at the southernmost border of the Empire, people were still aware of events in the capital, Constantinople.\n\nOstracon with Lines from Homer’s Iliad\n\n“Sing, goddess, the wrath of Peleus’s son,” the opening line of the Iliad, is written four times, probably as a school exercise in writing cursive Greek. Other lines from Homer are found on other ostraca.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/170014205\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1700...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1325829752",
+      "taken": "2011-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1340588682"
+    },
+    "views": "289",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7007680345-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-139120",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fragment",
+          "_content": "fragment",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-16755",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Homer",
+          "_content": "homer",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680345-59934",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Iliad",
+          "_content": "iliad",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7007680345/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

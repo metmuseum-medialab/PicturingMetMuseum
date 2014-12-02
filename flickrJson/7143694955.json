@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "7143694955",
+    "secret": "fce1bac133",
+    "server": "7229",
+    "farm": 8,
+    "dateuploaded": "1336183145",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Twilight_TheMET(1)"
+    },
+    "description": {
+      "_content": "Olin Levi Warner\nDetail from: <b><i> Twilight </i></b>  1877-78 ;  this carving, 1879\nMarble\n\nTwilight was an unsual theme because it was not derived from Greek mythology, the source generally favored by sculptors for personifications.   Yet the work offered Warner the opportunity to reveal his talent on two levels:  to display both his expertise in modeling a semidraped figure and his ability to interpret an abstract concept in three-dimensional form.   The juxtapositions of light and dark, smooth skin and rippling drapery, action and repose call to mind the mysterious, fleeting moments between day and night.\n\nRogers fund, 1915\n15-48\n\n\n\nFrom the placard:  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7143694955&amp;size=large\" rel=\"nofollow\">View On Black</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1336183145",
+      "taken": "2011-02-24 14:35:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1336976892"
+    },
+    "views": "177",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7143694955/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

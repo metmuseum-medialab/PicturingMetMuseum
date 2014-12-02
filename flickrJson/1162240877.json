@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "1162240877",
+    "secret": "0369e98a27",
+    "server": "1090",
+    "farm": 2,
+    "dateuploaded": "1187467484",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Bronze Torso from an Equestrian Statue in the Metropolitan Museum of Art, July 2007"
+    },
+    "description": {
+      "_content": "Bronze torso from an equestrian statue wearing a cuirass\nGreek or Roman, Hellenistic or Imperial, 2nd century BC- 2nd century AD\n\nAccession # 2003.407.7\n\nThe pose of this fragmentary torso suggests that the figure, who wears a short cape and an ornate cuirass of Hellenistic type, was originally riding a rearing horse, the left hand holding the reins while the right wielded a weapon.  Dynamic equestrian bronze statues have a long tradition in Hellenistic and Roman art, stemming from Lysippos' famous group showing Alexander the Great on horseback , which commemorates the Macedonian leader's first major victory over the Persians at the Granikos River.  \n\nText exerpted from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1187467484",
+      "taken": "2007-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1332781468"
+    },
+    "views": "2817",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-1162240877-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-49435",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "equestrian",
+          "_content": "equestrian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-225550",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hellenistic",
+          "_content": "hellenistic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-336322",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "cuirass",
+          "_content": "cuirass",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-14546",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "armor",
+          "_content": "armor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1162240877-21072",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "torso",
+          "_content": "torso",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/1162240877/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

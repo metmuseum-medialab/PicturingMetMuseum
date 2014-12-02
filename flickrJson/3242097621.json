@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "3242097621",
+    "secret": "5410104396",
+    "server": "3361",
+    "farm": 4,
+    "dateuploaded": "1233451260",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "8998e27701",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Edward R. Bacon (1846–1915)"
+    },
+    "description": {
+      "_content": "Anders Leonard Zorn (Swedish, 1860–1920)\n\nTitle\nEdward R. Bacon (1846–1915)\n\nDate\n1897\n\nMedium\nOil on canvas\n\nDimensions\n48 1/4 x 35 1/4 in. (122.6 x 89.5 cm)\n\nCredit Line\nBequest of Virginia Purdy Bacon, 1919\n\nAccession Number\n19.112"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1233451260",
+      "taken": "2009-01-04 12:10:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1325783558"
+    },
+    "views": "1700",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3242097621-66411",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Anders",
+          "_content": "anders",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3242097621-32627",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Leonard",
+          "_content": "leonard",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3242097621-77479",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Zorn",
+          "_content": "zorn",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3242097621-278",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3242097621-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3242097621-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3242097621-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3242097621-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3242097621-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3242097621/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

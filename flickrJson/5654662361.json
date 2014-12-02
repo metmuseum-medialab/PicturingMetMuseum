@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "5654662361",
+    "secret": "ace9103b98",
+    "server": "5184",
+    "farm": 6,
+    "dateuploaded": "1303763897",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Pool at the Jas de Bouffan by Cezanne in the Metropolitan Museum of Art, August 2010"
+    },
+    "description": {
+      "_content": "Artist:  Paul Cézanne (French, 1839–1906)\n\nTitle:  The Pool at the Jas de Bouffan\n\nDate:  late 1880s\n\nMedium:  Oil on canvas\n\nDimensions:  25 1/2 x 31 7/8 in. (64.8 x 81 cm)\n\nClassification:  Paintings\n\nCredit Line:  Bequest of Stephen C. Clark, 1960\n\nAccession Number:  61.101.5\n\nOn View\n\nGallery Label: \n\nDuring the late 1880s Cézanne painted several pictures of a road bordered with chestnut trees on his family's estate, the Jas de Bouffan. Visible at the right, the road led from the back of the house to the gardens. Near the rail dividing the two areas was a collecting pool and a washing trough (the low stone structures behind the trees).\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/the_pool_at_the_jas_de_bouffan_paul_cezanne//objectview.aspx?OID=110000312&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1303763897",
+      "taken": "2010-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969282"
+    },
+    "views": "246",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5654662361-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-92771",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Cezanne",
+          "_content": "cezanne",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-1695",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "landscape",
+          "_content": "landscape",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-1482760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Post-Impressionism",
+          "_content": "postimpressionism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5654662361-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5654662361/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

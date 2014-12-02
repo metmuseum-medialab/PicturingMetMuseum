@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8681267931",
+    "secret": "5d1efe01bc",
+    "server": "8398",
+    "farm": 9,
+    "dateuploaded": "1366934726",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Identify the Painter (473)"
+    },
+    "description": {
+      "_content": "[This photograph is identify the painter (473)]\n.\nHenri de Toulouse-Lautrec     French,  1864-1901\ndetail from: <b><i>Émilie </i></b>,  late 1890s\nOil on wood   Signed and inscribed (lower left): à (to) Emilie / HTLautrec [HTL in monogram]\nLautrec was fascinated by people absorbed in watching the activities of others.  In this work of the late 1890s he makes a witty parallels between the woman observing the race and the horse and rider leaving the track.\n\nThe Lesley and Emma Sheafer Collection, Bequest of Emma A. Sheafer,  1973\n1974.356.35\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1366934726",
+      "taken": "2013-03-21 09:53:32",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1367021571"
+    },
+    "views": "339",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8681267931-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8681267931-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8681267931-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8681267931-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8681267931-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8681267931/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "3053849059",
+    "secret": "b4547dda89",
+    "server": "3196",
+    "farm": 4,
+    "dateuploaded": "1227487001",
+    "isfavorite": 0,
+    "license": "2",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "4c779e0ea6",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "48443160@N00",
+      "username": "sjmcdonough",
+      "realname": "Scott McDonough",
+      "location": "New York, NY",
+      "iconserver": "5",
+      "iconfarm": 1,
+      "path_alias": "sjmcdonough"
+    },
+    "title": {
+      "_content": "EPSN1751bw"
+    },
+    "description": {
+      "_content": "Sculpture of  Lucius Verus, ca. 166–170, Metropolitan Museum of Art [Rogers Fund, 1913 (13.227.1)]."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1227487001",
+      "taken": "2008-11-23 13:45:43",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1232505067"
+    },
+    "views": "70",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "191705-3053849059-784312",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Epson R-D1",
+          "_content": "epsonrd1",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-8783776",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Voigtlander 40/1.4",
+          "_content": "voigtlander4014",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-8667",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Rangefinder",
+          "_content": "rangefinder",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-29750",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-4745",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-97327",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-24394612",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "CV Nokton 40/1.4",
+          "_content": "cvnokton4014",
+          "machine_tag": 0
+        },
+        {
+          "id": "191705-3053849059-8664585",
+          "author": "48443160@N00",
+          "authorname": "sjmcdonough",
+          "raw": "Voigtlander Nokton 40mm f1.4 SC",
+          "_content": "voigtlandernokton40mmf14sc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/sjmcdonough/3053849059/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

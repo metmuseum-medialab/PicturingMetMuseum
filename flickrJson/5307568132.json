@@ -1,0 +1,135 @@
+{
+  "photo": {
+    "id": "5307568132",
+    "secret": "c2c0904cfe",
+    "server": "5003",
+    "farm": 6,
+    "dateuploaded": "1293739253",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "2d3871e338",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "41622030@N07",
+      "username": "Marina Alexis Parker",
+      "realname": "Marina Parker",
+      "location": "NJ, USA",
+      "iconserver": "3472",
+      "iconfarm": 4,
+      "path_alias": "marinaalexisparker"
+    },
+    "title": {
+      "_content": "Fasting Siddhartha"
+    },
+    "description": {
+      "_content": "Pakistan (ancient region of Gandhara)\nKushan period, ca. 3rd century\n<a href=\"http://en.wikipedia.org/wiki/Schist\" rel=\"nofollow\">Schist</a>\n\nAfter renouncing his luxurious existence in search of an end to the suffering caused by infinite rebirths, Siddhartha went through six years of profound austerity. At one point, he is said to have eaten only a few grains of rice a day. This subject originated with the artists of ancient Gandhara (an area encompassing parts of present-day Pakistan and Afghanistan), who clearly emphasized Siddhartha's emaciated body; his visible ribs and veins are poignant testimony to years of spiritual trials. The theme was common in Gandhara and though it is not found in later Indian Buddhist sculpture, it reappears in Chinese and Japanese art of the Chan/Zen tradition.\n\nSource: Fasting Siddhartha [Pakistan (ancient region of Gandhara)] (1987.218.5) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1293739253",
+      "taken": "2010-12-21 03:49:03",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1318546238"
+    },
+    "views": "359",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "41600700-5307568132-108807",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "siddhartha",
+          "_content": "siddhartha",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-5307568132-8581",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "buddhism",
+          "_content": "buddhism",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.778989,
+      "longitude": -73.962428,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/marinaalexisparker/5307568132/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "4581434399",
+    "secret": "a4955e442d",
+    "server": "4007",
+    "farm": 5,
+    "dateuploaded": "1273082650",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of The Horse Fair by Rosa Bonheur in the Metropolitan Museum of Art, May 2010"
+    },
+    "description": {
+      "_content": "The Horse Fair, 1853–55\nRosa Bonheur (French, 1822–1899)\nOil on canvas \n96 1/4 x 199 1/2 in. (244.5 x 506.7 cm)\nSigned and dated (lower right): Rosa Bonheur 1853.5\nGift of Cornelius Vanderbilt, 1887 (87.25)\n\nWhen Rosa Bonheur exhibited The Horse Fair at the Salon of 1853, her reputation as an artist had been fairly well established by the paintings, drawings, and sculpture she had shown at the annual Salons since 1841, but few of her works attained the dash and grandeur of The Horse Fair, and none received the same acclaim. Vastly admired on the Continent, where it was exhibited in Paris, Ghent, and Bordeaux, the painting was subsequently shown in England and the United States. It has become one of the Metropolitan Museum's best known works of art.\n\nBonheur began work on The Horse Fair in 1852. For a year and a half, she made sketches twice a week at the horse market in Paris, on the boulevard de l'Hôpital, dressing as a man in order to attract less attention from the horse dealers and buyers. The picture shows with accuracy the trees lining the boulevard and the cupola of the Hôpital de la Salpêtrière nearby.\n\nText from: <a href=\"http://www.metmuseum.org/toah/works-of-art/87.25\" rel=\"nofollow\">www.metmuseum.org/toah/works-of-art/87.25</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1273082650",
+      "taken": "2010-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1334785299"
+    },
+    "views": "832",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4581434399-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-48060",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Bonheur",
+          "_content": "bonheur",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-325",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "horse",
+          "_content": "horse",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4581434399-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4581434399/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

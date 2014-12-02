@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5382161940",
+    "secret": "71cc6417a1",
+    "server": "5090",
+    "farm": 6,
+    "dateuploaded": "1295814950",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MichaelAngeloAndEmmaClaraPeale_TheMET (7)"
+    },
+    "description": {
+      "_content": ".\n\n <b>E M M A</b>\n\n\nRembrandt Peale  (1778-1860)\n\nDetail from:  Michael Angelo and Emma Clara Peale, ca 1826\nOil on canvas\n\nPeale’s studies of French Neoclassical painting during a sojourn in Paris (1808-10) helped him to break free of the British eighteenth-century conventions he had learned from his portraitist father, Charles Wilson Peale (1741-1827). The son’s resplendent palette, along with his ability to render warm flesh tones, manipulate light, and emphasize textures, suggests that while in France, he had studied not only the works of modern painters but also paintings by Rubens, van Dyck, and other Baroque masters.  Michael Angelo (1814-1833) and Emma Clara (1816-1839) were the youngest of the artist’s nine children.\n\nPurchase, Dodge Fund, Dale T. Johnson Fund, and The Douglass Foundation, The Overbrook Foundation, Mr. and Mrs. Max N. Berry, Barbara G. Fleischman, Mrs. Daniel Fraad, Mr. and Mrs. Peter Lunder, Mr. and Mrs. Frank Martucci, and Erving and Joyce Wolf Gifts, 2000\n(2000.151)\n\nFrom the placard:  Metropolitan Museum of Art.\n\n<a href=\"http://bighugelabs.com/onblack.php?id=5382161940&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White large</a>\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1295814950",
+      "taken": "2011-01-17 12:06:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1296016582"
+    },
+    "views": "671",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "14"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5382161940-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5382161940-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5382161940-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5382161940-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5382161940-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5382161940/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

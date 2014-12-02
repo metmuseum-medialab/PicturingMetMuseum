@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "4029847007",
+    "secret": "540e347af2",
+    "server": "2664",
+    "farm": 3,
+    "dateuploaded": "1256080666",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "SalomeWithTheHeadOfJohnTheBaptist_TheMET (7)"
+    },
+    "description": {
+      "_content": "Detail from: 'Salome with the Head of Saint John the Baptist'  Andrea Solario  1500's\n\n\n<b><a href=\"http://www.flickr.com/groups/songoftheday/\">Song of the Day<a rel=\"nofollow\"></a></a></b>\n\n\nSalome with the Head of Saint John the Baptist’  Andrea Solario  Italian, Milanese, active by 1495, died 1524\nOil on wood\nSigned (lower right): *ANDREAS DE / SOLARIO /  F\n\nSolario worked in Milan after 1493, and in 1507 was invited to France, where he decorated a chapel at Chateau Gaillon for Cardinal Geroges d’Amboise, Archbishop of Rouen.  Between his return from France in 1510 and his death fourteen years later, he painted a number of variants on the present composition, of which this is one of the most notable.  The descriptive naturalism of the picture is indebted to Netherlandish painting.\n\nRather than recreate a narrative of Saint John’s execution, Solario paints a closeup contrasting the girlish beauty of Salome with the decapitated head of her victim.\n\nThe Friedsam Collection,\nBequest of Michael Friedsam, 1931\n32.100.81\n\nYou Might Scream\nYou Might Shout\nTrying to Suss it out\nSinking low...Sinking low\n\nDolores O'Riordan - 06. Be careful (No Baggage)\n<a href=\"http://www.youtube.com/watch?v=Zhcq1EBTHuc\" rel=\"nofollow\">www.youtube.com/watch?v=Zhcq1EBTHuc</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1256080666",
+      "taken": "2009-08-29 13:00:32",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1362814628"
+    },
+    "views": "742",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4029847007-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-15539210",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Andrea Solario",
+          "_content": "andreasolario",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-2838004",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "SongOfTheDay",
+          "_content": "songoftheday",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-5248346",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Dolores O'Riordan",
+          "_content": "doloresoriordan",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4029847007-50582254",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_170",
+          "_content": "bench170",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4029847007/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,187 @@
+{
+  "photo": {
+    "id": "3352977915",
+    "secret": "f0964b2b68",
+    "server": "1099",
+    "farm": 2,
+    "dateuploaded": "1237037530",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "CamilleMonetonaGardenBench_TheMET"
+    },
+    "description": {
+      "_content": "Claude Monet   French,  1840-1926\n\n<b><i>Camille Monet (1847-1879) on a Garden Bench</i></b>,      1873'..\nOil on canvas\nSigned (Lower right): Claude Monet\n\nMonet’s art depends on observations of his environment, and to that extent it is always autobiographical.  In his pictures, one can chart the seasons, the weather, or as here, the look of women’s fashion in 1873.  Monet’s wife, Camille Doncieux, is as easily recognizable as are the mounds of geraniums in the garden of the couple’s rented house in Argenteuil.\n'Camille Monet on a Garden Bench' is the most enigmatic of Monet’s rare genre pictures.  Numerous interpretations have been offered, yet nothing has been found in the literature or theater of Monet’s time that corresponds to this scene.  The most telling clue may be the biographical: the death of Camille’s father in September 1873.  Camille was an impassive model, but here she telegraphs sadness, while holding a note in her gloved hand.  Later, Monet identified the gentleman as a neighbor—perhaps once who had called to offer his condolences and a consoling bouquet.\n\nThe Walter H. and Leonore Annenberg Collection,  Gift of Walter H. and Leonore Annenberg, 2002,  Bequest of Walter H. Annenberg, 2002\n2002.62.1\n\nFrom the placard:  Metropolitan Museum of Art.\n\nW 281 - 1873\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1237037530",
+      "taken": "2009-02-28 21:35:17",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1389557524"
+    },
+    "views": "848",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157625954310576",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "232",
+          "y": "80",
+          "w": "84",
+          "h": "76",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5407420817/in/photostream/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157625828890399",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "316",
+          "y": "63",
+          "w": "63",
+          "h": "59",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5407415663/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3352977915-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "european_painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-37211952",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_33",
+          "_content": "bench33",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-14198",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Monet",
+          "_content": "monet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-6268",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "W",
+          "_content": "w",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-715099",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "281",
+          "_content": "281",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-56980011",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_200",
+          "_content": "bench200",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3352977915-66438632",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_209",
+          "_content": "bench209",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3352977915/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

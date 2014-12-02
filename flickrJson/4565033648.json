@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "4565033648",
+    "secret": "854217dbbf",
+    "server": "4070",
+    "farm": 5,
+    "dateuploaded": "1271912201",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Reclining Nude by Modigliani in the Metropolitan Museum of Art, December 2008"
+    },
+    "description": {
+      "_content": "Artist:  Amedeo Modigliani (Italian, 1884–1920)\n\nTitle:  Reclining Nude\n\nDate:  1917\n\nMedium:  Oil on canvas\n\nDimensions:  H. 23-7/8, W. 36-1/2 in. (60.6 x 92.7 cm)\n\nClassification:  Paintings\n\nCredit Line:  The Mr. and Mrs. Klaus G. Perls Collection, 1997\n\nAccession Number:  1997.149.9\n\nDescription:  \n\nBorn to a once-prosperous Jewish merchant family in Italy, Amedeo Modigliani grew up in a cultured but financially strained environment in Livorno. A severe bout of pleurisy ended his formal schooling at age fourteen, and he was plagued by poor health for the rest of his short life; he died of tuberculosis at age thirty-five. From 1902 to 1906 Modigliani studied painting with the Italian artist Guglielmo Micheli (a proponent of plein-air painting) and visited Capri, Naples, Florence, Venice, and Rome. In 1906 he moved permanently to Paris, where he frequented artists' gatherings and became friends with other expatriate artists living in France, such as Chaim Soutine and Moïse Kisling. Modigliani was a prolific artist, producing some 420 paintings, innumerable drawings, and 31 sculptures between 1906 and 1920.\n\nHis celebrated series of nudes continues the tradition of depictions of Venuses from the Renaissance to the nineteenth century but with one significant difference: the eroticism of the earlier figures is always couched within a mythological or anecdotal context, whereas Modigliani does away with this pretext. Consequently, his women appear unabashedly frank and provocative. \n\nThe artist is best known for the works that he created in Paris between 1915 and 1919 — portraits, in which a few telling details achieve a striking likeness, and nudes. Modigliani began his great series of reclining women in 1916. The two dozen or so figures — never his mistresses or friends but always professional models — lie on a dark bed cover that accentuates the glow of their skin; they are seen close-up and usually from above. Their stylized bodies span the entire width of the canvas, and their hands and feet often remain outside the picture's frame. Sometimes asleep, they most often face the viewer, as does this gracefully built model in one of the artist's most famous paintings of the series\n\n\nText from: <a href=\"http://www.metmuseum.org/works_of_art/collection_database/modern_art/reclining_nude_amedeo_modigliani/objectview.aspx?collID=21&amp;OID=210007063\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/modern...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1271912201",
+      "taken": "2008-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1405714064"
+    },
+    "views": "4186",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4565033648-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-1180",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "modern",
+          "_content": "modern",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4565033648-155044",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Modigliani",
+          "_content": "modigliani",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4565033648/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "5797935369",
+    "secret": "f11c790133",
+    "server": "3664",
+    "farm": 4,
+    "dateuploaded": "1307235779",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheChildrensMeal_TheMET (4)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=5797935369&amp;size=large&amp;bg=white\" rel=\"nofollow\">View On White Large</a>\n\nPierre Bonnard.  French, 1867-1947\n\n<b><i> The Children’s Meal </i></b>  1895\nOil on cardboard\nSigned and dated (L.R.):Bonnard / 95\n\nIn the early 1890s, Bonnards young nieces and nephews began spending their holidays at Le Clos, the old family house in the village of Le Grand-Lemps near the French Alps.  Their presence inspired the artist to paint a range of new subjects.  Foremost among these were his celebrated “intimist” interiors.  Here Bonnard has captured the daily ritual of a meal at Le Clos.  Around the curved table, from the left, are the artist’s eighty-three year-old grandmother, Madame Frédéric Mertzdorff, his three-year-old nephew, Jean, and his thirty-three-year-old sister, Andrée Terrasse, with her two-year-old son, Charles, in her lap.  In 1890, Andrée had married Claude Terrasse, whose portrait, painted by Suë, hangs at left.\n\nGift of David Allen Devrishian, 1999\n1999.180.1\n\nFrom the placard: Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1307235779",
+      "taken": "2011-04-09 10:35:02",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1366622244"
+    },
+    "views": "630",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "13"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157626886295330",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "281",
+          "y": "242",
+          "w": "145",
+          "h": "113",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5797932005/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5797935369-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5797935369-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5797935369-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5797935369-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5797935369-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5797935369-1029196",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Pierre_Bonnard",
+          "_content": "pierrebonnard",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5797935369/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

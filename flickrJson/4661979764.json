@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "4661979764",
+    "secret": "7077b28a3f",
+    "server": "1276",
+    "farm": 2,
+    "dateuploaded": "1275441163",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "EruptionofMountVesuvius_TheMET(5)"
+    },
+    "description": {
+      "_content": "\n‘The Eruption of Vesuvius’  Johan Christian Dahl  Norwegian, 1788-1857\nOil on canvas  1824\nSigned and dated lower right: Dahl d.24 Decbr 1824\n\nA Norwegian painter trained in Copenhagen, Dahl witnessed the eruption of Vesuvius, outside of Naples, on December 24, 1820.  He made studies on the site , and later painted several replicas of this composition.  The present canvas was painted for the king of Denmark.\n\nPrivate collection\nL. 1996.11\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1275441163",
+      "taken": "2010-05-23 10:43:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1278112215"
+    },
+    "views": "518",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4661979764-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4661979764-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4661979764-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4661979764-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4661979764-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4661979764-5601891",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Women_In_White",
+          "_content": "womeninwhite",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4661979764/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

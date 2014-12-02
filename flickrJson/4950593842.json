@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "4950593842",
+    "secret": "0cc01b7848",
+    "server": "4149",
+    "farm": 5,
+    "dateuploaded": "1283403424",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of Venus Italica by Canova in the Metropolitan Museum of Art, November 2009"
+    },
+    "description": {
+      "_content": "Title:  &quot;Venus Italica&quot;\n\nObject Name:  Female Nude\n\nWorkshop of:   Antonio Canova (Italian, born in Possagno, active in Venice and especially Rome, 1757–1822)\n\nCulture:  Italian (Rome)\n\nDate:  probably ca. 1822–23, variant of marble first executed 1810\n\nMedium:  Marble\n\nDimensions:  Height: 69 in. (175.3 cm)\n\nClassification:  Sculpture\n\nCredit Line:  Bequest of Lillian Rojtman Berkman, 2001\n\nAccession Number:  2003.21.1\n\nOn View\n\nText from: <a href=\"http://www.metmuseum.org/works_of_art/collection_database/all/venus_italica_antonio_canova/objectview.aspx?page=1&amp;sort=6&amp;sortdir=asc&amp;keyword=Canova\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/all/ve... Antonio&amp;fp=1&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=120029159&amp;vT=1&amp;hi=0&amp;ov=0</a> \n\nand\n\nCanova's first marble Venus is in the Palazzo Pitti in Florence.  Known as the Venus Italica, it was ordered in 1804 by Ludovico I, king of Etruria, as a replacement for the ancient Medici Venus that had been taken by the French for the Musee Napoleon.  This replica, believed have to been purchased from Canova's studio by the third marquess of Londonderry when he was visiting Rome in 1823, remained in Londonderry House, London, until 1962.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283403424",
+      "taken": "2009-11-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1347890151"
+    },
+    "views": "1081",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4950593842-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-119641",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Canova",
+          "_content": "canova",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-56661",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NeoClassicism",
+          "_content": "neoclassicism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-24978",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-3826",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Venus",
+          "_content": "venus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-25777",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Aphrodite",
+          "_content": "aphrodite",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4950593842-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4950593842/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

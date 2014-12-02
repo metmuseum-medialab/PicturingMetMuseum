@@ -1,0 +1,88 @@
+{
+  "photo": {
+    "id": "6946978774",
+    "secret": "8a2a76f537",
+    "server": "7177",
+    "farm": 8,
+    "dateuploaded": "1334832728",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Champion Single Sculls _TheMET(4)"
+    },
+    "description": {
+      "_content": "Thomas Eakins  \n(1844-1916)\n\n<b><i> The Champion Single Sculls (Max Schmitt in a Single Scull)</i></b>\n1871\nOil on canvas\nReturning to Philadelphia from Europe in 1870, Eakins began a series of representations of the sport of sculling, a subject with which he is uniquely identified.  This,  the first major work in the series, probably commemorates the victory of  Max Schmitt (1843-1900), an attorney and skilled amateur rower, in an important race held on the Schuylkill River in October 1870.  Also an avid rower, Eakins depicted himself pulling oars of a scull in the middle distance.  Eakins constructed the painting according to the academic principles espoused by his primary Parisian teacher, Jean-Léon Gérôme.\n\nPurchase, The Alfred N. Punnett Endowment Fund and George D. Pratt Gift, 1934\n34.92\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334832728",
+      "taken": "2011-02-25 10:08:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334880098"
+    },
+    "views": "307",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629856396131",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "245",
+          "y": "170",
+          "w": "61",
+          "h": "43",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6945759106/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6946978774/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

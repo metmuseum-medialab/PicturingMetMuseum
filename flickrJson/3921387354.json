@@ -1,0 +1,158 @@
+{
+  "photo": {
+    "id": "3921387354",
+    "secret": "6825aed6ac",
+    "server": "2569",
+    "farm": 3,
+    "dateuploaded": "1252970249",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "PalmTreesAtBordighera_TheMET (3)"
+    },
+    "description": {
+      "_content": "Claude Monet  French, 1840 – 1926\n\nDetail from: <b><i>Palm Trees at Bordighera </i></b>.   1884\nOil on canvas\nSigned and dated (lover left): Claude Monet 84\n\nThis canvas, like ‘The Valley of the Nervia’ (30.95.251), was painted during Monet’s trip to the Italian Riviera in early 1884.  The view looks to the west across the Bay of Ventimiglia and toward the Maritime Alps on the Italian-French border.  Monet, who had first visited the Riviera with Renoir in December 1883, decided to return alone on his second trip from mid-January to early April 1884; he later wrote Renoir that he felt working “a deux” was always a mistake.\n\nBequest of Miss Adelaide Milton de Groot (1876-1967), 1967\n67.187.87\n\nFrom the placard: Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1252970249",
+      "taken": "2009-08-29 11:20:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1354353529"
+    },
+    "views": "897",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3921387354-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-14198",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Monet",
+          "_content": "monet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-44246515",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "W 877",
+          "_content": "w877",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-182195",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "1884",
+          "_content": "1884",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3921387354-60623660",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_202",
+          "_content": "bench202",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3921387354/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

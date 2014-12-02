@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "3473699156",
+    "secret": "9fbe395727",
+    "server": "3390",
+    "farm": 4,
+    "dateuploaded": "1240673270",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Lydia_TheMET(2)"
+    },
+    "description": {
+      "_content": "Mary Cassatt  American, 1844-1926\n\nDetail from: <b><i>Lydia Crochting in the Garden at Marly </i></b>\nOil on canvas  1880\n\nMary Cassatt, an aristocratic Philadelphian, spent her adult life working in France.  She participated in four of the eight Impressionist exhibitions and befriended a number of contemporary artists, most notably Edgar Degas.  Cassatt’s older, invalid sister Lydia posed for this painting two years before her death.  The setting is the garden of the family’s rented villa at Marley-le-roi, near Paris\n\nGift of Mrs. Gardiner Cassatt, 1965\n65.184\n\n\nFrom the placard: Metropolitan Museum of Art.\n( for Ambertides)"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1240673270",
+      "taken": "2009-04-18 10:45:09",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1311275314"
+    },
+    "views": "556",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3473699156-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-667557",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Mary Cassatt",
+          "_content": "marycassatt",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-37246417",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_42",
+          "_content": "bench42",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3473699156-37332028",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_41",
+          "_content": "bench41",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3473699156/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

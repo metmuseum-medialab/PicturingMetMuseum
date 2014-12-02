@@ -1,0 +1,200 @@
+{
+  "photo": {
+    "id": "5211562783",
+    "secret": "4ecbb6d815",
+    "server": "5289",
+    "farm": 6,
+    "dateuploaded": "1290879698",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "72002a400d",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Still Life: A Banqueting Scene, 1670s (Detail)"
+    },
+    "description": {
+      "_content": "Still Life: A Banqueting Scene, 1670s\nJan Davidsz de Heem (Dutch, 1606–1683/84)\nOil on canvas\n\n53 1/4 x 73 in. (135.3 x 185.4 cm)\nCharles B. Curtis Fund, 1912 (12.195)\n\nThis large canvas has long been attributed to Jan Davidsz. de Heem (1606–1683/84), the Dutch-born artist who moved to Antwerp in 1635–36 and who exercised an enormous influence on the next two generations of still-life painters. Among them were two sons of the artist, Cornelis de Heem (1631–1695) and his younger stepbrother, Jan Jansz. The latter has recently been assigned responsibility for the present picture, but the attribution has met with resistance. The painting may have been done by Jan Davidsz. de Heem about 1640.\n\n\nSource: Jan Davidsz de Heem: Still Life: A Banqueting Scene (12.195) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1290879698",
+      "taken": "2010-10-16 11:35:53",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1393878834"
+    },
+    "views": "3095",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-5211562783-4744",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Jan",
+          "_content": "jan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-12210037",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Davidsz",
+          "_content": "davidsz",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-1642",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "de",
+          "_content": "de",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-3521694",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Heem",
+          "_content": "heem",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-17968",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "lobster",
+          "_content": "lobster",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-338",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "food",
+          "_content": "food",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-1244",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "feast",
+          "_content": "feast",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-20409",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "dining",
+          "_content": "dining",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-5010",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "eating",
+          "_content": "eating",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-24412",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "banquet",
+          "_content": "banquet",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-2704",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "still",
+          "_content": "still",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-39",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "life",
+          "_content": "life",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-67182",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1670",
+          "_content": "1670",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-2708",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "lemon",
+          "_content": "lemon",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5211562783-1146",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "fruit",
+          "_content": "fruit",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/5211562783/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

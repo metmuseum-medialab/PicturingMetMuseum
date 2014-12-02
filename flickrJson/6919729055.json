@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "6919729055",
+    "secret": "82a0f42da0",
+    "server": "7208",
+    "farm": 8,
+    "dateuploaded": "1323498237",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ritual Crown from Nepal in the Metropolitan Museum of Art, September 2010"
+    },
+    "description": {
+      "_content": "Ritual Crown\n\nDate: dated 1717 \n\nCulture: Nepal (Kathmandu Valley) \n\nMedium: Gilt copper alloy, inlaid with semiprecious stones \n\nDimensions: H. 12 in. (30.5 cm); W. 7 1/2 in. (19.1 cm); Diam. 6 3/4 in. (17.1 cm) \n\nClassification: Metalwork \n\nCredit Line: Gift of Lynne and Robert Rubin, 1985 \n\nAccession Number: 1985.13.2\n\nDescription:\n\nElaborate crowns such as this example were worn by the hereditary Vajracarya Buddhist priests of Nepal, who occupy the highest rank in the Nepalese Buddhist community. Vajracarya is both a caste and a family name, and the designation entitles it holders to perform reserved priestly functions, analogous to the privileges held by Brahmans in Hinduism. This crown is dominated by five diadem plaques and surmounted by a half-vajra. The dated inscription records that it was commissioned by two named devotees, to be worn on the occasion of the consecration of newly installed icons of Chakrasamvara and Heruka. The consecrations were performed by srî Bekhâsi deva Vajrâcârya of Naka Bahicâ of OBâhâ, &quot;on Thursday, the 10th of the dark half of Bhâdra, during the Pusyâ naksatra and the Siddha yoga&quot; (1717). The inscription concludes by listing the punishments incurred by those who covet the crown as well as the merits earned by its donors, extolling: &quot;[May it be] auspicious for all time.&quot;\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/60006354\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/6000...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1323498237",
+      "taken": "2010-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1329937986"
+    },
+    "views": "253",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6919729055-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-1711",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Asian",
+          "_content": "asian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-20468",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "crown",
+          "_content": "crown",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-1990",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "gold",
+          "_content": "gold",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6919729055-17112",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copper",
+          "_content": "copper",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6919729055/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

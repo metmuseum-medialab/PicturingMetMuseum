@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "5019667411",
+    "secret": "588e8fba6d",
+    "server": "4075",
+    "farm": 5,
+    "dateuploaded": "1283571044",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Plaque with a Nude Female Between Two Bearded Men in Kilts in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Title:  Plaque with a nude female between two bearded males wearing kilts\n\nPeriod:  Old Babylonian\n\nDate:  2000-1600 BC\n\nGeography:  Mesopotamia\n\nMedium:  Bronze\n\nDimensions:  3 7/8 x 3 7/8 in. (9.7 x 9.7 cm)\n\nClassification:  Metalwork-Relief\n\nCredit Line:  Purchase, Friends of Inanna Gifts, 1998\n\nAccession Number:  1998.31\n\nOn View\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/ancient_near_eastern_art/plaque_with_a_nude_female_between_two_bearded_males//objectview.aspx?OID=30006226&amp;collID=3&amp;dd1=3\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/ancien...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283571044",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1340929866"
+    },
+    "views": "2773",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5019667411-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-68974",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Mesopotamia",
+          "_content": "mesopotamia",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-310089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Babylonian",
+          "_content": "babylonian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-98094",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "BronzeAge",
+          "_content": "bronzeage",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5019667411-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5019667411/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

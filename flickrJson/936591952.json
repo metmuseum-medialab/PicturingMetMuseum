@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "936591952",
+    "secret": "19acd04c10",
+    "server": "1263",
+    "farm": 2,
+    "dateuploaded": "1185691423",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Marble Head of a Ptolemaic Queen in the Metropolitan Museum of Art,  July 2007"
+    },
+    "description": {
+      "_content": "Head of Ptolemaic queen, possibly Arsinoë II\nGreek, Ptolemaic, ca. 270–250 B.C.\nMarble; height: 15 in. (38.1 cm)\nThe Metropolitan Museum of Art, New York, Purchase, Lila Acheson Wallace Gift, The Bothmer Purchase Fund, Malcolm Hewitt Wiener, The Concordia Foundation and Christos G. Bastis Gifts and Marguerite and Frank A. Cosgrove Jr. Fund, 2002 (2002.66) \n\nThis monumental head gives an impression of sovereign calm and power, even though the veil that once covered the top and back of the head is now missing.  Although the features are cast in a thoroughly classical style typical of the late 4th century BC, the face is stamped with enough individuality to identify it as a portrait.    In all probability, it represents a member of the Ptolemaic dynasty, that succession of Macedonian Greeks who ruled Egypt from the death of Alexander the Great in 323 BC until the annexation of Egypt by Rome and the suicide of Cleopatra VII in 30 BC.    Most recently, this head has been identified as Arsinoe II, who ruled together with her brother Ptolemy II, from 278 until her death in 270 BC.   Not only was the queen part of a dynastic ruler cult during her life, she was also transformed into an independent deity by her brother after her death.  She was worshiped as an Egyptian goddess in association with Isis and also separately as a Greek goddess, with her own sanctuaries and festivals.  This strongly idealized head, which resembles classical images of Hera and Demeter was probably associated with the latter cult. \n\nText from: <a href=\"http://www.metmuseum.org/special/greek_roman/viewone.asp?item=5\">www.metmuseum.org/special/greek_roman/viewone.asp?item=5</a> and the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1185691423",
+      "taken": "2007-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1324935284"
+    },
+    "views": "1388",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-936591952-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-347",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "woman",
+          "_content": "woman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-4922",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "head",
+          "_content": "head",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-225550",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hellenistic",
+          "_content": "hellenistic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-24978",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-936591952-328883",
+          "author": "21628047@N02",
+          "authorname": "The Lady of Shalot",
+          "raw": "Ptolemaic",
+          "_content": "ptolemaic",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/936591952/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

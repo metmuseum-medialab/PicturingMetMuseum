@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7065862727",
+    "secret": "c03e1a0aeb",
+    "server": "7110",
+    "farm": 8,
+    "dateuploaded": "1334096625",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MrsNoahSmithandHerChldren_TheMET(4)"
+    },
+    "description": {
+      "_content": "[ This photograph was Identify the Painter(17) ]\n\nRalph Earl  ( 1751-1801)\n\nDetail from: <b><i> Mrs. Noah Smith and Her Children </i></b>  1798\nOil on canvas\nDescended from farmers in Worcester County, Massachusetts, Earl  was a highly trained portraitist who tempered his style to suit his rural subjects.  After seven years of study in London, Earl became an itinerant artist in Connecticut and Vermont; he devised a manner of painting that betrayed his knowledge of fashionable English portraiture while appealing to his clients’ restrained tastes and pious values.  A key example is this complex group portrait of Chloe Burrall Smith (1757-1810) and her five children, a grand and stylish work executed in Bennington, Vermont, in a simple technique and vivid palette of greens and reds.\nGift of Edgar William and Bernice Chrysler Garbisch, 1964 \n64.309.1\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7065862727&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334096625",
+      "taken": "2011-02-24 14:01:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334192429"
+    },
+    "views": "332",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7065862727-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7065862727-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7065862727-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7065862727-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7065862727/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

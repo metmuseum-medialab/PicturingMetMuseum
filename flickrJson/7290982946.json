@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7290982946",
+    "secret": "5b8acc2ebe",
+    "server": "7243",
+    "farm": 8,
+    "dateuploaded": "1338250291",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Young Virgin TheMET(9)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter (62)]\n.\nFrancisco de Zurbarán\nSpainish, Fueunte de Cantos 1598-1664  Madrid\n\nDetao; from: <b><i> The Young Virgin </i></b> \nOil on canvas\nAccording to the medieval legend, as a girl the Virgin Mary lived in the Temple in Jerusalem, where she devoted herself to praying and sewing vestments, the subject of Zurbarán’s painting, executed about 1623-33\nFletcher Fund, 1927\n27.137\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338250291",
+      "taken": "2011-05-06 12:08:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1338454192"
+    },
+    "views": "515",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7290982946-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290982946-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290982946-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290982946-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7290982946/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

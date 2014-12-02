@@ -1,0 +1,121 @@
+{
+  "photo": {
+    "id": "7290956612",
+    "secret": "faa78bffd2",
+    "server": "7074",
+    "farm": 8,
+    "dateuploaded": "1338249907",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Musicians TheMET(3)"
+    },
+    "description": {
+      "_content": "Caravaggio  ( Michelangelo Merisi)\nItalian, Milan or Caravaggio 1571-1610 Porto Ercole\n\n<b><i> The Musicians </i></b>\nOil on canvas\nTrained in Lombardy, Caravaggio moved in 1592 or  1593 to Rome, where he initially made his reputation with a number of realistic paintings of half length figures.  This picture dates from about 1595 and was painted for his first great pation, Cardinal Francesco del Monte.  Although it was describd by contemporaries as <i> una musica</i> ( a music piece), it is an allegory of music.  Cupid, “who is always in the company of music” (Vasari), is shown at left with a bunch of grapes, “because  music was invented to keep spirits happy, as does wine” (Ripa).  The costumes have a vaguely classical look.\nThe surface of the picture is worn and there are extensive losses in the back of the right hand figure and in the still like of music and violin.  The upturned page of music is a reconstruction based on an old copy of the picture.\nRogers Fund, 1952\n52.81\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338249907",
+      "taken": "2011-02-25 12:53:04",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1339969006"
+    },
+    "views": "340",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157630166434782",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "192",
+          "y": "79",
+          "w": "117",
+          "h": "80",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7290949098/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7290956612-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290956612-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290956612-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7290956612-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7290956612/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

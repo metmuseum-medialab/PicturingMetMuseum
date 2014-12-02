@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "6700411807",
+    "secret": "9bbcd88000",
+    "server": "7004",
+    "farm": 8,
+    "dateuploaded": "1326627803",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "RoadSideHalt_TheMET(3)"
+    },
+    "description": {
+      "_content": "Richard Parkes Bonington\nEnglish, 1802-1828\n\n<b><i>Roadside Halt, 1826 </i></b>\nOil on canvas\nSigned and dated (lower right): R P B. 18[2]6\nBonington spent most of 1826 in France, a member of a circle of young artists that included Eugène Delacroix.  Although Bonington had been painting with oils for only about four years, his work impressed Delacroix, who wrote: “I could never weary of admiring his marvelous understanding of effects, and the facility of his execution.”\nGift of Francis Neilson, 1945\n45.146.1\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1326627803",
+      "taken": "2011-09-25 10:21:17",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1326830993"
+    },
+    "views": "445",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628880061561",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "190",
+          "y": "226",
+          "w": "95",
+          "h": "61",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6700407333/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6700411807-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-1653628",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Art",
+          "_content": "europeanart",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-71307554",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "British_Romanticism",
+          "_content": "britishromanticism",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6700411807-81321961",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_233",
+          "_content": "bench233",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6700411807/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

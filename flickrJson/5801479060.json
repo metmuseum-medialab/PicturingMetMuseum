@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5801479060",
+    "secret": "f4b97f3c98",
+    "server": "5147",
+    "farm": 6,
+    "dateuploaded": "1307303500",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Street Scene, Place Clichy_TheMET (3)"
+    },
+    "description": {
+      "_content": "Pierre Bonnard.  French, 1867-1947\n\nDetail from:  <b><i>Street Scene, Place Clichy</i></b>\n1895\nOil on canvas\n\nThe lively steet scene with a stylish woman and fashionable dogs displays Bonnard’s early interest in atmosphere and telling detail.  A friend of Toulouse-Lautrec, Bonnard first began earning money as an artist in 1889 with a poster design for France-Champagne.\n\nJacques and Natasha Gelman Collection, 1998\n1999.363.4\n\nFrom the placard:  Metropolitan Museum of Art.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1307303500",
+      "taken": "2011-03-05 12:51:28",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1417057897"
+    },
+    "views": "721",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5801479060-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5801479060-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5801479060-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5801479060-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5801479060-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5801479060-1029196",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Pierre_Bonnard",
+          "_content": "pierrebonnard",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5801479060/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

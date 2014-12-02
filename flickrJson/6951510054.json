@@ -1,0 +1,169 @@
+{
+  "photo": {
+    "id": "6951510054",
+    "secret": "db54629caa",
+    "server": "7055",
+    "farm": 8,
+    "dateuploaded": "1334966917",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "StillLifeWithSilver_TheMET(5)"
+    },
+    "description": {
+      "_content": "Alexandre Franҫois Desportes\nFrench, Champigneul 1661-1743 Paris\n\n<b><i> Still Life with Silver </i></b>\nOil on canvas\nSigned (lower right): Desportes\nTrained as a painter of animals and favored by both Louis XIV (1638-1715) and Louis XV (1710-1774), Desportes achieved fame not only for his hunting scenes but also for his opulent still lifes.  This picture, possibly painted in the late 1720s, belongs to a type showing  a buffet laden with an array of objects in silver, porcelain, and semi-precious  stone as well as fruit—such as might have been displayed for a banquet.  The objects are likely to record actual pieces owned by the patron: the dragon-handled tureen and vermeil salvers are in the Régence style (ca. 1715-23).\nThe corners of the picture were cut, probably so that the canvas could be set into wood paneling; the current corners are modern.\nPurchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1964\n64.315\n\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334966917",
+      "taken": "2011-02-25 13:06:46",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335037367"
+    },
+    "views": "219",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629868313977",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "108",
+          "y": "285",
+          "w": "45",
+          "h": "35",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6946981668/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629868326723",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "86",
+          "y": "225",
+          "w": "58",
+          "h": "37",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7097581715/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629503917318",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "85",
+          "y": "191",
+          "w": "47",
+          "h": "37",
+          "_content": "<b><a href=\"http://www.flickr.com/photos/rverc/7097583799/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629503933898",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "152",
+          "y": "149",
+          "w": "81",
+          "h": "56",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6951518634/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629503945880",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "126",
+          "y": "78",
+          "w": "79",
+          "h": "63",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7097586093/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6951510054-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6951510054-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6951510054-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6951510054-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6951510054-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6951510054/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

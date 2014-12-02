@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "2340754570",
+    "secret": "df3ecd7459",
+    "server": "2063",
+    "farm": 3,
+    "dateuploaded": "1205763145",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Byzantine Illuminated Psalter in the Metropolitan Museum of Art, December 2007"
+    },
+    "description": {
+      "_content": "Psalter, late 12th century\nByzantine\nTempera, black ink, gold leaf on parchment with paper endpapers; 87 folios; 8 1/8 x 5 7/8 x 2 in. (20.7 x 14.9 x 5.1 cm)\nPurchase, The Jaharis Family Foundation Inc. Gift, 2001 (2001.730)\n\nThis elegantly illuminated psalter opens with a handsome headpiece to the Book of Psalms (fol. 5r) with a bust of Christ at its center and, below the headpiece, an elaborate incipit letter formed by two birds, which may refer to Jesus' dual nature as both God and man. The late twelfth-century manuscript represents the tradition of &quot;aristocratic&quot; psalters produced in the Byzantine sphere before the fall of Constantinople to the Latin Crusaders in 1204. The many inscriptions in the text also make it representative of the liturgical works that remained within the Byzantine sphere after the fall of Constantinople to the Ottoman Turks. John Lowden has identified a hymn on folio 81r as written in a late fourteenth-century hand typical of the scribe Ioasaph (active 1360–1405/6) of the Hodegon Monastery in Constantinople. The inscription describing the execution of the Christian Nicholas Pazartzis in the Hippodrome in 1554 (fol. 83r) suggests that the manuscript remained in Constantinople for at least a century after the city's fall. An inscription on folio 4r records that the psalter was given &quot;to the most pious metropolitan of Ephesus Lord … Anthimos in the island of Samos&quot; in 1639. Another, on folio 82r, demonstrates that it was still on Samos in 1672: having been &quot;presented by the holy sakellarios [treasurer] of Samos, the protopappas Lord John, successor of Lord Alexios, to the monastery of Prophet Elijah, [it was] rebound well, under the supervision of the present abbot of the said monastery, Joseph the hieromonk …&quot; As these inscriptions demonstrate, the careful preservation of such works was one of the means by which the artistic traditions of the Byzantine era were preserved and transferred to the Orthodox faithful after the loss of the empire's political power.\n\nText from: <a href=\"http://www.metmuseum.org/toah/hd/cnst/ho_2001.730.htm\">www.metmuseum.org/toah/hd/cnst/ho_2001.730.htm</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1205763145",
+      "taken": "2007-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1365365548"
+    },
+    "views": "1142",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2340754570-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-42474",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "manuscript",
+          "_content": "manuscript",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-2104",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "book",
+          "_content": "book",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2340754570-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixs6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2340754570/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

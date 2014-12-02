@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "7007680213",
+    "secret": "24cceb1e51",
+    "server": "7127",
+    "farm": 8,
+    "dateuploaded": "1325829747",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ostracon with an Epistle of Severos, Bishop of Antioch in the Metropolitan Museum of Art, January 2011"
+    },
+    "description": {
+      "_content": "Ostrakon with an Epistle of Severos, Bishop of Antioch\n\nDate: after 508–640 \n\nGeography: Made in, Byzantine Egypt \n\nCulture: Coptic \n\nMedium: Limestone with ink inscription \n\nDimensions: Overall: 3 13/16 x 4 1/8 x 7/8 in. (9.7 x 10.5 x 2.3 cm) \n\nClassification: Miscellany-Stone \n\nCredit Line: Rogers Fund, 1912 \n\nAccession Number: 12.180.62\n\nDescription:\n\nOstraca are texts written on broken pottery, which were employed when parchment was unavailable or too expensive. At Epiphanius a large number of ostraca were discovered in the monastery, including in its rubbish heaps; they record biblical verses, legal documents, sermons, financial accounts, school texts, and letters requesting assistance and prayers. Some reveal that, even at the southernmost border of the Empire, people were still aware of events in the capital, Constantinople.\n\nOstracon with an Epistle of Severos, Bishop of Antioch\n\nThe text refers to the troubles of Makedonios II, patriarch of Constantinople from 496 to 511. Severos was in the city in 508–511: Apa Severos unto Soterichos, [the] bishop of Cappadocia. But the Christ-loving and honored general Patricius having arisen, said unto him in just anger, “A synod that every one hath rejected, it befitteth thee not to bring forward the same again, by the action which thou hast approved.” That man answered and said, “I will bring (forward) nought prejudicing the synod. But that action I approved according to the command of the pious emperor, since I desired to bring certain monasteries in unto the faith with us.” But I answered and said, “His majesty knew not that thou didst desire to confirm the synod through that action.” The honored Christ-loving patrician Paul, the son of Vivianus, answered and said, “And in order that thou mightest reconcile four or five monasteries, thou wouldest renounce the whole unity of the churches?” The bishop Julian said moreover unto him, “Were it fitting we should draw up that action, since thou didst desire to reconcile monasteries unto thyself; yet who hath compelled thee to receive oath and signatures at the hands of the bishops that thou didst ordain, from time to time, that they would receive the synod of Chalcedon?”\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/170014206\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1700...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1325829747",
+      "taken": "2011-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1334431632"
+    },
+    "views": "243",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7007680213-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-139120",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fragment",
+          "_content": "fragment",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007680213-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7007680213/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

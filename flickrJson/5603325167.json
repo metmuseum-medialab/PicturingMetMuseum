@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "5603325167",
+    "secret": "109464a1ab",
+    "server": "5062",
+    "farm": 6,
+    "dateuploaded": "1301972679",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Marguerite-Therese Berard by Renoir in the Metropolitan Museum of Art, August 2010"
+    },
+    "description": {
+      "_content": "Artist:  Auguste Renoir (French, Limoges 1841–1919 Cagnes-sur-Mer)\n\nTitle:  Marguerite-Thérèse (Margot) Berard (1874–1956)\n\nDate:  1879\n\nMedium:  Oil on canvas\n\nDimensions:  16 1/8 x 12 3/4 in. (41 x 32.4 cm)\n\nClassification:  Paintings\n\nCredit Line:  Bequest of Stephen C. Clark, 1960\n\nAccession Number:  61.101.15\n\n\nGallery Label:\n\nRenoir depicted the five-year-old daughter of his devoted patron Paul Berard, a French diplomat and banker whom he met in the winter of 1878. The artist often spent his summers at the Berards' country home in Wargemont, near Dieppe, on the Normandy coast, where he painted decorative pictures for the house and a veritable family album of portraits, which range from formal commissions to more intimate works that reflect a genuine fondness for the four Berard children. According to Margot's nephew, Renoir painted this spirited portrait of her to &quot;cheer her up&quot; after a disagreeable lesson with her German tutor that had brought her to tears.        \n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/marguerite_therese_margot_berard_1874_1956_auguste_renoir//objectview.aspx?OID=110001876&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301972679",
+      "taken": "2010-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969358"
+    },
+    "views": "362",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5603325167-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-119001",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renoir",
+          "_content": "renoir",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603325167-18127",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Impressionism",
+          "_content": "impressionism",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5603325167/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

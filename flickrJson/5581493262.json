@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "5581493262",
+    "secret": "5d97340f0c",
+    "server": "5148",
+    "farm": 6,
+    "dateuploaded": "1301105968",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Card Players by Cezanne in the Metropolitan Museum of Art, August 2008"
+    },
+    "description": {
+      "_content": "The Card Players, 1890–92\nPaul Cézanne (French, 1839–1906)\nOil on canvas \n25 3/4 x 32 1/4 in. (65.4 x 81.9 cm)\nBequest of Stephen C. Clark, 1960 (61.101.1) \n\n\nThis scene of peasants playing cards was undertaken in the early 1890s as part of a painting campaign, made up of five distillations of the subject. Cézanne enlisted local farmhands to serve as models, and he may have drawn inspiration for his Provençal genre scene from a painting of the same theme by the Le Nain brothers that was in the museum in Aix. The largest and most complex of Cézanne's five Card Players is the version in the Barnes Foundation in Merion, Pennsylvania. Next comes the Metropolitan's picture, in which Cézanne tightened the composition, reducing the size by half and leaving out one figure. He continued to pare away extraneous details in each successive rendition (Courtauld Institute of Art Gallery, London; Musée d'Orsay, Paris; and private collection).\n\n\nText from:  <a href=\"http://www.metmuseum.org/toah/works-of-art/61.101.1\" rel=\"nofollow\">www.metmuseum.org/toah/works-of-art/61.101.1</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301105968",
+      "taken": "2008-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969433"
+    },
+    "views": "309",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5581493262-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-1482760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Post-Impressionism",
+          "_content": "postimpressionism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-92771",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Cezanne",
+          "_content": "cezanne",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-1677",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "table",
+          "_content": "table",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5581493262-2917",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "chair",
+          "_content": "chair",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5581493262/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

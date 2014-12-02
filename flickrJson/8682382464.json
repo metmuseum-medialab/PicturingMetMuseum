@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8682382464",
+    "secret": "6531e4d702",
+    "server": "8386",
+    "farm": 9,
+    "dateuploaded": "1366934726",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Identify the Painter (474)"
+    },
+    "description": {
+      "_content": "[This photograph is identify the painter (474)]\n.\nEdgar Degas     French,   1834-1917\nDetail from: <b><i>Russian Dancer  </i></b>, 1899\nPastel over charchoal on tracing paper    Signed (lower left): Degas\nIn 1899 Degas produced a series of compositions devoted to Russian dancers in which he fused color, line, and interlocking forms to create tapestrylike pictures.   Degas called them his “orgies of color”.  This is a study for one of the figures in a pastel of 1899 ( Private Collection).  Another work from the series is in the Lehman collection.\n1975.1.166)\nH.O.Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer,  1929\n29.100.556\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1366934726",
+      "taken": "2013-03-21 09:52:44",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1369448064"
+    },
+    "views": "389",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8682382464-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8682382464-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8682382464-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8682382464-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8682382464-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8682382464/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

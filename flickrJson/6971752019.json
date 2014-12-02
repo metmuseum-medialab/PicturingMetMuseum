@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "6971752019",
+    "secret": "9906acdf79",
+    "server": "7041",
+    "farm": 8,
+    "dateuploaded": "1328547226",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Plaque with Hercules and Achelous in the Form of a Bull in the Metropolitan Museum of Art, July 2011"
+    },
+    "description": {
+      "_content": "Hercules and Achelous (in the form of a bull)\n\nAttributed to the Master of the Martyrdom of St. Sebastian  (Austrian) \n\nDate: ca. 1670 \n\nCulture: Austrian \n\nMedium: Ivory \n\nDimensions: H. 3 in., W. 2 1/2 in. \n\nClassification: Sculpture-Miniature \n\nCredit Line: Purchase, Mrs. Sid R. Bass, Mrs. Oscar de la Renta and Mrs. Walter Annenberg Gifts, in honor of Mrs. Charles Wrightsman, 2003 \n\nAccession Number: 2003.235\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/120029871\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1200...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328547226",
+      "taken": "2011-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1334722442"
+    },
+    "views": "181",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6971752019-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-59918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hercules",
+          "_content": "hercules",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-400783",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Herakles",
+          "_content": "herakles",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-15945",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "hero",
+          "_content": "hero",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-9823",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bull",
+          "_content": "bull",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-30640",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Baroque",
+          "_content": "baroque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6971752019-7652",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ivory",
+          "_content": "ivory",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6971752019/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

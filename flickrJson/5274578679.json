@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "5274578679",
+    "secret": "f787ac7323",
+    "server": "5246",
+    "farm": 6,
+    "dateuploaded": "1292790744",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of The Night-hag Visiting Lapland Witches by Fuseli in the Metropolitan Museum of Art, May 2010"
+    },
+    "description": {
+      "_content": "Artist:  Henry Fuseli (Johann Heinrich Füssli) (Swiss, 1741–1825)\n\nTitle:  The Night-Hag Visiting Lapland Witches\n\nDate:  1796\n\nMedium:  Oil on canvas\n\nDimensions:  40 x 49 3/4 in. (101.6 x 126.4 cm)\n\nClassification:  Paintings\n\nCredit Line:  Purchase, Bequest of Lillian S. Timken, by exchange, and Victor Wilbour Memorial, The Alfred N. Punnett Endowment, Marquand and Charles B. Curtis Funds, 1980\n\nAccession Number:  1980.411\n\n\nGallery Label:  This canvas, first exhibited in 1799, was sold by the artist in 1808 to his biographer, John Knowles. It illustrates a passage from &quot;Paradise Lost,&quot; II (622–666) in which the hellhounds surrounding Sin are compared to those who &quot;follow the night-hag when, called, / In secret, riding through the air she comes, Lured with the smell of infant blood, to dance / With Lapland witches, while the laboring moon Eclipses at their charms.&quot; &quot;Night-hag&quot; is an epithet of the Greek goddess Hecate, who presided over witchcraft and magical rites.\n\n\nNotes:\n\nThis picture was originally exhibited in 1799 in Fuseli's so-called Milton Gallery under the title &quot;Lapland Orgies&quot;. It illustrates a simile in &quot;Paradise Lost&quot; (II:662–66) comparing the hounds of Hell surrounding Sin to those who &quot;follow the Night-Hag, when call'd / In secret, riding through the Air she comes / Lur'd with the smell of infant blood, to dance / With Lapland Witches, while the labouring Moon / Eclipses at thir charms.&quot; Night-Hag is an epithet of the Greek goddess Hecate, who was identified with the moon and was regarded as presiding over witchcraft and magical rites. She was believed to ride the air by night, and was also associated with nightmares.\n\nThe Milton Gallery was Fuseli's attempt to rival John Boydell's Shakespeare Gallery, opened in 1789, and Thomas Macklin's Poets Gallery, opened in 1788.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/the_night_hag_visiting_lapland_witches_henry_fuseli_johann_heinrich_fussli//objectview.aspx?OID=110000864&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1292790744",
+      "taken": "2010-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969644"
+    },
+    "views": "531",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5274578679-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-356779",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanticism",
+          "_content": "romanticism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-851581",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Fuseli",
+          "_content": "fuseli",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5274578679-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5274578679/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

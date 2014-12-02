@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6540738355",
+    "secret": "648764df7c",
+    "server": "7007",
+    "farm": 8,
+    "dateuploaded": "1324341059",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheAnnunciation_TheMET(3)"
+    },
+    "description": {
+      "_content": "Hans Memling\nNetherlandish, Seligenstadt, active by 1465, died 1494\nBruges\n\n<b><i> The Annunciation </i></b>\nOil on wood\nOne of the largest surviving Netherlandish  depictions of the Annunciation, this imposing painting may have been the left wing of a triptych commissioned by the Clugny family, whose coat of arms decorates the carpet and window.\n\nThe composition is based on a design by Rogier van der Weyden.  Possibly commissioned before his death in 1464, it was painted by Hans Memling who, technical evidence suggests, was a journeyman in Roger’s workshop before establishing himself in Bruges in 1465.\n\nGift of J.Pierpont Morgan, 1917\n17.190.7\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1324341059",
+      "taken": "2011-09-25 11:50:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411774289"
+    },
+    "views": "512",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628490874587",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "188",
+          "y": "171",
+          "w": "58",
+          "h": "49",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6540746987/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6540738355-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6540738355-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6540738355-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6540738355-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6540738355-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6540738355-1466432",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Hans Memling",
+          "_content": "hansmemling",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6540738355/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5411317475",
+    "secret": "2f488c2d08",
+    "server": "5174",
+    "farm": 6,
+    "dateuploaded": "1296688626",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "RegattaAtSainte_Adresse_TheMET (13)"
+    },
+    "description": {
+      "_content": "Claude Monet    French,  1840-1926\n\nDetail from:  <b><i>Regatta at Sainte-Adresse</i></b>   1867\nOil on canvas\nSigned (lower left): Claude Monet\n\n\n\nThis painting and &quot;The Beach at Sainte-Adresse&quot; (Art Institute of Chicago) were probably conceived as a pair. They are identical in size, and the point of view differs by only a few yards. Sainte-Adresse, the well-to-do suburb of Le Havre, was the home of Monet's father. Destitute, Monet spent the summer of 1867 with his father and his aunt Sophie Lecadre at the cost of abandoning his companion, Camille Doncieux, and their newborn son, Jean. Monet attended his birth in Paris on August 8 and returned to Sainte-Adresse on August 12.\n\nThe pair of paintings juxtaposes this sunny regatta, watched at high tide by well-dressed bourgeois, with an overcast scene at low tide, showing fishing boats hauled onto the beach peopled with sailors and workers. Since Monet never exhibited the paintings side by side, the contrast between them was not intended as a social manifesto but instead reflected differing conditions under which the same scene, convenient to his father's house, could be observed.\n\nBequest of William Church Osborn,  1951\n51.30.4\n\nFrom the placard: Metropolitan Museum of Art\n\nDetail:  W  91  1867\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296688626",
+      "taken": "2011-01-17 10:45:28",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335338921"
+    },
+    "views": "582",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5411317475-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5411317475-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5411317475-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5411317475-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5411317475-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5411317475-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5411317475/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

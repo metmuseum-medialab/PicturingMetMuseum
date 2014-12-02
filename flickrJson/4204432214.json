@@ -1,0 +1,160 @@
+{
+  "photo": {
+    "id": "4204432214",
+    "secret": "a8e4cb5aa8",
+    "server": "4042",
+    "farm": 5,
+    "dateuploaded": "1261427907",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "a0a7d53be1",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "41622030@N07",
+      "username": "Marina Alexis Parker",
+      "realname": "Marina Parker",
+      "location": "NJ, USA",
+      "iconserver": "3472",
+      "iconfarm": 4,
+      "path_alias": "marinaalexisparker"
+    },
+    "title": {
+      "_content": "Detail of Gustav Klimt's Mäda Primavesi 1912"
+    },
+    "description": {
+      "_content": "Gustav Klimt (Austrian, 1862–1918)\nMetropolitan Museum of Art Collection\n\n&quot;Mäda Primavesi was the daughter of the banker and industrialist Otto Primavesi, one of the financial backers of the Wiener Werkstätte, and the actress Eugenia Primavesi (née Butschek), whom Klimt painted in 1913. Young Mäda's portrait was executed in 1912. A series of preliminary pencil sketches, now in public and private collections, show that as the composition evolved, the artist experimented with alternative poses and background motifs. Ultimately, he selected an open, painterly treatment that contrasts with the highly stylized designs adapted for the backgrounds of his fin-de-siècle portraits. The lighthearted, decorative motifs seem particularly appropriate to a nine-year-old sitter.&quot;\n<a href=\"http://www.metmuseum.org/toah/hd/artn/ho_64.148.htm\" rel=\"nofollow\">Met Museum</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1261427907",
+      "taken": "2009-11-07 08:59:25",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1377882659"
+    },
+    "views": "3811",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "41600700-4204432214-61466",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "Gustav Klimt",
+          "_content": "gustavklimt",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-8165913",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "Mäda Primavesi",
+          "_content": "mädaprimavesi",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-24900",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "1912",
+          "_content": "1912",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-34307",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "potrait",
+          "_content": "potrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-1500",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-7963136",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "austrian artist",
+          "_content": "austrianartist",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-40270475",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "Vienna Secession movement",
+          "_content": "viennasecessionmovement",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-97327",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "metropolitan museum of art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-202756",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4204432214-109",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/marinaalexisparker/4204432214/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

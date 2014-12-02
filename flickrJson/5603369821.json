@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "5603369821",
+    "secret": "4fae3d9d93",
+    "server": "5265",
+    "farm": 6,
+    "dateuploaded": "1301972543",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of Countess Countess Alexander Nikolaevitch Lamsdorff by Winterhalter in the Metropolitan Museum of Art, May 2009"
+    },
+    "description": {
+      "_content": "Artist:  Franz Xaver Winterhalter (German, Menzenschwand 1805–1873 Frankfurt am Main)\n\nTitle:  Countess Alexander Nikolaevitch Lamsdorff (née Maria Ivanovna Beck, 1835–1866)\n\nDate:  1859\n\nMedium:  Oil on canvas\n\nDimensions:  57 1/4 x 45 1/4 in. (145.4 x 114.9 cm)\n\nClassification:  Paintings\n\nCredit Line:  Bequest of Miss Adelaide Milton de Groot (1876–1967), 1967\n\nAccession Number:  67.187.119\n\n\nGallery Label:\n\nAlthough trained in Germany, Winterhalter spent most of his adult life in Paris, where he became a favorite portraitist of European aristocrats. In 1841 alone, his sitters included the king and queen of Belgium; King Louis-Philippe of France; and Queen Maria Cristina of Spain. The following year, he added Marie-Amélie, queen of France, and Queen Victoria and Prince Albert of England to his roster of royal models. \n\nThe twenty-four-year-old countess depicted here was the wife of Alexander Nikolaevitch Lamsdorff, a Russian aristocrat and Francophile. The book of English poetry in her lap is thought to be a reference to her father, Ivan Alexandrovitch Beck, a poet and translator. Her choice of a fashionable day dress may have been suggested by Winterhalter, who is known to have advised his sitters on their wardrobe and posed them to their best advantage in his studio.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/countess_alexander_nikolaevitch_lamsdorff_nee_maria_franz_xaver_winterhalter//objectview.aspx?OID=110002396&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301972543",
+      "taken": "2009-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969357"
+    },
+    "views": "424",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5603369821-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-301620",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Winterhalter",
+          "_content": "winterhalter",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5603369821-4022",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "purple",
+          "_content": "purple",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5603369821/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

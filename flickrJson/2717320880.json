@@ -1,0 +1,357 @@
+{
+  "photo": {
+    "id": "2717320880",
+    "secret": "790c0c840d",
+    "server": "3229",
+    "farm": 4,
+    "dateuploaded": "1217433914",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Beaker with Birds and Animals in the Metropolitan Museum of Art, February 2008"
+    },
+    "description": {
+      "_content": "Beaker with Birds and Animals \nSilver\nThrace, lower Danube region\nThraco-Getian, 4th century BC\n\nAccession # 47.100.88\n\nThe scene depicts a row of stags, a goat, a bird, and a bird of prey attacking a fish and a hare.  On the base is a beast eating the leg of an animal while holding another in its claws.  A vessel almost identical in form and representation to this example was excavated at Agighiol in Romania.  The extraordinary and exotic stylization- for example birds' heads projecting from antlers-  is foreign to Western concepts and powerfully reflects Central Asian sensibilities and ideology.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1217433914",
+      "taken": "2008-02-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1411591853"
+    },
+    "views": "1200",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2717320880-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-1395",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "silver",
+          "_content": "silver",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-1417305",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Thracian",
+          "_content": "thracian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-70040328",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Getian",
+          "_content": "getian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-14467109",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Getae",
+          "_content": "getae",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-835577",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian",
+          "_content": "dacian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-69961229",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian art",
+          "_content": "dacianart",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-292758",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacia",
+          "_content": "dacia",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-8919992",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Lower Danube",
+          "_content": "lowerdanube",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-65437",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Beaker",
+          "_content": "beaker",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-70037440",
+          "author": "27203004@N02",
+          "authorname": "codrinb2001",
+          "raw": "Dacian mythology",
+          "_content": "dacianmythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-5666693",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "animal symbols",
+          "_content": "animalsymbols",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-23512",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "Celtic",
+          "_content": "celtic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-242298",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "influence",
+          "_content": "influence",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717320880-26319",
+          "author": "30817808@N00",
+          "authorname": "mikescottnz",
+          "raw": "Balkans?",
+          "_content": "balkans",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2717320880/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,121 @@
+{
+  "photo": {
+    "id": "6972168024",
+    "secret": "4a7fed83ec",
+    "server": "7036",
+    "farm": 8,
+    "dateuploaded": "1335524359",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Tyrolese Interior _TheMET(5)"
+    },
+    "description": {
+      "_content": "John Singer Sargent (1856 – 1925)\n<b><i> Tyrolese Interior </i></b>  1915\nOil on canvas\nDuring the summer of 1914, Sargent and some friends visited the Austrian Tyrol.  Austria’s declaration of war on Serbia in July marred the summer’s tranquility.  <i>Tyrolese Interior </i> was probably painted in or near Sankt Lorenzen, in an old castle that had long since been transformed into farmer’s quarters.  It shows a peasant family at their midday meal against a background filled with religious objects.  When the delivery of the ten watercolors Sargent sold to the Metropolitan in 1915 was delayed by the danger of transatlantic shipping, he offered to add to the lot this work, which he called “the best oil picture I did in Tirol [sic] last summer.”\nGeorge A. Hearn Fund, 1915\n15.142.1\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1335524359",
+      "taken": "2011-02-25 10:06:15",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335572374"
+    },
+    "views": "304",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629550310536",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "159",
+          "y": "184",
+          "w": "102",
+          "h": "71",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7117038209/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6972168024-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6972168024-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6972168024-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6972168024-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6972168024/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

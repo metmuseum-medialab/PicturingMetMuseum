@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "6123606637",
+    "secret": "279623b247",
+    "server": "6088",
+    "farm": 7,
+    "dateuploaded": "1315407700",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 270,
+    "originalsecret": "16a22fac3c",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "14331765@N02",
+      "username": "christiNYCa",
+      "realname": "",
+      "location": "New York City",
+      "iconserver": "2891",
+      "iconfarm": 3,
+      "path_alias": "christinyca"
+    },
+    "title": {
+      "_content": "NYC - Met Museum: Arts of Africa, Oceania and the Americas"
+    },
+    "description": {
+      "_content": "Title\nSeated Deity (Macuilxochitl)\nDate\n15th–early 16th century\nCulture\nAztec\nGeography\nMexico, Mesoamerica\nMedium\nBasalt\nDimensions\nH. 28 1/2 x W. 12 1/2 in. (72.4 x 31.8 cm)\nClassification\nStone-Sculpture\n\nDescription\nThis figure portrays Macuilxochitl, or &quot;5 Flower,&quot; the name of a day in the ritual calendar. A youthful male deity in the Aztec pantheon, he was associated with pleasure in music and dance, feasting and sexuality, and gambling. Burned incense offerings were presented to him by the players before the start of the game hoping for a favorable outcome. Overindulgence in pleasure was punished by misfortune and disease.\n\nMacuilxochitl is shown seated on a stool with his legs drawn toward him. His left arm rests across his knees while his right hand, now damaged, is supported by his left hand. It may have held a banner. He wears a loincloth, tied in front, and a crested headdress. On either side of the head are large roundels with hanging tassels. Circular ornaments embellish his ears. In manuscript illuminations, the god can be shown with a mouth ornament in the form of a hand, as here, where it is rendered in low relief. Macuilxochitl was closely related to Xochipilli, &quot;Prince of Flowers,&quot; another youthful deity who shares many of the same characteristics."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1315407700",
+      "taken": "2011-08-26 11:42:05",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1388989469"
+    },
+    "views": "1743",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "14311417-6123606637-202756",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-1154",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-53005",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-97327",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "metropolitan museum of art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-607",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-308",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-16802903",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "arts of africa",
+          "_content": "artsofafrica",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-106",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6123606637-5392",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/christinyca/6123606637/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

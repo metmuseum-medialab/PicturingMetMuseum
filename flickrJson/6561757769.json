@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "6561757769",
+    "secret": "00537df7fd",
+    "server": "7174",
+    "farm": 8,
+    "dateuploaded": "1324687466",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheAdorationofTheMagi_TheMET(4)"
+    },
+    "description": {
+      "_content": "Quentin Massys ( also Matsys or Metsys)\nNetherlandish, Leuven 1465/66-1530 Kiel, near Antwerp\n\n<b><i> The Adoration of the Magi </i></b>\nOil on wood\nDated (on pilaster): [15]26\nThis intentionally claustrophobic composition is characteristic of works produced by the first generation of Renaissance painters in Antwerp.  This scene is viewed up close, with half-length, gesticulating figures separated from the viewer by a fictive ledge.  Finely wrought goldsmith work—such as was actually produced in Antwerp—abounds.\nThe caricature-like features of the Magi and their retinue reveal Massys’s interest in the extreme physiognomic  types popularized by Leonardo da Vinci and made available to Northern artists through prints.  It was this interest in the psychology of physiognomy that made Massys such a gifted portraitist.\nJohn Stewart Kennedy Fund, 1911\n11.143\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1324687466",
+      "taken": "2011-09-25 11:55:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1324886878"
+    },
+    "views": "408",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628543981887",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "135",
+          "y": "120",
+          "w": "120",
+          "h": "99",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6561754277/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6561757769-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-7278",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Arts",
+          "_content": "arts",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-10289969",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Quentin Massys",
+          "_content": "quentinmassys",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6561757769-80733847",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_226",
+          "_content": "bench226",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6561757769/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

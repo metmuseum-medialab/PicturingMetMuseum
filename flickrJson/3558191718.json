@@ -1,0 +1,179 @@
+{
+  "photo": {
+    "id": "3558191718",
+    "secret": "a8f2dbb89a",
+    "server": "3576",
+    "farm": 4,
+    "dateuploaded": "1243123908",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "e2e8838f62",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "The Cathedrals of Wall Street, 1939"
+    },
+    "description": {
+      "_content": "The Cathedrals of Wall Street, 1939\nFlorine Stettheimer (American, 1871-­1944)\nOil on canvas; 60 x 50 in. (152.4 x 127 cm)\nThe Metropolitan Museum of Art, New York\nGift of Ettie Stettheimer, 1953 (53.24.2) \n\nThe Cathedrals of Wall Street was conceived as a commemoration of 150th anniversary of George Washington's inauguration and of the New York World's Fair of 1939­40, which was dedicated to Washington. Following the model of the other paintings in the Cathedrals series, Stettheimer boldly displays the tumultuous and noisy relationship between politics and economics: it is not clear from her complex composition of towering political and financial icons whether government is a function of the economy or vice versa, nor what the role of patriotic citizens might be.\n\n<i>I kind of dig this outsider art. I know it's probably not outsider art, but it feels like it.</i>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1243123908",
+      "taken": "2009-05-22 13:51:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1383972279"
+    },
+    "views": "2549",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157618827034220",
+          "author": "42873250@N00",
+          "authorname": "dcbprime",
+          "x": "10",
+          "y": "279",
+          "w": "87",
+          "h": "26",
+          "_content": "Say what?!?"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3558191718-229008",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "The",
+          "_content": "the",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-7717",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Cathedrals",
+          "_content": "cathedrals",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-1072",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Wall",
+          "_content": "wall",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-85",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Street",
+          "_content": "street",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-334795",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Florine",
+          "_content": "florine",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-1613635",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Stettheimer",
+          "_content": "stettheimer",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-67211",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1939",
+          "_content": "1939",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-117616",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "glory hole",
+          "_content": "gloryhole",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3558191718-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3558191718/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

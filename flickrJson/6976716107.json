@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "6976716107",
+    "secret": "27df6f7fd9",
+    "server": "7196",
+    "farm": 8,
+    "dateuploaded": "1328728006",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Standard Bearer by Rembrandt in the Metropolitan Museum of Art, December 2010"
+    },
+    "description": {
+      "_content": "The Standard Bearer (Floris Soop, 1604–1657)\n\nRembrandt (Rembrandt van Rijn)  (Dutch, Leiden 1606–1669 Amsterdam) \n\nDate: 1654 \n\nMedium: Oil on canvas \n\nDimensions: 55 1/4 x 45 1/4in. (140.3 x 114.9cm) \n\nClassification: Paintings \n\nCredit Line: The Jules Bache Collection, 1949 \n\nAccession Number: 49.7.35\n\nGallery Label: \n\nThe flag, the plume in the hat, and the tooled leather baldric (or sword-belt) indicate that the figure is an ensign in one of Amsterdam's civic guard companies. He has been identified convincingly as Floris Soop (1604–1657), a wealthy bachelor who owned 140 paintings at the time of his death. Scholars have disputed the extent to which the portrait was painted by Rembrandt himself, a question complicated by its abraded and darkened condition. The picture has been well known since the eighteenth century, when it was owned by Sir Joshua Reynolds.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/110001845\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1100...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328728006",
+      "taken": "2010-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1332484158"
+    },
+    "views": "275",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6976716107-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-884",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Dutch",
+          "_content": "dutch",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-30640",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Baroque",
+          "_content": "baroque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-49925",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Rembrandt",
+          "_content": "rembrandt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6976716107-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6976716107/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

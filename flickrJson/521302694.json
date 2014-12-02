@@ -1,0 +1,391 @@
+{
+  "photo": {
+    "id": "521302694",
+    "secret": "107b53a6ff",
+    "server": "252",
+    "farm": 1,
+    "dateuploaded": "1180523447",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "cee0836226",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "70323761@N00",
+      "username": "wallyg",
+      "realname": "Wally Gobetz",
+      "location": "jersey city, nj, us",
+      "iconserver": "5449",
+      "iconfarm": 6,
+      "path_alias": "wallyg"
+    },
+    "title": {
+      "_content": "NYC - Metropolitan Museum of Art - Bust of Emperor Lucius Verus"
+    },
+    "description": {
+      "_content": "<i>Marble portrait of the co-emperor Lucius Verus</i>\nRoman, Antonine period, A.D. 161-169\n\nThis fragmentary head comes from an over-life-sized portrait bust or statue of Lucius Verus, co-emperor with Marcus Aurelius (r. A.D. 161-180).  The portrait shown here has a leonine majesty that gives little indication of his reputation as a n idle and dissolute ruler.  It is typical of Antonine style in its use of luxuriant drillwork in the hair and engraved eyes to dramatize the basically naturalistic image.\n\nRogers Fund, 1913 (13.227.3)\n\n**\nThe April 20, 2007 unveiling of the 30,000 square foot Greek and Roman Galleries concluded a 15-year project and returned thousands of works from the Museum’s permanent collection to public view. Over 5,300 objects, created between about 900 B.C. and the early fourth century A.D., are displayed, tracing the parallel stories of the evolution of Greek art in the Hellenistic period and the arts of southern Italy and Etruria and culminating in the rich and varied world of the Roman Empire from from the Late Republican period and the Golden Age of Augustus’s Principate to the conversion of Constantine the Great in A.D. 312.  The centerpiece of the new installation is the <a href=\"http://www.flickr.com/photos/wallyg/522663013/\">Leon Levy and Shelby White Court</a>, a monumental, peristyle cour court with a soaring two-story atrium that links the various galleries and themes. \n\nThe <a href=\"http://www.flickr.com/photos/wallyg/246896968/\">Metropolitan Museum of Art</a>'s permanent collection contains more than two million works of art from around the world.  It opened its doors on February 20, 1872, housed in a building located at 681 Fifth Avenue in New York City. Under their guidance of John Taylor Johnston and George Palmer Putnam, the Met's holdings, initially consisting of a Roman stone sarcophagus and 174 mostly European paintings, quickly outgrew the available space. In 1873, occasioned by the Met's purchase of the Cesnola Collection of Cypriot antiquities, the museum decamped from Fifth Avenue and took up residence at the Douglas Mansion on West 14th Street. However, these new accommodations were temporary; after negotiations with the city of New York, the Met acquired land on the east side of <a href=\"http://www.flickr.com/photos/wallyg/sets/72157594192309086/\">Central Park</a>, where it built its permanent home, a red-brick Gothic Revival stone &quot;mausoleum&quot; designed by American architects Calvert Vaux and Jacob Wrey Mold.  As of 2006, the Met measures almost a quarter mile long and occupies more than two million square feet, more than 20 times the size of the original 1880 building.\n\nIn 2007, the Metropolitan Museum of Art was ranked #17 on the AIA 150 America's Favorite Architecture list.\n\nThe Metropolitan Museum of Art was designated a landmark by the New York City Landmarks Preservation Commission in 1967.  The interior was designated in 1977. \n\nNational Historic  Register #86003556"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1180523447",
+      "taken": "2007-05-28 15:32:57",
+      "takengranularity": "0",
+      "takenunknown": "0",
+      "lastupdate": "1416447607"
+    },
+    "views": "4959",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1713009-521302694-12435",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "bust",
+          "_content": "bust",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-1000",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-308",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-3098240",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "lucius verus",
+          "_content": "luciusverus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-4745",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-73957",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "emperor",
+          "_content": "emperor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-97327",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-59219",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-1154",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-106",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-22328",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gothamist",
+          "_content": "gothamist",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-109",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-5392",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-6792355",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "aia150",
+          "_content": "aia150",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-9012",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "landmark",
+          "_content": "landmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-29835",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-500713",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum mile",
+          "_content": "museummile",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-63586",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "the met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-12629",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ues",
+          "_content": "ues",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-79338",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "upper east side",
+          "_content": "uppereastside",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-7952964",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NYCLPC",
+          "_content": "nyclpc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-7952963",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city landmarks preservation commission",
+          "_content": "newyorkcitylandmarkspreservationcommission",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-11658237",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Leon Levy and Shelby White Court",
+          "_content": "leonlevyandshelbywhitecourt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-10742639",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Greek and Roman Galleries",
+          "_content": "greekandromangalleries",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-59975",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "roman empire",
+          "_content": "romanempire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-440",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-439",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ny",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-907511",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Register of Historic Places",
+          "_content": "nationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-2094603",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NRHP",
+          "_content": "nrhp",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-7396769",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Register of Historic Places",
+          "_content": "usnationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-703196",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Historic Landmark",
+          "_content": "nationalhistoriclandmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-2001",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NHL",
+          "_content": "nhl",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-521302694-1572208",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Historic Landmark",
+          "_content": "usnationalhistoriclandmark",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.778286,
+      "longitude": -73.963437,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/wallyg/521302694/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

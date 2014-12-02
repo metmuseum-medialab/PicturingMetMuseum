@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "5563097160",
+    "secret": "0b562ee4ef",
+    "server": "5148",
+    "farm": 6,
+    "dateuploaded": "1301192560",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Duke of Dorset’s Hunter with a Groom and a Dog_TheMET (7)"
+    },
+    "description": {
+      "_content": "\n\nGeorge Stubbs   English,  1724-1806\n\n<b><i> The Duke of Dorset’s Hunter with a Groom and a Dog </i></b>\nOil on canvas\nSigned and dated (lower right):\nGeo. Stubbs / pinxit.  1768\n\nStubb’s cool and accurate portraits of wild animals, dogs, and most notably horses with their owners, trainers, riders, or stable hands, appealed to and were much sought after by prominent sporting enthusiasts.  It may be seen that he was also a gifted landscape painter.  Although he received little critical attention from his contemporaries, Stubbs is now regarded as one of the most innovative English artists of the eighteenth century.\n\nBequest of Mrs. Paul Moore, 1980\n1980.468\n\nFrom the placard: Metropolitan Museum of Art.\n\n( for flickr friend Natasha )\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301192560",
+      "taken": "2011-03-05 11:08:36",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1413939065"
+    },
+    "views": "560",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157626235563907",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "94",
+          "y": "206",
+          "w": "185",
+          "h": "123",
+          "_content": "<b><a href=\"http://www.flickr.com/photos/rverc/5562516903/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 1
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5563097160-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5563097160-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5563097160-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5563097160-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5563097160-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5563097160-68656610",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_215",
+          "_content": "bench215",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5563097160/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

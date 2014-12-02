@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6835671300",
+    "secret": "9e96144b27",
+    "server": "7197",
+    "farm": 8,
+    "dateuploaded": "1331726954",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "JungleTales_TheMET(6)"
+    },
+    "description": {
+      "_content": "James Jebusa Shannon (1862 – 1923)\n\n<b><i> Jungle Tales (Contes de la jungle)</i></b>\n1895\nOil on canvas\n\nShannon studied in London during the 1880s and remained there, enjoying success as a society portraitist and figure painter. ( in 1922 he renounced his United States citizenship in order to accept a knighthood).  <i>Jungle Tales</i> portrays the artist’s wife reading to their daughter, Kitty, shown in profile, and another child.  The painting’s title and date and its London origin suggest that the little group is captivated by Rudyard Kipling’s <i>Jungle Book</i>, which had appeared in 1894.  The intensely realistic faces contrast with the decorative patterns of the dotted-muslin and lace costumes and the elaborate design on the brilliant blue backdrop.\n\nArthur Hoppock Hearn Fund, 1913\n13.143.1\n\nFrom the placard:  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6835671300&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n\n..\n<b><a href=\"http://www.metmuseum.org/Collections/search-the-collections/20012923?rpp=20&amp;pg=1&amp;gallerynos=768&amp;ft=*&amp;pos=1\" rel=\"nofollow\">Metropolitan Museum Link<a></a></a></b>\n.\n.\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1331726954",
+      "taken": "2011-02-24 11:47:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1390787105"
+    },
+    "views": "387",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629584459097",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "142",
+          "y": "57",
+          "w": "149",
+          "h": "88",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6973902711/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6835671300-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6835671300-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6835671300-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6835671300-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6835671300-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6835671300-86041075",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Americna_Wing",
+          "_content": "americnawing",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6835671300/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

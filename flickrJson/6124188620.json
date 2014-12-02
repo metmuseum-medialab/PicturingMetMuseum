@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "6124188620",
+    "secret": "c5b29722bd",
+    "server": "6070",
+    "farm": 7,
+    "dateuploaded": "1315408525",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 270,
+    "originalsecret": "c0b0795ae5",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "14331765@N02",
+      "username": "christiNYCa",
+      "realname": "",
+      "location": "New York City",
+      "iconserver": "2891",
+      "iconfarm": 3,
+      "path_alias": "christinyca"
+    },
+    "title": {
+      "_content": "NYC - Met Museum: Arts of Africa, Oceania and the Americas"
+    },
+    "description": {
+      "_content": "Title\nCommemorative Figure: Seated Male\nDate\n19th–20th century\nCulture\nKongo peoples, Yombe group\nGeography\nAngola or Democratic Republic of Congo\nMedium\nWood, glass, metal, kaolin\nDimensions\nH. 11 1/2 in. (29.2 cm)\nClassification\nWood-Sculpture\n\nIn Kongo culture, figurative sculptures delineate and concretize the threshold between the worlds of the living and the dead. Displayed in shrines, a series of wood sculptures depicting a male figure flanked by a courtly entourage of wives, attendants, and retainers served to honor and commemorate the memory of important individuals. Such representations are part of a complex of art forms which afforded access to influential ancestors and which were also appreciated for their aesthetic excellence.\n\nThis idealized image of a leader once constituted the central protagonist of such a grouping. His meditative stance reflects simultaneously upon his destiny in the other world and his ongoing responsibilities to the living. The figure's chiefly identity is revealed through both the distinctive posture and the signs of rank that include a patterned hat, filed teeth, and decorative scarification patterns.\n\nThe Kongo artist responsible for this work captured a great deal of expression in the figure's contemplative facial features; the bold rendering of the torso and the positioning of the arms also convey a sense of dynamism in repose."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1315408525",
+      "taken": "2011-08-26 11:47:28",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1366993798"
+    },
+    "views": "1542",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "14311417-6124188620-202756",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-1154",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-53005",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-97327",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "metropolitan museum of art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-607",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-308",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-16802903",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "arts of africa",
+          "_content": "artsofafrica",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-106",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "14311417-6124188620-5392",
+          "author": "14331765@N02",
+          "authorname": "christiNYCa",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/christinyca/6124188620/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

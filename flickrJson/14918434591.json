@@ -1,0 +1,79 @@
+{
+  "photo": {
+    "id": "14918434591",
+    "secret": "41197e5b32",
+    "server": "5589",
+    "farm": 6,
+    "dateuploaded": "1408063688",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "624d9bc148",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "56100553@N03",
+      "username": "helendwall",
+      "realname": "",
+      "location": "",
+      "iconserver": "3912",
+      "iconfarm": 4,
+      "path_alias": "helendwall"
+    },
+    "title": {
+      "_content": "Autumn in the Guise of Priapus"
+    },
+    "description": {
+      "_content": "Autumn in the Guise of Priapus (one of a pair)\nPietro Bernini \n(Italian, 1562–1629)\nArtist: Assisted by Gian Lorenzo Bernini (Italian, Naples 1598–1680 Rome)\nDate: 1616–17\nCulture: Italian, Rome\nMedium: Marble\nDimensions: confirmed: 89 5/8 × 30 5/8 × 27 5/8 in., 2531 lb. (227.6 × 77.8 × 70.2 cm, 1148.1 kg) Pedestal, confirmed: 42 1/2 × 30 × 30 in., 2725 lb. (108 × 76.2 × 76.2 cm, 1236.1 kg)\nClassification: Sculpture\nCredit Line: Purchase, The Annenberg Foundation Gift, 1990\nAccession Number: 1990.53.2\n\n<a href=\"http://www.metmuseum.org/collection/the-collection-online/search/209466\" rel=\"nofollow\">www.metmuseum.org/collection/the-collection-online/search...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1408063688",
+      "taken": "2011-11-20 15:57:40",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410282095"
+    },
+    "views": "12",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/helendwall/14918434591/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

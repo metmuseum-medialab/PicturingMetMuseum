@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6876077542",
+    "secret": "9fe8f8d04e",
+    "server": "6034",
+    "farm": 7,
+    "dateuploaded": "1332887171",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "StillLifeWithPeaches_TheMET(5)"
+    },
+    "description": {
+      "_content": "Auguste Renoir\nFrench, 1841-1919\n\n<b><i> Still Life with Peaches </i></b>, 1881  \nOil on canvas\nSigned and dated (lower right): Renoir.81\n\nReviewers of the 1882 Impressiionist exhibition were dazzled by this “very appealing” still life of “a certain fruit bowl of <i>Peaches </i>, whose velvety execution verges on a trompe  l’oeil.”  Painted the previous summer at the country house of his patron Paul Berard, it is one of two still lifes that feature the same  <i>faïence jardinière;</i> the other version also belongs to the Metropolitan Museum.\nBequest of Stephen C. Clark,  1960\n61.101.12\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332887171",
+      "taken": "2011-02-24 15:33:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1351540552"
+    },
+    "views": "326",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629683725765",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "172",
+          "y": "113",
+          "w": "73",
+          "h": "45",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6873131954/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6876077542-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6876077542-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6876077542-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6876077542-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6876077542-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6876077542-119001",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Renoir",
+          "_content": "renoir",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6876077542/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

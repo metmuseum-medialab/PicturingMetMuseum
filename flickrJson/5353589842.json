@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5353589842",
+    "secret": "92bd03ea38",
+    "server": "5083",
+    "farm": 6,
+    "dateuploaded": "1294971359",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Mother and Child by the Sea_TheMET(1)"
+    },
+    "description": {
+      "_content": "Johan Christian Dahl   Norwegian, 1788-1857\n\n‘Mother and Child by the Sea, 1830\nOil on canvas\nSigned and dated indistinctly (lower left): [?J] Dahl 1830.\n\nGift of Eugen V. Thaw, 2007\n2007. 164.2\n\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294971359",
+      "taken": "2010-11-06 11:03:06",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1295379900"
+    },
+    "views": "637",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5353589842-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353589842-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353589842-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353589842-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353589842-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353589842-668380",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon",
+          "_content": "barbizon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5353589842/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

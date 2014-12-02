@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "5172095297",
+    "secret": "2631077de0",
+    "server": "4107",
+    "farm": 5,
+    "dateuploaded": "1289676526",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Plaque with Christ and the Symbols of the Four Evangelists in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Title:  Plaque with Christ and the Symbols of the Four Evangelists\n\nDate:  ca. 1050\n\nGeography:  Made in possibly Fulda, Germany\n\nCulture:  Ottonian\n\nMedium:  Ivory\n\nDimensions:  Overall: 6 15/16 x 3 7/8 x 5/16 in. (17.7 x 9.8 x 0.8 cm)\n\nClassification:  Ivories\n\nCredit Line:  Gift of J. Pierpont Morgan, 1917\n\nAccession Number:  17.190.51\n\nDescription:\n\nChrist’s arms are outstretched to display his wounds. The seven cloud-like forms on the periphery of the central medallion may refer to the seven gifts of the Holy Spirit. The style and composition of the subject suggest a close link to manuscript illuminations produced in the scriptorium of the Benedictine monastery at Fulda, a leading center of learning during the Ottonian period.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/medieval_art/plaque_with_christ_and_the_symbols_of_the_four_evangelists//objectview.aspx?OID=170004358&amp;collID=17&amp;dd1=17\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/mediev...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1289676526",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1335824818"
+    },
+    "views": "382",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5172095297-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-7652",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ivory",
+          "_content": "ivory",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-1272",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plaque",
+          "_content": "plaque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5172095297-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5172095297/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

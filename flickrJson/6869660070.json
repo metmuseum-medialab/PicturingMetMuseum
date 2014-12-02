@@ -1,0 +1,153 @@
+{
+  "photo": {
+    "id": "6869660070",
+    "secret": "ea6bfca23f",
+    "server": "6032",
+    "farm": 7,
+    "dateuploaded": "1332718476",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Beeches_TheMET(5)"
+    },
+    "description": {
+      "_content": "Asher B. Durand (1796-1886)\n<b><i> The Beeches </i></b>\n1845\nOil on canvas\n\nDurand was elected president of New York’s National Academy of Design in 1845 and submitted this monumental landscape of a wood framing a deep view of water, hills , and vale to the academy’s annual exhibition the following year.  For his debut in the prestigious post, Durand relied on large scale and a vertical format to transmute an image of daily country life, complete with a shepherd leading a flock along a dusty path, into a heroic American pastoral.  He signaled the presence of poetic content by drenching the view in mellow light.  The  title refers to the large, mossy tree inhabiting the foreground, which is also recorded in Durand’s on-site study for the painting.\n\nBequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914\n15.30.59\n\nFrom the placard:  Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332718476",
+      "taken": "2011-02-25 12:24:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410696276"
+    },
+    "views": "629",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629303355208",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "235",
+          "y": "350",
+          "w": "78",
+          "h": "50",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7014304395/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6869660070-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-25273201",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Asher B. Durand",
+          "_content": "asherbdurand",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6869660070-85642339",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_507",
+          "_content": "bench507",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6869660070/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

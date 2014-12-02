@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "5150350964",
+    "secret": "896549d1b4",
+    "server": "4124",
+    "farm": 5,
+    "dateuploaded": "1283706111",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Reliquary Crucifix in the Metropolitan Museum of Art, March 2009"
+    },
+    "description": {
+      "_content": "Title:  Reliquary Crucifix\n\nDate:  ca. 1125–75\n\nGeography:  Made in Spain\n\nCulture:  North Spanish\n\nMedium:  Cross-silver, silver-gilt, niello; Corpus-Ivory, gilding\n\nDimensions:  Overall: 10 1/2 x 7 1/16 x 15/16 in. (26.7 x 18 x 2.4 cm) Ivory Corpus: 5 13/16 x 5 11/16 x 7/8 in. (14.8 x 14.4 x 2.2 cm)\n\nClassification:  Ivories\n\nCredit Line:  Gift of J. Pierpont Morgan, 1917\n\nAccession Number:  17.190.221\n\nOn View\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/medieval_art/reliquary_crucifix//objectview.aspx?OID=170004093&amp;collID=17&amp;dd1=17\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/mediev...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283706111",
+      "taken": "2009-03-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1323530948"
+    },
+    "views": "306",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5150350964-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-4035",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "cross",
+          "_content": "cross",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-252766",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "reliquary",
+          "_content": "reliquary",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-35997",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanesque",
+          "_content": "romanesque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-12464",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Spanish",
+          "_content": "spanish",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-7652",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ivory",
+          "_content": "ivory",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-1395",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "silver",
+          "_content": "silver",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5150350964-1990",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "gold",
+          "_content": "gold",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5150350964/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

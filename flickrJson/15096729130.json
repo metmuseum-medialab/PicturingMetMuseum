@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "15096729130",
+    "secret": "99954afb51",
+    "server": "2941",
+    "farm": 3,
+    "dateuploaded": "1411091858",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Selvaggia Sassetti  (born 1470) TheMET(6).JPG"
+    },
+    "description": {
+      "_content": "Week 2 Pearls  (656-660)\nDavide Ghirlandaio  ( David Bigordi)     Italian,  Florence   1452-1525\n<b><i>Selvaggia Sassetti  (born 1470) </i></b>,   ca. 1487-88\nTempera on wood\nProbably painted by Donenico Ghirlandaio’s brother Davide, the sitter of this striking portrait has been identified as the fifth daughter of the banker Francesco Sassetti ( he had seven daughters in all).  The occasion may have been her marriage to Simone d’Amerigo Carnesecchi in 1488.  Her well-to-do clothes include a coral necklace with a gold pendant with a red stone and three pearls.  The three-quarter view and the manner in which the bust is cut off, with the arms acting as supports, remind one of sculpted portrait busts.  The fine frame is of the sixteenth century.\nThe Friedsam Collection, Bequest of Michael Friedsam, 1931\n32.100.71\nFrom the placard:  Metropolitan Museum of Art\n\n.\n<a href=\"http://www.metmuseum.org/\" rel=\"nofollow\">www.metmuseum.org/</a>\n<a href=\"http://en.wikipedia.org/wiki/Davide_Ghirlandaio\" rel=\"nofollow\">en.wikipedia.org/wiki/Davide_Ghirlandaio</a>\n<a href=\"http://www.nationalgallery.org.uk/artists/david-ghirlandaio\" rel=\"nofollow\">www.nationalgallery.org.uk/artists/david-ghirlandaio</a>\n<a href=\"http://www.metmuseum.org/collection/the-collection-online/search/436491\" rel=\"nofollow\">www.metmuseum.org/collection/the-collection-online/search...</a>\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1411091858",
+      "taken": "2014-03-08 11:33:40",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411640420"
+    },
+    "views": "377",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-15096729130-278",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15096729130-2871",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15096729130-9143",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "jewelry",
+          "_content": "jewelry",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15096729130-305590",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "15thcentury",
+          "_content": "15thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15096729130-2333",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "florence",
+          "_content": "florence",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15096729130-202756",
+          "author": "92033577@N00",
+          "authorname": "mystuart",
+          "raw": "metmuseum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/15096729130/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

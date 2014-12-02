@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7070382649",
+    "secret": "20152feb64",
+    "server": "7277",
+    "farm": 8,
+    "dateuploaded": "1334228406",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ChildrenInWoods_TheMET(8)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter (19)]\n\nFrank W. Benson 1862-1951\nDetail from: <b><i> Children in Woods </i></b>  1905\nOil on canvas\n\nBenson began to experiment with plein-air painting in the late 1890s, often depicting his own children out of doors.  This canvas portrays his three daughters near the family’s summer retreat at North Haven,  Maine.  Eleanor, the eldest, recalled:  “ When we were in North Haven, Papa would often have us put on our best white dresses and then ask us to sit in the grass or play in the woods.  We thought it was silly and the maids made such a fuss when they saw our clothes afterwards.”  Benson permitted his children to read or play cards while posing but disguised these diversions in his final compositions.\nBequest of Miss Adelaide Milton de Groot (1876-1967). 1967\n67.187.210\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334228406",
+      "taken": "2011-02-25 10:30:16",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334702367"
+    },
+    "views": "305",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7070382649-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7070382649-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7070382649-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7070382649-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7070382649/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

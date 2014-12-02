@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "6082770135",
+    "secret": "22b401e568",
+    "server": "6203",
+    "farm": 7,
+    "dateuploaded": "1314120105",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Head of an Oba in the Metropolitan Museum of Art, December 2010"
+    },
+    "description": {
+      "_content": "Title:  Head of an Oba\n\nDate:  19th century\n\nCulture:  Edo peoples\n\nGeography:  Nigeria, Court of Benin\n\nMedium:  Brass\n\nDimensions:  H. 13 x Diam. 11 1/4 in. (33 x 28.6 cm)\n\nClassification:  Metal-Sculpture\n\nCredit Line:  Bequest of Alice K. Bache, 1977\n\nAccession Number:  1977.187.37\n\n\nDescription:\n\nIn honoring the royal ancestors, the cast-brass heads refer to the special role of the head in directing not only the body but also a person's success in life. Taken further, the welfare of the entire kingdom depends upon the king's head, which is itself the object of worship. The placement of brass heads on the ancestral altar is a vivid reminder of the oba's role in successfully guiding the kingdom throughout his reign.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/arts_of_africa%2C_oceania%2C_and_the_americas/head_of_an_oba//objectview.aspx?OID=50002862&amp;collID=5&amp;dd1=5\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/arts_o...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1314120105",
+      "taken": "2010-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1344938356"
+    },
+    "views": "213",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6082770135-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-5355",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "African",
+          "_content": "african",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-4922",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "head",
+          "_content": "head",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-23965",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Benin",
+          "_content": "benin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-37776",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "brass",
+          "_content": "brass",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770135-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6082770135/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

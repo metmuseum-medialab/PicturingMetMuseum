@@ -1,0 +1,136 @@
+{
+  "photo": {
+    "id": "14548910064",
+    "secret": "3e2717bf57",
+    "server": "3909",
+    "farm": 4,
+    "dateuploaded": "1404220533",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "5bb6f82fe4",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0946 - Le Caravage, 1571-1610, Les Musiciens, 1595, dét., The Metropolitan Museum of Art, New York City"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1404220533",
+      "taken": "2014-05-03 23:38:34",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1409063588"
+    },
+    "views": "513",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14548910064-17804854",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Le Caravage",
+          "_content": "lecaravage",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14548910064-52607",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Caravaggio",
+          "_content": "caravaggio",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14548910064-1684650",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Merisi",
+          "_content": "merisi",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14548910064-15105549",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "The Musicians",
+          "_content": "themusicians",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14548910064-17283745",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "les Musiciens",
+          "_content": "lesmusiciens",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14548910064-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14548910064-440",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": false
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14548910064/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

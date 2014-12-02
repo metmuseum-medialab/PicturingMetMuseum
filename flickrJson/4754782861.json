@@ -1,0 +1,239 @@
+{
+  "photo": {
+    "id": "4754782861",
+    "secret": "c9b26f01d4",
+    "server": "4082",
+    "farm": 5,
+    "dateuploaded": "1278089464",
+    "isfavorite": 0,
+    "license": "2",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "6c56a76acc",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "28110584@N04",
+      "username": "IslesPunkFan",
+      "realname": "Neil R",
+      "location": "Long Island, New York, USA",
+      "iconserver": "2876",
+      "iconfarm": 3,
+      "path_alias": "islespunkfan"
+    },
+    "title": {
+      "_content": "Loggia from Laurelton Hall, Oyster Bay, New York"
+    },
+    "description": {
+      "_content": "Louis C. Tiffany\nTiffany Studios\n\nNew York City, 1902-5\nFavrile glass, limestone, ceramic material, granite\n\n<a href=\"http://www.metmuseum.org/toah/works-of-art/1978.10.1\" rel=\"nofollow\">www.metmuseum.org/toah/works-of-art/1978.10.1</a>\n\nPhoto taken on a trip to the Metropolitan Museum of Art on 3/5/10."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1278089464",
+      "taken": "2010-03-05 15:44:10",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1400889794"
+    },
+    "views": "494",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "28078445-4754782861-29750",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-59219",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Metropolitan Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-97327",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-440",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-439",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-1154",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-607",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-610",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "history",
+          "_content": "history",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-106",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-5392",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-194632",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "loggia",
+          "_content": "loggia",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-35899712",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Laurelton Hall",
+          "_content": "laureltonhall",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-547871",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Oyster Bay",
+          "_content": "oysterbay",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-36385",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "Tiffany",
+          "_content": "tiffany",
+          "machine_tag": 0
+        },
+        {
+          "id": "28078445-4754782861-7045",
+          "author": "28110584@N04",
+          "authorname": "IslesPunkFan",
+          "raw": "columns",
+          "_content": "columns",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779485,
+      "longitude": -73.963479,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/islespunkfan/4754782861/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

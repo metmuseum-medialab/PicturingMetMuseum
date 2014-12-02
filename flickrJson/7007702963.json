@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "7007702963",
+    "secret": "2698dd9e21",
+    "server": "7068",
+    "farm": 8,
+    "dateuploaded": "1328681880",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Pink Dress by Morisot in the Metropolitan Museum of Art, August 2010"
+    },
+    "description": {
+      "_content": "Artist:  Berthe Morisot (French, 1841–1895)\n\nTitle:  The Pink Dress (Albertie-Marguerite Carré, later Madame Ferdinand-Henri Himmes, 1854–1935)\n\nDate: ca. 1870\n\nMedium:  Oil on canvas\n\nDimensions:  21 1/2 x 26 1/2 in. (54.6 x 67.3 cm)\n\nClassification:  Paintings\n\nCredit Line:  The Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002\n\nAccession Number:  2003.20.8\n\nOn View\n\nGallery Label: \n\nThe fashionable portraitist Jacques-Emile Blanche, a friend of Berthe Morisot, recollected how and when this painting was made at the Villa Fodor, the family home of Marguerite Carré, the sitter: &quot;One day, she [Morisot] painted before my eyes a charming portrait of Mlle Marguerite in a light pink dress; indeed, the entire canvas was light. Here Berthe Morisot was fully herself, already eliminating from nature both shadows and half-tones.&quot; But the painting required several sessions, since Morisot &quot;constantly changed her mind and painted over what she had done once the session was at an end . . . .&quot; &quot;The Pink Dress&quot; is one of the artist's few surviving early works.        \n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/the_pink_dress_albertie_marguerite_carre_later_madame_berthe_morisot//objectview.aspx?OID=110002465&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328681880",
+      "taken": "2010-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1332609726"
+    },
+    "views": "283",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7007702963-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-18127",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Impressionism",
+          "_content": "impressionism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-818342",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Morisot",
+          "_content": "morisot",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007702963-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7007702963/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

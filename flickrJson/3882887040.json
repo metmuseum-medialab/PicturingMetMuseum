@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "3882887040",
+    "secret": "16e928ed0e",
+    "server": "3480",
+    "farm": 4,
+    "dateuploaded": "1251932465",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheLoveSong_TheMET (10)"
+    },
+    "description": {
+      "_content": "Detail from:'‘The Love Song”  Sir Edward Burne-Jones   English, 1833-1898\nOil on canvas  Initialed (lower left): EBJ   1868-77\n\nIn 1846, the painter and poet Dante Gabriel Rossetti was a founding member of the circle of artists known as the Pre-Raphaelite Brotherhood.  Nice years later he assembled a group of seven friends to help him decorate the Oxford Union Building with scenes from Sir Thomas Malory’s Morte d’Arthur   One of the driving forces of this “second Brotherhood” was Edward Burne-Jones.  His Love Song , with its figures reminiscent of the fifteenth-century Venetian painter Vittore Carpaccio and its “Arthurian” landscape bathed in evening light, reflects the profound influence of both the Italian Renaissance and the Gothicizing Pre-Raphaelite movement.\nThis painting is the definitive version of several works that Burne-Jones based on a refrain from an old Breton song: “Helas! je sais un chant d’amour,/ Triste ou gai, tour a tour” ( Alas, I know a love song / Sad or happy, each in turn).\n\nThe Alfred N. Punnett Endowment Fund, 1947\n47.26\n\nFrom the placard: Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1251932465",
+      "taken": "2009-08-29 12:21:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1275145713"
+    },
+    "views": "726",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3882887040-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-45148025",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_124",
+          "_content": "bench124",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3882887040-10069455",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Sir Edward Burne-Jones",
+          "_content": "siredwardburnejones",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3882887040/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

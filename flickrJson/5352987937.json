@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5352987937",
+    "secret": "4b8dcd84c5",
+    "server": "5249",
+    "farm": 6,
+    "dateuploaded": "1294971676",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Wanderer in the Storm_TheMET (10)"
+    },
+    "description": {
+      "_content": "Julius von Leypold   German, 1806-1874\n\nDetail from: ‘Wanderer in the Storm, 1835’\nOil on canvas\nDated (lower left): 1835.\n\nCatharine Lorillard Wolfe Collection, Wolfe Fund, 2008\n2008.7\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294971676",
+      "taken": "2010-11-06 11:03:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1295379706"
+    },
+    "views": "260",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5352987937-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352987937-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352987937-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352987937-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352987937-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352987937-668380",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon",
+          "_content": "barbizon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5352987937/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

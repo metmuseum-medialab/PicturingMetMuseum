@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7205573692",
+    "secret": "2c190be140",
+    "server": "7243",
+    "farm": 8,
+    "dateuploaded": "1337116339",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheWeeders_TheMET(37)"
+    },
+    "description": {
+      "_content": "This photograph was Identify the Painter (45) ]\n\nJules Breton   French, 1827-1906\n\nDetail from: <b><i> The Weeders </i></b>   1868  \nOil on canvas\nSigned, dated, and inscribed (lower right): Jules Breton / Courrières  1868\n\nThis is a smaller variant of Breton’s painting ‘The Weeders’ of 1860 (Joslyn Art Museum, Omaha, Nebraska),  which was widely admired at the Salon of 1861 and the 1867 Exposition Universelle in Paris.  Breton wrote in his autobiography that one evening in the fields near his native village of Courrières in northern France he had come across this twilight scene of peasants pulling up “thistles and weeds…their faces haloed by the pink transparency of their violet hoods, as if to venerate a fecundating star.”  It had presented itself to him as a “finished picture,” completed even as far as “the breadth of the lines, intensity of the effect, character, richness and simplicity.”\nBequest of Collis P. Huntington, 1900\n25.110.66\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1337116339",
+      "taken": "2011-05-06 08:54:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1337726958"
+    },
+    "views": "401",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7205573692-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7205573692-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7205573692-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7205573692-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7205573692/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

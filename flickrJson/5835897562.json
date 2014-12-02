@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5835897562",
+    "secret": "f1d18e4d7a",
+    "server": "5102",
+    "farm": 6,
+    "dateuploaded": "1308135496",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MadonnaAndChildWithSaintJosephAndAngel_TheMET (14)"
+    },
+    "description": {
+      "_content": "Raffaellino del Garbo  (Raffaelle di Bartolommeo di Giovanni di Carlo)\nItalian,  Florentine, probably born before 1479,  died 1524 or later\n\nDetail from: <b><i>Madonna and Child with Saint Joseph and an Angel</i></b>\nTempera on canvas, transferred from wood\nInscribed (on angel’s halo): [A]NGELVS*GRAD[VAL]\n\nThis is one of the finest devotional paintings by Raffaellino del Garbo, who trained in Filippino Lippi’s workshop and assisted in Lippi’s great fresco decorations in the church of Santa Maria Sopra Minerva, Rome, from 1488-1492.  In the nervous line, the rather eccentric classical architecture, and the palette, Raffaellino is still close to Filippino, who may have been responsible for the design of the painting.\n\nBequest of Benjamin Altman, 1913\n14.40.641\n\n\nFrom the placard: Metropolitan Museum of Art\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1308135496",
+      "taken": "2011-04-09 10:09:00",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1308269344"
+    },
+    "views": "289",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5835897562-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5835897562-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5835897562-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5835897562-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5835897562-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5835897562/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6455226177",
+    "secret": "46bf042a86",
+    "server": "7012",
+    "farm": 8,
+    "dateuploaded": "1323034006",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Lute Player_TheMET(8)"
+    },
+    "description": {
+      "_content": "Valentin de Boulogne\nFrench, 1591-1632\n\nDetail from: <b><i> The Lute Player </i></b>\nOil on canvas \n\nValentin was the greatest French follower of Caravaggio and one of the outstanding artists in seventeenth-century Rome, where he spent his entire career.  His most frequent subjects are scenes of merriment, with music-making, drinking, and fortune-telling: stock Caravaggesque themes, but painted with a directness and vividness for which the only parallel is in the early work of Valázquez.  Valentin died relatively young, at the peak of his fame leaving few works.\nThis picture showing a soldier of fortune singing a love madrigal, is unique in Valentin’s career.  It is perhaps emblematic of the sobriquet he took when, in 1624, he joined the society for foreign artists in Rome known as the <i> bentveughels </i> (birds of a feather): Amador, Spanish for “lover boy”.  It belonged to the prestigious collection of Cardinal Mazarin, minister to Louis XIV and one of the great collectors of seventeenth century.\n\nPurchase, Walter and Leonore Annenberg Acquisition Fund; funds from various donors; Acquisition Fund; James and Diane Burke and Mr. and Mrs Mark Fisch Gifts; Louis V. Bell, Harris Brisbane Dick, Fletcher, and Rogers Funds and Joseph Pulitzer Bequest, 2008.\n2008.459\n\n\n\n\nFrom the placard: Metropolitan Museum\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1323034006",
+      "taken": "2011-09-25 12:25:20",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1327685507"
+    },
+    "views": "585",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6455226177-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455226177-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455226177-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455226177-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455226177-79492747",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_229",
+          "_content": "bench229",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6455226177-26690882",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Valentin de Boulogne",
+          "_content": "valentindeboulogne",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6455226177/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

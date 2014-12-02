@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5841024626",
+    "secret": "636782811a",
+    "server": "5110",
+    "farm": 6,
+    "dateuploaded": "1308269022",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MadonnaAndChild_TheMET (17)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=5841024626&amp;size=large\" rel=\"nofollow\">View On Black Large\n</a>\n\nFilippino Lippi  ( Italian, ca 1457-1504)\n\nDetail from: <b><i>Madonna and Child</i></b>\nTempera and gold on wood\n\nFilippino Lippi painted this beautifully preserved work about 1485-86 for the wealthy Florentine banker Filippo Maria Strozzi (1428-1491).  Inspired by his awareness of Netherlandish painting, Fillippino shows the Virgin and Child in a domestic interior with a still life of an oil lamp and book in a niche and a view through an arcade onto a landscape that was probably intended to suggest the countryside around Filippo Strozzi’s villa at Santuccio, near Florence.  The three half-moons with flame is a Strozzi emblem; the ppomegranate symbolizes the Church and the Resurrection.  About 1490 the duke of Milan’s agent in Florence commented that Filippino’s paintings were sweeter—piu dolce—than those of Botticelli.  There is an almost girlish delicacy to the Virgin’s winsome face, and the action of the Child must have struck viewers as remarkably true to life.\n\nThe Jules Bache Collection, 1949\n49.7.10\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1308269022",
+      "taken": "2011-04-09 10:05:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1308433666"
+    },
+    "views": "864",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5841024626-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5841024626-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5841024626-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5841024626-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5841024626-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5841024626/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

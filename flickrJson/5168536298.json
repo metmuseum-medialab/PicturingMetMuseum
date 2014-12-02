@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "5168536298",
+    "secret": "1046eb643f",
+    "server": "1373",
+    "farm": 2,
+    "dateuploaded": "1289529756",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Crucifx in the Metropolitan Museum of Art, September 2009"
+    },
+    "description": {
+      "_content": "Title:  Crucifix\n\nDate:  ca. 1200-1220\n\nCulture:  North Italian\n\nMedium:  Wood with polychrony\n\nDimensions:  Overall: 75 1/2 x 81 in. (191.8 x 205.7 cm)\n\nClassification:  Sculpture-Wood\n\nCredit Line:  Fletcher Fund, 1947\n\nAccession Number:  47.100.54\n\nOn View\n\nDescription:\n\nRather than emphasizing his pain and suffering on the cross, this dignified carving presents Christ in glory, alive and with eyes wide open. He wears a full-length belted tunic (colobium) signifying his kingly and priestly nature. The crucifix here, a type known as the Volto Santo (Holy Face), is a copy of a sculpture in Lucca, Italy, that was likely made in the 700s. Medieval legend, however, held that the work in Lucca was made by Nicodemus, a disciple of Jesus who witnessed the Crucifixion.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/medieval_art/crucifix//objectview.aspx?OID=170008188&amp;collID=17&amp;dd1=17\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/mediev...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1289529756",
+      "taken": "2009-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1380565021"
+    },
+    "views": "404",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5168536298-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-17222",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "crucifix",
+          "_content": "crucifix",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-4035",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "cross",
+          "_content": "cross",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-97",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "wood",
+          "_content": "wood",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-35997",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanesque",
+          "_content": "romanesque",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5168536298-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5168536298/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

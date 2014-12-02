@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "7245759310",
+    "secret": "c9a3582727",
+    "server": "8027",
+    "farm": 9,
+    "dateuploaded": "1337647864",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheVeteranInANewField_TheMET(4)"
+    },
+    "description": {
+      "_content": "Winslow Homer\n(1836-1910)\n\n<b><i>  The Veteran in a New Field </i></b>\n1865\nOil on canvas\nPainted soon after General Robert E. Lee’s surrender on April 9, 1865, and President Abraham Lincoln’s assassination five days later, Homer’s canvas depicts an emblamtic farmer, revealed to be a Union veteran as well by his discarded jacket and canteen at the lower right.  His old-fashioned scythe evokes the Grim Reaper, recalling the war’s harvest of death and expressing grief at Lincoln’s murder.  A redemptive feature is the bountiful wheat—a northern crop—which could connote the Union’s victory.  Referring to death and life, Homer’s iconic composition offers a powerful meditation on America’s sacrifices and its potential for recovery.\nBequest of Miss Adelaide Milton de Groot (1876-1967), 1967\n67.187.131\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1337647864",
+      "taken": "2011-05-06 10:08:21",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1339968432"
+    },
+    "views": "184",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157630166291452",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "184",
+          "y": "77",
+          "w": "89",
+          "h": "73",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7245751206/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7245759310-12129639",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropoltian_Museum",
+          "_content": "metropoltianmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7245759310-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7245759310-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7245759310-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7245759310-8740537",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Paintings",
+          "_content": "americanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7245759310-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7245759310/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "2349094539",
+    "secret": "58be47ff0f",
+    "server": "2406",
+    "farm": 3,
+    "dateuploaded": "1206107439",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Martyrdom of Saint Barbara by Cranach in the Metropolitan Museum of Art, December 2007"
+    },
+    "description": {
+      "_content": "The Martyrdom of Saint Barbara, ca. 1510\nLucas Cranach the Elder (German, 1472–1553)\nOil on wood; Overall 60 3/8 x 54 1/4 in. (153.4 x 137.8 cm); painted surface 59 3/8 x 53 1/8 in. (150.8 x 134.9 cm)\nRogers Fund, 1957 (57.22)\n\nAccording to legend, Saint Barbara was executed by her father when she refused to recant her Christian faith. The four sinister-looking witnesses may be the Roman authorities who tortured Barbara in an attempt to persuade her to sacrifice to pagan gods. Cranach painted this panel in about 1510, presumably for the Rehm family of Augsburg, whose coat of arms may be identified in the lower right corner. \n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/viewOne.asp?dep=11&amp;viewmode=1&amp;item=57.22\">www.metmuseum.org/Works_of_Art/viewOne.asp?dep=11&amp;vie...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1206107439",
+      "taken": "2007-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1411429307"
+    },
+    "views": "925",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2349094539-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-13796",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "German",
+          "_content": "german",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-49739",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-165649",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Cranach",
+          "_content": "cranach",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-938",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "saint",
+          "_content": "saint",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2349094539-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000FD",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2349094539/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

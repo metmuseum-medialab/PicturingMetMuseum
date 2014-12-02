@@ -1,0 +1,161 @@
+{
+  "photo": {
+    "id": "4305350966",
+    "secret": "6037b6b274",
+    "server": "4069",
+    "farm": 5,
+    "dateuploaded": "1264466923",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ThreeMenWalkingII_TheMET (6)"
+    },
+    "description": {
+      "_content": "‘Three Men Walking II’ 1949 Alberto Giacometti.  Swiss, 1901-1966\nPatinated bronze\n\nJacques and Natasha Gelman Collection, 1998\n1999.363.22\n\nGiacometti spent the war years of 1942-45 in Geneva, Switzerland, working on miniature figures barely two inches high.  When he returned to Paris in 1946, he developed what became his characteristic style of larger, skeletal figures created from memory.\n\nFrom the placard: Metropolitan Museum of Art\n\n<b><a href=\"http://www.flickr.com/groups/songoftheday/\">Song of the Day<a rel=\"nofollow\"></a></a></b>\n\nCream - White Room\n<a href=\"http://www.youtube.com/watch?v=pkae0-TgrRU\" rel=\"nofollow\">www.youtube.com/watch?v=pkae0-TgrRU</a>\n\n\n&quot; I wait in this place where the shadows run from themselves &quot; \n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264466923",
+      "taken": "2009-11-07 10:48:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1399429998"
+    },
+    "views": "585",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157623287518138",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "383",
+          "y": "53",
+          "w": "116",
+          "h": "145",
+          "_content": "Therese Dreaming, 1938 Balthus.  French, 1908-2001\nOil on canvas\n...<b><a href=\"http://www.flickr.com/photos/rverc/4305310802/in/photostream/\">View<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4305350966-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-5467",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Art",
+          "_content": "modernart",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-51326953",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_194",
+          "_content": "bench194",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-795830",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Alberto Giacometti",
+          "_content": "albertogiacometti",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-577621",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "balthus",
+          "_content": "balthus",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4305350966-383290",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "SOTD",
+          "_content": "sotd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4305350966/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

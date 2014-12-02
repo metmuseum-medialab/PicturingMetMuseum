@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "6156175578",
+    "secret": "8d871453c7",
+    "server": "6071",
+    "farm": 7,
+    "dateuploaded": "1315932261",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Medal with Giuliano Della Rovere in the Metropolitan Museum of Art, September 2010"
+    },
+    "description": {
+      "_content": "Title:  Giuliano and Clemente della Rovere\n\nObject Name:  Medal\n\nMedalist:  Giovanni Filangieri Candida (born before 1450, died ca. 1498–1499)\n\nCulture:  Italian (Roman)\n\nDate:  ca. 1494\n\nMedium:  Bronze, cast\n\nDimensions:  Diam. 61.3 mm.\n\nClassification:  Medals\n\nCredit Line:  Blumenthal Fund, 1950\n\nAccession Number:  50.58.16\n\nSignatures, Inscriptions, and Markings:\n\nInscriptions: Obverse: IVLIANVS • EP[iscopu]S •OSTIEN[sis] • CAR[dinalis] • S[ancti] • P[etri] • AD • VINCVLA • (Giuliano, bishop of Ostia [and] cardinal of San Pietro in Vincoli). Reverse: CLEMENS • DE • RVVERE • EP[iscopu]S • MIMATEN[sis] • (Clemente della Rovere, bishop of Mende)\n\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_sculpture_and_decorative_arts/giuliano_and_clemente_della_rovere_giovanni_filangieri_candida//objectview.aspx?OID=120015829&amp;collID=12&amp;dd1=12\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1315932261",
+      "taken": "2010-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1316316035"
+    },
+    "views": "157",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6156175578-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-49739",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-15527",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Latin",
+          "_content": "latin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6156175578-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6156175578/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

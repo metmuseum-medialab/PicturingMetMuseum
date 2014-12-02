@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "7011489657",
+    "secret": "8bb830879b",
+    "server": "7268",
+    "farm": 8,
+    "dateuploaded": "1332611240",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "RegentStreetLondon_TheMET(7)"
+    },
+    "description": {
+      "_content": "André Derain.  French, 1880-1954\n\nDetail from: <b><i> Regent Street, London </i></b>\n1906\nOil on canvas\n\nThe Predominant use of blues and reds gives a fairground atmosphere to  Derain’s painting of a crowded city street.  Having been sent by his dealer Ambroise Vollard to depict London in a contemporary style, Derain romanticized the city by choosing not to paint the motorcars that had begun to dominate the city’s streets and boulevards.\n\nJacques and Natasha Gelman collection, 1998\n1999.363.18\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332611240",
+      "taken": "2011-02-24 10:41:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1332620230"
+    },
+    "views": "319",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7011489657-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-59819092",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Galleries",
+          "_content": "moderngalleries",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7011489657-2061045",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "André Derain",
+          "_content": "andréderain",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7011489657/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

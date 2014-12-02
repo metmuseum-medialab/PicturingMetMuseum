@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "4733917485",
+    "secret": "d00b3a3822",
+    "server": "1063",
+    "farm": 2,
+    "dateuploaded": "1277513927",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheVine_AmericanWing_TheMET (13)"
+    },
+    "description": {
+      "_content": "‘The Vine’  Harriet Whitney Frishmuth (1880-1980)\n1921, revised 1923; this cast, 1924\nBronze\n\nRogers Fund, 1927\n27.66\n\n<a href=\"http://bighugelabs.com/onblack.php?id=4733917485\" rel=\"nofollow\">Cropped to be Viewed On Black</a>\n\nIn the early twentieth century, sculptures of dancing women were produced in great numbers, inspired in part by the popularity of Isadora Duncan, Loie Fuller, and Anna Pavlova.  Frishmuth often turned to dancers for her sculptural themes and employed them to pose for her with musical accompaniment.  Shown stretching upward and outward in imitation of a living vine, the lyrical nude balances on tiptoe in the ecstasy of performance, a grapevine suspended in her hands.  The first version of the work, a statuette eleven and a quarter inches high, was enormously popular, cast in an edition of 396.  In 1923, Frishmuth enlarged the sculpture to monumental scale, using Desha Delteil of the Fokine Ballet as her model.\n\nFrom the placard: Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1277513927",
+      "taken": "2010-05-30 10:26:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1278188097"
+    },
+    "views": "560",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "12"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4733917485-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4733917485-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4733917485-13739703",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Sculpture",
+          "_content": "americansculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4733917485-766254",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Harriet Whitney Frishmuth",
+          "_content": "harrietwhitneyfrishmuth",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4733917485/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

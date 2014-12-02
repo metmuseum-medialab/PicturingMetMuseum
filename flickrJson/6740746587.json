@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "6740746587",
+    "secret": "25fae98474",
+    "server": "7166",
+    "farm": 8,
+    "dateuploaded": "1321810807",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Entombment of Christ in the Metropolitan Museum of Art, July 2011"
+    },
+    "description": {
+      "_content": "The Entombment of Christ\n\nDate: ca. 1390–1405 \n\nGeography: Made in, Paris, France \n\nCulture: French \n\nMedium: Opaque and translucent enamel on gold \n\nDimensions: Overall: 3 7/16 x 3 1/16 x 3/16 in. (8.7 x 7.7 x 0.5 cm) \n\nClassification: Enamels-Ronde Bosse \n\nCredit Line: The Jack and Belle Linsky Collection, 1982 \n\nAccession Number: 1982.60.398\n\nDescription:\n\nThe entombment of Christ after the Crucifixion is variously described in the Four Gospels. Each of the accounts notes the presence of a wealthy man at the scene, Joseph of Arimathea; with him, according to Matthew and Mark, were Mary Magdalene and Mary, the mother of James. However, only the Gospel of Saint John refers to Nicodemus, a Pharisee, as being in attendance. None of the Gospels describes the crowd of mourners gathered at the bier, as seen here, but the depiction of such a group is typical in French art of the Gothic period.\n\nAbout 1400, the technique of enameling en ronde-bosse, which was used for this plaque, became a hallmark of goldsmiths' work for the French royal court. Jewel-like in its effect, it combines luminous color-as well as, here, the mottled gray of the sarcophagus and the floral patterning on the Virgin's gown-with finely detailed goldwork, as seen in the precisely detailed physiognomies and the scroll pattern stippled on the gold ground.\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/170006014\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1700...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1321810807",
+      "taken": "2011-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1337649617"
+    },
+    "views": "283",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6740746587-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-197637",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "enamel",
+          "_content": "enamel",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-4033",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christ",
+          "_content": "christ",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-6680",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Gothic",
+          "_content": "gothic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6740746587-1990",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "gold",
+          "_content": "gold",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6740746587/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

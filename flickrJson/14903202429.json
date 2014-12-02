@@ -1,0 +1,184 @@
+{
+  "photo": {
+    "id": "14903202429",
+    "secret": "dc84645b6c",
+    "server": "5571",
+    "farm": 6,
+    "dateuploaded": "1409462405",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "d3908f4373",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "98775743@N00",
+      "username": "jaroslavd",
+      "realname": "jerry dohnal",
+      "location": "sydney/new york, australia/USA",
+      "iconserver": "2171",
+      "iconfarm": 3,
+      "path_alias": "jaroslavd"
+    },
+    "title": {
+      "_content": "The Jewish Woman of Algiers"
+    },
+    "description": {
+      "_content": "Metropolitan Museum of Art\n\nCharles-Henri-Joseph Cordier (1827-1905)\nAlgerian onyx-marble, bronze and gilt bronze, enamel, amethyst eyes; white marble socle\nFrench (Paris), 1862\n\nCordier was Europe's premier ethnographical sculptor. He treated his subjects, studied intensely during travels in France's North African colonies, as exotic beings but not as stereotypes. He presents our richly dressed young beauty as alert but also contemplative. This is the earliest dated example of a composition that won marked success, in each case replicated with variants in the materials used. The Algerian onyx-marble was quarried expressly for Cordier's use. The pedestal is original, attributable to Charles-Francois Rossigneux. The bust and pedestal together were bought directly from Cordier by the Cercle des Phoceens, a gentlemen's club in Marseille. "
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1409462405",
+      "taken": "2014-07-02 16:17:12",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1414637341"
+    },
+    "views": "608",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "804072-14903202429-11712490",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Jewish Woman of Algiers",
+          "_content": "jewishwomanofalgiers",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-4974765",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Charles-Henri-Joseph Cordier",
+          "_content": "charleshenrijosephcordier",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-12608",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "exotic",
+          "_content": "exotic",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-815761",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "North African",
+          "_content": "northafrican",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-876",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "beautiful",
+          "_content": "beautiful",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-347",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "woman",
+          "_content": "woman",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-12435",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "bust",
+          "_content": "bust",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-308",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": false
+        },
+        {
+          "id": "804072-14903202429-12828456",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "onyx-marble",
+          "_content": "onyxmarble",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-1192",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-118140",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "gilt",
+          "_content": "gilt",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-23525",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "amethyst",
+          "_content": "amethyst",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14903202429-34225",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Orientalism",
+          "_content": "orientalism",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/jaroslavd/14903202429/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

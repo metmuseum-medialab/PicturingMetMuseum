@@ -1,0 +1,191 @@
+{
+  "photo": {
+    "id": "13131845374",
+    "secret": "b08a543b02",
+    "server": "7460",
+    "farm": 8,
+    "dateuploaded": "1394736784",
+    "isfavorite": 0,
+    "license": "5",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "aa5091efc9",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "84985982@N00",
+      "username": "andryn2006",
+      "realname": "Andrew Moore",
+      "location": "Johannesburg, South Africa",
+      "iconserver": "7373",
+      "iconfarm": 8,
+      "path_alias": "andryn2006"
+    },
+    "title": {
+      "_content": "Sarcophagus of Harkhebit I"
+    },
+    "description": {
+      "_content": "Egyptian Art at The Metropolitan - &quot;Horkhebit was a &quot;Royal Seal Bearer, Sole Companion, Chief Priest of the Shrines of Upper and Lower Egypt, and Overseer of the Cabinet&quot; in early Dynasty 26. His tomb was a great shaft over sixty feet deep sunk into the desert and solid limestone bedrock in the Late Period cemetery that covers most of the area east of the Djoser complex at Saqqara. In a huge plain chamber at the bottom of the shaft, a rectangular rock core was left standing and hollowed out to house this anthropoid sarcophagus. When the tomb was excavated by the Egyptian government in 1902, the sarcophagus contained the remains of a badly decomposed gilded cedar coffin, and a mummy that wore a mask of gilded silver, gold finger and toe stalls, and numerous small amulets. Other canopic and shabti equipment accompanied the burial. The finds went to the Egyptian Museum, Cairo, while this sarcophagus was purchased from the Egyptian government by the Metropolitan Museum.\nThe sarcophagus is one of a group with plump, squarish broad faces, smooth unarticulated bodies, and slightly protruding feet that all originate in the Memphite area and date to the time around the reign of Psamtik II (ca. 595–589 B.C.); several of them may have been produced by the same workshop. Technically the sarcophagus is one of the masterpieces of late Egyptian hard-stone carving. The interiors of the extraordinarily rendered sunk-relief hieroglyphs and figures were left rough and may have been intended to be painted, perhaps in green. The long text on the lid comes from the Book of the Dead.&quot;"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1394736784",
+      "taken": "2014-02-25 23:39:39",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1404384754"
+    },
+    "views": "754",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "5863141-13131845374-607",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-15671",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-49675230",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Harkhebit",
+          "_content": "harkhebit",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-97327",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-440",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-17707",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Sarcophagus",
+          "_content": "sarcophagus",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-351",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-17458",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "pharaoh",
+          "_content": "pharaoh",
+          "machine_tag": false
+        },
+        {
+          "id": "5863141-13131845374-4074",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "United States",
+          "_content": "unitedstates",
+          "machine_tag": false
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779144,
+      "longitude": -73.962687,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/andryn2006/13131845374/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

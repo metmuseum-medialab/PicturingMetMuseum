@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "4266838695",
+    "secret": "f3c9fef018",
+    "server": "4072",
+    "farm": 5,
+    "dateuploaded": "1263253382",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Therese_TheMET (7)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=4266838695&amp;size=large\" rel=\"nofollow\">View On Black  Large</a>\n\nDetail from: ‘Therese’  Balthus.  French, 1908-2001 \nOil on cardboard mounted on wood\n\nBequest of Mr. Mrs. Allan D. Emil,  in honor of William S. Lieverman, 1987\n1987.125.2\n\nFrom the placard: Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1263253382",
+      "taken": "2009-11-06 12:29:06",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1263406846"
+    },
+    "views": "579",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4266838695-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-5467",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Art",
+          "_content": "modernart",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-50757111",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_182",
+          "_content": "bench182",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-577621",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Balthus",
+          "_content": "balthus",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4266838695-18208",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Therese",
+          "_content": "therese",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4266838695/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

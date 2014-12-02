@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "5222395210",
+    "secret": "dda9462ab8",
+    "server": "5127",
+    "farm": 6,
+    "dateuploaded": "1291161629",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Roses_TheMET (7)"
+    },
+    "description": {
+      "_content": "Vincent van Gogh   Dutch, 1853-1890\n\nDetail from:  <b><i>Roses</i></b>.  1890\nOil on canvas\n\nIn May 1890, just before his departure from the asylum in Saint-Rémy, Van Gogh painted an exceptional group of four still lifes, to which both the Museum’s Roses and Irises (58.187) belong.  Striking in their facility of execution and elegant simplicity of design, these bouquets and their counterparts—an upright composition of irises (Van Gogh Museum, Amsterdam) and a horizontal composition of roses ( National Gallery of Art, Washington, D.C.)—were conceived as a decorative ensemble, like the suite of sunflowers he had made earlier in Arles.  Traces of pink along the tabletop and rose petals in the present painting, which have faded over time, offer a faint reminder of the formerly vivid “canvas of pink roses against a yellow green background in a green vase.”\n\nFrom the placard: Metropolitan Museum of Art.\n\nThe Walter H. and Leonore Annenberg Collection,\nGift of Walter H. and Leonore Annenberg, 1993,,\nBequest of Walter H. Annenberg, 2002\n1993, 400.5\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1291161629",
+      "taken": "2010-11-06 09:39:00",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1398634949"
+    },
+    "views": "1012",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5222395210-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-52663",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Van Gogh",
+          "_content": "vangogh",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-60666320",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_205",
+          "_content": "bench205",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5222395210-38643097",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_86",
+          "_content": "bench86",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5222395210/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

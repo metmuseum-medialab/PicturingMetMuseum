@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "6219575324",
+    "secret": "729491959d",
+    "server": "6157",
+    "farm": 7,
+    "dateuploaded": "1316235691",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of The Antechamber of the Sala del Maggior Consiglio by Guardi in the Metropolitan Museum of Art, March 2011"
+    },
+    "description": {
+      "_content": "The Antechamber of the Sala del Maggior Consiglio\n\nFrancesco Guardi  (Italian, Venice 1712–1793 Venice) \n\nDate: ca. 1755–65 \n\nMedium: Oil on canvas \n\nDimensions: 13 3/8 x 20 in. (34 x 50.8 cm) \n\nClassification: Paintings \n\nCredit Line: Bequest of Lore Heinemann, in memory of her husband, Dr. Rudolf J. Heinemann, 1996 \n\nAccession Number: 1997.117.4\n\nCatalogue Entry:\n\nThe Venetian views and imaginary lagoon subjects for which Francesco Guardi is justly famous have for long been well represented in the Metropolitan Museum. The artist also painted a few interiors, which are of a sort more commonly associated with his near-contemporary Pietro Longhi (1702–1785), by whom he was probably influenced. This small picture is one of a pair (see also 1997.117.5) and both are exceptionally scenographic and informative about Venetian public life.\n\nThe Sala del Maggior Consiglio at Palazzo Ducale is the largest public space in Venice and one of the largest in western Europe. There, hundreds of the the roughly 2,000 members of the aristocracy eligible to participate in the government of the republic met in assembly. The antechamber shown in the present small painting is the Liagò, an L-shaped room whose long side runs beside the council chamber and whose short side, with two huge Gothic windows, fronts on St. Mark’s basin. The room, with its marble door frames and high beamed and painted ceiling, is little changed and can still be visited. Guardi telescoped the space but otherwise represented it accurately. Long robes and flowing wigs designate public officials, while petitioners and other visitors are in street dress, some with swords, and wearing white silk stockings, black hair ribbons, and black tricorne hats. The composition exists in a larger version (private collection), with some differences in the dress and scale of the figures [see Ref. Morassi 1973, vol. 1, p. 353, no. 238; vol. 2, figs. 260–61]. The larger version is also signed, on the base of the column at left, and may be earlier in date, perhaps from the 1750s.[2011]\n\nGallery Label: \n\nA pendant to The Ridotto, this view shows Venetian officials and petitioners outside the principal council chamber of the Palazzo Ducale. The space has been telescoped but otherwise is accurately depicted. The painting, which is signed, may date from about 1765.\n\nText from:  \n<a href=\"http://www.metmuseum.org/Collections/search-the-collections/110002479\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1100...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1316235691",
+      "taken": "2011-03-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1318054057"
+    },
+    "views": "571",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6219575324-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-1380839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Guardi",
+          "_content": "guardi",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-5596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "interior",
+          "_content": "interior",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6219575324-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6219575324/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

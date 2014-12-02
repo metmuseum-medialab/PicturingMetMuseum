@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "4648153041",
+    "secret": "e2d9c117a0",
+    "server": "4051",
+    "farm": 5,
+    "dateuploaded": "1275087158",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "1ceb46e40e",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Derek Berck, 1536"
+    },
+    "description": {
+      "_content": "Hans Holbein the Younger (German, 1497/98–1543)\nTitle Derek Berck\nDate 1536\nMedium Oil on canvas, transferred from wood\nDimensions 21 x 16 3/4 in. (53.3 x 42.5 cm)\nClassification Paintings\nCredit Line The Jules Bache Collection, 1949\nAccession Number 49.7.29\n\nHolbein was the favored portraitist of the German merchant community of the Steelyard, located near the Thames. One member of this group, Derek Berck, is identified by the inscription on the letter he holds. The other inscriptions in the picture include the sitter's motto, a passage from the &quot;Aeneid&quot; exhorting perseverance. The paint layers have been transferred from panel to canvas, and the condition is impaired."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1275087158",
+      "taken": "2010-03-28 12:37:17",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1288898497"
+    },
+    "views": "801",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4648153041-7579",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Hans",
+          "_content": "hans",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4648153041-1124706",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Holbein",
+          "_content": "holbein",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4648153041-81871",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Younger",
+          "_content": "younger",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4648153041-1159196",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1536",
+          "_content": "1536",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4648153041/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "7075608031",
+    "secret": "15780330a3",
+    "server": "5463",
+    "farm": 6,
+    "dateuploaded": "1325724235",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Chinese Saddle in the Metropolitan Museum of Art, April 2011"
+    },
+    "description": {
+      "_content": "Saddle\n\nDate: 17th–18th century \n\nCulture: Chinese for the Tibetan market \n\nMedium: Iron, gold, silver, wood, coral, ivory, silk, hair, tin, pigments, leather \n\nDimensions: L. 27 3/4 inches (70.4 cm) \n\nClassification: Equestrian Equipment \n\nCredit Line: Purchase, Gift of J. Pierpont Morgan, Bequest of Stephen V. Grancsay, The Collection of Giovanni P. Morosini, presented by his daughter Giulia, and Gift of Prince Albrecht Radziwill, by exchange, and Nicholas A. Zabriskie Gift, 1998.\n\nAccession Number: 1998.316\n\nDescription:\n\nIn terms of quality and style of workmanship this saddle is extremely similar to some of the best imperial Chinese saddles, such as one owned by the emperor Qianlong (r. 1736–96) and preserved in the Palace Museum, Beijing (G.171546). In addition to its very high quality, this saddle is also exceptional for having all of its original parts, including the elaborate seat cover of embroidered silk and the fittings of the saddletree. Although this type of saddle is often identified as Tibetan, the form of the saddle plates, the style of workmanship, and the type of saddletree, along with the similarity to imperial Chinese saddles, indicate it is more likely to be Chinese, perhaps from the imperial workshops. That it was used in Tibet, however, is demonstrated by the Tibetan letter ka, which is branded on the underside of the saddletree as a form of inventory number. It must have belonged to a Tibetan nobleman of the highest rank, possibly received as a gift directly from the imperial court. The saddle plates are made from relatively thick iron, deeply chiseled and pierced, the motifs densely arranged so that the gaps in the scrollwork are narrow. The plates are finely crosshatched and damascened overall with a thick layer of gold foil. The beads of coral and ivory in the center of the pommel and cantle are popular Buddhist symbols called the Three Jewels, representing Buddha, Dharma (Buddhist teachings), and Sangha (the community of believers).\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/40004933\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/4000...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1325724235",
+      "taken": "2011-04-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1347345241"
+    },
+    "views": "457",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7075608031-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-1711",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Asian",
+          "_content": "asian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-7156",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Chinese",
+          "_content": "chinese",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-67740",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "saddle",
+          "_content": "saddle",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7075608031-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7075608031/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,229 @@
+{
+  "photo": {
+    "id": "3177753438",
+    "secret": "ae4e4f00e2",
+    "server": "3398",
+    "farm": 4,
+    "dateuploaded": "1231355450",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "12671646@N07",
+      "username": "qpkarl",
+      "realname": "Karl Doesn't Like New Flickr",
+      "location": "USA",
+      "iconserver": "2949",
+      "iconfarm": 3,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "LNYCart637"
+    },
+    "description": {
+      "_content": "At the <a href=\"http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art_New_York\" rel=\"nofollow\">Metropolitan Museum of Art</a>, New York City.\n\nThe Baptism of Christ, ca. 1480–1490\nPupil of Veit Stoss\nCracow\nLindenwood with polychromy and gilding; 47 7/8 x 39 3/16 in. (120.6 x 99.6 cm)\nRogers Fund, 1912 (12.130.1)\n\nVeit Stoss of Nuremberg was one of the most influential German artists of the Late Gothic era. This work by one of his pupils most likely dates from Stoss's residence in Cracow, where he maintained a thriving workshop for nearly twenty years before returning to Nuremberg in 1496. The composition was adapted from an engraving by Martin Schongauer of the Baptism of Christ. It probably once included the figures of God the Father and the dove of the Holy Spirit shown blessing the event in accordance with scripture: &quot;He saw the Spirit of God descending like a dove to alight upon him; and a voice from heaven was heard saying, 'This is my Son, my Beloved, on whom my favor rests'&quot; (Matthew 3:16–17). John, dressed in his &quot;rough coat of camel hair,&quot; anoints Christ with the waters of the River Jordan while an attending angel waits with Christ's robe. The mannered flow of Christ's loincloth echoes the river's swirling current, as do the circular patterns suggested by the arrangement of the figures and their gestures. Originally, this work would have been part of an altarpiece; it is perhaps from a lateral wing composed of a much larger ensemble of scenes. The play of both candlelight and daylight over the relief would have enhanced the richness of the painted and gilded wood surfaces.\n\nNOTE: Look &quot;<a href=\"http://farm5.static.flickr.com/4054/4577026379_ec438d4f69_o.jpg\" rel=\"nofollow\">wall-eyed</a>&quot; at the top pair or &quot;<a href=\"http://farm5.static.flickr.com/4058/4577026407_895e8bfdd2_o.jpg\" rel=\"nofollow\">cross-eyed</a>&quot; at the bottom pair to get a 3D image from the fused pictures. <a href=\"http://farm6.static.flickr.com/5042/5284135743_b8a35ae0b1_z.jpg\" rel=\"nofollow\">Another illustration</a>.\n\nHere's a <a href=\"http://www.flickr.com/photos/12671646@N07/6076850770/in/photostream/\">helpful tip</a> for viewing stereo pairs."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1231355450",
+      "taken": "2010-05-02 13:02:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1381986203"
+    },
+    "views": "373",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "12650316-3177753438-2554",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "3D",
+          "_content": "3d",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-12472",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereo",
+          "_content": "stereo",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-2551",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereogram",
+          "_content": "stereogram",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-35877",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereograph",
+          "_content": "stereograph",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-51884",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereography",
+          "_content": "stereography",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-22592",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "canon digital rebel",
+          "_content": "canondigitalrebel",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-109",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-59219",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-17396572",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "Art Gallery and Museums",
+          "_content": "artgalleryandmuseums",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-315466",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereographic",
+          "_content": "stereographic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-170205",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscope",
+          "_content": "stereoscope",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-2550",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopic",
+          "_content": "stereoscopic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-181615",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopy",
+          "_content": "stereoscopy",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3177753438-2553",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereophotography",
+          "_content": "stereophotography",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779436,
+      "longitude": -73.963522,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/12671646@N07/3177753438/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

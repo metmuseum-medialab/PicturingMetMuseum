@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "6946981668",
+    "secret": "58f5af903d",
+    "server": "7112",
+    "farm": 8,
+    "dateuploaded": "1334832854",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "StillLifeWithSilver_TheMET(7)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter(26)]\n\nAlexandre Franҫois Desportes\nFrench, Champigneul 1661-1743 Paris\n\nDetail from  <b><i> Still Life with Silver </i></b>\nOil on canvas\nSigned (lower right): Desportes\nTrained as a painter of animals and favored by both Louis XIV (1638-1715) and Louis XV (1710-1774), Desportes achieved fame not only for his hunting scenes but also for his opulent still lifes.  This picture, possibly painted in the late 1720s, belongs to a type showing  a buffet laden with an array of objects in silver, porcelain, and semi-precious  stone as well as fruit—such as might have been displayed for a banquet.  The objects are likely to record actual pieces owned by the patron: the dragon-handled tureen and vermeil salvers are in the Régence style (ca. 1715-23).\nThe corners of the picture were cut, probably so that the canvas could be set into wood paneling; the current corners are modern.\nPurchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1964\n64.315\n\n\nFrom the placard:  Metropolitan Museum of Art\n\n.\n.\n<a href=\"http://bighugelabs.com/onblack.php?id=6946981668&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334832854",
+      "taken": "2011-02-25 13:07:37",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335116221"
+    },
+    "views": "294",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6946981668/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,309 @@
+{
+  "photo": {
+    "id": "5034753029",
+    "secret": "4562794451",
+    "server": "4092",
+    "farm": 5,
+    "dateuploaded": "1283571465",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Amulet with a Lamashtu Demon in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Title:  Amulet with a Lamashtu demon\n\nDate:  early 1st Millennium BC\n\nGeography:  Mesopotamia or Iran\n\nMedium:  Obsidian\n\nDimensions:  2.26 x 1.83 in. (5.74 x 4.65 cm)\n\nClassification: Stone-Ornament, Inscribed\n\nCredit Line:  Purchase, James N. Spear Gift, 1984\n\nAccession Number:  1984.348\n\nOn View \n\nText from: <a href=\"http://www.metmuseum.org/works_of_art/collection_database/all/amulet_with_a_lamashtu_demon/objectview.aspx?page=6529&amp;sort=0&amp;sortdir=asc&amp;keyword=&amp;fp=4499&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;oID=30005646&amp;vT=1&amp;hi=0&amp;ov=0\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/all/am...</a>\n\nand\n\nLamashtu, a female leonine demon with talons and blood-stained paws, was thought to usher in disease and death upon hot winds from the west.  On the limestone amulet, she is shown suckling a pig and a dog and grasping double-headed snakes.  While her malevolence was directed primarily against pregnant women and babies, the obsidian amulet bears a prayer that reads, &quot;Do not approach the sick man.&quot;  Each amulet depicts ceremonial objects and offerings to appease the demon: a lamp, legs of lamb, a shoe, a comb, and a spindle.  Images of Pazuzu were used to counteract Lamashtu and drive her back into the underworld.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283571465",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1349117369"
+    },
+    "views": "939",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5034753029-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-68974",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Mesopotamia",
+          "_content": "mesopotamia",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-83263",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "amulet",
+          "_content": "amulet",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-263624",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Assyrian",
+          "_content": "assyrian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-17800",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "demon",
+          "_content": "demon",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-981",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "monster",
+          "_content": "monster",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-47118",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "cuneiform",
+          "_content": "cuneiform",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5034753029-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5034753029/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

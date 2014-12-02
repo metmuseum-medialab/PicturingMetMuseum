@@ -1,0 +1,136 @@
+{
+  "photo": {
+    "id": "14246793347",
+    "secret": "3c85d49334",
+    "server": "3921",
+    "farm": 4,
+    "dateuploaded": "1402892402",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "15eb8f057a",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "63977172@N04",
+      "username": "Allan482",
+      "realname": "Allan",
+      "location": "",
+      "iconserver": "3415",
+      "iconfarm": 4,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "New York - Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": "Roman Sculpture Court\n\nMarble portrait bust of the Empress Sabina (Roman, ca. A.D. 122-128)"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1402892402",
+      "taken": "2014-06-14 20:54:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1403460571"
+    },
+    "views": "370",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "63945033-14246793347-440",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-351",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-202756",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-1154",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-97214302",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fuji XE1",
+          "_content": "fujixe1",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-84809732",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fuji 18mm",
+          "_content": "fuji18mm",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14246793347-86522443",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fujinon XF 18 mm",
+          "_content": "fujinonxf18mm",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/63977172@N04/14246793347/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

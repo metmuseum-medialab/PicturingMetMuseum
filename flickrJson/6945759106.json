@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "6945759106",
+    "secret": "4d4d6f4f68",
+    "server": "7191",
+    "farm": 8,
+    "dateuploaded": "1334790168",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Champion Single Sculls _TheMET(9)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter(25)]\n.\nThomas Eakins  \n(1844-1916)\n\nDetail from: <b><i> The Champion Single Sculls (Max Schmitt in a Single Scull)</i></b>\n1871\nOil on canvas\nReturning to Philadelphia from Europe in 1870, Eakins began a series of representations of the sport of sculling, a subject with which he is uniquely identified.  This,  the first major work in the series, probably commemorates the victory of  Max Schmitt (1843-1900), an attorney and skilled amateur rower, in an important race held on the Schuylkill River in October 1870.  Also an avid rower, Eakins depicted himself pulling oars of a scull in the middle distance.  Eakins constructed the painting according to the academic principles espoused by his primary Parisian teacher, Jean-Léon Gérôme.\n\nPurchase, The Alfred N. Punnett Endowment Fund and George D. Pratt Gift, 1934\n34.92\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334790168",
+      "taken": "2011-02-25 10:09:27",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335016685"
+    },
+    "views": "464",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6945759106-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945759106-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945759106-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945759106-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6945759106/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

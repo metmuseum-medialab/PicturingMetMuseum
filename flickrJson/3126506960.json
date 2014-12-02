@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "3126506960",
+    "secret": "77216022dd",
+    "server": "3096",
+    "farm": 4,
+    "dateuploaded": "1229898698",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of the Inscription on the Portrait of Sebastian Andorfer in the Metropolitan Museum of Art, May 2008"
+    },
+    "description": {
+      "_content": "Artist:  Hans Maler zu Schwaz (German, born about 1480, died about 1526–29)\n\nTitle:  Sebastian Andorfer (1469–1537)\n\nDate: 1517\n\nMedium:  Oil on wood\n\nDimensions:  17 x 14 1/8 in. (43.2 x 35.9 cm)\n\nCredit Line:  The Friedsam Collection, Bequest of Michael Friedsam, 1931\n\nAccession Number:  32.100.33\n\nDated and inscribed (base): (left) DA MAN·1517·ZALT, / WAS ICH·48·IAR ALT (In 1517 I was 48); (right) SEBASTIA / -N / ANNDORFE- / ER\n\nMaler worked as a portrait painter in the mining town of Schwaz, just east of Innsbruck. The Schwaz silver works belonged to the most prosperous in Europe, and Sebastian Andorfer was one of its leading officials. As &quot;Silberbrenner&quot; (smelter) he was responsible for guaranteeing the purity of Schwaz silver, a major source of income for Archduke Ferdinand and the Fuggers of Augsburg, whose likenesses Maler also painted.\n\nThe sitter held the prominent position of &quot;Silberbrenner&quot; (silver smelter) in the mining operation at Schwaz, one of the most important centers of silver and copper mining in Europe.\n\nA companion piece (art market, New York, in 2005), depicting the same sitter without a beard, is similarly inscribed and also dated 1517. Both versions were bought by the art dealer A. S. Drey from the Toggenburg family.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>['Sebastian_andorfer_1469_1537', 'Sebastian_andorfer_1469_1537']/objectview.aspx?OID=110001385&amp;collID=11&amp;dd1=11"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1229898698",
+      "taken": "2008-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310970114"
+    },
+    "views": "226",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-3126506960-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-13796",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "German",
+          "_content": "german",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-7486897",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NorthernRenaissance",
+          "_content": "northernrenaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-3126506960-49739",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/3126506960/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

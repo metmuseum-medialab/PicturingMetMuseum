@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "6900249104",
+    "secret": "35e8756fab",
+    "server": "7227",
+    "farm": 8,
+    "dateuploaded": "1333582132",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheWaterGarden_TheMET(9)"
+    },
+    "description": {
+      "_content": "[ This Photograph was: Identify the Painter (11) ]\n.\n.Childe Hassam  (1859-1935)\nDetail from: <b><i> The Water Garden </i></b>\n1909 \nOil on canvas\nPartial and Promised Gift of Mr. and Mrs. Douglas Dillon, 1994\n1994.450\nThis intimate landscape, with its rhythmic composition,  compressed space, and tapestry-like application of paint, demonstrates the modification of Hassam’s style at the turn of the century, when he began absorbing Post-Impressionist influences.  The flat, decorative arrangement of natural forms,  reminiscent of Japanese designs, seems to honor, visually, the Japanese irises depicted within it.  Hassam may have painted <i>The Water Garden</i> on a friend’s East Hampton property on Long Island, New York, which featured a beautiful lily pond surrounded by irises .  Hassam would later purchase his own home nearby and spend much of the last sixteen years of his life there.\nFrom the placard:  Metropolitan Museum of Art\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6900249104&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333582132",
+      "taken": "2011-02-24 14:42:23",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333670282"
+    },
+    "views": "416",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6900249104-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6900249104-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6900249104-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6900249104-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6900249104/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

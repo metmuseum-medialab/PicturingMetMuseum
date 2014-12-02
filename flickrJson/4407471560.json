@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "4407471560",
+    "secret": "f3a0665310",
+    "server": "2788",
+    "farm": 3,
+    "dateuploaded": "1267740661",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Statuette of a Personification of a City in the Metropolitan Museum of Art, Jan 2010"
+    },
+    "description": {
+      "_content": "Statuette Personification of a City\nCopper alloy\nByzantine, said to have been found in Rome\n300-500 AD\n\nAccession # 47.100.40\n\nTyche, the concept of chance or fortune, was often connected with cities.  Images personifying Tyche appeared in a range of media, including coins, stone reliefs, glass bottles, and stone and copper-alloy sculptures.  Here, Tyche sits on a low throne.  Wearing a mural crown, chiton and peplos, she holds a cornucopia in her left hand.  She extends her right hand, which held a now missing attribute, possibly a staff.  It is difficult to identify which city may be represented by the statuette, though Constantinople has frequently been suggested.  Regardless of its identification, the sculpture is representative of the small-scale Tyche images common throughout the late Roman and early Byzantine worlds. \n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1267740661",
+      "taken": "2010-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1320511649"
+    },
+    "views": "322",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4407471560-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-17112",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copper",
+          "_content": "copper",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-99426",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statuette",
+          "_content": "statuette",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-30561",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "figurine",
+          "_content": "figurine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-791231",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Tyche",
+          "_content": "tyche",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-57916",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "LateAntique",
+          "_content": "lateantique",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4407471560-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4407471560/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

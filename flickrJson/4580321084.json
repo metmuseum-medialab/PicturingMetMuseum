@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "4580321084",
+    "secret": "f284acd501",
+    "server": "4020",
+    "farm": 5,
+    "dateuploaded": "1273026348",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Two Men Contemplating the Moon by Friedrich in the Metropolitan Museum of Art, May 2010"
+    },
+    "description": {
+      "_content": "Artist:  Caspar David Friedrich (German, 1774–1840)\n\nTitle:  Two Men Contemplating the Moon\n\nDate:  ca. 1825–30\n\nMedium:  Oil on canvas\n\nDimensions:  13 3/4 x 17 1/4 in. (34.9 x 43.8 cm)\n\nClassification:  Paintings\n\nCredit Line:  Wrightsman Fund, 2000\n\nAccession Number:  2000.51\n\n\nGallery Label:\n\nThis is the third version of one of this artist's most famous paintings, of which the first (1819) is in the Gemäldegalerie, Dresden, and the second (ca. 1824) is in the Alte Nationalgalerie, Berlin. The two men contemplating the sinking moon have been identified as Friedrich himself, on the right, and his talented young colleague August Heinrich (1794-1822). The mood of pious contemplation relates to fascination with the moon as expressed in contemporary poetry, literature, philosophy, and music. Both figures are seen from the back so that the viewer can participate in their communion with nature, which the Romantics saw as a manifestation of the Sublime.\n\nAlthough the landscape is imaginary, it is based on studies after nature that Friedrich had made in various regions at different times. Both men wear Old German dress, which had been adopted in 1815 by radical students as an expression of opposition to the ultraconservative policies then being enforced in the wake of the Napoleonic Wars. The staunchly patriotic Friedrich deliberately ignored the 1819 royal decree forbidding this practice and depicted figures in traditional costume until his death.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/two_men_contemplating_the_moon_caspar_david_friedrich/objectview.aspx?OID=110003080&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1273026348",
+      "taken": "2010-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968620"
+    },
+    "views": "472",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4580321084-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-123537",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Friedrich",
+          "_content": "friedrich",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-13796",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "German",
+          "_content": "german",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-356779",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanticism",
+          "_content": "romanticism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-1695",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "landscape",
+          "_content": "landscape",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-384",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "moon",
+          "_content": "moon",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4580321084-556",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "tree",
+          "_content": "tree",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4580321084/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "4930762816",
+    "secret": "ebcc3a230e",
+    "server": "4100",
+    "farm": 5,
+    "dateuploaded": "1282864506",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheCowherdAtValhermeil_Auvers-sur-Oise_TheMET (9)"
+    },
+    "description": {
+      "_content": "Detail from:\nCamille Pissarro  French, 1830 – 1930\n\n‘A Cowherd at Valhermeil, Auvers-sur-Oise’  1874\nOil on canvas\nSigned and dated (lower left): C.Pissarro.  1874\n\nPissarro lived in Pontoise, nestled in the Oise River valley just northwest of Paris, from 1866 to 1869, and he returned there in 1872.  Over the decade, Pissarro developed his approach to landscape painting, adapting the looser touch, broken brush strokes and lighter palette of his younger Impressionist colleagues.  He also enjoyed contact with Cézanne, who lived in nearby Auvers.  With characteristic interest in the pulse of daily life, Pissarro routinely painted inhabited, as opposed to pure, landscapes, frequently depicting villages walking on paths through the French countryside.\nFormerly known as ‘A Cowherd on the Route du Chou, Pontoise’, this view actually shows the rue de Pontoise in the adjacent hamlet of Valhermeil in Auvers.  Between 1873 and 1882, Pissarro painted some twenty works in the area, including a half dozen in which the red-roofed house adds a contrasting color note to the hillside’s lush greenery.\n\nGift of Edna H. Sachs, 1956\n56.182\n\nFrom the placard: Metropolitan Museum of Art."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1282864506",
+      "taken": "2009-08-29 12:34:37",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1289893408"
+    },
+    "views": "1024",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "10"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157624819338622",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "273",
+          "y": "200",
+          "w": "203",
+          "h": "52",
+          "_content": "Is this my imagination running away from me [ hmmmm, Rolling Stones SOTD ], or does this look like a rain puddle?  Does to me, but maybe I drank too much Reisling during my vacation? ... I quess its a small hedge, when you look at the painting as a whole...but I thought I was seeing reflection..."
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4930762816-891803",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Camille Pissarro",
+          "_content": "camillepissarro",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4930762816-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4930762816-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4930762816-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4930762816-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4930762816-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4930762816/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

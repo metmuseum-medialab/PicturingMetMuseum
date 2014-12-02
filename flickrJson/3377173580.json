@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "3377173580",
+    "secret": "f0771ffe11",
+    "server": "3467",
+    "farm": 4,
+    "dateuploaded": "1237757960",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "196cee9020",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "François-Pascal-Simon Gérard, later Baron Gérard (1770–1837)"
+    },
+    "description": {
+      "_content": "Baron Antoine-Jean Gros (French, 1771–1835)\n\nTitle\nFrançois-Pascal-Simon Gérard, later Baron Gérard (1770–1837)\n\nDate\n1790\n\nMedium\nOil on canvas\n\nDimensions\n22 1/8 x 18 5/8 in. (56.2 x 47.3 cm)\n\nCredit Line\nGift of Mrs. Charles Wrightsman, 2002\n\nAccession Number\n2002.441\n\nBoth Gros and Gérard were favored students in the rough and tumble fraternity that was the atelier of Jacques Louis David. Intense friendships and near-fatal rivalries developed in the heady environment that mixed revolutionary politics with cut-throat professional competition. In the late 1780s, Gros and Gérard were close friends; later, in the early nineteenth century, Gérard would become court portraitist to Napoleon and Josephine while Gros would become the chief propagandist of the Empire's military exploits. But the friendship was broken in January 1793 when Gérard denounced Gros for contemplating emigration, an accusation that could result in trial for treason. Gros probably made this sensitive and delicate portrait in Paris before Gérard departed for study in Rome in 1790; Gérard reciprocated with a handsome portrait of Gros in the wide-brimmed hat favored by revolutionaries (Musée des Augustins, Toulouse). Despite the subsequent rift, each artist kept their portrait for the rest of his life. The portrait of Gérard remained with his descendents until recently."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1237757960",
+      "taken": "2009-03-06 14:01:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1315449875"
+    },
+    "views": "3220",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3377173580-77197",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Baron",
+          "_content": "baron",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-37147457",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Antoine-Jean",
+          "_content": "antoinejean",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-91957",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Gros",
+          "_content": "gros",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-86622",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "antoine",
+          "_content": "antoine",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-4201",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "jean",
+          "_content": "jean",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-1500",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-95",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "new",
+          "_content": "new",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitanmuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3377173580-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3377173580/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

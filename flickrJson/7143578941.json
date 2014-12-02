@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "7143578941",
+    "secret": "cf08eeb06c",
+    "server": "8015",
+    "farm": 9,
+    "dateuploaded": "1336179581",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "High Point Shandaken Mountains_TheMET(5)"
+    },
+    "description": {
+      "_content": "Asher B. Durand (1796-1886)\n<b><i> High Point: Shandaken Mountains </i></b>\n1853\nOil on canvas\nThis work, first shown at the National Academy of Design’s annual exhibition in New York City in 1853, depicts a scene near the town of Olive, New York, where Durand spent the summers of 1853 and 1855.  During those months, he repeated sketches he had made of a nearby mountain, High Point ( also known as Ashokan High Point), on an earlier visit to the region in 1847.  In this painting, in contrast to his large “historical landscapes,” the artist focused on depicting light and shade in the type of bucolic setting popular with an increasingly urban American public—represented here by the couple fishing on the bank of the stream, enjoying the bounty of nature.\n\nBequest of Sarah Ann Ludlum, 1877\n77.3.1\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1336179581",
+      "taken": "2011-02-25 12:26:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410696425"
+    },
+    "views": "354",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7143578941/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

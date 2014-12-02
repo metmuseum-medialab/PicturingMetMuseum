@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5821278591",
+    "secret": "f806e0cb92",
+    "server": "2348",
+    "farm": 3,
+    "dateuploaded": "1307813652",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "FederigoGonzaga_TheMET)1) (10)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=5821278591&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n\nFrancesco Francia (Francesco di Marco di Giacomo Raibolini)\nItalian, Bolognese,  active by 1482,  died 1517/18\n\nDetail from:  <b><i> Federigo Gonzaga </i></b> (1500 – 1540 )\nTempera on wood, transferred from wood to canvas and then again to wood\n\nIn July 1510 the ten-year-old Federigo Gonzaga was sent from Mantua to Rome as a hostage.  On his way to Rome he stopped in Bologna, where Francia astounded everyone by painting and delivering his portrait in twelve days.  The picture was subsequently taken to Rome for the admiration of the papal court and was only relunctantly returned to Isabella d’Este, Federigo’s mother.  The fine execution of this famous portrait is typical of Francia’s best work.\n\nBequest of Benjamin Altman, 1913\n14.40.638\n\n\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1307813652",
+      "taken": "2011-04-09 10:12:38",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1417505660"
+    },
+    "views": "331",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5821278591-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821278591-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821278591-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821278591-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821278591-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5821278591/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

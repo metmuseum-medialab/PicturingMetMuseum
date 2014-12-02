@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "7058198239",
+    "secret": "85f01e334a",
+    "server": "7186",
+    "farm": 8,
+    "dateuploaded": "1333920975",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TwoGirlswithParasols_ TheMET(4)"
+    },
+    "description": {
+      "_content": "John Singer Sargent (1856-1925)\n.\n<b><i> Two Girls with Parasols </i></b>\n1888\nOil on canvas\nBeginning in 1885, Sargent often visited Claude Monet at his home in the French village of Giverny, and he was inspired, over the next few years, to create Impressionist landscapes, boating scenes and figure subjects.  This unfinished canvas, which he painted at Calcot Mill in England’s Berkshire countryside, reflects the French master’s influence.  It depicts the artist’s sister Violet, in the foreground, and a friend during a walk in the country.  Sargent’s spontaneous technique and rapid brushwork are evident in the summary rendering of faces and forms and the fleeting effects of dappled light.\nGift of Mrs. Francis Ormond, 1950\n50.130.13\n\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333920975",
+      "taken": "2011-02-24 11:35:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334258245"
+    },
+    "views": "487",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629406303716",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "264",
+          "y": "48",
+          "w": "70",
+          "h": "41",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7054264237/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7058198239-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7058198239-70813",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "John Singer Sargent",
+          "_content": "johnsingersargent",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7058198239/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

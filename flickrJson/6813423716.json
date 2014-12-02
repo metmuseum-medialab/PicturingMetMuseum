@@ -1,0 +1,231 @@
+{
+  "photo": {
+    "id": "6813423716",
+    "secret": "47b214caaa",
+    "server": "7049",
+    "farm": 8,
+    "dateuploaded": "1331059208",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "a2540791c1",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "30411461@N05",
+      "username": "Primo Iglesias",
+      "realname": "Primo Iglesias",
+      "location": "",
+      "iconserver": "3732",
+      "iconfarm": 4,
+      "path_alias": "ficionado"
+    },
+    "title": {
+      "_content": "A Day at the Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": "Stela of a Four-Armed Vishnu\nIndia (Punjab), 10th-11th century\nSandstone\n\nAccession # 68.46\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1331059208",
+      "taken": "2012-02-23 12:55:12",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1331153671"
+    },
+    "views": "139",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "30406121-6813423716-392941",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "The Metropolitan Museum of Art",
+          "_content": "themetropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-53005",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-1154",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-607",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-31596119",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "“metropolitan_museum”",
+          "_content": "“metropolitanmuseum”",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-109",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-63586",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "The Met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-6337",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Fine Art",
+          "_content": "fineart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-29819",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "gotham",
+          "_content": "gotham",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-106",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-7894",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "5th avenue",
+          "_content": "5thavenue",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-79338",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Upper East Side",
+          "_content": "uppereastside",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-1118104",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "works of art",
+          "_content": "worksofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6813423716-173387",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "asian_art",
+          "_content": "asianart",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.77877,
+      "longitude": -73.963351,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/ficionado/6813423716/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "4579251901",
+    "secret": "ba4f24e537",
+    "server": "4070",
+    "farm": 5,
+    "dateuploaded": "1273014435",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Whale Ship by Turner in the Metropolitan Museum of Art, May 2010"
+    },
+    "description": {
+      "_content": "Artist:  Joseph Mallord William Turner (English, 1775–1851)\n\nTitle:  The Whale Ship\n\nDate:  ca. 1845\n\nMedium:  Oil on canvas\n\nDimensions:  36 1/8 x 48 1/4 in. (91.8 x 122.6 cm)\n\nClassification:  Paintings\n\nCredit Line:  Catharine Lorillard Wolfe Collection, Wolfe Fund, 1896\n\nAccession Number:  96.29\n\n\nGallery Label:\n\nTurner was seventy years old when he first exhibited &quot;The Whale Ship&quot; at the annual Royal Academy exhibition of 1845. The painting was praised by some but derided by many; critics in both camps acknowledged that the subject matter might seem elusive at first glance. English novelist William Thackeray explained to readers of &quot;Fraser's Magazine&quot;: &quot;That is not a smear of purple you see yonder, but a beautiful whale, whose tail has just slapped a half-dozen whale-boats into perdition; and as for what you fancied to be a few zig-zag lines spattered on the canvas at hap-hazard, look! they turn out to be a ship with all her sails.&quot; \n\nIt is thought that Turner painted this painting as well as three others dating to the same period (all, Tate, London) in the hope that they would appeal to Elhanan Bicknell, a collector of British art who had made his fortune in the whale-oil business. Supposedly, after examining &quot;The Whale Ship&quot; in his home, Bicknell was annoyed to find that Turner had finished the painting with touches of watercolors. The collector tried to rub out the watercolored areas with his handkerchief before returning the painting to the artist.\n\nText from: <a href=\"http://www.metmuseum.org/works_of_art/collection_database/european_paintings/the_whale_ship_joseph_mallord_william_turner/objectview.aspx?collID=11&amp;OID=110002307\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1273014435",
+      "taken": "2010-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1395220229"
+    },
+    "views": "854",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4579251901-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-38593",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Turner",
+          "_content": "turner",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thcentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-2243",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "boat",
+          "_content": "boat",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-3592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ship",
+          "_content": "ship",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-20184",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "whale",
+          "_content": "whale",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4579251901-356779",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanticism",
+          "_content": "romanticism",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4579251901/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

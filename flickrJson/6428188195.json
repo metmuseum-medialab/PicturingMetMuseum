@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "6428188195",
+    "secret": "184b09c626",
+    "server": "7142",
+    "farm": 8,
+    "dateuploaded": "1322616253",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "A River in a Meadow  _TheMET(5)"
+    },
+    "description": {
+      "_content": "Théodore Rousseau \n French,  1812–1867\n<b><i> A River in a Meadow  </i></b>   probably 1861\nOil on wood\nSigned (lower left): TH. Rousseau\n\nBequest of Collis P. Huntington, 1900\n25.110.52\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1322616253",
+      "taken": "2011-09-25 10:18:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1322619058"
+    },
+    "views": "403",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628213451495",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "112",
+          "y": "166",
+          "w": "98",
+          "h": "59",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6428193235/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6428188195-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-15777032",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Théodore Rousseau",
+          "_content": "théodorerousseau",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428188195-79173881",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_232",
+          "_content": "bench232",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6428188195/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

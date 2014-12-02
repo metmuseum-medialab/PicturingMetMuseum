@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7417067866",
+    "secret": "6287a2f103",
+    "server": "8151",
+    "farm": 9,
+    "dateuploaded": "1340324269",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Americana TheMET(4)"
+    },
+    "description": {
+      "_content": "Charles Sheeler    American ( 1883-1965)\n<b><i> Americana  </i></b>, 1931\nOil on canvas\nBetween 1926 and 1934 Sheeler produced seven paintings and several photographs of the interior of his home in South Salem, New York.  Prominently featured in all of them is his collection of early American furnishings.  Although he rendered each object with Precisionist clarity, he treated the composition as an abstract design, enlivened by his unusual choice of perspective.\n\nEdith and Milton Lowenthal Collection,  Bequest of Edith Abrahamson Lowenthal, 1991\n1992.24.8\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1340324269",
+      "taken": "2011-05-06 09:45:09",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1340409161"
+    },
+    "views": "163",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7417067866-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7417067866-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7417067866-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7417067866-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7417067866/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

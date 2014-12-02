@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8493990748",
+    "secret": "3e44885c09",
+    "server": "8365",
+    "farm": 9,
+    "dateuploaded": "1361408283",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "A Fountain in Rome  TheMET(6)"
+    },
+    "description": {
+      "_content": "Wilhelm Marstrand     Danish,  1810-1873\n\n<b><i>A Fountain in Rome </i></b>\nOil on canvas     Monogrammed (lower left):  WM\n\nThaw Collection, jointly Owned by The Metropolitan Museum of Art and The Morgan Library &amp; Museum, \nGive of Eugene V. Thaw,  2009\n2009.400.84\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1361408283",
+      "taken": "2012-08-25 09:51:35",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1361495509"
+    },
+    "views": "176",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8493990748-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8493990748-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8493990748-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8493990748-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8493990748-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8493990748/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

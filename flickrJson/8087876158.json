@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8087876158",
+    "secret": "6b34bfc3cd",
+    "server": "8189",
+    "farm": 9,
+    "dateuploaded": "1350250950",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Source of the Loue  TheMET(4)"
+    },
+    "description": {
+      "_content": "Gustave Courbet   French  1819-1877\n<b><i>The Source of the Loue </i></b>,\nOil on canvas\nSigned (bottom center):   G. Courbet\nThe Loue River originates from the mouth of a cave near Courbet’s birthplace of Ornans in the Franche-Comté.  It has been suggested that Courbet painted views of the source of the Loue with an eye to the art market, since the site was fast becoming a tourist attraction.  These paintings may also be read as his Realist response to the allegorical <i> Sources</i>--female nudes holding a vessel from which water flows—that proliferated in the academic art on view a the Salons, as embodied by Ingre’s <i>Source</i> of 1856 ( Musée d’Orsay, Paris), which was exhibited in Paris in 1861.\nH.O. Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer, 1929\n29.100.122\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1350250950",
+      "taken": "2012-08-25 09:46:39",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1350353255"
+    },
+    "views": "292",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8087876158-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087876158-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087876158-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087876158-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8087876158-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8087876158/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

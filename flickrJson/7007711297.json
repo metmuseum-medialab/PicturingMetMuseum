@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "7007711297",
+    "secret": "b43066d32c",
+    "server": "7191",
+    "farm": 8,
+    "dateuploaded": "1328728245",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Lighthouse at Two Lights by Hopper in the Metropolitan Museum of Art, January 2011"
+    },
+    "description": {
+      "_content": "The Lighthouse at Two Lights\n\nEdward Hopper  (American, Nyack, New York 1882–1967 New York City) \n\nDate: 1929 \n\nMedium: Oil on canvas \n\nDimensions: H. 29-1/2, W. 43-1/4 in. (74.9 x 109.9 cm) \n\nClassification: Paintings \n\nCredit Line: Hugo Kastor Fund, 1962 \n\nAccession Number: 62.95\n\nDescription:\n\n Edward Hopper's early training from 1900 to 1906 at the New York School of Art with Robert Henri, leader of The Eight, and his work as an illustrator between 1899 and 1924, led him to paint realistic scenes of urban and rural America. In 1924 a successful gallery exhibition in New York enabled him to give up commercial work altogether and concentrate full time on painting. Hopper depicted his favored subjects — cityscapes, landscapes, and room interiors — solemnly, in carefully composed compositions that seem timeless and frozen but are animated by the effects of natural and man-made light. As fellow painter Charles Burchfield wrote for the catalogue of the Museum of Modern Art's 1933 Hopper retrospective: &quot;Hopper's viewpoint is essentially classic; he presents his subjects without sentiment, propaganda, or theatrics. He is the pure painter, interested in his material for its own sake, and in the exploitation of his idea of form, color, and space division.&quot;\n\nIn &quot;The Lighthouse at Two Lights&quot; Hopper isolated the dramatic silhouette of the 120-foot-high lighthouse tower and adjoining Coast Guard station against the open expanse of blue sky. Set on a rocky promontory in Cape Elizabeth, Maine — though no water is visible in the painting — the architecture is bathed in bright sunlight offset by dark shadows. Since 1914 Hopper had regularly summered in Maine, and this picture is one of three oils and several watercolors that he did of this site during summer 1929. To Hopper, the lighthouse at Two Lights symbolized the solitary individual stoically facing the onslaught of change in an industrial society. The integrity and clarity of his work made Hopper a quiet force in American art for forty years and one of America's most popular artists.\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/210009492\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/2100...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328728245",
+      "taken": "2011-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1333896602"
+    },
+    "views": "549",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7007711297-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-1174",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "architecture",
+          "_content": "architecture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-49617",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hopper",
+          "_content": "hopper",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7007711297-390",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "lighthouse",
+          "_content": "lighthouse",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7007711297/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

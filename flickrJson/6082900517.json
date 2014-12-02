@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "6082900517",
+    "secret": "6c39c1e0a5",
+    "server": "6087",
+    "farm": 7,
+    "dateuploaded": "1314209928",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Medal Depicting the Pazzi Conspiracy in the Metropolitan Museum of Art, September 2010"
+    },
+    "description": {
+      "_content": "Title:  To Commemorate the Pazzi Conspiracy, 1478\n\nObject Name:  Medal\n\nMedalist:  Bertoldo di Giovanni (Italian, born Florence (?) ca. 1430–40, died 1491 Poggio a Caiano)\n\nCulture:  Italian (Florentine)\n\nDate:  1478\n\nMedium:  Bronze\n\nDimensions:  Diam. 2 1/2 in. (64 mm.)\n\nClassification:  Medals\n\nCredit Line:  Bequest of Anne D. Thomson, 1923\n\nAccession Number:  23.280.44\n\nSignatures, Inscriptions, and Markings:\nInscriptions: Obverse:(inscribed below bust) SALUS PUBLICA; LAURENTIUS MEDICES \nReverse:(inscribede below bust) LUCTUS PUBLICUS; IULIANUS MEDICES\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_sculpture_and_decorative_arts/to_commemorate_the_pazzi_conspiracy_1478_bertoldo_di_giovanni//objectview.aspx?OID=120009831&amp;collID=12&amp;dd1=12\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1314209928",
+      "taken": "2010-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1396618560"
+    },
+    "views": "197",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6082900517-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-49739",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-10251",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medal",
+          "_content": "medal",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082900517-15527",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Latin",
+          "_content": "latin",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6082900517/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

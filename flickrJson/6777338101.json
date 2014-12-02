@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "6777338101",
+    "secret": "e9d75903ac",
+    "server": "7141",
+    "farm": 8,
+    "dateuploaded": "1327776800",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Portrait of a Woman _TheMET(4)"
+    },
+    "description": {
+      "_content": "Ferdinand Bol\nDutch, Dordrecht, 1616-1680  Amsterdam\n\n<b><i> Portrait of a Woman </i></b>\nOil on canvas\nSigned and dated (left center): f. Bol fecit / 1642\n\nA native of Dordrecht,  Bol studied with Rembrandt during the 1630s and remained in Amsterdam as one of the city’s leading portrait and history painters.  His early portraits come very close to Rembrandt’s portraits of the later thirties in their style and quiet expression of character.  This portrait, the <i> Portrait of an Old Woman in Berlin</i>, and etchings in Rembrandt’s style are Bol’s earliest dated works.\n\nTheodore M. Davis Collection,\nBequest of Theodore M. Davis,  1915\n30.95.269\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1327776800",
+      "taken": "2011-09-25 11:27:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1327954161"
+    },
+    "views": "318",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629071323303",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "195",
+          "y": "254",
+          "w": "81",
+          "h": "55",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6773904425/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6777338101-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777338101-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777338101-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777338101-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777338101-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6777338101/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

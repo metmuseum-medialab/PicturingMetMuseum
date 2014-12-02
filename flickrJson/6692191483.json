@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "6692191483",
+    "secret": "d0b5aef5c6",
+    "server": "7014",
+    "farm": 8,
+    "dateuploaded": "1326498462",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheModel_TheMET(5)"
+    },
+    "description": {
+      "_content": "Boris Grigoriev    \nRussian,  1886-1939\n\n<b><i> The Model </i></b>  ca.  1926\nOil on canvas\n\nGift of Humanities Fund  Inc.,  1972\n1972.146.2\n\nFrom the placard :  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6692191483&amp;size=large\" rel=\"nofollow\">View On Black</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1326498462",
+      "taken": "2011-09-25 11:00:28",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1327113852"
+    },
+    "views": "206",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628858050275",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "203",
+          "y": "88",
+          "w": "91",
+          "h": "72",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6692189191/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6692191483-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6692191483-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6692191483-5467",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Art",
+          "_content": "modernart",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6692191483-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6692191483-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6692191483/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

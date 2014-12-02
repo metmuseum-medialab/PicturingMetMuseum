@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "15089490112",
+    "secret": "398ce1a9d0",
+    "server": "3926",
+    "farm": 4,
+    "dateuploaded": "1409462404",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "48d8be241b",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "98775743@N00",
+      "username": "jaroslavd",
+      "realname": "jerry dohnal",
+      "location": "sydney/new york, australia/USA",
+      "iconserver": "2171",
+      "iconfarm": 3,
+      "path_alias": "jaroslavd"
+    },
+    "title": {
+      "_content": "Bather"
+    },
+    "description": {
+      "_content": "Metropolitan Museum of Art\nMarble\nManner of Etienne-Maurice Falconet (1716-1791)\nFrench (Paris), ca. 1770-80\n\nDimensions: Height (with base): 10 1/4 in. (26 cm)\n\nThis statuette belongs to the large group of works inspired by Falconet's popular biscuit figurines of similar subjects."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1409462404",
+      "taken": "2014-08-31 14:42:04",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410166664"
+    },
+    "views": "810",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "804072-15089490112-394295",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Bather",
+          "_content": "bather",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-3020900",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Etienne-Maurice Falconet",
+          "_content": "etiennemauricefalconet",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-430139",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "stauette",
+          "_content": "stauette",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-24978",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-1592",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "nude",
+          "_content": "nude",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-30561",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "figurine",
+          "_content": "figurine",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-308",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-29750",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-15089490112-97327",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/jaroslavd/15089490112/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

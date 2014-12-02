@@ -1,0 +1,121 @@
+{
+  "photo": {
+    "id": "7327798400",
+    "secret": "fe21f99b54",
+    "server": "7228",
+    "farm": 8,
+    "dateuploaded": "1338735547",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Jerusalem from the Environs  TheMET(3)"
+    },
+    "description": {
+      "_content": "Charles-Théodore Frère  French, 1814-1888\n<b><i>  Jerusalem from the Environs </i></b>\nOil on canvas\nFrère  began his career painting the French countryside but exhibited only Middle Eastern scenes after a stay in Algeria in 1837.  He returned to the eastern shores of the Mediterranean many times and eventually established a studio in Cairo.  Wolfe commissioned this work from the artist about 1880. \nCatherine Lorillard Wolfe Collection,\nBequest of Catherine Lorillard Wolfe, 1887\n87.15.106\nFrom the placard:  Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338735547",
+      "taken": "2011-05-06 09:00:10",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1341673019"
+    },
+    "views": "280",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157630463862440",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "318",
+          "y": "132",
+          "w": "181",
+          "h": "129",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7327821606/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7327798400-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327798400-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327798400-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327798400-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7327798400/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

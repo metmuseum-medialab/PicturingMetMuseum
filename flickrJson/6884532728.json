@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "6884532728",
+    "secret": "629342bee1",
+    "server": "7122",
+    "farm": 8,
+    "dateuploaded": "1333149192",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Venice, from the porch of Madonna della Salute _TheMET(7)"
+    },
+    "description": {
+      "_content": "[ This Photograph was: Identify the Painter (6) ]\n\nJoseph Mallord William Turner\nEnglish, 1775-1851\nDetail from: <b><i> Venice, from the porch of Madonna della Salute </i></b>  ca. 1835\nOil on canvas\n\nThis painting, which is based in part on a sketch executed in August 1819 during Turner’s first trip to Venice, combines two viewpoints along the Grand Canal.  The buldings on the left are seen from the corner of the church of Santa Maria della Salute.  Those on the right are seen from a vague position across the canal, approximately one hundred yards farther back, near the Campo del Traghetto of Santa Maria del Giglio.  Turner also extended the height of the Campanile (the tower in the background at left) and added a building in the background at the right.\n\nBequest of Cornelius Vanderbilt, 1899\n99.31\n\nFrom the placard:  Metropolitan Museum of Art\n<a href=\"http://bighugelabs.com/onblack.php?id=6884532728&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333149192",
+      "taken": "2011-02-24 10:07:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1390786955"
+    },
+    "views": "1442",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6884532728-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-3153800",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Joseph Mallord William Turner",
+          "_content": "josephmallordwilliamturner",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884532728-81321961",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_233",
+          "_content": "bench233",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6884532728/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

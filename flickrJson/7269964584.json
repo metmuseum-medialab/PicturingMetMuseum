@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7269964584",
+    "secret": "16ed9b4c33",
+    "server": "7082",
+    "farm": 8,
+    "dateuploaded": "1337982366",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Repose TheMET(9)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter (53) ]\nJohn White Alexander  (1856-1915)\nDetail from: <b><i>  Repose </i></b>  1895\nOil on canvas\n\nAlexander, who lived in Paris during the 1890s, achieved international success with his studies of female figures gracefully posed in elegant interiors.  In this example, the provocative facial expression and supple curves reflect the contemporary French taste for sensual images of women as well as undulating linear rhythms of Art Nouveau.  With its model decoratively attired in a sweep of white fabric, <i>Repose </i> was lampooned in a French magazine as a portrayal of Loïe Fuller (1862-1928), the American dancer famous for manipulating swirling folds of silk in her performances at the Folies Bergère in Paris.\nAnonymous Gift, 1980\n1980.224\n\n\n\n\n\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1337982366",
+      "taken": "2011-05-06 10:25:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1404228904"
+    },
+    "views": "796",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7269964584-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7269964584-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7269964584-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7269964584-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7269964584/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

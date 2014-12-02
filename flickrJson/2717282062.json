@@ -1,0 +1,301 @@
+{
+  "photo": {
+    "id": "2717282062",
+    "secret": "4349bde2de",
+    "server": "2034",
+    "farm": 3,
+    "dateuploaded": "1217432881",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Pendant with the Head of Pazuzu in the Metropolitan Museum of Art, February 2008"
+    },
+    "description": {
+      "_content": "Pendant with the Head of Pazuzu\nBronze \nMesopotamia\nNeo-Assyrian\n8th-7th century BC\n\nAccession # 1993.181\n\nThe Mesopotamian god Pazuzu, king of the evil wind demons, was a composite creature with a lion or dog-like face, the horns of a goat, a human torso, the fore-paws of a lion, a scaly lower body, a snake-headed phallus, a scorpion's tail, and the talons and wings of a bird.  Pazuzu emerged from the mountains of the underworld, which are represented at the bottom of the plaque.  Images of Pazuzu were thought to ward off the demon, Lamashtu, and the protect against disease-bearing winds, especially the west wind.  Plaques depicting Pazuzu were placed in houses and bronze head-pendants were hung around the necks of pregnant women, who were the particular focus of Lamashtu's attacks.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1217432881",
+      "taken": "2008-02-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1362099191"
+    },
+    "views": "1599",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2717282062-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-263624",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Assyrian",
+          "_content": "assyrian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-9143",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "jewelry",
+          "_content": "jewelry",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-4922",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "head",
+          "_content": "head",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-528504",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Pazuzu",
+          "_content": "pazuzu",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-17800",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "demon",
+          "_content": "demon",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2717282062-68974",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Mesopotamia",
+          "_content": "mesopotamia",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2717282062/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7085615221",
+    "secret": "5ed37c4f82",
+    "server": "7125",
+    "farm": 8,
+    "dateuploaded": "1334619793",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ForTheLittleOne_TheMET(7)"
+    },
+    "description": {
+      "_content": "[ This photograph was Identify the Painter (23) ]\n\nWilliam Merritt Chase  ( 1849-1916)\nDetail from: <b><i> For the Little One </i></b>  Ca. 1896 \nOil on canvas\n<i> For the Little One </i> shows Chase’s wife, Alice in the entry hall of the couple’s summer home at Shinnecock, in the town of Southhampton, Long Island,  New York.  The artist captured her engaged in a genteel handicraft with a maternal subtext: sewing a bit of apparel for a “little one,” presumably one of the five children in the Chase family by 1895.  While he included in the scene decorative elements that conjured the aesthetic atmosphere of their residence, Chase focused more intently on the effects of light, demonstrating his command of plein-air painting, even with an indoor subject.\n\nAmelia B. Lazarus Fund, by exchange, 1917\n13.90\n\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n\n\n.\n<a href=\"http://bighugelabs.com/onblack.php?id=7085615221&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334619793",
+      "taken": "2011-02-25 10:29:20",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334707057"
+    },
+    "views": "311",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7085615221-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7085615221-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7085615221-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7085615221-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7085615221/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

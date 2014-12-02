@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "963911062",
+    "secret": "a09786e02e",
+    "server": "1339",
+    "farm": 2,
+    "dateuploaded": "1185896244",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of Theseus and Ariadne at the Door to the Labyrinth on the Garland Sarcophagus in the Metropolitan Museum of Art, July 2007"
+    },
+    "description": {
+      "_content": "Marble sarcophagus with garlands and scenes the myth of Theseus and Ariadne\nRoman, Hadrianic or early Antonine period, ca. 130-150 AD\n\nAccession # 90.12a, b\n\nOn the lid, shown in delicate, low relief, winged erotes drive chariots drawn by animals associated with the four seasons:  bears with spring, lions with summer, bulls with fall, and boars with winter.   On the front, four erotes bear seasonal garlands composed of flowers, wheat, grapes, pomegrantes, and laurel.  Between the swags are three episodes from the myth of the Greek hero Theseus.  With the help of the Cretan princess Ariadne, Theseus slew the Minotaur, a part-bull, part-human monster who was caged in a labyrinth, where he consumed Athenian boys and girls sent as annual tribute.  Depicted from left to right are:  Ariadne giving a thread to Theseus at the entrance to the labyrinth, Theseus slaying the Minotaur, and the sleeping Ariadne abandoned on the island of Naxos, where she will be awakened by the god Dionysos and will become his immortal bride.\n\nText from the Metropolitan Museum of Art label.  "
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1185896244",
+      "taken": "2007-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1415074336"
+    },
+    "views": "2143",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-963911062-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-24978",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-9794",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "garland",
+          "_content": "garland",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-17707",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sarcophagus",
+          "_content": "sarcophagus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-281114",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Theseus",
+          "_content": "theseus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-113858",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Ariadne",
+          "_content": "ariadne",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-132442",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Minotaur",
+          "_content": "minotaur",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-963911062-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/963911062/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

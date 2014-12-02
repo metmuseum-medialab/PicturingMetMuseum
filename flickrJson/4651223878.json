@@ -1,0 +1,149 @@
+{
+  "photo": {
+    "id": "4651223878",
+    "secret": "71d07b021b",
+    "server": "4036",
+    "farm": 5,
+    "dateuploaded": "1275171432",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheChoirofTheCapuchinChurch_TheMET (18)"
+    },
+    "description": {
+      "_content": "‘The Choir of the Capuchin Church in Rome’  Francois-Marius Granet   French, 1775-1849\nOil on canvas  1814-15\nSigned, dated and inscribed : (lower right) GRANET/1815; (center right, on the doorframe):F.A.BARRI\n\nFrancois-Marius Granet, a notably pious man, conceived this subject in reaction to anticlericalism during Napoleon’s occupation of Rome.  The French authorities banished the Capuchin order from the church of the Immaculate Conception, near the Piazza Barberini, even billeting troops there for a time.  Nevertheless, this painting of the church’s interior was purchased by the emperor’s sister Caroline Murat, queen of Naples, for her brother Louis Bonaparte, who had seen it exhibited in the painter’s sudio, where it created a sensation at the end of 1814.  Pius VII, the same pope who had been forced to preside over Napoleon’s coronation a decade earlier, asked to meet the artist as a result of the exhibition.  Granet went on to paint perhaps a dozen or more versions of this subject, most on commission.  It is without a doubt his most famous composition.\n\nGift of L.P. Everard, 1880.\n80.5.2\n\nFrom the placard: Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1275171432",
+      "taken": "2010-05-23 09:41:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1356301262"
+    },
+    "views": "414",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157624038311913",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "206",
+          "y": "204",
+          "w": "151",
+          "h": "97",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/4650608761/in/photostream/\">Detail<a rel=\"nofollow\"></a></a></b>\n\n"
+        },
+        {
+          "id": "72157624038318741",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "145",
+          "y": "204",
+          "w": "141",
+          "h": "100",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/4651229966/in/photostream/\">Detail<a rel=\"nofollow\"></a></a></b>\n\n"
+        },
+        {
+          "id": "72157624162713968",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "251",
+          "y": "84",
+          "w": "173",
+          "h": "127",
+          "_content": "...\n<b><a href=\"http://www.flickr.com/photos/rverc/4650614653/in/photostream/\">Detail<a rel=\"nofollow\"></a></a></b>\n"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4651223878-3775325",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metroplitan_Museum",
+          "_content": "metroplitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4651223878-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4651223878-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4651223878-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4651223878-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4651223878/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

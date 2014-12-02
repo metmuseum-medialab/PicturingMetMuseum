@@ -1,0 +1,381 @@
+{
+  "photo": {
+    "id": "4815091849",
+    "secret": "d6cf0d4ffd",
+    "server": "4134",
+    "farm": 5,
+    "dateuploaded": "1279727414",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of the Hydria Attributed to the Leagros Group in the Metropolitan Museum of Art, June 2010"
+    },
+    "description": {
+      "_content": "Terracotta Hydria (water jar)\nGreek, Attic, black-figure, ca. 510 BC\nAttributed to the Leagros Group\nOn the body, Achilles and Ajax playing a board game at Troy\nOn the shoulder, chariot departing\n\nAccession # 56.171.29\n\nThe scene on the body depicts one of the most popular subjects in Greek art, mainly vase-painting, between about 540 and 480 BC.  Over 150 occurrences are known.  Remarkably, the original composition survives on an amphora in the Vatican Museums.  The artist was Exekias, the potter and painter whose work represents the height of black-figure painting.  In this variant, the painter has placed Athena stage center as the two primary Greek heroes of the Trojan War while away their time playing a game in which pieces are moved according to the roll of dice.   \n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1279727414",
+      "taken": "2010-06-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1389577772"
+    },
+    "views": "936",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4815091849-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-18592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "vase",
+          "_content": "vase",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-18596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pottery",
+          "_content": "pottery",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-13572",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "clay",
+          "_content": "clay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-955417",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "hydria",
+          "_content": "hydria",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-653872",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "BlackFigure",
+          "_content": "blackfigure",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-174756",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Archaic",
+          "_content": "archaic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-37507",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Athena",
+          "_content": "athena",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-41206",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Minerva",
+          "_content": "minerva",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-59935",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Achilles",
+          "_content": "achilles",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-24995",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Ajax",
+          "_content": "ajax",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-483",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "game",
+          "_content": "game",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-472",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "black",
+          "_content": "black",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-340",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "orange",
+          "_content": "orange",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-8910962",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "palmette",
+          "_content": "palmette",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4815091849-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4815091849/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

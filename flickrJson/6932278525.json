@@ -1,0 +1,301 @@
+{
+  "photo": {
+    "id": "6932278525",
+    "secret": "0a135f7a25",
+    "server": "7184",
+    "farm": 8,
+    "dateuploaded": "1328586299",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of a Byzantine Pectoral with Coins and Pseudo-Medallion in the Metropolitan Museum of Art, January 2011"
+    },
+    "description": {
+      "_content": " Pectoral with Coins and Pseudo-Medallion\n\nDate: ca. 539–550 \n\nCulture: Byzantine \n\nMedium: Gold, niello \n\nDimensions: \nOverall: 1 1/4 x 3/8 x 2 5/16 in. (3.1 x 1 x 5.9 cm) ring: 19 11/16 x 3/8 in. (50 x 1 cm) \nMedallion: 2 3/4 x 6 11/16 x 3/8 in. (7 x 17 x 1 cm) \n\nClassification: Metalwork-Gold \n\nCredit Line: Gift of J. Pierpont Morgan, 1917 \n\nAccession Number: 17.190.1664\n\nDescription:\n\nNeck rings, such as this imposing gold example, are cited in early sources as playing a role both in the glorification of military heroes and in coronation ceremonies. This pectoral necklace is composed of a plain, hollow neck ring attached to a frame set with a large central medallion flanked by coins and two small decorative disks. Although it was found in Egypt, the pectoral is believed to have been made in Constantinople, since a personification of that city is depicted on the reverse of the central medallion. The front of the medallion and the smaller coins depict Byzantine emperors. The two ribbed rings at the pectoral's lower edge once held a large medallion of the emperor Theodosius I. This imperial imagery suggests that the pectoral is composed of a collection of military trophies that once belonged to a distinguished general or a member of the imperial court.\n\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/170003934\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1700...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328586299",
+      "taken": "2011-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1331103331"
+    },
+    "views": "718",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6932278525-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-692858",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pectoral",
+          "_content": "pectoral",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-9143",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "jewelry",
+          "_content": "jewelry",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-1990",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "gold",
+          "_content": "gold",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-2822",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "coin",
+          "_content": "coin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-73957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "emperor",
+          "_content": "emperor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6932278525-57916",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "LateAntique",
+          "_content": "lateantique",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6932278525/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

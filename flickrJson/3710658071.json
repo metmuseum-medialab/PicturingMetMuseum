@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "3710658071",
+    "secret": "04a82f6b1d",
+    "server": "3489",
+    "farm": 4,
+    "dateuploaded": "1247354942",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ThePinkDress_TheMET (3)"
+    },
+    "description": {
+      "_content": "Berthe Morisot (French, 1841–1895)\n\nDetail from <b><i> The Pink Dress (Albertie-Marguerite Carré, later Madame Ferdinand-Henri Himmes, 1854–1935) </i></b> , ca. 1870\nOil on canvas \n21 1/2 x 26 1/2 in. (54.6 x 67.3 cm)\nSigned (lower right): Berthe Mor[isot]\n\nThe Walter H. and Leonore Annenberg Collection, Bequest of Walter H. Annenberg, 2002 (2003.20.8)\n\nThe fashionable portraitist Jacques-Émile Blanche, a friend of Berthe Morisot, recollected how and when this painting was made at the Villa Fodor, the family house of Marguerite Carré, the sitter: &quot;One day, she [Morisot] painted before my eyes a charming portrait of Mlle Marguerite in a light pink dress; indeed, the entire canvas was light. Here Berthe Morisot was fully herself, already eliminating from nature both shadows and half-tones.&quot; But the painting required several sessions, since Morisot &quot;constantly changed her mind and painted over what she had done once the session was at an end.&quot;\nThis work of about 1870 is one of the few to have survived from the artist's early period.\n\n\nSource: Berthe Morisot: The Pink Dress (Albertie-Marguerite Carré, later Madame Ferdinand-Henri Himmes, 1854–1935) (2003.20.8) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art \n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1247354942",
+      "taken": "2009-07-05 09:47:27",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1299801190"
+    },
+    "views": "760",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3710658071-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-42633437",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_140",
+          "_content": "bench140",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-1289449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Berthe Morisot",
+          "_content": "berthemorisot",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-818342",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Morisot",
+          "_content": "morisot",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-56980011",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_200",
+          "_content": "bench200",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3710658071-67922093",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_210",
+          "_content": "bench210",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3710658071/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

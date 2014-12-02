@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "7043297593",
+    "secret": "cc09863585",
+    "server": "5196",
+    "farm": 6,
+    "dateuploaded": "1333493210",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "LilacsInAWindow_TheMET(5)"
+    },
+    "description": {
+      "_content": "Mary Cassatt (1844-1926)\n<b><i> Lilacs in a Window (Vase del lilas à la fenêtre  </i></b>\nCa. 1880-83\nOil on canvas\nCassatt liked gardens and often portrayed them in the backgrounds of her paintings and pastels.  She also incorporated displays of flowers into indoor scenes.  This canvas, one of her rare still-life paintings, is contemporaneous with floral still lifes by her friends Claude Monet and Auguste Renoir.  Cassatt appears to have been experimenting with the effects of sunlight seen through a window and with contrasts of complementary colors while also creating a visual dialogue between the orderly setting, with its diagonal lines, and the organic sumptuousness of the lilacs.\nPartial and Promised Gift of Mr. and Mrs. Douglas Dillon, 1997.\n1997-207\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333493210",
+      "taken": "2011-02-24 14:44:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333502014"
+    },
+    "views": "449",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629735116199",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "130",
+          "y": "252",
+          "w": "95",
+          "h": "68",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7040218261/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7043297593-53005",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-1154",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-8740537",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Paintings",
+          "_content": "americanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7043297593-667557",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Mary Cassatt",
+          "_content": "marycassatt",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7043297593/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

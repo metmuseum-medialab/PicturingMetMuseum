@@ -1,0 +1,128 @@
+{
+  "photo": {
+    "id": "4295401185",
+    "secret": "6b74107f2c",
+    "server": "2217",
+    "farm": 3,
+    "dateuploaded": "1264189527",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "02d6ac6038",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Lucas van Uffel (died 1637)"
+    },
+    "description": {
+      "_content": "Anthony van Dyck (Flemish, 1599–1641)\nTitle Lucas van Uffel (died 1637)\nDate ca. 1621–27\nMedium Oil on canvas\nDimensions 49 x 39 5/8 in. (124.5 x 100.6 cm)\nCredit Line Bequest of Benjamin Altman, 1913\nAccession Number14.40.619\n\nVan Uffel was a wealthy Flemish merchant and shipowner who lived in Venice, where he met Van Dyck during the early years of the painter's Italian period (1621–27). Van Dyck's portrait of the same man (Herzog Anton Ulrich-Museum, Braunschweig) includes a view of ships sailing off a Mediterranean coast. Here, the sitter is presented as a learned gentleman, with dividers, a recorder, the bow of a viola da gamba, an antique head, a drawing, and a celestial globe suggesting his various interests. The canvas was first recorded in the collection of the Landgraves of Hesse-Kassel in the 1730s."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264189527",
+      "taken": "2009-06-07 12:02:18",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410729050"
+    },
+    "views": "1566",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4295401185-18065",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Anthony",
+          "_content": "anthony",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295401185-26538",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "van",
+          "_content": "van",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295401185-944652",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Dyck",
+          "_content": "dyck",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295401185-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295401185-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295401185-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4295401185/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

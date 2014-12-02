@@ -1,0 +1,341 @@
+{
+  "photo": {
+    "id": "7122384277",
+    "secret": "67f98ba851",
+    "server": "7196",
+    "farm": 8,
+    "dateuploaded": "1330146258",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Terracotta Column Krater Attributed to Lydos in the Metropolitan Museum of Art, April 2011"
+    },
+    "description": {
+      "_content": "Terracotta column-krater (bowl for mixing wine and water)\n\nAttributed to Lydos  \n\nPeriod: Archaic \n\nDate: ca. 550 B.C. \n\nCulture: Greek, Attic \n\nMedium: Terracotta \n\nDimensions: Overall: 22 3/16 x 27 1/4 in. (56.4 x 69.3 cm); diameter 23 1/16 in. (58.6 cm) \n\nClassification: Vases \n\nCredit Line: Fletcher Fund, 1931 \n\nAccession Number: 31.11.11\n\nDescription:\n\nObverse, Hephaistos on mule among satyrs and maenads\nReverse, Dionysos among satyrs and maenads\n\nThe symposium, conventionally interpreted as a drinking party, was a well-established feature of Greek—particularly Athenian— society. For over a century, representations on vases document that wine, women, and song were central ingredients. Even more worthy of emphasis, however, is the importance of the symposium as an institution that permitted citizens to gather, to transact business, and—as Plato's dialogue makes clear—to engage in serious discussion. An essential piece of equipment for the symposium was the vase in which the wine was diluted with water and from which it was served.\n\nIn black-figure vase-painting before the last quarter of the sixth century B.C., the decoration of large, elaborate kraters tended to be mythological. (On red-figure vases, the symposium itself was often depicted.) This krater is of exceptional significance because it is one of the first on which wine, women, and song are presented, albeit in a mythological guise.\n\nThe subject, which encompasses both sides of the vase, is the return of Hephaistos to Mount Olympos, the home of the gods. Hephaistos, the divine smith, was the son of Hera and Zeus. Because he was born lame, his mother cast him out of Olympos. In revenge, Hephaistos fashioned a throne that held Hera fast when she sat on it. only Hephaistos could release her. Therefore, he was given wine and escorted to Olympos by Dionysos, the god of wine, accompanied by his male and female followers, the satyrs and maenads.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/130013841\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1300...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330146258",
+      "taken": "2011-04-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1337666148"
+    },
+    "views": "736",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-7122384277-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-18592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "vase",
+          "_content": "vase",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-18596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pottery",
+          "_content": "pottery",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-13572",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "clay",
+          "_content": "clay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-1629",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ceramic",
+          "_content": "ceramic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-27260210",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Lydos",
+          "_content": "lydos",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-653872",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Black-Figure",
+          "_content": "blackfigure",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-200830",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "krater",
+          "_content": "krater",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-174756",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Archaic",
+          "_content": "archaic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-57766",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "satyr",
+          "_content": "satyr",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-4541",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "god",
+          "_content": "god",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-7122384277-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/7122384277/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

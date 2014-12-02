@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5245634060",
+    "secret": "df017c18be",
+    "server": "5008",
+    "farm": 6,
+    "dateuploaded": "1291861778",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "HampsteadHeathwithBathers_TheMET (7)"
+    },
+    "description": {
+      "_content": "John Constable    English,  1776-1837\n\nDetail from: ‘Hampstead Heath with Bathers’\nOil on canvas\n\nThaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library &amp; Museum,  Gift of Eugene V. Thaw, 2009\n2009.400.26\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1291861778",
+      "taken": "2010-11-06 10:51:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1292171902"
+    },
+    "views": "243",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5245634060-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5245634060-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5245634060-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5245634060-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5245634060-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5245634060-61105446",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon Painting",
+          "_content": "barbizonpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5245634060/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

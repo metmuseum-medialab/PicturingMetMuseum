@@ -1,0 +1,264 @@
+{
+  "photo": {
+    "id": "4245442823",
+    "secret": "04075314db",
+    "server": "2688",
+    "farm": 3,
+    "dateuploaded": "1262645308",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "4e81c54d2e",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "41622030@N07",
+      "username": "Marina Alexis Parker",
+      "realname": "Marina Parker",
+      "location": "NJ, USA",
+      "iconserver": "3472",
+      "iconfarm": 4,
+      "path_alias": "marinaalexisparker"
+    },
+    "title": {
+      "_content": "Seated statue of Gudea of Lagash"
+    },
+    "description": {
+      "_content": "Seated statue of Gudea, 2150–2100 B.C.\nNeo-Sumerian period\nSouthern Mesopotamia\nDiorite\n\nThe Akkadian empire collapsed after two centuries of rule, and during the succeeding fifty years, local kings ruled independent city-states in southern Mesopotamia. The city-state of Lagash produced a remarkable number of statues of its kings as well as Sumerian literary hymns and prayers under the rule of Gudea (ca. 2150–2125 B.C.) and his son Ur-Ningirsu (ca. 2125–2100 B.C.). Unlike the art of the Akkadian period, which was characterized by dynamic naturalism, the works produced by this Neo-Sumerian culture are pervaded by a sense of pious reserve and serenity.\nThis sculpture belongs to a series of diorite statues commissioned by Gudea, who devoted his energies to rebuilding the great temples of Lagash and installing statues of himself in them. Many inscribed with his name and divine dedications survive. Here, Gudea is depicted in the seated pose of a ruler before his subjects, his hands folded in a traditional gesture of greeting and prayer. The Sumerian inscription on his robe lists the various temples that he built or renovated in Lagash and names the statue itself, &quot;Gudea, the man who built the temple; may his life be long.&quot;\n\n<a href=\"http://www.metmuseum.org/toah/ho/02/wam/ho_59.2.htm\" rel=\"nofollow\">Metropolitan Museum of Art Collection</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1262645308",
+      "taken": "2009-09-18 01:11:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1397434475"
+    },
+    "views": "2084",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "41600700-4245442823-968056",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "gudea",
+          "_content": "gudea",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-423023",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "lagash",
+          "_content": "lagash",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-8805317",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "seated statue",
+          "_content": "seatedstatue",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-50537244",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "2150 - 2100 BC",
+          "_content": "21502100bc",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-99355",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "BCE",
+          "_content": "bce",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-15557589",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "neo-sumerian",
+          "_content": "neosumerian",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-7660835",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "southern mesopotamia",
+          "_content": "southernmesopotamia",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-1987900",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "diorite",
+          "_content": "diorite",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-8293866",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "city-states",
+          "_content": "citystates",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-2907",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "ancient history",
+          "_content": "ancienthistory",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-2948990",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "ancient near east",
+          "_content": "ancientneareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-50537246",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "after akkadian",
+          "_content": "afterakkadian",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-276492",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "pious",
+          "_content": "pious",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-16029",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "temples",
+          "_content": "temples",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-11328",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "divine",
+          "_content": "divine",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-97327",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "metropolitan museum of art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-202756",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-90804",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "art history",
+          "_content": "arthistory",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-304428",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "ancient art",
+          "_content": "ancientart",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-109",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-106",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-50537248",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "museums in new york city",
+          "_content": "museumsinnewyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "41600700-4245442823-431625",
+          "author": "41622030@N07",
+          "authorname": "Marina Alexis Parker",
+          "raw": "art museums",
+          "_content": "artmuseums",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/marinaalexisparker/4245442823/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

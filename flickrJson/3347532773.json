@@ -1,0 +1,176 @@
+{
+  "photo": {
+    "id": "3347532773",
+    "secret": "cfcd3cbe49",
+    "server": "3456",
+    "farm": 4,
+    "dateuploaded": "1236824081",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "e91819db58",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Abbess Lucrezia Agliardi Vertova (1490?–1558)"
+    },
+    "description": {
+      "_content": "Giovanni Battista Moroni (Italian, Lombard, born no later than 1524, died 1578)\n\nTitle\nAbbess Lucrezia Agliardi Vertova (1490?–1558)\n\nDate\n1557\n\nMedium\nOil on canvas\n\nDimensions\n36 x 27 in. (91.4 x 68.6 cm)\n\nCredit Line\nTheodore M. Davis Collection, Bequest of Theodore M. Davis, 1915\n\nAccession Number\n30.95.255\n\nThe Latin inscription reads: &quot;Lucrezia, daughter of the most noble Alessio Agliardi of Bergamo, [and] wife of the most honorable Francesco Cataneo Vertova, herself founded the church of Saint Anne at Albino. 1557&quot; The Agliardi were a prominent family in the north Italian city of Bergamo. After being widowed, Lucrezia founded the Carmelite convent of Santa Anna. It was there that she was buried and there that this remarkably unidealized portrait hung until around 1797, when the convent was suppressed. Moroni's uncompromising, naturalistic style may have been an important ingredient in the training of the young Caravaggio."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1236824081",
+      "taken": "2009-02-28 16:13:07",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1315449998"
+    },
+    "views": "1517",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3347532773-1727160",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Abbess",
+          "_content": "abbess",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-19916",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Lucrezia",
+          "_content": "lucrezia",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-25277474",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Agliardi",
+          "_content": "agliardi",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-5412213",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Vertova",
+          "_content": "vertova",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-89682",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Giovanni",
+          "_content": "giovanni",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-483894",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Battista",
+          "_content": "battista",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-104901",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Moroni",
+          "_content": "moroni",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-15527",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "latin",
+          "_content": "latin",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-103837",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3347532773-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3347532773/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

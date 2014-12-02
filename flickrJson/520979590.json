@@ -1,0 +1,399 @@
+{
+  "photo": {
+    "id": "520979590",
+    "secret": "344d1e33cd",
+    "server": "231",
+    "farm": 1,
+    "dateuploaded": "1180492886",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "7a44f85e3f",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "70323761@N00",
+      "username": "wallyg",
+      "realname": "Wally Gobetz",
+      "location": "jersey city, nj, us",
+      "iconserver": "5449",
+      "iconfarm": 6,
+      "path_alias": "wallyg"
+    },
+    "title": {
+      "_content": "NYC - Metropolitan Museum of Art: Bust of Lucius Verus"
+    },
+    "description": {
+      "_content": "<i>Marble portrait bust of the co-emperor Lucius Verus</i>\n\nThis magnificent, almost perfectly preserved bust was found in the eighteenth century at the site of a villa that may have belonged to Lucius Verus at Acqua Traversa near Rome.  It is a tour de force of Antonine marble carving with its deeply drilled curls and beard set against a smooth polished face.\n\nLucius Ceionius Commodus Verus Armeniacus (130-169) was Roman co-emperor with Marcus Aurelius (161-180), from 161 until his death.  Verus was the son of Avidia Plautia and Lucius Aelius Caesar, the adopted son, and intended successor, of Emperor Hadrian.  When Hadrian's successor, Antoninus Pius died in 161, he was succeeded by Aurelius and Verus was opted as co-emperor.  Officially both men shared equal powers, but in practice it was Marcus Aurelius who became the leader. Verus was given the control of the armies, proving the confidence between him and his senior brother.\n\nBetween 162 and 166 Verus was in the East, commanding a campaign against the Parthian empire for the control over the Armenian kingdom.  He lived the next two years in Rome, keeping a glamorous lifestyle before falling ill to, what was at the time believed to be food poisoning, but is now believed to be smallpox.\n\nLent by the Museé du Louvre, Départment des Antiquités grecques, étrusques et roamines (L.2007.26)\n\n**\nThe April 20, 2007 unveiling of the 30,000 square foot Greek and Roman Galleries concluded a 15-year project and returned thousands of works from the Museum’s permanent collection to public view. Over 5,300 objects, created between about 900 B.C. and the early fourth century A.D., are displayed, tracing the parallel stories of the evolution of Greek art in the Hellenistic period and the arts of southern Italy and Etruria and culminating in the rich and varied world of the Roman Empire from from the Late Republican period and the Golden Age of Augustus’s Principate to the conversion of Constantine the Great in A.D. 312.  The centerpiece of the new installation is the <a href=\"http://www.flickr.com/photos/wallyg/522663013/\">Leon Levy and Shelby White Court</a>, a monumental, peristyle cour court with a soaring two-story atrium that links the various galleries and themes. \n\nThe <a href=\"http://www.flickr.com/photos/wallyg/246896968/\">Metropolitan Museum of Art</a>'s permanent collection contains more than two million works of art from around the world.  It opened its doors on February 20, 1872, housed in a building located at 681 Fifth Avenue in New York City. Under their guidance of John Taylor Johnston and George Palmer Putnam, the Met's holdings, initially consisting of a Roman stone sarcophagus and 174 mostly European paintings, quickly outgrew the available space. In 1873, occasioned by the Met's purchase of the Cesnola Collection of Cypriot antiquities, the museum decamped from Fifth Avenue and took up residence at the Douglas Mansion on West 14th Street. However, these new accommodations were temporary; after negotiations with the city of New York, the Met acquired land on the east side of <a href=\"http://www.flickr.com/photos/wallyg/sets/72157594192309086/\">Central Park</a>, where it built its permanent home, a red-brick Gothic Revival stone &quot;mausoleum&quot; designed by American architects Calvert Vaux and Jacob Wrey Mold.  As of 2006, the Met measures almost a quarter mile long and occupies more than two million square feet, more than 20 times the size of the original 1880 building.\n\nIn 2007, the Metropolitan Museum of Art was ranked #17 on the AIA 150 America's Favorite Architecture list.\n\nThe Metropolitan Museum of Art was designated a landmark by the New York City Landmarks Preservation Commission in 1967.  The interior was designated in 1977. \n\nNational Historic  Register #86003556"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1180492886",
+      "taken": "2007-05-28 15:32:18",
+      "takengranularity": "0",
+      "takenunknown": "0",
+      "lastupdate": "1416447607"
+    },
+    "views": "11538",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1713009-520979590-3098240",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "lucius verus",
+          "_content": "luciusverus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-73957",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "emperor",
+          "_content": "emperor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-12435",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "bust",
+          "_content": "bust",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-1000",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-308",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-4745",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-11646265",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Lucius Ceionius Commodus Verus Armeniacus",
+          "_content": "luciusceioniuscommodusverusarmeniacus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-97327",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-59219",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-1154",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-106",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-22328",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gothamist",
+          "_content": "gothamist",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-109",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-5392",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-6792355",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "aia150",
+          "_content": "aia150",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-9012",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "landmark",
+          "_content": "landmark",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-29835",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-500713",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum mile",
+          "_content": "museummile",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-63586",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "the met",
+          "_content": "themet",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-12629",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ues",
+          "_content": "ues",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-79338",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "upper east side",
+          "_content": "uppereastside",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-7952964",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NYCLPC",
+          "_content": "nyclpc",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-7952963",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city landmarks preservation commission",
+          "_content": "newyorkcitylandmarkspreservationcommission",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-11658237",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Leon Levy and Shelby White Court",
+          "_content": "leonlevyandshelbywhitecourt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-10742639",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Greek and Roman Galleries",
+          "_content": "greekandromangalleries",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-59975",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "roman empire",
+          "_content": "romanempire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520979590-440",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-439",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ny",
+          "_content": "ny",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-907511",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Register of Historic Places",
+          "_content": "nationalregisterofhistoricplaces",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-2094603",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NRHP",
+          "_content": "nrhp",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-7396769",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Register of Historic Places",
+          "_content": "usnationalregisterofhistoricplaces",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-703196",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Historic Landmark",
+          "_content": "nationalhistoriclandmark",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-2001",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NHL",
+          "_content": "nhl",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-520979590-1572208",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Historic Landmark",
+          "_content": "usnationalhistoriclandmark",
+          "machine_tag": false
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.778286,
+      "longitude": -73.963437,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/wallyg/520979590/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5286847312",
+    "secret": "29e312c33d",
+    "server": "5202",
+    "farm": 6,
+    "dateuploaded": "1293148435",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "LadySmith (9)"
+    },
+    "description": {
+      "_content": "Sir Joshua Reynolds  English,  1723-1792\n\nDetail from:  ‘Lady Smith (Charlotte Delaval) and Her Children\nOil on canvas\n\nCharlotte, the daughter of Sir Francis Blake Delaval, was married in 1776 to Sir Robert Smith, Member of Parliament for Colchester.  Their Children are George Henry, Louisa, and Charlotte.  Payments for this fashionable family portrait are recorded in March and May of 1787, and it was a popular exhibit at the Royal Academy the same year.\n\nBequest of Collis P. Huntington, 1900\n25.110.10\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1293148435",
+      "taken": "2010-11-06 11:34:34",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1300571624"
+    },
+    "views": "1105",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5286847312-1392313",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Sir Joshua Reynolds",
+          "_content": "sirjoshuareynolds",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5286847312-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5286847312-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5286847312-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5286847312-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5286847312-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5286847312/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "4422989651",
+    "secret": "828e6339c4",
+    "server": "2792",
+    "farm": 3,
+    "dateuploaded": "1268265685",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "6012fa9eea",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Jean Marc Nattier, 1762"
+    },
+    "description": {
+      "_content": "Louis Tocqué (French, 1696–1772)\nTitle Jean Marc Nattier (1685–1766)\nMedium Oil on canvas\nDimensions 30 1/2 x 23 1/4 in. (77.5 x 59.1 cm)\nClassification Paintings\nCredit Line Gift of Colonel and Mrs. Jacques Balsan, 1955\nAccession Number 55.205.1\n\nThe sitter is Jean Marc Nattier, a fashionable artist who painted the Paris bourgeoisie and, later, courtiers and members of the royal family. His work is also displayed in this gallery. In the 1720s Tocqué studied with Nattier and in 1747 he married Nattier's daughter Marie. Tocqué's broadly brushed unfinished sketch may date to about that time and shows his father-in-law seated, holding a palette in his left hand and brushes in both, apparently at work. Later he painted a finished portrait of Nattier based on this sketch. Signed and dated 1762, it was submitted to the Danish Academy in Copenhagen as Tocqué's reception piece."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1268265685",
+      "taken": "2010-02-13 15:17:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1313122811"
+    },
+    "views": "1231",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4422989651-2128",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Louis",
+          "_content": "louis",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4422989651-32394596",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Tocqué",
+          "_content": "tocqué",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4422989651-1097255",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "nattier",
+          "_content": "nattier",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4422989651-260981",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1762",
+          "_content": "1762",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4422989651/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

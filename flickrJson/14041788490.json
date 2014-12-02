@@ -1,0 +1,128 @@
+{
+  "photo": {
+    "id": "14041788490",
+    "secret": "b242805d1e",
+    "server": "5574",
+    "farm": 6,
+    "dateuploaded": "1400575474",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "09bed4f6d0",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0877 - Dominikos Theotokopoulos, Le Gréco, c. 1541-1614, Le Christ guérissant l'aveugle, v. 1570, dét. — New York, Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1400575474",
+      "taken": "2014-05-03 23:14:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1400622693"
+    },
+    "views": "592",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14041788490-165662",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Greco",
+          "_content": "greco",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14041788490-18064805",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "The Miracle of Christ healing the Blind",
+          "_content": "themiracleofchristhealingtheblind",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14041788490-440",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14041788490-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14041788490-10722",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "peinture",
+          "_content": "peinture",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14041788490-1500",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14041788490/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

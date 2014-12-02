@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "6872996580",
+    "secret": "aa2c250d9a",
+    "server": "7098",
+    "farm": 8,
+    "dateuploaded": "1332801474",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Mr. and Mrs. I. N. Phelps Stokes _TheMET(14)"
+    },
+    "description": {
+      "_content": "John Singer Sargent  ( 1895-1925)\nDetail from: <b><i> Mr. and Mrs. I. N. Phelps Stokes </i></b>\n1897\nOil on canvas\n\nIsaac Newton Phelps Stokes (1867-1944), the scion of a wealthy New York family and an architecture student in Paris, married Edith Minturn (1867-1937) in 1895.  A friend commissioned a portrait of Mrs. Stokes from Sargent as a wedding gift; the artist selected a blue satin evening gown for her to wear and began the sittings.  He soon decided, however to portray her instead in the less formal outfit in which she had walked to his studio on day.  When the dog that Sargent wanted to include in the portrait was unavailable, Mr. Stokes had “a sudden inspiration,” he later recalled, and “offered to assume the role of the Great Dane in the picture,” thereby getting two portraits for the price of one.\nBequest of Edith Minturn Phelps Stokes (Mrs. I . N. ), 1938\n38.104\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332801474",
+      "taken": "2011-02-25 10:00:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1400617182"
+    },
+    "views": "1477",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6872996580-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6872996580-70813",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "John Singer Sargent",
+          "_content": "johnsingersargent",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6872996580/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

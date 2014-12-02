@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "6843546260",
+    "secret": "e29980b8cb",
+    "server": "7197",
+    "farm": 8,
+    "dateuploaded": "1331988248",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "AtTheSeashore_TheMET(8)"
+    },
+    "description": {
+      "_content": "William Merritt Chase (1849-1916)\n<b><i> At the Seaside </i></b> \nCa. 1892\nOil on canvas\n\nFrom 1891 to 1902 Chase served as the director of the Shinnecock Hills Summer School of Art in the town of Southhampton, on Long Island, New York.  Chase taught two days each week and spent the rest of his time painting and enjoying the company of his family.  In this canvas, women and children take their ease on a beach, probably along Shinnecock Bay.  The perfect site for genteel leisure on the prefect day is capped by a broad expanse of sky that fills the upper half of the canvas, its scudding clouds echoing the bright white forms of the children’s dresses and the parasol.\nBequest of Miss Adelaide Milton de Groot (1876-1967). 1967\n67.187.123\nFrom the placard:  Metropolitan Museum of Art\n\n<b><a href=\"http://www.metmuseum.org/Collections/search-the-collections/20010811\" rel=\"nofollow\">Metropolitan Museum Link <a></a></a></b>\n.\n.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1331988248",
+      "taken": "2011-02-25 10:31:03",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1332089993"
+    },
+    "views": "362",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629238590844",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "234",
+          "y": "169",
+          "w": "106",
+          "h": "77",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6839887888/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6843546260-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6843546260-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6843546260-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6843546260-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6843546260-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6843546260-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6843546260/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

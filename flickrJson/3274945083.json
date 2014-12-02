@@ -1,0 +1,104 @@
+{
+  "photo": {
+    "id": "3274945083",
+    "secret": "10eafd50a7",
+    "server": "3324",
+    "farm": 4,
+    "dateuploaded": "1234490592",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "8b07efda11",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "La Négresse, 1872"
+    },
+    "description": {
+      "_content": "La Négresse, 1872\nJean-Baptiste Carpeaux (French, 1827–1875)\nCast terracotta; H. 24 in. (61 cm)\nSigned (on proper left side of base): J.B. CARPEAUX 1872\nInscribed (on front of self-base): Porquoi! Naître esclave! [Why born a slave?]\nGift of James S. Deely, in memory of Patricia Johnson Deely, 1997 (1997.491)\n\nCarpeaux and his atelier worked up a successful commercial edition of terracotta busts based on the bronze figures constituting his Four Parts of the World Sustaining the Globe, which is the central element of the fountain of the Observatory in the Luxembourg Gardens, Paris. The date of 1872 on this sensitively detailed example corresponds to that of the plaster model of the group shown in that year's Salon; the fountain itself was inaugurated in 1874. Carpeaux was a liberal romantic whose humanitarian sentiments are manifest in the Metropolitan Museum's bust derived from the fountain's figure of Africa. He added a Michelangelesque sideward turn, ropes across the chest that seem barely able to contain the young woman's energy, and the poignant inscription on the base: Pourquoi! Naître esclave! (Why born a slave?)."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1234490592",
+      "taken": "2009-01-30 16:48:53",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1315450394"
+    },
+    "views": "1312",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3274945083-2145",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "La",
+          "_content": "la",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3274945083-7836634",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Négresse",
+          "_content": "négresse",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3274945083-515505",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Carpeaux",
+          "_content": "carpeaux",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3274945083/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

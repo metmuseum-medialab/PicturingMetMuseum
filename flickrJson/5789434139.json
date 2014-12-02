@@ -1,0 +1,253 @@
+{
+  "photo": {
+    "id": "5789434139",
+    "secret": "4f0b8bb791",
+    "server": "5307",
+    "farm": 6,
+    "dateuploaded": "1306668721",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Square-Headed Bow Brooch in the Metropolitan Museum of Art, April 2011"
+    },
+    "description": {
+      "_content": "Title:  Square-Headed Bow Brooch\n\nDate:  6th century\n\nCulture:  Anglo-Saxon\n\nMedium:  Copper alloy, gilt quaternary, niello\n\nDimensions:  Overall: 5 3/8 x 3 x 15/16 in. (13.6 x 7.6 x 2.4 cm)\n\nClassification:  Metalwork-Copper\n\nCredit Line:  Purchase, Rogers Fund, and Alastair B. Martin, Levy Hermanos Foundation Inc. and J. William Middendorf II Gifts, 1985\n\nAccession Number:  1985.209\n\n\nDescription:\n\nTwo prevailing influences converged somewhere between the Baltic and the Black Sea to initiate the development of this kind of brooch. Examples of small silver bow fibulae with square or rectangular heads, which originated in the Crimea and date from the third century A.D., are thought to have provided the model for the square or rectangular head of the type. Northern elements are represented by the open-jawed heads of the monsters just below the bow, in addition to other animal motifs, and by the partitioned, lozenge-shaped foot plate, whose surface is decorated with &quot;kerbshnitt&quot; (chip carving) and its extremities with raised knobs (the one on the end of the foot is now missing). Dividing the foot is a strip of niello (a black substance containing silver, copper, lead, and sulphur) terminating in an animal's head, and above the foot is a pair of stylized animal heads with gaping jaws.\n\nThe bow is plain and is divided into panels by bands of niello. It is the border of freestanding masks that sets the Museum's example apart from the majority of great square-headed brooches, and allies it to a small group identified as the Lutton Heath type. The Museum's brooch, like most of the approximately 150 known square-headed examples that were made in England throughout the sixth century, displays the Anglo-Saxon preference for lavish surface decoration. These brooches, traditionally of gilt bronze, were used to secure the garments of peasant farmers. They were worn with the head plate upward, unlike some of the related Continental bow fibulae.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/medieval_art/square_headed_bow_brooch//objectview.aspx?OID=170006035&amp;collID=17&amp;dd1=17\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/mediev...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1306668721",
+      "taken": "2011-04-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969055"
+    },
+    "views": "316",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5789434139-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-9143",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "jewelry",
+          "_content": "jewelry",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-6698",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "brooch",
+          "_content": "brooch",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-17112",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copper",
+          "_content": "copper",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5789434139-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5789434139/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

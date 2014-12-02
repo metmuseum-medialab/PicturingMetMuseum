@@ -1,0 +1,359 @@
+{
+  "photo": {
+    "id": "520788706",
+    "secret": "437e85031c",
+    "server": "243",
+    "farm": 1,
+    "dateuploaded": "1180484843",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "98780768a4",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "70323761@N00",
+      "username": "wallyg",
+      "realname": "Wally Gobetz",
+      "location": "jersey city, nj, us",
+      "iconserver": "5449",
+      "iconfarm": 6,
+      "path_alias": "wallyg"
+    },
+    "title": {
+      "_content": "NYC - Metropolitan Museum of Art - Egyptian Art - Recumbent Lion"
+    },
+    "description": {
+      "_content": "<i>Recumbent Lion</i>\nOld Kingdom, Dynasty 4, ca. 2575-2465 B.C.\nGranite, muzzle reconstructed\nFrom Ihnasya el-Medina (Herakleopolis Magna)\n\nPurchase, Anonymous gift, in honor of Annette de la Renta; Annette de la Renta Gift; and John V. Hansen Egyptian Purchase Fund, 2000 (2000,485)\n\nThis imposing lion once guarded the entrance to the pyramid-age sanctuary.  AS the most powerful predator of the steppes bordering the Nile Valley, the lion was a symbol of royalty from early on.  The animal--especially the female--also embodied a number of deities.  This work is the earliest extant example of a lifesized lion statue that is almost entirely preserved.  It was excavated by the British Egypt Exploration Fund in 1891, at Herakleopolis Magna in the Nile Valley, southeast of the Fayum Oasis.\n\n**\nThe <a href=\"http://www.flickr.com/photos/wallyg/246896968/\">Metropolitan Museum of Art</a>'s permanent collection contains more than two million works of art from around the world.  It opened its doors on February 20, 1872, housed in a building located at 681 Fifth Avenue in New York City. Under their guidance of John Taylor Johnston and George Palmer Putnam, the Met's holdings, initially consisting of a Roman stone sarcophagus and 174 mostly European paintings, quickly outgrew the available space. In 1873, occasioned by the Met's purchase of the Cesnola Collection of Cypriot antiquities, the museum decamped from Fifth Avenue and took up residence at the Douglas Mansion on West 14th Street. However, these new accommodations were temporary; after negotiations with the city of New York, the Met acquired land on the east side of <a href=\"http://www.flickr.com/photos/wallyg/sets/72157594192309086/\">Central Park</a>, where it built its permanent home, a red-brick Gothic Revival stone &quot;mausoleum&quot; designed by American architects Calvert Vaux and Jacob Wrey Mold.  As of 2006, the Met measures almost a quarter mile long and occupies more than two million square feet, more than 20 times the size of the original 1880 building.\n\nIn 2007, the Metropolitan Museum of Art was ranked #17 on the AIA 150 America's Favorite Architecture list.\n\nThe Metropolitan Museum of Art was designated a landmark by the New York City Landmarks Preservation Commission in 1967.  The interior was designated in 1977. \n\nNational Historic  Register #86003556"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1180484843",
+      "taken": "2007-05-28 14:15:19",
+      "takengranularity": "0",
+      "takenunknown": "0",
+      "lastupdate": "1416447606"
+    },
+    "views": "9080",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1713009-520788706-7355",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "lion",
+          "_content": "lion",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-1000",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-308",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-11643559",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "recumbent lion",
+          "_content": "recumbentlion",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-15671",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-97327",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-59219",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-1154",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-106",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-22328",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gothamist",
+          "_content": "gothamist",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-109",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-5392",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-6792355",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "aia150",
+          "_content": "aia150",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-9012",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "landmark",
+          "_content": "landmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-29835",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-500713",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum mile",
+          "_content": "museummile",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-63586",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "the met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-12629",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ues",
+          "_content": "ues",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-79338",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "upper east side",
+          "_content": "uppereastside",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-7952964",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NYCLPC",
+          "_content": "nyclpc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-7952963",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city landmarks preservation commission",
+          "_content": "newyorkcitylandmarkspreservationcommission",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-440",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-439",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ny",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-907511",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Register of Historic Places",
+          "_content": "nationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-2094603",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NRHP",
+          "_content": "nrhp",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-7396769",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Register of Historic Places",
+          "_content": "usnationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-703196",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Historic Landmark",
+          "_content": "nationalhistoriclandmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-2001",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NHL",
+          "_content": "nhl",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-520788706-1572208",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Historic Landmark",
+          "_content": "usnationalhistoriclandmark",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779696,
+      "longitude": -73.962643,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/wallyg/520788706/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

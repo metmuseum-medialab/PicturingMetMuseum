@@ -1,0 +1,155 @@
+{
+  "photo": {
+    "id": "6884506046",
+    "secret": "e9d6a272e2",
+    "server": "7188",
+    "farm": 8,
+    "dateuploaded": "1333148202",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MrAndMrsChesterDaleDineOut_TheMET(5)"
+    },
+    "description": {
+      "_content": "Guy Pène du Bois.  American, 1884-1958\n<b><i> Mr. and Mrs. Chester Dale Dine Out </i></b>  1924\nOil on canvas \nPène du Bois’s  portrayals of New York’s high society between the wars frequently record the telling body language of his protagonists.  This commissioned work depicts Chester Dale ( a wealthy investment banker and prominent art collector) and his first wife, Maud ( a painter and writer),  seated stiffly in the fashionable Hotel Brevoort.  In the early 1920s, their collection featured American art ( including twentiy-five paintings by Pène du Bois).  Subsequent acquisitions, however, focused almost exclusively on French painting, from the late eighteenth to the twentieth century.  Several important paintings including Salvador Dalí’s 1954 <i>Crucifixion</i>, were given to the Metropolitan Museum; the majority of the Chester Dale Collection is now at the National Gallery of Art, Washington, D.C.\nGift of Chester Dale, 1963\n63.138.1\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333148202",
+      "taken": "2011-02-25 13:26:44",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333419791"
+    },
+    "views": "319",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629343516330",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "136",
+          "y": "95",
+          "w": "66",
+          "h": "45",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7028021653/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629343524124",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "294",
+          "y": "93",
+          "w": "59",
+          "h": "45",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7030604821/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6884506046-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-1151863",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Modern_Painting",
+          "_content": "modernpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6884506046-10058324",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Guy Pène du Bois",
+          "_content": "guypènedubois",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6884506046/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

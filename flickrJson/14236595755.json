@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "14236595755",
+    "secret": "1256cb8f08",
+    "server": "5280",
+    "farm": 6,
+    "dateuploaded": "1400669316",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "7d678130ff",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0882 - Dominikos Theotokopoulos, Le Gréco, c. 1541-1614, La Vision de saint Jean, 1608-14, dét. — New York, Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1400669316",
+      "taken": "2014-05-03 23:19:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1402429927"
+    },
+    "views": "767",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14236595755-165662",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Greco",
+          "_content": "greco",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-155042",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "El Greco",
+          "_content": "elgreco",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-1500",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-173519",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "détail",
+          "_content": "détail",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-10722",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "peinture",
+          "_content": "peinture",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-1170001",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "retable",
+          "_content": "retable",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-490041",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "altarpiece",
+          "_content": "altarpiece",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14236595755-212753",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Saint Jean",
+          "_content": "saintjean",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14236595755/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

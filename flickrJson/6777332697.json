@@ -1,0 +1,139 @@
+{
+  "photo": {
+    "id": "6777332697",
+    "secret": "f3b5d1e78c",
+    "server": "7025",
+    "farm": 8,
+    "dateuploaded": "1327776735",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Man with a Steel Gorget _TheMET(4)"
+    },
+    "description": {
+      "_content": "Style of Rembrandt ( Dutch, second or third quarter 17th Century)\n\n<b><i> Man with a Steel Gorget </i></b>\nOil on canvas\nInscribed (lower left): Rembrandt / f.1644\n\nRembrandt’s authorship was doubted as early as the 1920s.  In subject and style the painting is typical of the master’s immediate circle in the 1640s, attributions to Govert Flinck and to Gerband van den Eeckhout, both of whom studied under Rembrandt in the 1630s, have been proposed in recent years.  The dashing figure’s gesture may have been adopted from that of the captain in <b><i> The Night Watch </i></b> of 1642\n\nBequest of Benjamin Altman, 1913\n14.40.601\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1327776735",
+      "taken": "2011-09-25 11:33:17",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1388515755"
+    },
+    "views": "524",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629071287929",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "177",
+          "y": "255",
+          "w": "65",
+          "h": "48",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6763516245/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629071304129",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "206",
+          "y": "109",
+          "w": "105",
+          "h": "87",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6777322439/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6777332697-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777332697-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777332697-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777332697-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6777332697-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6777332697/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

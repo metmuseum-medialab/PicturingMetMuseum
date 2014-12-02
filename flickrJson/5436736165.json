@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "5436736165",
+    "secret": "53ccd4584b",
+    "server": "5298",
+    "farm": 6,
+    "dateuploaded": "1297462841",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Arboretum by Flashbulb by Stuart Davis in the Metropolitan Museum of Art, November 2008"
+    },
+    "description": {
+      "_content": "Artist:  Stuart Davis (American, 1892–1964)\n\nTitle:  Arboretum by Flashbulb\n\nDate:  1942\n\nMedium:  Oil on canvas\n\nDimensions:  H. 18, W. 36 inches (45.7 x 91.4 cm.)\n\nClassification:  Paintings\n\nCredit Line:  Edith and Milton Lowenthal Collection, Bequest of Edith Abrahamson Lowenthal, 1991\n\nAccession Number:  1992.24.2\n\n\nDescription\n\nThis composition embodies the syncopated rhythms of American jazz and the dynamism of modern life. Working with a limited palette of just five colors, plus black and white, the artist produced a tour-de-force of patterns, shapes, color combinations, and spatial ambiguities. Abstracted almost beyond recognition, the image is based on a garden, momentarily illuminated by the yellow-and-red light of a camera flash.\n\nText from:  \n<a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/modern_art/arboretum_by_flashbulb_stuart_davis//objectview.aspx?OID=210006222&amp;collID=21&amp;dd1=21\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/modern...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1297462841",
+      "taken": "2008-11-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969486"
+    },
+    "views": "215",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5436736165-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-1180",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "modern",
+          "_content": "modern",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-463",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "abstract",
+          "_content": "abstract",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5436736165-327693",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "StuartDavis",
+          "_content": "stuartdavis",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5436736165/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

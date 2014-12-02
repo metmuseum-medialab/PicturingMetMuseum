@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "5591233632",
+    "secret": "d6d335c83e",
+    "server": "5221",
+    "farm": 6,
+    "dateuploaded": "1301974297",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Sunflowers by Van Gogh in the Metropolitan Museum of Art, August 2010"
+    },
+    "description": {
+      "_content": "Artist:   Vincent van Gogh (Dutch, Zundert 1853–1890 Auvers-sur-Oise)\n\nTitle:  Sunflowers\n\nDate:  1887\n\nMedium:  Oil on canvas\n\nDimensions:  17 x 24 in. (43.2 x 61 cm)\n\nClassification:  Paintings\n\nCredit Line:  Rogers Fund, 1949\n\nAccession Number:   49.41\n\n\nGallery Label:\n\nSunflowers appear amid the variegated bouquets that were the mainstay of Van Gogh's work in Paris in 1886–88. Intent upon updating his lackluster Dutch palette, he repeatedly turned to &quot;painting flowers&quot; so as &quot;to render intense color and not a gray harmony.&quot; By the summer of 1887, when he adopted the sunflower as the dominant motif in four pictures, he had found his voice as an original colorist. Apparently conceived in sequence, this group comprises a preparatory oil sketch for the Metropolitan's canvas (Van Gogh Museum, Amsterdam); another oil also devoted to two cut sunflowers (Kunstmuseum Bern); and a larger composition that sets forth a composite image of the two pairs of flowers (Kröller-Müller Museum, Otterlo). Paul Gauguin acquired the two smaller canvases, and until the mid-1890s, when he sold his most prized possessions to finance his South Seas voyage, they held pride of place above the bed in his Paris apartment.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/sunflowers_vincent_van_gogh//objectview.aspx?OID=110000966&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301974297",
+      "taken": "2010-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969360"
+    },
+    "views": "461",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5591233632-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-1482760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Post-Impressionism",
+          "_content": "postimpressionism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-52663",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "VanGogh",
+          "_content": "vangogh",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-884",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Dutch",
+          "_content": "dutch",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-535",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "flower",
+          "_content": "flower",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-16126",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sunflower",
+          "_content": "sunflower",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-336",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "StillLife",
+          "_content": "stilllife",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-141",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "blue",
+          "_content": "blue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5591233632-987",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "yellow",
+          "_content": "yellow",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5591233632/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

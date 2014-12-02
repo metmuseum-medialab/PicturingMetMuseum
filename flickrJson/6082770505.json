@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "6082770505",
+    "secret": "ffc1c15a7e",
+    "server": "6076",
+    "farm": 7,
+    "dateuploaded": "1314120114",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Dan Mask in the Metropolitan Museum of Art, December 2010"
+    },
+    "description": {
+      "_content": "Title:  Face Mask (Gunye Ge)\n\nArtist:  A Yakouba carver\n\nDate:  19th–20th century\n\nCulture:  Dan peoples\n\nGeography:  Côte d'Ivoire, Trokpadrou village\n\nMedium:  Wood, pigment, kaolin\n\nDimensions:  H. 9 5/8 x W. 5 7/8 in. (24.4 x 14.9 cm)\n\nClassification:  Wood-Sculpture\n\nCredit Line:  Gift of Lilliam and Sidney Lichter, 1985\n\nAccession Number:  1985.420.2\n\n\nDescription:\n\nDan masks have been documented as the embodiment of at least a dozen artistic personalities. Among these are Deangle, who ventures into the village from the initiation camps to ask women for food; Tankagle and Bagle, who entertain through a range of aesthetically pleasing dances, skits, and mimes; Gunyege, whose mask is worn by a community's champion foot racers in competitions; and Bugle, who historically leads men into battle. \n\nOnce they are divorced from their performance contexts, however, mask forms are difficult to identify. Performances of Bete and Wee masks may span the careers of many generations of wearers, contributing to the increasingly sacred status of these objects. A masquerade's vitality may also be transferred from one mask form to another. Over time, any respected Dan mask may eventually be elevated to the category gunagle, the mask that represents a village quarter, or gle wa, a judicial mask.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/arts_of_africa%2C_oceania%2C_and_the_americas/face_mask_gunye_ge_a_yakouba_carver//objectview.aspx?OID=50007572&amp;collID=5&amp;dd1=5\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/arts_o...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1314120114",
+      "taken": "2010-12-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1314383501"
+    },
+    "views": "387",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6082770505-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-5355",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "African",
+          "_content": "african",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-4203",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mask",
+          "_content": "mask",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6082770505-97",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "wood",
+          "_content": "wood",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6082770505/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

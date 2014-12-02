@@ -1,0 +1,128 @@
+{
+  "photo": {
+    "id": "4296115960",
+    "secret": "2388a09467",
+    "server": "4070",
+    "farm": 5,
+    "dateuploaded": "1264188578",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "222b050e9a",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Louis Gueymard (1822–1880) as Robert le Diable"
+    },
+    "description": {
+      "_content": "Gustave Courbet (French, 1819–1877)\nTitle Louis Gueymard (1822–1880) as Robert le Diable\nDate 1857\nMedium Oil on canvas\nDimensions 58 1/2 x 42 in. (148.6 x 106.7 cm)\nCredit Line Gift of Elizabeth Milbank Anderson, 1919\nAccession Number19.84\n\nThis portrayal of the tenor Louis Gueymard was exhibited at the Salon of 1857. Gueymard made his Paris Opéra debut in 1848 in the title role of Meyerbeer's &quot;Robert le Diable&quot; (1831), which he also sang at its five-hundredth performance in 1867. In this portrait, Courbet re-creates a moment during a rendition by Gueymard of the celebrated aria &quot;L'or est une chimère&quot; (Gold is but an illusion). The overt theatricality of Courbet's composition recalls the contemporary vogue for photographs of costumed performers enacting well-known scenes."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264188578",
+      "taken": "2009-05-22 13:27:56",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1328078118"
+    },
+    "views": "1011",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4296115960-171804",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Gustave",
+          "_content": "gustave",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296115960-165660",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Courbet",
+          "_content": "courbet",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296115960-438494",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1857",
+          "_content": "1857",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296115960-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296115960-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296115960-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4296115960/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

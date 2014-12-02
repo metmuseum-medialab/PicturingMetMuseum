@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "3412976494",
+    "secret": "7000c9b253",
+    "server": "3619",
+    "farm": 4,
+    "dateuploaded": "1238882066",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "f2ea13703c",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Saint Andrew, possibly ca. 1330"
+    },
+    "description": {
+      "_content": "Saint Andrew, possibly ca. 1330\nSimone Martini (Italian, Sienese, active by 1315, died 1344)\nTempera on wood, gold ground; 22 1/2 x 14 7/8 in. (57.2 x 37.8 cm)\nGift of George Blumenthal, 1941 (41.100.23)\n\nThis panel, by one of the greatest fourteenth-century painters, formed part of a portable folding altarpiece that was probably done for the Palazzo Pubblico in Siena in about 1326. Two other panels, a Madonna and Child and a Saint Ansanus (the patron saint of Siena), are also in the Metropolitan (Robert Lehman Collection). Simone's refined technique and descriptive powers were unequalled and earned the praise of the poet Petrarch. The rare and finely preserved frame is original."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1238882066",
+      "taken": "2009-03-06 14:50:20",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411894282"
+    },
+    "views": "1658",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3412976494-3963",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Simone",
+          "_content": "simone",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-8194",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Martini",
+          "_content": "martini",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-938",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Saint",
+          "_content": "saint",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-9396",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Andrew",
+          "_content": "andrew",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-445104",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1330",
+          "_content": "1330",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412976494-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3412976494/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

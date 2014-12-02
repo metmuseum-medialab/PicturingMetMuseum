@@ -1,0 +1,301 @@
+{
+  "photo": {
+    "id": "3171673087",
+    "secret": "823a798ec2",
+    "server": "3259",
+    "farm": 4,
+    "dateuploaded": "1231202616",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "12671646@N07",
+      "username": "qpkarl",
+      "realname": "Karl Doesn't Like New Flickr",
+      "location": "USA",
+      "iconserver": "2949",
+      "iconfarm": 3,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "LNYCart432"
+    },
+    "description": {
+      "_content": "At the <a href=\"http://en.wikipedia.org/wiki/Metropolitan_Museum_of_Art_New_York\" rel=\"nofollow\">Metropolitan Museum of Art</a>, New York City.\n\nStatue of a bearded man with votive offerings, ca. 475–450 B.C.; Classical\nCypriot; Said to be from the temple at Golgoi\nLimestone; H. 64 3/4 in. (164.49 cm)\nThe Cesnola Collection, Purchased by subscription, 1874-76 (74.51.2461)\n\nThis statue of a man dedicated in a temple at Golgoi reflects the influence of Greek sculptural style in Cypriot art of the fifth century B.C. The lifesize figure wears a typical eastern Greek costume consisting of a finely pleated linen chiton and a wool himation (cloak). He stands with the left foot advanced in a pose that renders a subtle sense of movement. The slight Archaic smile and the jewel-like precision with which the hair and the beard were carved bring to mind Greek Archaic art of the sixth century B.C.\nThis votive figure wears a wreath of oak leaves and stylized narcissus flowers, which must have evoked ideas of fertility and regeneration. In his left hand he holds a dove, perhaps intended as a gift for the deity of the temple at Golgoi.\n\nNOTE: Look &quot;<a href=\"http://farm5.static.flickr.com/4054/4577026379_ec438d4f69_o.jpg\" rel=\"nofollow\">wall-eyed</a>&quot; at the top pair or &quot;<a href=\"http://farm5.static.flickr.com/4058/4577026407_895e8bfdd2_o.jpg\" rel=\"nofollow\">cross-eyed</a>&quot; at the bottom pair to get a 3D image from the fused pictures."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1231202616",
+      "taken": "2010-05-02 13:23:11",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1381986338"
+    },
+    "views": "457",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "12650316-3171673087-2554",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "3D",
+          "_content": "3d",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-12472",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereo",
+          "_content": "stereo",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-2551",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereogram",
+          "_content": "stereogram",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-35877",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereograph",
+          "_content": "stereograph",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-51884",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereography",
+          "_content": "stereography",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-22592",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "canon digital rebel",
+          "_content": "canondigitalrebel",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-109",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-59219",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-17396572",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "Art Gallery and Museums",
+          "_content": "artgalleryandmuseums",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-607",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-5392",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-1154",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-440",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "newyork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-23495",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "publicart",
+          "_content": "publicart",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-308",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-1000",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-315466",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereographic",
+          "_content": "stereographic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-2553",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereophotography",
+          "_content": "stereophotography",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-170205",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscope",
+          "_content": "stereoscope",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-2550",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopic",
+          "_content": "stereoscopic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-181615",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopy",
+          "_content": "stereoscopy",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-1071",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stone",
+          "_content": "stone",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-3171673087-4074",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "unitedstates",
+          "_content": "unitedstates",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779436,
+      "longitude": -73.963522,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/12671646@N07/3171673087/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

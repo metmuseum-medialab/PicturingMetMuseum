@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6453837121",
+    "secret": "a6822a39c3",
+    "server": "7157",
+    "farm": 8,
+    "dateuploaded": "1323020276",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Holy Family with the Infant Saint John the Baptist_ TheMET(10)"
+    },
+    "description": {
+      "_content": "Caravaggio (Michelangelo Merisi)\nItalian, Lombard, 1571-1610\n\nDetail from: <b><i> The Holy Family with the Infant Saint John the Baptist</i></b>\nOil on canvas\n\nPreviously known through copies and old photographs, this is the only private devotional picture of the Madonna and Child by Caravaggio.  It dates from about 1602-04, at a time when Caravaggio was increasingly attentive to paintings of his great contemporary Annibale Carracci, whose work in Rome is in the classical tradition of Raphael.  From about 1600, critics and collectors promoted rivalry between Caravaggio and Annibale Carracci.\nThe picture seems to have been sent to France shortly after its execution ( a number of copies are still in French collections).  This may be the reason the painting is not mentioned by any of Caravaggio’s biographers.\n\nPrivate collection\nL.1998.71\n\n\nFrom the placard: Metropolitan Museum\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1323020276",
+      "taken": "2011-09-25 12:23:32",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1362009788"
+    },
+    "views": "768",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6453837121-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6453837121-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6453837121-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6453837121-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6453837121-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6453837121-52607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Caravaggio",
+          "_content": "caravaggio",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6453837121/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

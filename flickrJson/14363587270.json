@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "14363587270",
+    "secret": "24682018ff",
+    "server": "5560",
+    "farm": 6,
+    "dateuploaded": "1404218165",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "8a693af5ff",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0943 - Guido Reni (Bologne, 1575-1642), La Charité, dét., The Metropolitan Museum of Art, Manhattan, New York City"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1404218165",
+      "taken": "2014-05-03 21:46:14",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1404658707"
+    },
+    "views": "567",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14363587270-1053223",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Guido Reni",
+          "_content": "guidoreni",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-106260",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Charité",
+          "_content": "charité",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-87",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Charity",
+          "_content": "charity",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-1053694",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "allégorie",
+          "_content": "allégorie",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-440",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-5657",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "17th century",
+          "_content": "17thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-15858453",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "XVIIème siècle",
+          "_content": "xviièmesiècle",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-215470",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Bologne",
+          "_content": "bologne",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-16500",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Bologna",
+          "_content": "bologna",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14363587270-1611",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "children",
+          "_content": "children",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14363587270/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

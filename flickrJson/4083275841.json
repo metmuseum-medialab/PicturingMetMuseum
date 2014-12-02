@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "4083275841",
+    "secret": "852d828e06",
+    "server": "2440",
+    "farm": 3,
+    "dateuploaded": "1257626936",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Nasturtiums with the Painting \"Dance\" by Matisse in the Metropolitan Museum of Art, May 2009"
+    },
+    "description": {
+      "_content": "Nasturtiums with the Painting &quot;Dance&quot;, 1912\nHenri Matisse (French, 1869–1954)\nOil on canvas \n75 1/2 x 45 3/8 in. (191.8 x 115.3 cm)\nBequest of Scofield Thayer, 1982 (1984.433.16)\n\nNasturtiums with the Painting &quot;Dance&quot; is the artist's first version of this subject. The second, painted right after the first and now in the Pushkin State Museum of Fine Arts in Moscow, was acquired by the great Russian collector Sergei Shchukin soon after it was finished. The Metropolitan Museum's version was exhibited in the 1913 Armory Show in New York, Chicago, and Boston. It was one of the first works by Matisse to be viewed by a large American audience.\n\nBoth versions are the same size and interpret the same tall image, a picture within a picture: Matisse's earlier painting Dance (1909), horizontal in format, is seen close up and resting against a studio wall. In front of it, a large jar overflowing with nasturtiums sits on a sculptor's turning table, while at the left, cropped by the picture's margin, is a wooden chair with a blue-and-white striped cushion.\n\nText from: <a href=\"http://www.metmuseum.org/toah/hd/mati/ho_1984.433.16.htm\" rel=\"nofollow\">www.metmuseum.org/toah/hd/mati/ho_1984.433.16.htm</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1257626936",
+      "taken": "2009-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969868"
+    },
+    "views": "818",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4083275841-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-35684",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Matisse",
+          "_content": "matisse",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-4228",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "dancing",
+          "_content": "dancing",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-2917",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "chair",
+          "_content": "chair",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4083275841-1180",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "modern",
+          "_content": "modern",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4083275841/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

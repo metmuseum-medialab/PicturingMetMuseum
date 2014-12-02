@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5606794674",
+    "secret": "1d40844ac1",
+    "server": "5308",
+    "farm": 6,
+    "dateuploaded": "1302453987",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheWeeders_TheMET (27)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=5606794674&amp;size=large\" rel=\"nofollow\">View On Black</a>\n\n<b>“What special affinities appeared to him to exist between the moon and woman?\n\nHer antiquity in preceding and surviving successive tellurian generations: her nocturnal predominance: her satellitic dependence: her luminary reflection: her constancy under all her phases, rising, and setting by her appointed times, waxing and waning: the forced invariability of her aspect: her indeterminate response to inaffirmative interrogation: her potency over effluent and refluent waters: her power to enamour, to mortify, to invest with beauty, to render insane, to incite to and aid delinquency: the tranquil inscrutability of her visage: the terribility of her isolated dominant implacable resplendent propinquity: her omens of tempest and of calm: the stimulation of her light, her motion and her presence: the admonition of her craters, her arid seas, her silence: her splendour, when visible: her attraction, when invisible” </b>\n<i> Ulysses .</i> .  James Joyce   Episode 17 - Ithaca\n\nJules Breton   French, 1827-1906\n\nDetail from:  The Weeders,  1868\nOil on canvas\nSigned, dated, and inscribed (lower right): Jules Breton / Courrières  1868\n\nThis is a smaller variant of Breton’s painting ‘The Weeders’ of 1860 (Joslyn Art Museum, Omaha, Nebraska),  which was widely admired at the Salon of 1861 and the 1867 Exposition Universelle in Paris.  Breton wrote in his autobiography that one evening in the fields near his native village of Courrières in northern France he had come across this twilight scene of peasants pulling up “thistles and weeds…their faces haloed by the pink transparency of their violet hoods, as if to venerate a fecundating star.”  It had presented itself to him as a “finished picture,” completed even as far as “the breadth of the lines, intensity of the effect, character, richness and simplicity.”\n\nBequest of Collis P. Huntington, 1900\n25.110.66\n\nFrom the placard: Metropolitan Museum of Art\n\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1302453987",
+      "taken": "2011-04-09 10:37:48",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1338844743"
+    },
+    "views": "711",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5606794674-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5606794674-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5606794674-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5606794674-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5606794674-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5606794674-69148189",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon_Paintings",
+          "_content": "barbizonpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5606794674/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5523776302",
+    "secret": "774218f8ba",
+    "server": "5260",
+    "farm": 6,
+    "dateuploaded": "1300045339",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Clytie_TheMET (22)"
+    },
+    "description": {
+      "_content": "William Henry Rinehart    American (1825-1874)\n\n<b><i> Clytie</i></b>\nMarble   1869-70  this carving, 1872\n\nGift of Mr. and Mrs W. H. Herriman, 1911\n11.68.1\n\nAmerican Neoclassical sculptors frequently mined classical mythology for thematic inspiration.  In book 4 of the <i> Metamorphoses</i> , the Roman poet Ovid tells the story of Clytie, a water nymph who was abandoned by Apollo, the sun god.  Clytie gazed inconsolably at the sun for nine days, languishing nude, without food or drink.  For her constancy, she was changed into a sunflower so that her face would forever follow the sun as it moved across the sky.  Rinehart subtly evoked Ovid’s story by depicting a drooping sunflower in Clytie’s  right hand.  The tree stump with live sunflower plants serves both to enhance the narrative and to offer tensile support for the marble figure.\n\n\nFrom the placard:  Metropolitan Museum of Art.\n\n\n<b><a href=\"http://classics.mit.edu/Ovid/metam.4.fourth.html\" rel=\"nofollow\">Ovid Metamorphoses Book IV <a></a></a></b>\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1300045339",
+      "taken": "2011-03-05 12:21:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1301019132"
+    },
+    "views": "318",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "10"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5523776302-1180538",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Clytie",
+          "_content": "clytie",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5523776302-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5523776302-68101462",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Mueum",
+          "_content": "metropolitanmueum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5523776302-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5523776302-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5523776302/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

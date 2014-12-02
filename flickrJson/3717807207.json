@@ -1,0 +1,158 @@
+{
+  "photo": {
+    "id": "3717807207",
+    "secret": "d49916d348",
+    "server": "3533",
+    "farm": 4,
+    "dateuploaded": "1247524576",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheHorseFair_The MET(2)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=3717807207\" rel=\"nofollow\">View On Black</a>\n<b><a href=\"http://www.flickr.com/groups/songoftheday/\">Song of the Day<a rel=\"nofollow\"></a></a></b>\n\nSong of the Day:  &quot;Ride a White Horse&quot;   Goldfrapp\n<a href=\"http://www.youtube.com/watch?v=nFF8bubMc40\" rel=\"nofollow\">www.youtube.com/watch?v=nFF8bubMc40</a>\n\n‘The Horse Fair’  Rosa Bonheur  French  1822-1899  \n1853-55\nOil on Canvas\nSigned and dated(lower right): Rosa Bonheur 1853.5\n\nWhen Rosa Bonheur exhibited ‘The Horse Fair’ at the Salon of 1853, her reputation as an artist had been fairly well established by the paintings, drawings, and sculpture she had shown at the annual Salons since 1841, but few of her works attained the dash and grandeur of ‘The Horse Fair’, and none received the same acclaim.  Vastly admired on the Continent, where it was exhibited in Paris, Ghent, and Bordeaux, the painting was subsequently shown in England and the United States.  It has become one of the Metropolitan Museum’s best-known works of art.\nBonheur began work on ‘The Horse Fair’ in 1852.  For a year and a half, she made sketches twice a week at the horse market in Paris, on the boulevard de l’Hopital, dressing as a man in order to attract less attention from the horse dealers and buyers.  The picture shows with the accuracy the trees lining the boulevard and the cupola of the Hopital de la Salpetriere nearby.\n\nGift of Cornelius Vanderbilt,  1887  87.25\n\nFrom the Placard, Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1247524576",
+      "taken": "2009-07-05 10:32:27",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334785391"
+    },
+    "views": "578",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3717807207-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-1325105",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Rosa Bonheur",
+          "_content": "rosabonheur",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-2838004",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "SongOFtheDay",
+          "_content": "songoftheday",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-37399893",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_13",
+          "_content": "bench13",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-45453360",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_147",
+          "_content": "bench147",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3717807207-50139398",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_177",
+          "_content": "bench177",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3717807207/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "2422666911",
+    "secret": "de8ba88d9c",
+    "server": "3294",
+    "farm": 4,
+    "dateuploaded": "1208531894",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Portable Mosaic Icon with the Virgin Eleousa in the Metropolitan Museum of Art, January 2008"
+    },
+    "description": {
+      "_content": "Icon with the Virgin Eleousa, ca. early 14th century\nByzantine (Constantinople)\nLazurite, malachite, silver coupons, glass, terracotta, calcite, and various stone tesserae; gilded wood frame, wax substraight; 4 1/8 x 3 3/8 x 1/2 in. (11.2 x 8.6 x 1.3 cm)\nGift John C. Weber in honor of Philippe de Montebello, 2008 (2008.352)\n\nThis image of the Virgin of Compassion, or Virgin Eleousa, is a remarkable addition to the limited number of surviving miniature mosaic icons, a medium first popularized in the Late Byzantine era. The intimate gesture of the Christ Child, his head pressed to his mother's cheek, is one of the most beautiful images in Byzantine art. The poses of the heads and the position of the Christ Child's hand (partially restored) are remarkably similar to a less sophisticated, painted icon of the Virgin and Child in the collection of the Monastery of Saint Catherine at Sinai, where the Christ Child also has light brown hair. Another icon from Sinai, which has five small images of named icons including one labeled the Blachernitissa, echoes the head poses and hand gesture seen in this work. An icon donated to the Church of Santa Maria della Salute, Venice, in the seventeenth century and dated to the late thirteenth or early fourteenth century offers a related pose in its exquisite Virgin with an elaborate halo, although the image of the Christ Child differs, as do elements of the design, including the details of the face.\n\nThe Venice icon and the fourteenth-century mosaic icon of Saint Theodore Theron in the Vatican also possess inscriptions in Latin identifying the images. Here the inscription identifies the work as the icon that inspired the conversion in the fourth century of Saint Catherine of Alexandria. The saint's vita describes the event: &quot;Then the ascetic gave her an icon on which was depicted the All-holy Theotokos holding the Divine Child in her arms, and said to her . . . take this to your home . . . pray all night . . . the maiden . . . beheld in her vision, the Queen of the angels, just as she was depicted with the Holy child . . . [the maiden] marveling at this vision . . . received from [the ascetic] Holy Baptism.&quot; The desire to possess the icon by which the saint was converted attests to the popularity of Saint Catherine in the West in the Middle Ages. Though the image of the Virgin and Child displayed here was of a type that became popular in the Middle Byzantine centuries, the Latin inscription indicates that Westerners tended to believe that such Byzantine images of the Virgin and Child were copies of works of a much earlier age, if not originals from the fourth century. It cannot be determined if this icon came to the West with a pilgrim from Sinai, where mosaic icons survive today. The Man of Sorrows mosaic icon at Sante Croce in Gerusalemme, in Rome, is said to have been brought to Rome from Sinai. The miniature mosaic at Galatina is housed in a church dedicated to Saint Catherine of Alexandria. There was also a church dedicated to Santa Caterina de' Sacchi in Venice, which was established in 1150 and survived in various forms until 1806. It is tempting to think that this work came from the site where Saint Catherine's relics are venerated.\n\nText from <a href=\"http://www.metmuseum.org/toah/hd/icon/ho_2008.352.htm\">www.metmuseum.org/toah/hd/icon/ho_2008.352.htm</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1208531894",
+      "taken": "2008-01-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1348664387"
+    },
+    "views": "2733",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2422666911-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-9322",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "icon",
+          "_content": "icon",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-11760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Virgin",
+          "_content": "virgin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-5409",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mosaic",
+          "_content": "mosaic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2422666911-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2422666911/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

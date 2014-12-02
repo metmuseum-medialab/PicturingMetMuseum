@@ -1,0 +1,152 @@
+{
+  "photo": {
+    "id": "4296159930",
+    "secret": "f6d37eafbc",
+    "server": "4011",
+    "farm": 5,
+    "dateuploaded": "1264189947",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "3229ee054b",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Portrait of a Man, 1521"
+    },
+    "description": {
+      "_content": "Tommaso Fiorentino (Tommaso di Stefano Lunetti) (Italian, Florentine, born about 1495, died 1564)\nTitle Portrait of a Man\nDate 1521\nMedium Oil on wood\nDimensions 32 1/4 x 23 7/8 in. (81.9 x 60.6 cm)\nCredit Line Gift of J. Pierpont Morgan, 1917\nAccession Number 17.190.8\n\nThis is the only signed work by Tommaso di Stefano Lunetti, who was the son of a miniaturist and a pupil of Lorenzo di Credi. Perhaps the most notable feature is the manner in which the silhouette of the figure is set off by the architectural background. Interestingly, according to the sixteenth-century biographer, Giorgio Vasari, Tommaso was also an architect."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264189947",
+      "taken": "2009-06-28 11:46:30",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1281917314"
+    },
+    "views": "2223",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4296159930-6590",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Tommaso",
+          "_content": "tommaso",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-1166530",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Fiorentino",
+          "_content": "fiorentino",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-16558",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "di",
+          "_content": "di",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-102215",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Stefano",
+          "_content": "stefano",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-51261888",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Lunetti",
+          "_content": "lunetti",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-2426691",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1521",
+          "_content": "1521",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4296159930-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4296159930/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

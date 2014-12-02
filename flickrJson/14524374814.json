@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "14524374814",
+    "secret": "ae7d9273de",
+    "server": "3893",
+    "farm": 4,
+    "dateuploaded": "1403955936",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "4376029ce0",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0933 - Pierre Paul Rubens, 1577-1640, Vénus et Adonis, v. 1635 (?), Metropolitan Museum of Art, New York City"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1403955936",
+      "taken": "2014-05-04 00:57:14",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1415360351"
+    },
+    "views": "505",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14524374814-41623",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Rubens",
+          "_content": "rubens",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14524374814-223205205",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Vénus et Adonis",
+          "_content": "vénusetadonis",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14524374814-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14524374814-440",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14524374814-6683605",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Ovide",
+          "_content": "ovide",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14524374814-8881809",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Métamorphoses",
+          "_content": "métamorphoses",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14524374814-60770532",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "peinture d'histoire",
+          "_content": "peinturedhistoire",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14524374814-30640",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "baroque",
+          "_content": "baroque",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14524374814/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

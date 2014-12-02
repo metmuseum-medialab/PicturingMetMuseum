@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "7184803702",
+    "secret": "ba1dcf8e52",
+    "server": "5326",
+    "farm": 6,
+    "dateuploaded": "1336865664",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "OfficeInaSmallCity_TheMET(1)"
+    },
+    "description": {
+      "_content": "Edward Hopper   American, 1882-1967\n\n<b><i> Office in a Small City </i></b>  1953\nOil on canvas\n\nThe Metropolitan acquired this painting shortly after it was completed in late October 1953.  Begun in Cape Cod over the summer and finished in New York City, it was the only oil Hopper produced that year.  Reprising one of his signature subjects—a solitary figure, physically and emotionally detached from his surroundings and other people—it was described by the artist’s wife as “the man in concrete wall.”\n\nGeorge A. Hearn Fund, 1953\n53.183\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1336865664",
+      "taken": "2011-05-06 09:46:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1341123029"
+    },
+    "views": "221",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629870189138",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "135",
+          "y": "163",
+          "w": "94",
+          "h": "63",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7179226376/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7184803702-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "metropolitanmuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7184803702-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7184803702-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7184803702-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "americanpainting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7184803702-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "met",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7184803702/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "9987802926",
+    "secret": "e314371c4b",
+    "server": "5525",
+    "farm": 6,
+    "dateuploaded": "1380402969",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Identify the Artist (513)"
+    },
+    "description": {
+      "_content": "Week 3  Dogs\n\n[This photograph was identify the painter (513)]\n\nRobert Peake the Elder     British, ca. 1551-1619   London\n<b><i>Henry Frederick (1594-1612), Prince of Wales, with Sir John Harington ( 1592-1614), in the Hunting Field  </i></b>   1603\nOil on canvas\nThis royal hunting portrait was modeled after an earlier type estabnlished by Netherlandish and German artists.  The young Prince Henry sheathes his sword while his companion, Sir John Harington, holds the deer’s antlers.  The light palette and rich decorative effect are hallmarks of Peake’s style.\nPurchase, Joseph Pulitzer Bequest, 1944  \n44.27\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1380402969",
+      "taken": "2013-06-23 10:04:20",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1380759451"
+    },
+    "views": "592",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-9987802926-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9987802926-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9987802926-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9987802926-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9987802926-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/9987802926/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

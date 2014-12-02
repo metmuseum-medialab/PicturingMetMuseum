@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "7179226376",
+    "secret": "da240d8605",
+    "server": "7104",
+    "farm": 8,
+    "dateuploaded": "1336781924",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Identify The Painter_(41)"
+    },
+    "description": {
+      "_content": "<a href=\"http://bighugelabs.com/onblack.php?id=7179226376&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\nThis photograph was Identify the Painter (41).\n\nEdward Hopper   American, 1882-1967\n\nDetail from: <b><i> Office in a Small City </i></b>  1953\nOil on canvas\n\nThe Metropolitan acquired this painting shortly after it was completed in late October 1953.  Begun in Cape Cod over the summer and finished in New York City, it was the only oil Hopper produced that year.  Reprising one of his signature subjects—a solitary figure, physically and emotionally detached from his surroundings and other people—it was described by the artist’s wife as “the man in concrete wall.”\n\nGeorge A. Hearn Fund, 1953\n53.183\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1336781924",
+      "taken": "2011-05-06 09:46:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1336866202"
+    },
+    "views": "297",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "10"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7179226376/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "5821090616",
+    "secret": "f9d9cee5c2",
+    "server": "5302",
+    "farm": 6,
+    "dateuploaded": "1307796509",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Hendrickje Stoffels_TheMET(25)"
+    },
+    "description": {
+      "_content": "Rembrandt van Rijn     Dutch, 1606-1669\n\n<b><i>Hendrickje Stoffels </i></b>  ( born about 1625/26, died 1663)\nOil on canvas\nInscribed (right): Rembrandt / f 1660\n\nThe sitter is probably Hedrickje Stoffels, who was the painter’s companion from about 1650 until her early death in 1663.  Rembrandt’s responsibility for this portrait has never been doubted, although the signature and date appear to have been added by another hand.  The picture may have been painted at different intervals in the years about 1655-60, and it may be unfinished in the drapery and hand.  The paint surface is badly abraded, making judgments of quality and of Rembrandt’s intentions difficult.  It seems likely, however, that the artist had Titian in mind: for example, his famous painting ( known from may copies) of the repentant Magdelen.\n\nGift of Archer M. Huntington, in memory of his father, Collis Porter Huntington, 1926\n26.101.9\n\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1307796509",
+      "taken": "2011-04-09 09:50:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1404990833"
+    },
+    "views": "556",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157626811025379",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "181",
+          "y": "100",
+          "w": "116",
+          "h": "95",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5820534083/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5821090616-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821090616-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821090616-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821090616-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821090616-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5821090616-49925",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Rembrandt",
+          "_content": "rembrandt",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5821090616/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

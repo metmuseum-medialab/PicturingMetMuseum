@@ -1,0 +1,160 @@
+{
+  "photo": {
+    "id": "3119429098",
+    "secret": "2a2ef44b9a",
+    "server": "3097",
+    "farm": 4,
+    "dateuploaded": "1229644179",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "46a8ef715e",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "The Rehearsal Onstage, 1874?"
+    },
+    "description": {
+      "_content": "The Rehearsal Onstage, 1874?\nEdgar Degas (French, 1834–1917)\nPastel over brush-and-ink drawing on thin cream-colored wove paper, laid down on bristol board and mounted on canvas; 21 x 28 1/2 in. (53.3 x 72.4 cm)\nH. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929 (29.100.39)\n\nThis is probably the second of the two variants of the composition in the Metropolitan's collection. Like The Rehearsal of the Ballet Onstage (29.160.26), it was executed over an ink drawing on paper.\n\n<i>I think they need more rehearsals.</i>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1229644179",
+      "taken": "2008-04-06 10:32:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1272454504"
+    },
+    "views": "1972",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3119429098-229008",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "The",
+          "_content": "the",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-4684",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Rehearsal",
+          "_content": "rehearsal",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-18723",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Onstage",
+          "_content": "onstage",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-15210",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Edgar",
+          "_content": "edgar",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-31141",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Degas",
+          "_content": "degas",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3119429098-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3119429098/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

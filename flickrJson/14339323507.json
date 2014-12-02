@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "14339323507",
+    "secret": "3a90b0c91c",
+    "server": "3904",
+    "farm": 4,
+    "dateuploaded": "1403955217",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "9b3954a2e4",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0932 - Rubens, 1577-1640, Portrait de femme, 1627, prob. Suzanne Fourment, 1599-1628, Metropolitan Museum of Art, New York City"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1403955217",
+      "taken": "2014-05-04 00:49:16",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1415360355"
+    },
+    "views": "422",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14339323507-41623",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Rubens",
+          "_content": "rubens",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14339323507-278",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Portrait",
+          "_content": "portrait",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14339323507-6092",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "femme",
+          "_content": "femme",
+          "machine_tag": false
+        },
+        {
+          "id": "50215638-14339323507-32690699",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Susanna Fourment",
+          "_content": "susannafourment",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-15858453",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "XVIIème siècle",
+          "_content": "xviièmesiècle",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-5657",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "17th century",
+          "_content": "17thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-347",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "woman",
+          "_content": "woman",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-89639",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Anvers",
+          "_content": "anvers",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-22535",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Antwerp",
+          "_content": "antwerp",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-108168565",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Ecole flamande",
+          "_content": "ecoleflamande",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339323507-1387487",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "deuil",
+          "_content": "deuil",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14339323507/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

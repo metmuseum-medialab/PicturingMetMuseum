@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "3412083075",
+    "secret": "a857509b84",
+    "server": "3554",
+    "farm": 4,
+    "dateuploaded": "1238879852",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "670f56269c",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Saint Margaret and the Dragon"
+    },
+    "description": {
+      "_content": "Workshop of Agnolo Gaddi (Italian, Florentine, active by 1369, died 1396)\nSaint Margaret and the Dragon\nTempera on wood, gold ground\n9 1/8 x 8 in. (23.2 x 20.3 cm)\nBequest of George Blumenthal, 1941\nAccession Number41.190.23\n\nThis small panel is from the predella of an unidentified altarpiece.\n\n<i>According to the Golden Legend, she was a native of Antioch, daughter of a pagan priest named Aedesius. She was scorned by her father for her Christian faith, and lived in the country with a foster-mother keeping sheep. Olybrius, the praeses orientis, offered her marriage at the price of her renunciation of Christianity. Her refusal led to her being cruelly tortured, and after various miraculous incidents, one of which involved getting swallowed by Satan in the shape of a dragon, from which she escaped alive, when the cross she carried irritated the dragon's innards. She was put to death in A.D. 304. The Golden Legend, in an atypical moment of scepticism, describes this last incident as &quot;apocryphal and not to be taken seriously&quot; (trans. Ryan, 1.369).</i>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1238879852",
+      "taken": "2009-03-06 14:51:34",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1321010929"
+    },
+    "views": "1365",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3412083075-938",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Saint",
+          "_content": "saint",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-17250",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Margaret",
+          "_content": "margaret",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-3844",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Dragon",
+          "_content": "dragon",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-3383965",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Agnolo",
+          "_content": "agnolo",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-648732",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Gaddi",
+          "_content": "gaddi",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412083075-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3412083075/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

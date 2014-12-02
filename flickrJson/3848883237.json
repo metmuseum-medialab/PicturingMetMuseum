@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "3848883237",
+    "secret": "7f5f419e4c",
+    "server": "2522",
+    "farm": 3,
+    "dateuploaded": "1251054572",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "YoungManAndWoman_TheMET (3)"
+    },
+    "description": {
+      "_content": "Detail from: '‘Young Man and Woman in an Inn (“Yonker Ramp and His Sweetheart”)  Frans Hals Dutch, born after 1580, died 1666\n\nOil on canvas \nSigned and dated (right, above the fireplace): FHALS [initials in monogram] 1623\n\nThe traditional title dates from the eighteenth century and is based upon a mistaken identification with Pieter Ramp, who appears in a group portrait of about 1627 by Hals.  The figures here are a young man and his new acquaintance at the doorway of an inn.  The dog suggests not fidelity but spontaneous affection.  This canvas, Hals’s only known dated genre scene, recalls earlier Netherlandish images of the Prodigal Son, but is probably not intended as a representation of the biblical parable.  Hals, his brother Dirck (1591-1656), and other Haarlem artists treated the theme of frivolous youth in remarkably various ways.\n\nBequest of Benjamin Altman, 1913\n14.40.602\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1251054572",
+      "taken": "2009-07-05 11:05:23",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1275561619"
+    },
+    "views": "551",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3848883237-41383784",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_137",
+          "_content": "bench137",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-165667",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Hals",
+          "_content": "hals",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-338522",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Frans Hals",
+          "_content": "franshals",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848883237-44952814",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_143",
+          "_content": "bench143",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3848883237/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

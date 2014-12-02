@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5352975927",
+    "secret": "c5f9892252",
+    "server": "5002",
+    "farm": 6,
+    "dateuploaded": "1294971334",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "View from the Citadel Ramparts in Copenhagen by Moonlight_TheMET (4)"
+    },
+    "description": {
+      "_content": "Martinus Rørbye   Danish,  1803-1848\n\n‘View from the Citadel Ramparts in Copenhagen by Moonlight’, ca. 1835-36\nOil on canvas\n\nGift of Eugene V. Thaw, 2007\n2007.164.7\n\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294971334",
+      "taken": "2010-11-06 11:02:52",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1295064175"
+    },
+    "views": "169",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5352975927-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352975927-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352975927-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352975927-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352975927-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352975927-668380",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon",
+          "_content": "barbizon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5352975927/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

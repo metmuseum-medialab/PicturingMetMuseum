@@ -1,0 +1,410 @@
+{
+  "photo": {
+    "id": "2224082817",
+    "secret": "359d2fd19a",
+    "server": "2251",
+    "farm": 3,
+    "dateuploaded": "1201482433",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "be80ac46af",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "70323761@N00",
+      "username": "wallyg",
+      "realname": "Wally Gobetz",
+      "location": "jersey city, nj, us",
+      "iconserver": "5449",
+      "iconfarm": 6,
+      "path_alias": "wallyg"
+    },
+    "title": {
+      "_content": "NYC - Metropolitan Museum of Art: Washington Crossing the Delaware"
+    },
+    "description": {
+      "_content": "<i>Washington Crossing the Delaware</i>\n1851\nEmmanuel Leutze (1816-1868)\nOil on canvas; 149 x 255 in. (378.5 x 647.7 cm)\n\nLeutze's depiction of Washington's attack on the Hessians at Trenton on December 25, 1776, was a great success in America and in Germany. Leutze began his first version of this subject in 1849. It was damaged in his studio by fire in 1850 and, although restored and acquired by the Bremen Kunsthalle, was again destroyed in a bombing raid in 1942. In 1850, Leutze began this version of the subject, which was placed on exhibition in New York during October of 1851. At this showing Marshall O. Roberts bought the canvas for the then-enormous sum of $10,000. In 1853, M. Knoedler published an engraving of it. Many studies for the painting exist, as do copies by other artists.\n\nGift of John Stewart Kennedy, 1897 (97.34) \n\n**\nThe <a href=\"http://www.flickr.com/photos/wallyg/246896968/\">Metropolitan Museum of Art</a>'s permanent collection contains more than two million works of art from around the world.  It opened its doors on February 20, 1872, housed in a building located at 681 Fifth Avenue in New York City. Under their guidance of John Taylor Johnston and George Palmer Putnam, the Met's holdings, initially consisting of a Roman stone sarcophagus and 174 mostly European paintings, quickly outgrew the available space. In 1873, occasioned by the Met's purchase of the Cesnola Collection of Cypriot antiquities, the museum decamped from Fifth Avenue and took up residence at the Douglas Mansion on West 14th Street. However, these new accommodations were temporary; after negotiations with the city of New York, the Met acquired land on the east side of <a href=\"http://www.flickr.com/photos/wallyg/sets/72157594192309086/\">Central Park</a>, where it built its permanent home, a red-brick Gothic Revival stone &quot;mausoleum&quot; designed by American architects Calvert Vaux and Jacob Wrey Mold.  As of 2006, the Met measures almost a quarter mile long and occupies more than two million square feet, more than 20 times the size of the original 1880 building.\n\nIn 2007, the Metropolitan Museum of Art was ranked #17 on the AIA 150 America's Favorite Architecture list.\n\nThe Metropolitan Museum of Art was designated a landmark by the New York City Landmarks Preservation Commission in 1967.  The interior was designated in 1977. \n\nNational Historic  Register #86003556"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1201482433",
+      "taken": "2008-01-26 18:24:55",
+      "takengranularity": "0",
+      "takenunknown": "0",
+      "lastupdate": "1416447919"
+    },
+    "views": "8924",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1713009-2224082817-607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-1500",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-6365953",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Washington Crossing the Delaware",
+          "_content": "washingtoncrossingthedelaware",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-336744",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "crossing the delaware",
+          "_content": "crossingthedelaware",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-114764",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "delaware river",
+          "_content": "delawareriver",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-19777396",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Emmanuel Leutze",
+          "_content": "emmanuelleutze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-97327",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-59219",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-1154",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-106",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-22328",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gothamist",
+          "_content": "gothamist",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-109",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-5392",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-9012",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "landmark",
+          "_content": "landmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-29835",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-500713",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum mile",
+          "_content": "museummile",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-63586",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "the met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-12629",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ues",
+          "_content": "ues",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-79338",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "upper east side",
+          "_content": "uppereastside",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-7952964",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NYCLPC",
+          "_content": "nyclpc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-7952963",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city landmarks preservation commission",
+          "_content": "newyorkcitylandmarkspreservationcommission",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-439",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ny",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-34805",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "George Washington",
+          "_content": "georgewashington",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-3094643",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Revolutionary War hero",
+          "_content": "revolutionarywarhero",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-441006",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "founding father",
+          "_content": "foundingfather",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-61731",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "founding fathers",
+          "_content": "foundingfathers",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-30571",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "american revolution",
+          "_content": "americanrevolution",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-6264",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "president",
+          "_content": "president",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-27216",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "patriot",
+          "_content": "patriot",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-66607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "1776",
+          "_content": "1776",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-23090",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "revolutionary war",
+          "_content": "revolutionarywar",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-907511",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Register of Historic Places",
+          "_content": "nationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-2094603",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NRHP",
+          "_content": "nrhp",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-7396769",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Register of Historic Places",
+          "_content": "usnationalregisterofhistoricplaces",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-703196",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Historic Landmark",
+          "_content": "nationalhistoriclandmark",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-2001",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NHL",
+          "_content": "nhl",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2224082817-1572208",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Historic Landmark",
+          "_content": "usnationalhistoriclandmark",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.780525,
+      "longitude": -73.963201,
+      "accuracy": "16",
+      "context": "0",
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "CQWTBzJTUb9t64RvGQ",
+      "woeid": "23505566"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/wallyg/2224082817/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "3376402211",
+    "secret": "bcd559a28a",
+    "server": "3040",
+    "farm": 4,
+    "dateuploaded": "1237758794",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "75a0840291",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Study of Trees at Mortefontaine"
+    },
+    "description": {
+      "_content": "Théodore Caruelle d'Aligny (French, 1798–1871)\n\nTitle\nStudy of Trees at Mortefontaine\n\nDate\n1850–55\n\nMedium\nOil on paper, laid down on canvas\n\nDimensions\n10 1/8 x 14 1/4 in. (25.7 x 36.2 cm)\n\nCredit Line\nThe Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase, Gift of Mr. and Mrs. Charles S. McVeigh, by exchange, 2003\n\nAccession Number\n2003.42.1"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1237758794",
+      "taken": "2009-03-06 14:07:13",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1389018975"
+    },
+    "views": "3015",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3376402211-12597",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Study",
+          "_content": "study",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-169",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Trees",
+          "_content": "trees",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-8469595",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Mortefontaine",
+          "_content": "mortefontaine",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-1832254",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Théodore",
+          "_content": "théodore",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-37774796",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Caruelle",
+          "_content": "caruelle",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-37774798",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "d'Aligny",
+          "_content": "daligny",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-1500",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3376402211-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3376402211/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

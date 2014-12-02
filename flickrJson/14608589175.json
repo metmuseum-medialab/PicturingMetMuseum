@@ -1,0 +1,176 @@
+{
+  "photo": {
+    "id": "14608589175",
+    "secret": "0feb61cd7c",
+    "server": "5037",
+    "farm": 6,
+    "dateuploaded": "1404863574",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "1446edcef5",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "98775743@N00",
+      "username": "jaroslavd",
+      "realname": "jerry dohnal",
+      "location": "sydney/new york, australia/USA",
+      "iconserver": "2171",
+      "iconfarm": 3,
+      "path_alias": "jaroslavd"
+    },
+    "title": {
+      "_content": "Artemisia in Mourning"
+    },
+    "description": {
+      "_content": "Metropolitan Museum of Art, New York.\n\nArtemisia in Mourning\nPhilipp Jakob Scheffauer \n(German, 1756–1808)\nDate: 1794\nCulture: German, Stuttgart\nMedium: Marble\nDimensions: Overall (confirmed): H. 19 3/4 x W. 11 13/16 x D. 1 15/16 in. (50.2 x 30 x 5 cm)\nClassification: Sculpture"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1404863574",
+      "taken": "2014-07-09 09:46:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1405395208"
+    },
+    "views": "835",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "804072-14608589175-359108",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Artemisia",
+          "_content": "artemisia",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-1386964",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "in Mourning",
+          "_content": "inmourning",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-36805339",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Metropolotian Museum of Art",
+          "_content": "metropolotianmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-308",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-24978",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-221380730",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Philipp Jakob Scheffauer",
+          "_content": "philippjakobscheffauer",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-63586",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "the Met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-1592",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "nude",
+          "_content": "nude",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-11645",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-3068",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "diptych",
+          "_content": "diptych",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-278130",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "decorative arts",
+          "_content": "decorativearts",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-14608589175-10533",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "sensual",
+          "_content": "sensual",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/jaroslavd/14608589175/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

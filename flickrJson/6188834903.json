@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "6188834903",
+    "secret": "b40a02dea8",
+    "server": "6165",
+    "farm": 7,
+    "dateuploaded": "1316362019",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ostrogoth Helmet in the Metropolitan Museum of Art, September 2010"
+    },
+    "description": {
+      "_content": "Helmet (Spangenhelm)\n\nDate: 6th century \n\nCulture: Ostrogothic \n\nMedium: Gilt bronze, iron \n\nDimensions: Gr. H. 8 9/16 in. (21.79 cm) Gr. W. 7 13/16 in. (19.89 cm) 2 lb. 0 oz. (907 gm) \n\nClassification: Helmets \n\nCredit Line: Gift of Stephen V. Grancsay, 1942 \n\nAccession Number: 42.50.1\n\n\nDescription:\n\nThis is one of a group of twenty-seven very similar Spangenhelme (literally, strap helmets), all of which date from the sixth century. These helmets are thought to have been made in or around Ravenna, the capital of the Ostrogothic kingdom in Italy, as diplomatic gifts for foreign rulers, and have been found at sites ranging from Sweden and Germany to Yugoslavia and Libya. The Metropolitan Museum's helmet was discovered in the Saône River near Trévoux, France. It has also been suggested that these helmets were made in one of the court workshops of the Byzantine Empire.\n\nThe helmets of this group are nearly identical in construction: four or six straps radiate from a central disk and connect to a brow band all of gilt bronze. The space between each strap is filled by an iron plate riveted in place. The decoration typically consists of patterns punched into the radiating straps and of birds amid an undulating grapevine embossed on the brow band. Crosses and other Christian symbols are occasionally included. Some of the helmets retain traces of silver foil on the iron plates between the straps. The richness of the decoration indicates that these helmets were intended for recipients of high rank.\n\nAll the helmets originally had a pair of metal cheekpieces, a neck defense made of plate or mail, and a narrow plate extending down from the browpiece to protect the nose. Of these features, only the cheekpieces remain on a few examples.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/40002919\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/4000...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1316362019",
+      "taken": "2010-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1318040997"
+    },
+    "views": "992",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "18"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6188834903-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-6891",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "helmet",
+          "_content": "helmet",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-14546",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "armor",
+          "_content": "armor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-3266",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "iron",
+          "_content": "iron",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6188834903-47784",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MiddleAges",
+          "_content": "middleages",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6188834903/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

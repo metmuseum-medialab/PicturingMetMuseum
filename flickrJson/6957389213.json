@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6957389213",
+    "secret": "f5c9222107",
+    "server": "7194",
+    "farm": 8,
+    "dateuploaded": "1330991952",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheBelatedPartyOnMansfieldMountain_TheMET(10)"
+    },
+    "description": {
+      "_content": "Jerome B. Thompson ( 1814-1886)\nDetail from: <b><i>  The Belated Party on Mansfield Mountain </i></b>\n1858\nOil on canvas\n\nThompson earned a reputation for combining the breadth of Hudson River School landscape painting with the anecdotal appeal of contemporary genre painting.  This work is one of several in which he used Mount Mansfield, Vermont’s highest peak, as a foil for domestic recreation.  As half the party of day trippers admire the summit and the vista toward Lake Champlain, another young man holds his watch aloft, warning of the lateness of the hour and the need to descend.  But, as people their age are wont to do, the three youths watching the sunset ignore him, enraptured by the beauty of nature.\nRogers fund 1969\n69-182\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330991952",
+      "taken": "2011-02-25 12:28:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1331171645"
+    },
+    "views": "213",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6957389213-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6957389213-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6957389213-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6957389213-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6957389213-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6957389213-85642339",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_507",
+          "_content": "bench507",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6957389213/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

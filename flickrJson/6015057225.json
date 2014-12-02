@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "6015057225",
+    "secret": "4152b0c66b",
+    "server": "6029",
+    "farm": 7,
+    "dateuploaded": "1312400964",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Japanese Dish in the Shape of a Shell with Floral Decoration  in the Metropolitan Museum of Art, September 2010"
+    },
+    "description": {
+      "_content": "Title/Object Name:  Dish in the Shape of a Shell with Floral Decoration\n\nCulture:  Japan\n\nPeriod:  Edo period (1615–1868)\n\nDate:  17th century\n\nMedium:  Porcelain with overglaze enamels (Arita ware, Ko Imari type)\n\nDimensions:  Diam. 9 in. (22.9 cm)\n\nClassification:  Ceramic\n\nCredit Line:  Dr. and Mrs. Roger G. Gerry Collection, Bequest of Dr. and Mrs. Roger G. Gerry, 2000\n\nAccession Number:  2002.447.77\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/asian_art/dish_in_the_shape_of_a_shell_with_floral_decoration//objectview.aspx?OID=60019985&amp;collID=6&amp;dd1=6\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/asian_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1312400964",
+      "taken": "2010-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1330482849"
+    },
+    "views": "331",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6015057225-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-1711",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Asian",
+          "_content": "asian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-1970",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Japanese",
+          "_content": "japanese",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-7674",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "shell",
+          "_content": "shell",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-4117",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "dish",
+          "_content": "dish",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-8451",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plate",
+          "_content": "plate",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-535",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "flower",
+          "_content": "flower",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6015057225-51010",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "porcelain",
+          "_content": "porcelain",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6015057225/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

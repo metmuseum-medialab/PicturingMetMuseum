@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "5389250504",
+    "secret": "368980a9b5",
+    "server": "5256",
+    "farm": 6,
+    "dateuploaded": "1296008781",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Judith with the Head of Holofernes_TheMET (2)"
+    },
+    "description": {
+      "_content": "Lucas Cranach the Elder     German, 1472-1553\n\n‘Judith with the Head of Holofernes’\nOil on wood\nSigned (lower right) with winged serpent\n\nJudith, who is adorned “so as to allure the eyes of all man that should see her” (Judith 10:4, Apocrypha), demurely rests here arm on the severed head of her people’s enemy.  Her fantastically elaborate costume is characteristic of Cranach’s courtly mannerism.\nThe painting, which is one of several versions of this theme by Cranach, as been dated about 1530.\n\nRogers Fund, 1911\n11.15\n\nFrom the placard: Metropolitan Museum of Art.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296008781",
+      "taken": "2009-11-07 12:00:58",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411428558"
+    },
+    "views": "519",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157625907578980",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "85",
+          "y": "120",
+          "w": "132",
+          "h": "83",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5388646089/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5389250504-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5389250504-66188517",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metroplotian_Museum",
+          "_content": "metroplotianmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5389250504-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5389250504-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5389250504-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5389250504-2738535",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Lucas Cranach",
+          "_content": "lucascranach",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5389250504/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

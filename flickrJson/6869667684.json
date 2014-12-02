@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "6869667684",
+    "secret": "d17b780bb1",
+    "server": "7257",
+    "farm": 8,
+    "dateuploaded": "1332718640",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Mr. and Mrs. I. N. Phelps Stokes _TheMET(18)"
+    },
+    "description": {
+      "_content": "[ this photograph was: Identify the Painter (1) ]\n\nJohn Singer Sargent  ( 1895-1925)\nDetail from: <b><i> Mr. and Mrs. I. N. Phelps Stokes </i></b>\n1897\nOil on canvas\n\nIsaac Newton Phelps Stokes (1867-1944), the scion of a wealthy New York family and an architecture student in Paris, married Edith Minturn (1867-1937) in 1895.  A friend commissioned a portrait of Mrs. Stokes from Sargent as a wedding gift; the artist selected a blue satin evening gown for her to wear and began the sittings.  He soon decided, however to portray her instead in the less formal outfit in which she had walked to his studio on day.  When the dog that Sargent wanted to include in the portrait was unavailable, Mr. Stokes had “a sudden inspiration,” he later recalled, and “offered to assume the role of the Great Dane in the picture,” thereby getting two portraits for the price of one.\nBequest of Edith Minturn Phelps Stokes (Mrs. I . N. ), 1938\n38.104\nFrom the placard:  Metropolitan Museum of Art\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6869667684&amp;size=large\" rel=\"nofollow\">View On Black</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1332718640",
+      "taken": "2011-02-25 10:00:29",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1400617186"
+    },
+    "views": "831",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6869667684/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

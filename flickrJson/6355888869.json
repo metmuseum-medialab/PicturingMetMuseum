@@ -1,0 +1,200 @@
+{
+  "photo": {
+    "id": "6355888869",
+    "secret": "c2ddd83028",
+    "server": "6225",
+    "farm": 7,
+    "dateuploaded": "1321576604",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "132f1b7b4f",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "98775743@N00",
+      "username": "jaroslavd",
+      "realname": "jerry dohnal",
+      "location": "sydney/new york, australia/USA",
+      "iconserver": "2171",
+      "iconfarm": 3,
+      "path_alias": "jaroslavd"
+    },
+    "title": {
+      "_content": "Venus and Cupid"
+    },
+    "description": {
+      "_content": "You have to love the MET’s description: “Cupid’s action, an augury of fertility, confers a mood of light-hearted wit…”\n\nHere are the full MET details:\n\nLorenzo Lotto \nItalian, Venetian, born about 1480, died 1556\n\nVenus and Cupid\nOil on canvas\nSigned lower right on tree trunk\n\nThe theme of this picture, by the most eccentric genius of the Venetian Renaissance, was inspired by classical marriage poems (or epithalamia) and was almost certainly painted to celebrate a wedding (the Venus may be a portrait of the bride).\n\nLotto was fascinated by emblematic devices. The shell above Venus’s head and the rose petals in her lap are conventional attributes of the goddess. The ivy is symbolic of conjugal fidelity, why the myrtle leaf and brazier suspended from it are accoutrements of the bridal chamber. Venus wears the earring and diadem of  a sixteenth century bride. Cupid’s action, an augury of fertility, confers a mood of light-hearted wit on this most popular Venetian subject. \n\nThe painting may date to mid 1520s.\n\nPurchase, Mrs. Charles Wrightsman Gift, in honor of Marietta Tree, 1986\n1986.138\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1321576604",
+      "taken": "2011-10-05 11:28:02",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1388052009"
+    },
+    "views": "1731",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "804072-6355888869-3826",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Venus",
+          "_content": "venus",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-26335",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Cupid",
+          "_content": "cupid",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-3628895",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Lorenzo Lotto",
+          "_content": "lorenzolotto",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-20208",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Venetian",
+          "_content": "venetian",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-49739",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-97327",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-29750",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-20237",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "eccentric",
+          "_content": "eccentric",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-8253",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "marriage",
+          "_content": "marriage",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-14852690",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "epithalamia",
+          "_content": "epithalamia",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-202",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "wedding",
+          "_content": "wedding",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-35291",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "fertility",
+          "_content": "fertility",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-25136796",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "urolagnia",
+          "_content": "urolagnia",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-175594",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "golden shower",
+          "_content": "goldenshower",
+          "machine_tag": 0
+        },
+        {
+          "id": "804072-6355888869-28075",
+          "author": "98775743@N00",
+          "authorname": "jaroslavd",
+          "raw": "watersports",
+          "_content": "watersports",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/jaroslavd/6355888869/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

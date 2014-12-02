@@ -1,0 +1,158 @@
+{
+  "photo": {
+    "id": "3920583495",
+    "secret": "f266f4fb0a",
+    "server": "3490",
+    "farm": 4,
+    "dateuploaded": "1252969804",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheParcMonceau_TheMET (2)"
+    },
+    "description": {
+      "_content": "Claude Monet     French,  1840 – 1926\n\nDetail from: <b><i> The Parc Monceau </i></b>   1878\nOil on canvas\nSigned and dated (lower right): Claude Monet 78\n\nMonet painted five views of the Parc Monceau: three in 1876 and two in 1878.  In this canvas, the disposition of light and shade in the foreground, the patterns of the leaves, and the broad contours beginning to develop in areas of strong contrast suggest that Monet had already begun to experiment with the boldly tw0-dimensional motifs that would characterize his work of the 1880s and 1890s.\n\nThe Mr. and Mrs. Henry Ittleson Jr. Purchase Fund, 1959\n59.142\n\nFrom the placard: Metropolitan Museum of Art.\n\nW 466\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1252969804",
+      "taken": "2009-07-05 09:45:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1297547794"
+    },
+    "views": "722",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3920583495-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-14198",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Monet",
+          "_content": "monet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-50768786",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "W 466",
+          "_content": "w466",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-818351",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "1878",
+          "_content": "1878",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3920583495-547",
+          "author": "28433765@N07",
+          "authorname": "petrus.agricola",
+          "raw": "detail",
+          "_content": "detail",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3920583495/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

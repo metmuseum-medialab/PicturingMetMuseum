@@ -34,6 +34,7 @@ var add_headers = function(orig_data, callback){
 	orig_data.push("flickrid");
 	orig_data.push("flickrpageurl");
 	orig_data.push("flickrimageurl");
+	orig_data.push("flickrimageurl_text");
 	orig_data.push("username");
 	orig_data.push("nsid");
 	orig_data.push("pathalias");
@@ -95,14 +96,26 @@ var transformer = csv_transform(function(record, callback){
 			var farm = result.photo.farm;
 			var server = result.photo.server;
 			var secret = result.photo.secret;
-			var imageurl = "http://c2.staticflickr.com/"+farm+"/"+server+"/"+_flickrid+"_"+ secret+"_b.jpg";
+//			var originalformat = result.photo.originalformat;
+			var imageurl = "http://c2.staticflickr.com/"+farm+"/"+server+"/"+_flickrid+"_"+ secret+".jpg";
 			console.log(imageurl);
 			_record.push(_flickrid);
 			_record.push(result.photo.urls.url[0]._content);
 			_record.push(imageurl);
+			_record.push(imageurl);
 			_record.push(result.photo.owner.username);
 			_record.push(result.photo.owner.nsid);
 			_record.push(result.photo.owner.path_alias);
+
+			var fs = require('fs');
+				fs.writeFile("./flickrJson/"+_flickrid+".json", JSON.stringify(result, null,"  "), function(err) {
+				    if(err) {
+				        console.log(err);
+				    } else {
+				        console.log("The file was saved!");
+				    }
+			}); 
+
 
 			callback(null, _record);
 		});

@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "7046214131",
+    "secret": "5d19427196",
+    "server": "7216",
+    "farm": 8,
+    "dateuploaded": "1333578120",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "PortraitofABeardedManWithARuff_TheMET(3)"
+    },
+    "description": {
+      "_content": "Frans Hals\nDutch, Antwerp 1582/83-1666  Haarlem\n\n<b><i>Portrait of a Bearded Man with a Ruff </i></b>\nOil on canvas\nDated and inscribed (right): ÆTAT 36 / ANo 1625\n\n\nAs the original inscription indicates, the sitter was thirty-six years old when Hals painted his likeness, in 1625.  The portrait’s immediacy is enhanced by vivid brushwork, strong modeling, the glance and gesture ( which respond to the viewer), and the oval framing device.  The latter had been used for sometime in Dutch portrait engravings; Hals used it in an illuisionistic manner as early as 1615 (<i> Portrait of a Man Holding a Medallion,</i> in the Brooklyn Museum).\nThe Jules Bache Collection, 1949\n49.7.34 \nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333578120",
+      "taken": "2011-02-24 15:01:38",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333582981"
+    },
+    "views": "304",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629377521254",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "206",
+          "y": "54",
+          "w": "94",
+          "h": "52",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7043303117/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7046214131-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7046214131-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7046214131-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7046214131-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7046214131-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7046214131-338522",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Frans Hals",
+          "_content": "franshals",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7046214131/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

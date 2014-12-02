@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "6959411774",
+    "secret": "a82a9cdb33",
+    "server": "7060",
+    "farm": 8,
+    "dateuploaded": "1335171999",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The 9 45 Accomodation_TheMET(7)"
+    },
+    "description": {
+      "_content": "[ This Photograph was Identify the Painter (30)]\n\nEdward Lamson Henry (1841-1919)\n\n<b><i> The 9:45 Accommodation </i>  </b>1867\nOil on canvas\n\nHenry, who was interested in all modes of transportation, painted this canvas for John Taylor Johnston, president of the New Jersey Central Railroad and first president of The Metropolitan Museum of Art.  The artist’s wife recalled that Johnston paid her husband “$500, and almost unheard-of-price at that time even by a man of reputation….It was placed on an easel at one of Mr. Johnston’s artist receptions, attracting a good deal of attention, as also [did] the young artist.”  The particular station shown here is unidentified; many stations were built on the same model, and Henry may have combined elements from several different stations.\nBequest of Moses Tanenbaum, 1937\n39.47.1\n\nFrom the placard:  Metropolitan Museum of Art\n\n.\n.\n<a href=\"http://bighugelabs.com/onblack.php?id=6959411774&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1335171999",
+      "taken": "2011-02-25 12:39:08",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335655358"
+    },
+    "views": "367",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6959411774-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6959411774-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6959411774-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6959411774-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6959411774/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

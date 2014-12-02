@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "6428196673",
+    "secret": "e12c3e5c8c",
+    "server": "7152",
+    "farm": 8,
+    "dateuploaded": "1322616387",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Edge of the Woods at Monts-Girard_TheMET(4)"
+    },
+    "description": {
+      "_content": "Théodore Rousseau \n French,  1812–1867\n<b><i> The Edge of the Woods at Monts-Girard, \nFontainebleau Forest, 1852-54 </i></b>\nOil on wood\nSigned and dated (lower left): TH. Rousseau-1854\n\nThis was one of thirteen paintings that Rousseau exhibited at the Salon of 1855.  After working on the panel for two years, he dated it, a rare gesture signifying that he considered it particularly successful.  Although its composition recalls seventeenth-century Dutch pictures, the subject had  contemporary resonance.  As related by the artist’s friend and biographer Alfred Sensier, this painting represents part of the woods at Fontainebleau whose trees—some hundreds of years old—were subject to harvest, a practice Rousseau bitterly opposed.  Thus, the open space in this painting is not a natural feature of the landscape but the edge of a threatened grove of ancient specimens.\n\nCatharine Lorillard Wolfe Collection, Wolfe Fund, 1896\n96.27\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1322616387",
+      "taken": "2011-09-25 10:13:48",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1322619058"
+    },
+    "views": "433",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628213529873",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "189",
+          "y": "181",
+          "w": "55",
+          "h": "45",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6428200417/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6428196673-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-15777032",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Théodore Rousseau",
+          "_content": "théodorerousseau",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428196673-79173881",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_232",
+          "_content": "bench232",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6428196673/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

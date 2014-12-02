@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "4372032636",
+    "secret": "b22de16afc",
+    "server": "2795",
+    "farm": 3,
+    "dateuploaded": "1266635183",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "7edebff88e",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Jonathan Dwight, 1790"
+    },
+    "description": {
+      "_content": "Joseph Steward (1753–1822)\nTitle Jonathan Dwight\nDate ca. 1790\nMedium Oil on canvas\nDimensions 29 1/2 x 26 1/4 in. (74.9 x 66.7 cm)\nCredit Line Gift of Barbara Mercer Adam and Charlotte Adam Coate, 1961\nAccession Number61.90\n\nthe sitter's great-great grandson, Jonathan Dwight V; his wife, Mrs. Jonathan Dwight, New York, by 1934–1958; her half-sisters, Barbara Mercer Adam and Charlotte Adam Coate\n\n<i>I want to know whose idea it was to keep the hairy mole in the picture. I'd love to be a fly on the wall during that conversation. &quot;Retouching is extra!&quot;</i>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1266635183",
+      "taken": "2010-02-13 16:03:51",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1267336249"
+    },
+    "views": "1048",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4372032636-1702",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Joseph",
+          "_content": "joseph",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4372032636-120859",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Steward",
+          "_content": "steward",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4372032636-186421",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1790",
+          "_content": "1790",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4372032636-1299",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "america",
+          "_content": "america",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4372032636/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

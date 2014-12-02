@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "3620092477",
+    "secret": "e186317b83",
+    "server": "3655",
+    "farm": 4,
+    "dateuploaded": "1244849082",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Curiosity_TheMET (2)"
+    },
+    "description": {
+      "_content": "Detail from:‘Curiosity’  Gerard ter Borch  Dutch,  1617-1681\nOil on canvas\n\nAlthough Ter Borch worked in Deventer, well to the east of Holland’s main artistic centers, he painted some of the most sophisticated genre scenes of his time.  In this canvas of about 1660, the costumes and interior decoration represent the height of patrician taste.  The anecdotal title dates from the eighteenth century.  ‘Lady at Her Toilet’ in the Detroit Institute of arts was possibly painted as a pendant to the present picture.  \n\nThe Jules Bache Collection, 1949\n49.7.38\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1244849082",
+      "taken": "2009-05-30 10:01:47",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1276043419"
+    },
+    "views": "439",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3620092477-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-2344949",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Gerard ter Borch",
+          "_content": "gerardterborch",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-41303645",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_138",
+          "_content": "bench138",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3620092477-52179386",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_195",
+          "_content": "bench195",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3620092477/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

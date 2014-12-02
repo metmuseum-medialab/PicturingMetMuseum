@@ -1,0 +1,121 @@
+{
+  "photo": {
+    "id": "6894118396",
+    "secret": "c8cb156950",
+    "server": "7094",
+    "farm": 8,
+    "dateuploaded": "1333406952",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ADanceInTheCountry_TheMET(2)"
+    },
+    "description": {
+      "_content": "Giovanni Domenico Tiepolo\nItalian, Venetian,  1727-1804\n<b><i> A Dance in the Country </i></b>  ca. 1775\nOil on canvas\n\nAlthough Giandomenico Tiepolo assisted his father in numerous decorative enterprises, his own talent lay in the depiction of contemporary life.  The picture—one of Giandomenico’s most evocative and appealing works—dates about 1755.  It shows an actress dancing with a young man wearing the traditional costume of the Commedia dell’Arte character, Mezzetino.\n\nGift of Mr. and Mrs. Charles Wrightsman, 1980\n1980.67\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333406952",
+      "taken": "2011-02-25 13:00:35",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1351540502"
+    },
+    "views": "298",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629727533675",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "206",
+          "y": "116",
+          "w": "134",
+          "h": "79",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7036310529/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6894118396-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6894118396-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6894118396-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6894118396-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6894118396/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

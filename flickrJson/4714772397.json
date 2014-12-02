@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "4714772397",
+    "secret": "2732a81770",
+    "server": "4021",
+    "farm": 5,
+    "dateuploaded": "1276980448",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MargueriteWearingAHat_TheMET (10)"
+    },
+    "description": {
+      "_content": "Henri Matisse  French, 1869-1954\n\nDetail from:  <b><i>Marguerite Wearing a Hat</i></b>  \nOil on canvas  1918\n\nFrom the time she was a toddler until her 1923 marriage to the Byzantine scholar Georges Duthuit, Marguerite Matisse was her father’s most frequent model.  After his death, Marguerite devoted herself to the organization of Matisse’s archives and the cataloguing of his work.\n\nThe Pierre and Maria-Gaetana Matisse Collection, 2002\n2002.456.15\n\nFrom the placard: Metropolitan Museum of Art\n\nFather's Day, June 20, 2010.  A Father's portrait of his daughter\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1276980448",
+      "taken": "2010-05-30 09:57:17",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1298302731"
+    },
+    "views": "541",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4714772397-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-57621516",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_175",
+          "_content": "bench175",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4714772397-121787",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Henri Matisse",
+          "_content": "henrimatisse",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4714772397/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

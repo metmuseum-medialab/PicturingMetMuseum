@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7040218261",
+    "secret": "108c961d15",
+    "server": "7058",
+    "farm": 8,
+    "dateuploaded": "1333407019",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "LilacsInAWindow_TheMET(3)"
+    },
+    "description": {
+      "_content": "[ This Photograph was: Identify the Painter (9) ]\nMary Cassatt (1844-1926)\n<b><i> Lilacs in a Window (Vase del lilas à la fenêtre  </i></b>\nCa. 1880-83\nOil on canvas\nCassatt liked gardens and often portrayed them in the backgrounds of her paintings and pastels.  She also incorporated displays of flowers into indoor scenes.  This canvas, one of her rare still-life paintings, is contemporaneous with floral still lifes by her friends Claude Monet and Auguste Renoir.  Cassatt appears to have been experimenting with the effects of sunlight seen through a window and with contrasts of complementary colors while also creating a visual dialogue between the orderly setting, with its diagonal lines, and the organic sumptuousness of the lilacs.\nPartial and Promised Gift of Mr. and Mrs. Douglas Dillon, 1997.\n1997-207\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7040218261&amp;size=large\" rel=\"nofollow\">View On Black</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333407019",
+      "taken": "2011-02-24 14:45:06",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1398599565"
+    },
+    "views": "600",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "10"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7040218261-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7040218261-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7040218261-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7040218261-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7040218261/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

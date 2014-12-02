@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "6859041589",
+    "secret": "7b579b92cf",
+    "server": "7178",
+    "farm": 8,
+    "dateuploaded": "1329000476",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Lute Player  TheMET(4)"
+    },
+    "description": {
+      "_content": "Caravaggio (Michelangelo Merisi)\nItalian, Lombard,  1571-1610\n\nDetail from: <b><i>The Lute Player </i></b>\nProbably ca. 1597\nOil on canvas\nPainted for Caravaggio’s first major patron, Cardinal Francesco Maria del Monte, this is a variant of a composition in the Hermitage, Saint Petersburg, that belonged to Del Monte’s friend Marchese Vincenzo Giustiniani.   Whereas the Hermitage painting is an early work, the picture exhibited here was singled out by Caravaggio’s most authoritative biographer, Giovan Pietro Bellori, for its use of those strong contrasts of dark and light that were to become the hallmark of the artist’s mature style.  It was probably painted about 1597.\nIt is possible that the model playing the lute is the male soprano (castrato) Pedro Montoya who, like Caravaggio, lived in Del Monte’s palace.  The madrigals are from a Venetian edition of Jacques Arcadelt’s <i> Primo libro di madrigal,</i> possibly that of 1545.  The instruments are likely to have been owned by Del Monte, who was a keenly interested in music as in painting.\nPrivate collection\nL.2003.30.\n\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1329000476",
+      "taken": "2011-09-25 12:16:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1329034955"
+    },
+    "views": "594",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6859041589-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6859041589-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6859041589-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6859041589-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6859041589-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6859041589/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

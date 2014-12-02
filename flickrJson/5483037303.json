@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "5483037303",
+    "secret": "b9c1ba935f",
+    "server": "5095",
+    "farm": 6,
+    "dateuploaded": "1298843932",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheRepastofTheLion_TheMET (10)"
+    },
+    "description": {
+      "_content": "Henri Rousseau  (le Douanier)   French,  1844-1910\n\nDetail from:   <b><i>The Repast of the Lion </i></b>    1907\n\nOil on canvas\nSigned (lower right): Henri Rousseau \n\nThis is probably one of the paysage exotique” paintings Rousseau showed at the 1907 Salon d’Automne in Paris.  He had first explored this theme in Surprise of 1891 ( private collection), two years before he retired from his post as a customs official ( hence, his nickname, “le Douanier”) to devote himself full time to his art.  Rousseau’s early biographers, wishing to explain the gap between his fantastic jungle scenes and his pedestrian life as a civil servant, traced the self-taught artist’s inspiration to his supposed adventures as a young soldier in Mexico and South America.  However, the tales they had spun began to unravel, and Rousseau was forced to admit that ha had never traveled further than to the hothouses in the Jardin des Plantes in Paris.”  Besides frequenting the city’s botanical gardens and menageries, Rousseau drew inspiration from popular ethnographic journals and illustrated children’s books.  \n\nBequest of Sam Al Levisohn, 1951   51.112.5\n\nFrom the Placard;  The Metropolitan Museum of Art, New York, New York.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1298843932",
+      "taken": "2009-11-06 09:57:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1298861295"
+    },
+    "views": "316",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5483037303-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5483037303-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5483037303-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5483037303-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5483037303-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5483037303/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

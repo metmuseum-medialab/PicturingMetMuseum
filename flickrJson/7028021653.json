@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7028021653",
+    "secret": "edc44bae06",
+    "server": "7214",
+    "farm": 8,
+    "dateuploaded": "1333062301",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MrAndMrsChesterDaleDineOut_TheMET(8)"
+    },
+    "description": {
+      "_content": "[ This Photograph was: Identify the Painter (5) ]\nGuy Pène du Bois.  American, 1884-1958\nDetail from: <b><i> Mr. and Mrs. Chester Dale Dine Out </i></b>  1924\nOil on canvas \nPène du Bois’s  portrayals of New York’s high society between the wars frequently record the telling body language of his protagonists.  This commissioned work depicts Chester Dale ( a wealthy investment banker and prominent art collector) and his first wife, Maud ( a painter and writer),  seated stiffly in the fashionable Hotel Brevoort.  In the early 1920s, their collection featured American art ( including twentiy-five paintings by Pène du Bois).  Subsequent acquisitions, however, focused almost exclusively on French painting, from the late eighteenth to the twentieth century.  Several important paintings including Salvador Dalí’s 1954 <i>Crucifixion</i>, were given to the Metropolitan Museum; the majority of the Chester Dale Collection is now at the National Gallery of Art, Washington, D.C.\nGift of Chester Dale, 1963\n63.138.1\n\nFrom the placard:  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7028021653&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333062301",
+      "taken": "2011-02-25 13:27:05",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333419744"
+    },
+    "views": "463",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7028021653-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7028021653-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7028021653-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7028021653-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7028021653/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

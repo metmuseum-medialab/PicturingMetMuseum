@@ -1,0 +1,325 @@
+{
+  "photo": {
+    "id": "5735968994",
+    "secret": "9ce2c00def",
+    "server": "2533",
+    "farm": 3,
+    "dateuploaded": "1305779583",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Etruscan Bronze Mirror with Odysseus, Circe, and Elpenor in the Metropolitan Museum of Art, November 2010"
+    },
+    "description": {
+      "_content": "Title:  Bronze mirror\n\nMedium; Technique:  Bronze\n\nCulture:  Etruscan\n\nPeriod:  Late Classical\n\nDate:  ca. 350–300 B.C.\n\nDimensions:  diameter 6 1/2in. (16.5cm)\n\nClassification:  Bronzes\n\nCredit Line:  Rogers Fund, 1909\n\nAccession Number:  09.221.17\n\nDescription:\n\nSaid to be from Vetulonia\n\nInscribed: Uthste (Odysseus), Cerca (Circe), Velparun (Elpenor)\nAt base, man-boar, one of Odysseus' men\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/bronze_mirror//objectview.aspx?OID=130008628&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1305779583",
+      "taken": "2010-11-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969110"
+    },
+    "views": "377",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5735968994-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-132567",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Etruscan",
+          "_content": "etruscan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-2100",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mirror",
+          "_content": "mirror",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-19957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Classical",
+          "_content": "classical",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-374599",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Odysseus",
+          "_content": "odysseus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-15945",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "hero",
+          "_content": "hero",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-59923",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Circe",
+          "_content": "circe",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-32944",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Odyssey",
+          "_content": "odyssey",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-16755",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Homer",
+          "_content": "homer",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-586",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "green",
+          "_content": "green",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5735968994-1192",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bronze",
+          "_content": "bronze",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5735968994/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

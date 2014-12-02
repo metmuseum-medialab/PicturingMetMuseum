@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "6928870224",
+    "secret": "cb1c0bb16e",
+    "server": "5276",
+    "farm": 6,
+    "dateuploaded": "1334356993",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ChildrenInWoods_TheMET(4)"
+    },
+    "description": {
+      "_content": "Frank W. Benson 1862-1951\n<b><i> Children in Woods </i></b>  1905\nOil on canvas\n\nBenson began to experiment with plein-air painting in the late 1890s, often depicting his own children out of doors.  This canvas portrays his three daughters near the family’s summer retreat at North Haven,  Maine.  Eleanor, the eldest, recalled:  “ When we were in North Haven, Papa would often have us put on our best white dresses and then ask us to sit in the grass or play in the woods.  We thought it was silly and the maids made such a fuss when they saw our clothes afterwards.”  Benson permitted his children to read or play cards while posing but disguised these diversions in his final compositions.\nBequest of Miss Adelaide Milton de Groot (1876-1967). 1967\n67.187.210\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334356993",
+      "taken": "2011-02-25 10:29:44",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334702375"
+    },
+    "views": "242",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629446624876",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "173",
+          "y": "121",
+          "w": "69",
+          "h": "51",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7070382649/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6928870224-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6928870224-10572765",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Frank W. Benson",
+          "_content": "frankwbenson",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6928870224/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

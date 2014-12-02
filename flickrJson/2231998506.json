@@ -1,0 +1,399 @@
+{
+  "photo": {
+    "id": "2231998506",
+    "secret": "12bea1c7ee",
+    "server": "2242",
+    "farm": 3,
+    "dateuploaded": "1201742531",
+    "isfavorite": 0,
+    "license": "3",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "4af9a0e140",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "70323761@N00",
+      "username": "wallyg",
+      "realname": "Wally Gobetz",
+      "location": "jersey city, nj, us",
+      "iconserver": "5449",
+      "iconfarm": 6,
+      "path_alias": "wallyg"
+    },
+    "title": {
+      "_content": "NYC - Metropolitan Museum of Art: Salvador Dalí's Crucifixion (Corpus Hypercubus)"
+    },
+    "description": {
+      "_content": "<i>Crucifixion (Corpus Hypercubus)</i>\n1954\nSalvador Dalí (Spanish, 1904-1989)\nOil on Canvas; \n\nDalí's Crucifixion (Corpus Hypercubus) depicts a crucified Jesus Christ upon the net of a hypercube.  Dalí's wife, Gala, is the figure in the bottom left looking up at Jesus.  The scene is depicted in front of the Bay of Port Lligat.  Dalí called his work, Ayn Rand's favorite painting, a &quot;metaphysical, transcendent cubism&quot; based on the Treatise on Cubic Form by Juan de  Herrera, Philip II's achitect and builder of the Escorial Palace.  The cross is formed by an octahedral hypercube.  The number nine is identifiable and becomes consubstantial with the body of Christ.\n\nGift of the Chester Dale Collection, 1955 (55.5)\n\n**\nThe <a href=\"http://www.flickr.com/photos/wallyg/246896968/\">Metropolitan Museum of Art</a>'s permanent collection contains more than two million works of art from around the world.  It opened its doors on February 20, 1872, housed in a building located at 681 Fifth Avenue in New York City. Under their guidance of John Taylor Johnston and George Palmer Putnam, the Met's holdings, initially consisting of a Roman stone sarcophagus and 174 mostly European paintings, quickly outgrew the available space. In 1873, occasioned by the Met's purchase of the Cesnola Collection of Cypriot antiquities, the museum decamped from Fifth Avenue and took up residence at the Douglas Mansion on West 14th Street. However, these new accommodations were temporary; after negotiations with the city of New York, the Met acquired land on the east side of <a href=\"http://www.flickr.com/photos/wallyg/sets/72157594192309086/\">Central Park</a>, where it built its permanent home, a red-brick Gothic Revival stone &quot;mausoleum&quot; designed by American architects Calvert Vaux and Jacob Wrey Mold.  As of 2006, the Met measures almost a quarter mile long and occupies more than two million square feet, more than 20 times the size of the original 1880 building.\n\nIn 2007, the Metropolitan Museum of Art was ranked #17 on the AIA 150 America's Favorite Architecture list.\n\nThe Metropolitan Museum of Art was designated a landmark by the New York City Landmarks Preservation Commission in 1967.  The interior was designated in 1977. \n\nNational Historic  Register #86003556"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1201742531",
+      "taken": "2008-01-26 19:57:21",
+      "takengranularity": "0",
+      "takenunknown": "0",
+      "lastupdate": "1416447923"
+    },
+    "views": "13420",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1713009-2231998506-29765",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "dali",
+          "_content": "dali",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-340901",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Salvador Dalí",
+          "_content": "salvadordalí",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-30541",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Salvador Dali",
+          "_content": "salvadordali",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-65806",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "crucifixion",
+          "_content": "crucifixion",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-19778343",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Corpus Hypercubus",
+          "_content": "corpushypercubus",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-19778345",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Crucifixion (corpus hypercubus)",
+          "_content": "crucifixioncorpushypercubus",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-43520",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gala",
+          "_content": "gala",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-19778347",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "bay of port lligat",
+          "_content": "bayofportlligat",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-56624",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "hypercube",
+          "_content": "hypercube",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-6540",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "jesus",
+          "_content": "jesus",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-4033",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "christ",
+          "_content": "christ",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-123573",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "jesus christ",
+          "_content": "jesuschrist",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-97327",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-59219",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-1154",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-607",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1713009-2231998506-106",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-22328",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "gothamist",
+          "_content": "gothamist",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-109",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city",
+          "_content": "newyorkcity",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-5392",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-9012",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "landmark",
+          "_content": "landmark",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-29835",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "art museum",
+          "_content": "artmuseum",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-500713",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "museum mile",
+          "_content": "museummile",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-63586",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "the met",
+          "_content": "themet",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-12629",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ues",
+          "_content": "ues",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-79338",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "upper east side",
+          "_content": "uppereastside",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-7952964",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NYCLPC",
+          "_content": "nyclpc",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-7952963",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "new york city landmarks preservation commission",
+          "_content": "newyorkcitylandmarkspreservationcommission",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-439",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "ny",
+          "_content": "ny",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-907511",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Register of Historic Places",
+          "_content": "nationalregisterofhistoricplaces",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-2094603",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NRHP",
+          "_content": "nrhp",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-7396769",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Register of Historic Places",
+          "_content": "usnationalregisterofhistoricplaces",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-703196",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "National Historic Landmark",
+          "_content": "nationalhistoriclandmark",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-2001",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "NHL",
+          "_content": "nhl",
+          "machine_tag": false
+        },
+        {
+          "id": "1713009-2231998506-1572208",
+          "author": "70323761@N00",
+          "authorname": "wallyg",
+          "raw": "U.S. National Historic Landmark",
+          "_content": "usnationalhistoriclandmark",
+          "machine_tag": false
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.778717,
+      "longitude": -73.963962,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/wallyg/2231998506/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

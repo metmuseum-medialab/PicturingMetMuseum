@@ -1,0 +1,293 @@
+{
+  "photo": {
+    "id": "5118967427",
+    "secret": "a86c128226",
+    "server": "4040",
+    "farm": 5,
+    "dateuploaded": "1286690284",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Sasanian Plate with a King Hunting Rams in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Title:  Plate with king hunting rams\n\nPeriod:  Sasanian\n\nDate:  mid 5th-mid 6th Century\n\nGeography:  Iran, said to be from Qazvin\n\nMedium:  Silver, mercury gilding, niello inlay\n\nDimensions:  H. 1 7/8 in. (4.6 cm), Diam. 8 5/8 in. (21.9 cm)\n\nClassification:  Metalwork-Vessel\n\nCredit Line:  Fletcher Fund, 1934\n\nAccession Number:  34.33\n\n\n\nDescription:\n\nThe king as hunter had become a standard royal image on silver plates during the reign of Shapur II (A.D. 310–379). The theme, symbolizing the prowess of Sasanian rulers, was used to decorate these royal plates, which were often sent as gifts to neighboring courts. The king has various royal attributes: a crown and fillet, covered globe, nimbus with beaded border, and beaded chest halter with fluttering ribbons. The identity of the Sasanian king on this plate is uncertain. His crown identifies him as either Peroz (r. 459–484) or Kavad I (r. 488–497, 499–531).\n\nSasanian silver bowls were usually hammered into shape and then decorated in various complex techniques. On this plate, separate pieces of silver were inserted into lips cut up from the plate to provide high relief. The vessel was then gilded using an amalgam of mercury and gold, which could be painted onto the surface, and niello—a metallic alloy of sulfur and silver—was inlaid. The result was a vessel of varied surface contours and colors.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/ancient_near_eastern_art/plate_with_king_hunting_rams//objectview.aspx?OID=30001627&amp;collID=3&amp;dd1=3\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/ancien...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1286690284",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1315796090"
+    },
+    "views": "511",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5118967427-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-968199",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Sasanian",
+          "_content": "sasanian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-8451",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plate",
+          "_content": "plate",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-3391",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "king",
+          "_content": "king",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-325",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "horse",
+          "_content": "horse",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-32303",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ram",
+          "_content": "ram",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-952",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "animal",
+          "_content": "animal",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-1395",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "silver",
+          "_content": "silver",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5118967427-1990",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "gold",
+          "_content": "gold",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5118967427/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

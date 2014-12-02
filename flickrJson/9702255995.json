@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "9702255995",
+    "secret": "e4bcbc7016",
+    "server": "2846",
+    "farm": 3,
+    "dateuploaded": "1378675510",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Empty Benches TheMET(141new)"
+    },
+    "description": {
+      "_content": "Pieter Bruegal the Elder     Netherlandish, Breda(?) ca. 1525-1569 Brussels\n<b><i>  The Harvesters </i></b>     1565\nOil on wood\n\nThis panel belongs to a series commissioned by the Antwerp merchant Niclaes Jongelinck for his suburban home.  The cycle originally included six paintings showing the times of the year.  Apart from <b><i> The Harvesters, </i></b> which is usually identified as representing July-August, or late summer, four other paintings of the group have survived ( now in the Kunsthistorisches Museum, Vienna, and Lobkowicz Collection, Prague).\nBruegel’s series is a watershed in the history of Western Art.  The religious pretext for landscape painting has been suppressed in favor of a new humanism, and the unidealized description of the local scene is based on natural observation.\nRogers Fund, 1919\n19.164\nFrom the placard:  Metropolitan Museum of Art\n\n * * * * * \nIdentify the Painter returns to this photo stream (Sunday night, September 15, 2013).  My intent is to take it another 500 paintings. \nThis time, I will introduce a new scheme. I will keep score for each grouping of 100 paintings.  The first grouping will encompass numbers 501 -600.\nThe winner of the first grouping of 100 will receive a Hard Cover copy of the Metropolitan's new publication: <b><i>  Balthus: Cats and Girls </i></b>  and a mailed Metropolitan postcard (my choice) acknowledging their participation.  Second through Fifth place will also receive a Metropolitan postcard.\nChanges: \nRather than 2 paintings each day, as the case with the previous group of 500, there will be only 1 each day.  Posting will take place sometime after 8:00 PM EST, five days a week (Sunday; Monday; Tuesday; Wednesday; Thursday.  There are no IDs on Friday or Saturday)\nCorrect answers are allotted points in the following way: \nFirst correct respondent receives 6 points\nSecond:   5 points\nthird:   4 points\nfourth:   3 points\nfifth:   2 points\n\nEach respondent after that receives 1 point, whether the artist named is correct or not.  Respondent must, however enter the name of an artist in some context to the painting (i.e.: &quot;this painting reminds me of &quot;???????&quot;'s work, etc.)\ncomments that merely discuss the painting or photograph (although welcome) will not be awarded a point.\nAs you might surmise then, incorrect responses will be awarded a point (there is no penalty for trying).\n\nThe opportunity to accrue points can only happen within a maximum of 24 hours.  Once the Painting is elevated and the artist identified, no additional scoring (for that painting can occur). ( in other words, regardless of pleas, points will not be awarded for a comment/ID made days after the posting)\n\nA summary of scores for the top five positions will be published each Sunday, at the beginning of each set of five photographs.\nCaveats / Understanding:\nPostings may be held up due to circumstances beyond my control. \nDelays in posting my occur each evening. ( sorry, no guarantee on 8:00 EST, I’m a working stiff in the finance industry and there are late nights at times. – usually month end btw )\nAlso, sorry for the bias the timing provides those in the Americas  but no matter how I thought about it… I couldn’t come up with a plan to assist Europe and Asia.\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1378675510",
+      "taken": "2013-06-23 09:45:54",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1417506166"
+    },
+    "views": "1140",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "11"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-9702255995-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9702255995-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9702255995-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-9702255995-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/9702255995/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

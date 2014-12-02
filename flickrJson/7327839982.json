@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7327839982",
+    "secret": "c29556271f",
+    "server": "7087",
+    "farm": 8,
+    "dateuploaded": "1338735877",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Dancers, Pink and Green TheMET(10)"
+    },
+    "description": {
+      "_content": "[This photograph was identify the painter (72)]\n.\nEdgar Degas   French, 1834 -1917\nDetail from: <b><i> Dancers, Pink and Green </i></b>, ca. 1890\nOil on canvas\nSigned (lower right):  Degas\nDegas punctuated this picture with the ominous shadow of a top-hatted patron of the Opéra, a select member of the Jockey Club who, with his friends, had special permission to linger in the wings during a performance.  Degas constructed a scene in which two dancers on the stage are performing their pas de deux, as others, waiting in the wings, risk missing their cue while they dally with their patron.  \nThere are no known drawings for this picture, and the thickly impastoed surface suggests that Degas worked directly and extensively on the canvas, building up passages of color with brushes and his fingers.  By mixing his colors with white to make them opaque, and by applying his pigments thickly and in several layers, he approximated the pastel technique that he had perfected in the previous decade.\nSomewhat later, Degas painted a variant of this picture in which the dancer’s costumes are blue (Musée d’Orsay, Paris).\nH.O.Havemeyer Collection, Bequest of Mrs. H.O. Havemeyer, 1929\n29.100.42\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338735877",
+      "taken": "2012-06-02 10:09:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1339295535"
+    },
+    "views": "427",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7327839982-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327839982-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327839982-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7327839982-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7327839982/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

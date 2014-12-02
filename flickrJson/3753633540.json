@@ -1,0 +1,306 @@
+{
+  "photo": {
+    "id": "3753633540",
+    "secret": "2969fe14e0",
+    "server": "2467",
+    "farm": 3,
+    "dateuploaded": "1248475552",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "a1b7d34415",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "38320645@N07",
+      "username": "Тощин",
+      "realname": "Toshchin",
+      "location": "Oakland, CA, USA",
+      "iconserver": "3658",
+      "iconfarm": 4,
+      "path_alias": "toshchego"
+    },
+    "title": {
+      "_content": "statue of a wounded amazon :: nyc"
+    },
+    "description": {
+      "_content": "The Metropolitan Museum's description is <a href=\"http://www.metmuseum.org/toah/hd/god1/ho_32.11.4.htm\" rel=\"nofollow\"> here</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1248475552",
+      "taken": "2009-07-10 19:19:08",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1324588963"
+    },
+    "views": "315",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "38299315-3753633540-2994",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "nikon",
+          "_content": "nikon",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-1753365",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "n2000",
+          "_content": "n2000",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-1380",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "35mm",
+          "_content": "35mm",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-664",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "film",
+          "_content": "film",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-587",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "slr",
+          "_content": "slr",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-294",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "b&w",
+          "_content": "bw",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-97327",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "metropolitan museum of art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-59219",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "metropolitan museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-29750",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-1154",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-1874",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-4745",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-607",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-24978",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-1000",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-2959",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "amazon",
+          "_content": "amazon",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-308",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-16148",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "figure",
+          "_content": "figure",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-3685",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "breast",
+          "_content": "breast",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-51851",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "toga",
+          "_content": "toga",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-106",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "nyc",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-440",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "new york",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-347",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "woman",
+          "_content": "woman",
+          "machine_tag": 0
+        },
+        {
+          "id": "38299315-3753633540-881",
+          "author": "38320645@N07",
+          "authorname": "Тощин",
+          "raw": "beauty",
+          "_content": "beauty",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779225,
+      "longitude": -73.962664,
+      "accuracy": "15",
+      "context": "0",
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "CQWTBzJTUb9t64RvGQ",
+      "woeid": "23505566"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/toshchego/3753633540/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

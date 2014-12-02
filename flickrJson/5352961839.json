@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5352961839",
+    "secret": "737b022bb8",
+    "server": "5046",
+    "farm": 6,
+    "dateuploaded": "1294970911",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Basilica of Constantine, Rome_TheMET (5)"
+    },
+    "description": {
+      "_content": "Johann Adam Klein   German,  1792 – 1875\n\n‘The Basilica of Constantine, Rome’\nOil on paper laid down on board\nSigned and dated (lower left): JAKlein den 25 Juny/ 1821\n\nThaw Collection, Jointly Owned by The Metropolitan Museum of Art and The Morgan Library &amp; Museum, Gift of Eugene V. Thaw, 2009\n2009.400.78\n\nFrom the placard: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294970911",
+      "taken": "2010-11-06 10:54:43",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1295064174"
+    },
+    "views": "353",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5352961839-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352961839-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352961839-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352961839-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352961839-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5352961839-668380",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon",
+          "_content": "barbizon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5352961839/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

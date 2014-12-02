@@ -1,0 +1,261 @@
+{
+  "photo": {
+    "id": "5324496672",
+    "secret": "4aa9c7ba87",
+    "server": "5241",
+    "farm": 6,
+    "dateuploaded": "1294163538",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Portrait of Gertrude Stein by Picasso in the Metropolitan Museum of Art, May 2009"
+    },
+    "description": {
+      "_content": "Artist:  Pablo Picasso (Spanish, 1881–1973)\n\nTitle:  Gertrude Stein\n\nDate:  1905–6\n\nMedium:  Oil on canvas\n\nDimensions:  39 3/8 x 32in. (100 x 81.3cm) 47 x 41 x 2 3/4 in. (119.4 x 104.1 x 7 cm) (Frame)\n\nClassification:  Paintings\n\nCredit Line:  Bequest of Gertrude Stein, 1946\n\nAccession Number:  47.106\n\nRights and Reproduction:  © 2010 Estate of Pablo Picasso / Artists Rights Society (ARS), New York\n\n\nDescription\n\n&quot;For me, it is I, and it is the only reproduction of me which is always I, for me.&quot; Thus wrote Gertrude Stein (1874-1946) in 1938. For Stein, this painting was proof of her irrevocable link to Picasso, whom she would come to regard as the greatest artist of her time. She saw the painting as a collaboration between two emerging giants: a twenty-four-year-old Spanish painter and a thirty-two-year-old American writer, two expatriates in Paris, each as yet unrecognized but both destined for greatness.\n\nPicasso had always been drawn to poets-his studio door was marked &quot;Au rendez-vous des poètes&quot;-but Gertrude's appeal was especially strong. As Fernande Olivier wrote, Picasso &quot;was so attracted to Mlle Stein's physical presence that he suggested he paint her portrait, without even waiting to get to know her better.&quot;\n\nThey met after Stein had acquired several of his pictures. Although Picasso usually worked quickly, there were many sittings throughout the winter of 1905-6. The figure remained the same, but the head was repainted at least three times, evolving from a full profile to the nearly frontal view of the final state. \n\nStein and Picasso remained good friends. She and her brother boosted his career enormously, both through direct purchases and by encouraging others-including Ambroise Vollard and Alfred Stieglitz-to do the same. Moreover, countless artists and writers first encountered Picasso's work at Stein's famous Saturday salons. Stein bequeathed the portrait to the Metropolitan in 1946; it was the first painting by Picasso to enter the Museum's collection.\n\nText from:  <a href=\"http://www.metmuseum.org/works_of_art/collection_database/modern_art/gertrude_stein_pablo_picasso/objectview.aspx?collID=21&amp;OID=210008443\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/modern...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294163538",
+      "taken": "2009-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969584"
+    },
+    "views": "594",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5324496672-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-13914",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Picasso",
+          "_content": "picasso",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-12464",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Spanish",
+          "_content": "spanish",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-1180",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "modern",
+          "_content": "modern",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-457260",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "GertrudeStein",
+          "_content": "gertrudestein",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5324496672-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5324496672/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

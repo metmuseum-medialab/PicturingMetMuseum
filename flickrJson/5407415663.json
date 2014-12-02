@@ -1,0 +1,158 @@
+{
+  "photo": {
+    "id": "5407415663",
+    "secret": "7ef911fe74",
+    "server": "5099",
+    "farm": 6,
+    "dateuploaded": "1296576788",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "CamilleMonetOnAGardenBench_TheMET (14)"
+    },
+    "description": {
+      "_content": "Claude Monet   French,  1840-1926\n\nDetail from:  ‘Camille Monet (1847-1879) on a Garden Bench   1873..’\nOil on canvas\nSigned (Lower right): Claude Monet\n\nMonet’s art depends on observations of his environment, and to that extent it is always autobiographical.  In his pictures, one can chart the seasons, the weather, or as here, the look of women’s fashion in 1873.  Monet’s wife, Camille Doncieux, is as easily recognizable as are the mounds of geraniums in the garden of the couple’s rented house in Argenteuil.\nCamille Monet on a Garden Bench is the most enigmatic of Monet’s rare genre pictures.  Numerous interpretations have been offered, yet nothing has been found in the literature or theater of Monet’s time that corresponds to this scene.  The most telling clue may be the biographical: the death of Camille’s father in September 1873.  Camille was an impassive model, but here she telegraphs sadness, while holding a note in her gloved hand.  Later, Monet identified the gentleman as a neighbor—perhaps once who had called to offer his condolences and a consoling bouquet.\n\nThe Walter H. and Leonore Annenberg Collection,  Gift of Walter H. and Leonore Annenberg, 2002,  Bequest of Walter H. Annenberg, 2002\n2002.62.1\n\nFrom the placard:  Metropolitan Museum of Art.\n\nW 281 - 1873\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296576788",
+      "taken": "2011-01-17 10:47:00",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1367485972"
+    },
+    "views": "737",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5407415663-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-66512526",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_33_34",
+          "_content": "bench3334",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-56980011",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_200",
+          "_content": "bench200",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-61119286",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_11_12_40",
+          "_content": "bench111240",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-66438632",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_209",
+          "_content": "bench209",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5407415663-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5407415663/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

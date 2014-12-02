@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "7307445228",
+    "secret": "425f1aec7e",
+    "server": "8151",
+    "farm": 9,
+    "dateuploaded": "1338460868",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Mannikin in the Snow TheMET(4)"
+    },
+    "description": {
+      "_content": "John Singer Sargent  (1856-1925)\n\n<b><i> Mannikin in the Snow /i&gt;  Ca. 1891-93\nOil on canvas\nSargent painted this canvas in the company of his fellow expatriate Edwin Austin Abbey in Fairford Gloucestershire, where the two artists had rented a studio for their work on mural commissions.  As a diversion one day, they arranged a mannequin in the snow and painted oil sketches of it from their studio window.  The results reveal their dissimilar approaches to art.  The critic Royal Cortiissoz recalled that Abbey conjured from the mannequin a lifelike medieval troubadour wearing a cloak and a feathered hat ( in a painting that has not been located); Sargent, instead, recorded the lifeless dummy that stood before his eyes.\nGift of Mrs. Francis Ormond, 1950\n50.130.12\nFrom the placard:  Metropolitan Museum of Art\n</i></b>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338460868",
+      "taken": "2011-02-24 11:36:41",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1339969547"
+    },
+    "views": "327",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157630166553500",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "273",
+          "y": "107",
+          "w": "47",
+          "h": "37",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/7307437160/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7307445228-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7307445228-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7307445228-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7307445228-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7307445228-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7307445228-88777154",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "John Singer Sargentt",
+          "_content": "johnsingersargentt",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7307445228/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

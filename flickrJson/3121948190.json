@@ -1,0 +1,160 @@
+{
+  "photo": {
+    "id": "3121948190",
+    "secret": "c46ce2bc2b",
+    "server": "3103",
+    "farm": 4,
+    "dateuploaded": "1229740813",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "4d5ef76f89",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Madame Jean Baptiste Nicolet (Anne Antoinette Desmoulins, 1743–1817)"
+    },
+    "description": {
+      "_content": "Jean Baptiste Greuze (French, 1725–1805)\n\nTitle\nMadame Jean Baptiste Nicolet (Anne Antoinette Desmoulins, 1743–1817)\n\nDate\nprobably late 1780s\n\nMedium\nOil on wood\n\nDimensions\n25 1/4 x 21 in. (64.1 x 53.3 cm)\n\nCredit Line\nGift of Colonel and Mrs. Jacques Balsan, 1955\n\nAccession Number\n55.205.2\n\nThe sitter was a well-known actress. In the 1770s, she was the leading lady of the Théâtre Nicolet, which specialized in buffoonery and broad comedy. Greuze, who painted Madame Nicolet several times, probably executed this portrait in the late 1780s when, with her husband she was co-manager of the theater."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1229740813",
+      "taken": "2008-08-09 15:35:13",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1264206621"
+    },
+    "views": "1695",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3121948190-4201",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Jean",
+          "_content": "jean",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-172161",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Baptiste",
+          "_content": "baptiste",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-1097235",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Greuze",
+          "_content": "greuze",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-278",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-1500",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3121948190-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3121948190/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

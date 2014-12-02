@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "5381551937",
+    "secret": "b844c1e116",
+    "server": "5046",
+    "farm": 6,
+    "dateuploaded": "1295814850",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "MichaelAngeloAndEmmaClaraPeale_TheMET(1)"
+    },
+    "description": {
+      "_content": "Rembrandt Peale  (1778-1860)\n\nMichael Angelo and Emma Clara Peale, ca 1826\nOil on canvas\n\nPeale’s studies of French Neoclassical painting during a sojourn in Paris (1808-10) helped him to break free of the British eighteenth-century conventions he had learned from his portraitist father, Charles Wilson Peale (1741-1827). The son’s resplendent palette, along with his ability to render warm flesh tones, manipulate light, and emphasize textures, suggests that while in France, he had studied not only the works of modern painters but also paintings by Rubens, van Dyck, and other Baroque masters.  Michael Angelo (1814-1833) and Emma Clara (1816-1839) were the youngest of the artist’s nine children.\n\nPurchase, Dodge Fund, Dale T. Johnson Fund, and The Douglass Foundation, The Overbrook Foundation, Mr. and Mrs. Max N. Berry, Barbara G. Fleischman, Mrs. Daniel Fraad, Mr. and Mrs. Peter Lunder, Mr. and Mrs. Frank Martucci, and Erving and Joyce Wolf Gifts, 2000\n(2000.151)\n\nFrom the placard:  Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1295814850",
+      "taken": "2011-01-17 12:05:58",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1296016379"
+    },
+    "views": "675",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "8"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157625890244932",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "216",
+          "y": "153",
+          "w": "113",
+          "h": "84",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5382161940/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5381551937-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5381551937-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5381551937-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5381551937-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5381551937-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5381551937/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

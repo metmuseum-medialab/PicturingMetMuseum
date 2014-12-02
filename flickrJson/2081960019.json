@@ -1,0 +1,341 @@
+{
+  "photo": {
+    "id": "2081960019",
+    "secret": "8751335b97",
+    "server": "2050",
+    "farm": 3,
+    "dateuploaded": "1196648375",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Terracotta Bell Krater with a Dionysiac Scene in the Study Collection in the Metropolitan Museum of Art, Sept. 2007"
+    },
+    "description": {
+      "_content": "Title:  Terracotta bell-krater (mixing bowl)\n\nMedium; Technique:  Terracotta; red-figure\n\nCulture:  Etruscan, Faliscan\n\nPeriod:  Classical\n\nDate:  early 4th century B.C.\n\nDimensions:  H. 16 3/8 in. (41.6 cm) diameter 19 7/16 in. (49.4 cm)\n\nClassification:  Vases\n\nCredit Line:  Purchase by subscription, 1896\n\nAccession Number:  96.18.37\n\n\nDescription:\n\nObverse, Dionysos with satyrs and maenads\nReverse, maenad between Pan and satyr\n\nAs early Lucanian vases show the effect of Athenian vase-painting on South Italian artists, so this complex and carefully executed work reflects an early stage of Athenian influence in Etruria.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/terracotta_bell_krater_mixing_bowl//objectview.aspx?OID=130007037&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1196648375",
+      "taken": "2007-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1336883774"
+    },
+    "views": "1694",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-2081960019-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-18596",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pottery",
+          "_content": "pottery",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-5458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "terracotta",
+          "_content": "terracotta",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-18592",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "vase",
+          "_content": "vase",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-200830",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "krater",
+          "_content": "krater",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-57766",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "satyr",
+          "_content": "satyr",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-500129",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "maenad",
+          "_content": "maenad",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-46984",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "mythology",
+          "_content": "mythology",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-132567",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Etruscan",
+          "_content": "etruscan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-12878268",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "SouthItalian",
+          "_content": "southitalian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-19957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Classical",
+          "_content": "classical",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-2779461",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "RedFigure",
+          "_content": "redfigure",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-630338",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Dionysos",
+          "_content": "dionysos",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-4541",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "god",
+          "_content": "god",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-2081960019-15447",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Bacchus",
+          "_content": "bacchus",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/2081960019/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,147 @@
+{
+  "photo": {
+    "id": "6816877799",
+    "secret": "e15533effa",
+    "server": "7164",
+    "farm": 8,
+    "dateuploaded": "1328364723",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Feast of Acheloüs _TheMET(5)"
+    },
+    "description": {
+      "_content": "Peter Paul Rubens\nFlemish, Siegen 1577-1640  Antwerp\nAnd\nJan Brueghel the Elder\nFlemish, Brussels 1568-12625 Antwerp \n\n<b><i> The Feast of Acheloüs </i></b>\nOil on wood\n\nThis large panel of about 1615 is one of the most impressive known collaborations between Rubens and his older colleague, Jan Brueghel.  Rubens conceived and painted the figure group; throughout the rest of the picture Brueghel was in his two elements of landscape and still life painting.  A “cabinet picture” like this one would have been made for a collector who could appreciate clever invention, fine execution, the quotations of classical sculpture in the nearest figures at the table, and Ruben’s retelling of the tale found in Ovid’s “Metamorphoses.”  Theseus ( in red) and his companions were returning from Crete to Athens when they encountered the River Achelous.   The river-god himself sets a banquet before them and explains that a distant island is his lost lover Perimele, held forever in his embrace.  Except for young and reckless “Pirithous”, the story of the miracle “moved the hearts of all.”\n\nGift of Alvin and Irwin Untermeyer, in memory of their parents, 1945\n45.141\n\n\nFrom the placard: Metropolitan Museum\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1328364723",
+      "taken": "2011-09-25 12:03:34",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1328373507"
+    },
+    "views": "516",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629169660671",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "102",
+          "y": "153",
+          "w": "51",
+          "h": "40",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6814706975/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629169679451",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "198",
+          "y": "159",
+          "w": "61",
+          "h": "44",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6816872929/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6816877799-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6816877799-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6816877799-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6816877799-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6816877799-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6816877799-83800171",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_237",
+          "_content": "bench237",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6816877799/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

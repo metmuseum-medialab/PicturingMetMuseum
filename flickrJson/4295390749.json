@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "4295390749",
+    "secret": "e926011daa",
+    "server": "4009",
+    "farm": 5,
+    "dateuploaded": "1264189198",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "1f02604832",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "The Accommodations of Desire"
+    },
+    "description": {
+      "_content": "Salvador Dalí (Spanish, 1904–1989)\nThe Accommodations of Desire\nDate 1929\nMedium Oil and cut-and-pasted printed paper on cardboard\nDimensions 8 3/4 x 13 3/4 in. (22.2 x 34.9 cm)\nClassification Paintings\nCredit Line Jacques and Natasha Gelman Collection, 1998\nAccession Number 1999.363.16\nRights and Reproduction© 2003 Salvador Dalí, Gala-Salvador Dalí Foundation / Artists Rights Society (ARS), New York\n\nThe Spanish-born artist Salvador Dalí was officially allied with Surrealism from 1929 to 1941, and even afterward his work continued to reflect the influence of Surrealist thought and methodology. His flamboyance, flair for drama and self-promotion, and hyperactive imagination reinvigorated the movement and its public popularity. Dalí, who was given to hallucinations and paranoiac visions, cultivated these outrageous subjects for his paintings, rendering them so meticulously that they were unsettling in their clinical matter-of-factness. Such pictures exemplified the Surrealist preoccupation with dreams and the unconscious.\n\n\nPainted in the summer of 1929, &quot;The Accommodations of Desire&quot; is a small gem that deals with Dalí's sexual anxieties over a love affair with an older, married woman. The woman, Gala, then the wife of the Surrealist poet Paul Éluard, became Dalí's life-long muse and mate. In this picture, which Dalí painted after taking a walk alone with Gala, he included seven enlarged pebbles on which he envisioned what lay ahead for him: &quot;terrorizing&quot; lions' heads (not so &quot;accommodating&quot; to his &quot;desires&quot; as the title of the painting facetiously suggests), as well as a toupee and a colony of ants (a symbol of decay). Also depicted are various vessels (one in the shape of a woman's head) and three figures embracing on a platform. Dalí did not paint the lion heads but, rather, cut them out from what must have been an illustrated children's book, slyly matching the latter's detailed style with his own. These collaged elements are virtually indistinguishable from the super-saturated color and painstaking realism of the rest of the composition, startling the viewer into questioning the existence of the phenomena recorded and of the representation as a whole."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264189198",
+      "taken": "2009-05-22 13:44:39",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1347152015"
+    },
+    "views": "1199",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4295390749-229008",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "The",
+          "_content": "the",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-61630",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Accommodations",
+          "_content": "accommodations",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-18224",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Salvador",
+          "_content": "salvador",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-92343",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Dalí",
+          "_content": "dalí",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-116951",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1929",
+          "_content": "1929",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4295390749-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4295390749/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

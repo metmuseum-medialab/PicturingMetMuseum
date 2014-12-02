@@ -1,0 +1,269 @@
+{
+  "photo": {
+    "id": "4405289199",
+    "secret": "1de8ce33c9",
+    "server": "4059",
+    "farm": 5,
+    "dateuploaded": "1264145927",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Virgin and Child in a Niche by a Netherlandish Painter in the Metropolitan Museum of Art, September 2008"
+    },
+    "description": {
+      "_content": "Artist:  Netherlandish Painter, about 1500\n\nTitle:  Virgin and Child in a Niche\n\nDate:  ca. 1500\n\nMedium:  Oil on wood\n\nDimensions:  23 x 12 1/8 in. (58.4 x 30.8 cm)\n\nClassification:  Paintings\n\nCredit Line:  Marquand Collection, Gift of Henry G. Marquand, 1889\n\nAccession Number:  89.15.24\n\nSignatures, Inscriptions, and Markings:  Inscribed: (on canopy) DOMVS.dEI.EST.ET.PORTA.C[O]ELI ([This is none other than] the house of God and [this is] the gate of heaven [Genesis 28:17].); (on step) IPSA EST [MVLIER] QVAM PR[A]EPARAVIT DOM[INV]S FILIO D[OMI]NI MEI (Let the same be [the woman] whom the Lord hath appointed out for my master's son [Genesis 24:44].)\n\nGallery Label:  The source for the figures of the Virgin and Child is Jan van Eyck's &quot;Virgin and Child at the Fountain&quot; (Koninklijk Museum voor Schone Kunsten, Antwerp), which also inspired several other works, including Gerard David's &quot;Virgin and Child with Four Angels,&quot; which hangs in the next gallery.\n\nFormerly attributed to Jan van Eyck as well as to Petrus Christus, this panel is now known to have been painted about 1500, at a moment of renewed interest in Van Eyck's art.\n\nText from: <a href=\"http://www.metmuseum.org/works_of_art/collection_database/european_paintings/virgin_and_child_in_a_niche_netherlandish_painter_about_1500/objectview.aspx?collID=11&amp;OID=110000723\" rel=\"nofollow\">www.metmuseum.org/works_of_art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1264145927",
+      "taken": "2008-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968885"
+    },
+    "views": "358",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4405289199-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-7486897",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NorthernRenaissance",
+          "_content": "northernrenaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-11760",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Virgin",
+          "_content": "virgin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-3840",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Child",
+          "_content": "child",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-10859",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Christian",
+          "_content": "christian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-15527",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Latin",
+          "_content": "latin",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4405289199-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4405289199/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "4706770524",
+    "secret": "9ee5b7e33e",
+    "server": "4027",
+    "farm": 5,
+    "dateuploaded": "1276706402",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "12671646@N07",
+      "username": "qpkarl",
+      "realname": "Karl Doesn't Like New Flickr",
+      "location": "USA",
+      "iconserver": "2949",
+      "iconfarm": 3,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "LNYC2010met_0279"
+    },
+    "description": {
+      "_content": "Gaston Lachaise (American, born in France, 1882–1935)\nGeorgia O'Keeffe\n1927\nMarble\nH. 23, W. 8-1/2, D. 13 inches (58.4 x 21.6 x 33 cm.)\nSculpture\nAlfred Stieglitz Collection, 1949\nAccession Number\n49.92.4\n\nDescription\nThis bust of O'Keeffe (1887–1986) is one of more than seventy-five portraits Lachaise created in the 1920s, many of famous figures in the art and literary worlds. In 1927 he also sculpted a portrait of Alfred Stieglitz, O'Keeffe's husband and the gallery owner who showed Lachaise's work in New York that year.\n\n<b>NOTE:</b> Look &quot;<a href=\"http://farm5.static.flickr.com/4054/4577026379_ec438d4f69_o.jpg\" rel=\"nofollow\">wall-eyed</a>&quot; at the top pair or &quot;<a href=\"http://farm5.static.flickr.com/4058/4577026407_895e8bfdd2_o.jpg\" rel=\"nofollow\">cross-eyed</a>&quot; at the bottom pair to get a 3D image from the fused pictures. <a href=\"http://farm6.static.flickr.com/5042/5284135743_b8a35ae0b1_z.jpg\" rel=\"nofollow\">Another illustration</a>.\n\nHere's a <a href=\"http://www.flickr.com/photos/12671646@N07/6076850770/in/photostream/\">helpful tip</a> for viewing stereo pairs.\n\nIf you'd like to browse a bit, please enjoy a somewhat <a href=\"http://www.flickriver.com/photos/12671646@N07/random/\" rel=\"nofollow\">random sampling</a> of my photos."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1276706402",
+      "taken": "2010-06-15 23:27:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1382950490"
+    },
+    "views": "326",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "12650316-4706770524-2554",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "3d",
+          "_content": "3d",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-10914524",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "canonpowershota460",
+          "_content": "canonpowershota460",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-5392",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-440",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "newyork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-109",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "newyorkcity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-12472",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereo",
+          "_content": "stereo",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-2551",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereogram",
+          "_content": "stereogram",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-51884",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereography",
+          "_content": "stereography",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-35877",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereograph",
+          "_content": "stereograph",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-315466",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereographic",
+          "_content": "stereographic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-2553",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereophotography",
+          "_content": "stereophotography",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-170205",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscope",
+          "_content": "stereoscope",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-2550",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopic",
+          "_content": "stereoscopic",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-181615",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "stereoscopy",
+          "_content": "stereoscopy",
+          "machine_tag": 0
+        },
+        {
+          "id": "12650316-4706770524-4074",
+          "author": "12671646@N07",
+          "authorname": "qpkarl",
+          "raw": "unitedstates",
+          "_content": "unitedstates",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779436,
+      "longitude": -73.963522,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/12671646@N07/4706770524/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

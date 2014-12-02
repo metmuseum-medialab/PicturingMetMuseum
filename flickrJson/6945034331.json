@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "6945034331",
+    "secret": "803ef68640",
+    "server": "7180",
+    "farm": 8,
+    "dateuploaded": "1330645086",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "KingLear_Act1_Scene1_TheMET(13)"
+    },
+    "description": {
+      "_content": "Edwin Austin Abbey\n(1852-1911)\nDetail from: <b><i> King Lear, Act 1 Scene 1 </i></b>\n1898\nOil on canvas\nCordelia, the heroine of Shakespeare’s tragedy <i> King Lear </i>, stands at the center of this composition, having just been renounced by her father in the play’s opening scene.   King Lear is seen exiting at the right, accompanied by his attendants.  While the sympathetic king of France bends to kiss her hand, Cordelia confronts her elder sisters, Regan and Goneril, who have alienated their father from her.  Abbey, born in Philadelphia, settled in England in 1882 and responded to the artistic influence of his English contemporaries, such as Sir Lawrence Alma-Tadema\nGift of George A. Hearn, 1913\n13.140\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1330645086",
+      "taken": "2011-02-24 11:38:40",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1405087781"
+    },
+    "views": "574",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6945034331-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945034331-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945034331-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945034331-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945034331-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6945034331-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6945034331/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

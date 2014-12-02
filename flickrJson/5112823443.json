@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "5112823443",
+    "secret": "04e094b616",
+    "server": "1179",
+    "farm": 2,
+    "dateuploaded": "1283748644",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ovid Among the Scythians by Delacroix in the Metropolitan Museum of Art, July 2010"
+    },
+    "description": {
+      "_content": "Artist:  Eugène Delacroix (French, 1798–1863)\n\nTitle:  Ovid among the Scythians\n\nDate:  1862\n\nMedium:  Oil on paper laid down on wood\n\nDimensions:  12 5/8 x 19 3/4 in. (32.1 x 50.2 cm)\n\nClassification:  Paintings\n\nCredit Line:  Wrightsman Fund, in honor of Philippe de Montebello, 2008\n\nAccession Number:  2008.101\n\nOn View \n\n   \nGallery Label:\n\nThis is one of a number of late easel pictures in which Delacroix returns to themes previously treated in decorative programs. Delacroix may have first contemplated the subject of &quot;Ovid among the Scythians&quot; around 1835; his earliest treatment of it was as a pendentive in his decoration for the Palais Bourbon, Paris. \n\nWhen the largest version of &quot;Ovid among the Scythians&quot; (now in the National Gallery, London) was exhibited at the 1859 Paris Salon, the unusual composition and strange scale of figures provoked criticism in the press, even among Delacroix's admirers (Baudelaire and Gautier, among others), although artists like Edgar Degas were deeply impressed. In this variant, Delacroix diverged from the Salon picture in several respects, integrating figures and landscape more closely. \n\nIn A.D. 8 Ovid was banished from Rome to the coast of the Black Sea (present day Constant, Romania). He found the Scythian custom of drinking mare's milk unusual. Delacroix took this episode from the French writer Chateaubriand.\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/ovid_among_the_scythians_eugene_delacroix//objectview.aspx?OID=110004609&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283748644",
+      "taken": "2010-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968022"
+    },
+    "views": "566",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5112823443-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-169090",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Delacroix",
+          "_content": "delacroix",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-97989",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Scythian",
+          "_content": "scythian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-356779",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Romanticism",
+          "_content": "romanticism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-1695",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "landscape",
+          "_content": "landscape",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5112823443-325",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "horse",
+          "_content": "horse",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5112823443/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

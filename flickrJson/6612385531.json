@@ -1,0 +1,155 @@
+{
+  "photo": {
+    "id": "6612385531",
+    "secret": "a1f7b3b4da",
+    "server": "7169",
+    "farm": 8,
+    "dateuploaded": "1325426543",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ViewNearRouen_TheMET(1)"
+    },
+    "description": {
+      "_content": "Richard Parkes Bonington\nEnglish, 1802-1828\n\n<b><i>View Near Rouen </i></b>  ca. 1825\nOil on millboard\nBorn in England, Bonington moved to France with his parents in 1818 and enrolled in the Paris studio of Baron Antoine-Jean Gros in 1820.  His painting thus belongs to the history of French art.  In fact, his works rank among the rarest and most beautiful of early French Romanticism: rare because Bonington died just days before his twenty-sixth birthday; beautiful because of the immediacy of his vision, the freshness of his color, and the confidence of his technique.\nThis small view new Rouen, which was painted outdoors from an island in the river Seine, was probably made in the summer of 1825 while Bonington, who had already earned a medal at the previous year’s Salon, was sharing a studio in Paris with Eugène Delacroix.  This picture was acquired from a direct descendant of its first owner; it is impeccably preserved and still has its original frame.\n\nPurchase, Gift of Joanne Toor Cummings, by exchange, 2001\n2001.45\nFrom the placard :  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6612385531&amp;size=large\" rel=\"nofollow\">View On Black</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1325426543",
+      "taken": "2011-09-25 10:22:10",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1325458948"
+    },
+    "views": "532",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157628663192215",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "145",
+          "y": "212",
+          "w": "88",
+          "h": "67",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6612376791/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157628663211297",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "254",
+          "y": "207",
+          "w": "67",
+          "h": "55",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6612381309/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6612385531-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-7278",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Arts",
+          "_content": "arts",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-81321961",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_233",
+          "_content": "bench233",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6612385531-1025483",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bonington",
+          "_content": "bonington",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6612385531/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,77 @@
+{
+  "photo": {
+    "id": "7288870862",
+    "secret": "6e9267c328",
+    "server": "7088",
+    "farm": 8,
+    "dateuploaded": "1338231997",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "LaBerceuse_TheMET(27)"
+    },
+    "description": {
+      "_content": "[This photograph was Identify the Painter (59) ]\n...\n.Vincent van Gogh   Dutch, 1853-1890\n\nDetail from: <b><i>La Berceuse (Woman Rocking a Cradle;  Augustine-Alix Pellicot Roulin, 1851-1930)’ </i></b> 1889\nOil on canvas\nSigned and dated (on arm of chair): Vincent / arles 89;\nInscribed (lower right): La / Berceuse\n\nOf the five versions of Van Gogh’s portrait of Augustine Roulin, wife of his friend the postmaster of Arles, the present canvas is the one the sitter chose for herself.  Van Gogh remarked that “she had a good eye and took the best.”  He began the portraits just before his breakdown in Arles, in December 1888, and completed them in early 1889.  As he worked on the successive versions, the composition ( which he titled La Berceuse, meaning “lullaby, or woman who rocks the cradle,” indicated by the rope the sitter holds) took on added meaning.  As he revealed in his letters, the maternal image became the locus of literary and symbolic associations, ranging from the writing of Dutch and French novelists to the consoling music of Berlioz and Wagner.  Van Gogh envisioned La Berceuse as the center of a triptych, flanked by Sunflowers, like candelabra.\n\nThe Walter H. and Leonore Annenberg Collection,\nGift of Walter H. and Leonore Annenberg, 1996,\nBequest of Walter H. Annenberg, 2002\n1996.435\n\nFrom the placard: Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1338231997",
+      "taken": "2011-02-24 15:25:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1338342973"
+    },
+    "views": "329",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": []
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7288870862/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

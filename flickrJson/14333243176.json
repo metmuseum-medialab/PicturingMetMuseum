@@ -1,0 +1,136 @@
+{
+  "photo": {
+    "id": "14333243176",
+    "secret": "592fc8ed58",
+    "server": "3853",
+    "farm": 4,
+    "dateuploaded": "1402023188",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "fd26286fa3",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "63977172@N04",
+      "username": "Allan482",
+      "realname": "Allan",
+      "location": "",
+      "iconserver": "3415",
+      "iconfarm": 4,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "New York - Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": "Roman Sculpture Court\n\nArtemis and the Stag (Roman, 1st century BC – 1st century AD)"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1402023188",
+      "taken": "2014-05-30 20:17:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1410838788"
+    },
+    "views": "345",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "63945033-14333243176-84809732",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fuji 18mm",
+          "_content": "fuji18mm",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-440",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-351",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-202756",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "met museum",
+          "_content": "metmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-1154",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-97214302",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fuji XE1",
+          "_content": "fujixe1",
+          "machine_tag": 0
+        },
+        {
+          "id": "63945033-14333243176-86522443",
+          "author": "63977172@N04",
+          "authorname": "Allan482",
+          "raw": "Fujinon XF 18mm",
+          "_content": "fujinonxf18mm",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/63977172@N04/14333243176/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

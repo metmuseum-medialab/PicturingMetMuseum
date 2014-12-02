@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "4376447447",
+    "secret": "06c93d2f11",
+    "server": "2742",
+    "farm": 3,
+    "dateuploaded": "1266792177",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "2b4bc2be5c",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Christmas-Time, The Blodgett Family, 1864"
+    },
+    "description": {
+      "_content": "Eastman Johnson (1824–1906)\nTitle Christmas-Time, The Blodgett Family\nDate1864\nMedium Oil on canvas\nDimensions 30 x 25 in. (76.2 x 63.5 cm)\nCredit Line Gift of Mr. and Mrs. Stephen Whitney Blodgett, 1983\nAccession Number1983.486"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1266792177",
+      "taken": "2010-02-13 15:44:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1270027964"
+    },
+    "views": "841",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4376447447-29435",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "eastman",
+          "_content": "eastman",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4376447447-7399",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "johnson",
+          "_content": "johnson",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4376447447-502132",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1864",
+          "_content": "1864",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4376447447-82",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "christmas",
+          "_content": "christmas",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4376447447/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

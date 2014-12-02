@@ -1,0 +1,231 @@
+{
+  "photo": {
+    "id": "6959630235",
+    "secret": "bc9381f294",
+    "server": "7190",
+    "farm": 8,
+    "dateuploaded": "1331061527",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "c6be7353fe",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "30411461@N05",
+      "username": "Primo Iglesias",
+      "realname": "Primo Iglesias",
+      "location": "",
+      "iconserver": "3732",
+      "iconfarm": 4,
+      "path_alias": "ficionado"
+    },
+    "title": {
+      "_content": "A Day at The Metropolitan Museum of Art"
+    },
+    "description": {
+      "_content": "The Four Trees, 1891\nOil on canvas\nBy Claude Monet\nFrench, 1840-1926\nAccession #: 29.100.110"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1331061527",
+      "taken": "2012-02-23 17:40:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1331140914"
+    },
+    "views": "178",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "30406121-6959630235-392941",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "The Metropolitan Museum of Art",
+          "_content": "themetropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-53005",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-1154",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-607",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-31596119",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "“metropolitan_museum”",
+          "_content": "“metropolitanmuseum”",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-109",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "New York City",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-63586",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "The Met",
+          "_content": "themet",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-6337",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Fine Art",
+          "_content": "fineart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-29819",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "gotham",
+          "_content": "gotham",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-106",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-7894",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "5th avenue",
+          "_content": "5thavenue",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-79338",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "Upper East Side",
+          "_content": "uppereastside",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-1118104",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "works of art",
+          "_content": "worksofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "30406121-6959630235-6610486",
+          "author": "30411461@N05",
+          "authorname": "Primo Iglesias",
+          "raw": "european_paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.77877,
+      "longitude": -73.963351,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/ficionado/6959630235/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

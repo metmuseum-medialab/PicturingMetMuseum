@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "7097586093",
+    "secret": "f1d7be94a0",
+    "server": "5327",
+    "farm": 6,
+    "dateuploaded": "1334967133",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "StillLifeWithSilver_TheMET(14)"
+    },
+    "description": {
+      "_content": "Alexandre Franҫois Desportes\nFrench, Champigneul 1661-1743 Paris\n\nDetail from: <b><i> Still Life with Silver </i></b>\nOil on canvas\nSigned (lower right): Desportes\nTrained as a painter of animals and favored by both Louis XIV (1638-1715) and Louis XV (1710-1774), Desportes achieved fame not only for his hunting scenes but also for his opulent still lifes.  This picture, possibly painted in the late 1720s, belongs to a type showing  a buffet laden with an array of objects in silver, porcelain, and semi-precious  stone as well as fruit—such as might have been displayed for a banquet.  The objects are likely to record actual pieces owned by the patron: the dragon-handled tureen and vermeil salvers are in the Régence style (ca. 1715-23).\nThe corners of the picture were cut, probably so that the canvas could be set into wood paneling; the current corners are modern.\nPurchase, Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively, M.D., 1964\n64.315\n\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1334967133",
+      "taken": "2011-02-25 13:09:18",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1334967926"
+    },
+    "views": "240",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7097586093-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7097586093-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7097586093-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7097586093-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7097586093-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7097586093/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

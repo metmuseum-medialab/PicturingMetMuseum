@@ -1,0 +1,245 @@
+{
+  "photo": {
+    "id": "5277555663",
+    "secret": "d9e04c9536",
+    "server": "5209",
+    "farm": 6,
+    "dateuploaded": "1292871544",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of the Figure of the Nile by Volpato in the Metropolitan Museum of Art, November 2009"
+    },
+    "description": {
+      "_content": "Title:  The River Nile\n\nArtist:   Giovanni Volpato (ca. 1735–1803)\n\nCulture:  Italian (Rome)\n\nDate:  ca. 1785–95\n\nMedium:  Hard-paste biscuit porcelain\n\nDimensions:  Overall (confirmed): 11 7/8 x 23 1/8 x 11 5/8 in. (30.2 x 58.7 x 29.5 cm)\n\nClassification:  Ceramics-Porcelain\n\nCredit Line:  Purchase, The Isak and Rose Weinman Foundation Inc. Gift, 2001\n\nAccession Number:  2001.456\n\nLabel:\n\nIn 1785 Giovanni Volpato established a manufactory in Rome for the production of biscuit-porcelain sculpture. This group personifying the river Nile was the most ambitious work made at Volpato's factory, as well as the most expensive, as shown by a surviving price list. Most of the sculptural groups made under Volpato's supervision were reproductions of antique marbles, the biscuit- porcelain medium being ideally suited to this purpose. The River Nile is a reduction of a colossal Roman marble at the Vatican, much admired in Volpato's time, and is remarkably faithful to the marble original; only the base has been simplified, as was required by the change in scale. The composition is an allegory of fecundity. A cornucopia is placed prominently near the reclining Nile, and the sixteen small children who cavort on and about the figure of the river symbolize the sixteen units of measurement, known as cubits, by which the river rose annually, fertilizing the surrounding areas. The complexity of the composi- tion, due in large part to the incorporation of the children, accounted for the high price of the biscuit group, of which this is the only known example.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_sculpture_and_decorative_arts/the_river_nile_giovanni_volpato//objectview.aspx?OID=120027702&amp;collID=12&amp;dd1=12\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1292871544",
+      "taken": "2009-11-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969649"
+    },
+    "views": "257",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5277555663-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-48795",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2009",
+          "_content": "2009",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-2871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Italian",
+          "_content": "italian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-56661",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Neoclassicism",
+          "_content": "neoclassicism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5277555663-51010",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "porcelain",
+          "_content": "porcelain",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5277555663/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

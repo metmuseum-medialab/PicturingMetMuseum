@@ -1,0 +1,176 @@
+{
+  "photo": {
+    "id": "3687962082",
+    "secret": "99eed928b6",
+    "server": "3640",
+    "farm": 4,
+    "dateuploaded": "1246731364",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "a1e2f1a934",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "The Honorable Henry Fane (1739–1802) with His Guardians, Inigo Jones and Charles Blair, 1761–66"
+    },
+    "description": {
+      "_content": "The Honorable Henry Fane (1739–1802) with His Guardians, Inigo Jones and Charles Blair, 1761–66\nSir Joshua Reynolds (British, 1723–1792)\nOil on canvas\n\n100 1/4 x 142 in. (254.6 x 360.7 cm)\nGift of Junius S. Morgan, 1887 (87.16)\n\nSir Joshua Reynolds was England's most important Georgian artist. His style was formed while he was apprenticed to the portraitist Thomas Hudson (1701–1779), and during a stay of several years' duration in Italy, where he studied antique sculpture and pictures by the old masters. Returning to London in 1753, he became the city's busiest fashionable painter. In 1768, he was appointed first president of the Royal Academy; in 1784, principal painter to George III. Reynolds overcame an inadequate grasp of anatomy and perspective with impetuous handling, sonorous color, and a profound understanding of the rhetorical possibilities of pose and gesture.\n\nThe conversation piece came into vogue in Britain in the second quarter of the eighteenth century. A conversation, as it was then called, was a portrait of relatives or friends, at home and at leisure, engaged, as here, in some convivial activity. The genre evolved from seventeenth-century Dutch and contemporary French genre paintings. Small &quot;conversations,&quot; featuring figures twelve to fifteen inches tall, were widely available for modest prices. The more popular artists moved to larger towns and eventually to London, where they painted portraits of various formats to the scale of life. Leaving royal group portraits aside, Thomas Fane, the younger son of the eighth earl of Westmoreland, is the principal subject of what seems to be the largest of conversation pieces, a vehicle for the display of the young Reynolds's exceptional talent.\n\n<i>Henry Fane, (4 May 1739 – 4 June 1802) MP for Lyme Regis 1772–1802.\n\nThe younger son of Thomas Fane, 8th Earl of Westmorland. He was a Clerk to HM Treasury from 7 December 1757 until 29 August 1763,[1] but was described as &quot;very idle and careless and spending much time in the country&quot;.[2]\n\nIn January 1772 he became Keeper of the King's Private Roads, Gates and Bridges.\n\nFane's father gave him Fulbeck Hall in 1783. In 1784 Fane and his wife occupied Fulbeck and enlarged and refurnished it, adding a new north wing.[3]\n\nOn January 12, 1778 Fane married Anne (d. January 19, 1838), the daughter of Edward Buckley Batson, a banker. The couple had 14 chidren including:\n\n    * General Sir Henry Fane GCB.\n    * Vere Fane, MP.\n    * General Mildmay Fane.\n    * Harriet, Mrs Arbuthnot.[4]\n    * Robert George Cecil Fane\n\nFane also had a natural child before his marriage:\n\n    * Sir Henry Chamberlain, 1st Baronet.\n</i>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1246731364",
+      "taken": "2009-06-28 11:37:02",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1294020310"
+    },
+    "views": "3645",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3687962082-33211",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Sir",
+          "_content": "sir",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-4822",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Joshua",
+          "_content": "joshua",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-99626",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Reynolds",
+          "_content": "reynolds",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-12623",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "henry",
+          "_content": "henry",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-317097",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "fane",
+          "_content": "fane",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-212971",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "inigo",
+          "_content": "inigo",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-2208",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "jones",
+          "_content": "jones",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-8782",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "charles",
+          "_content": "charles",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-18609",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "blair",
+          "_content": "blair",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3687962082-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3687962082/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

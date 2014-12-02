@@ -1,0 +1,317 @@
+{
+  "photo": {
+    "id": "4986488798",
+    "secret": "1c17a1ab83",
+    "server": "4151",
+    "farm": 5,
+    "dateuploaded": "1283688111",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Eagle-Headed Hilt in the Metropolitan Museum of Art, April 2010"
+    },
+    "description": {
+      "_content": "Eagle-headed Hilt\nCopper alloy\nByzantine\nMade 300-400\n\nAccession Number: 63.185.2\n\nRoman, and later, Byzantine officials carried large swords that terminated in eagle-headed hilts.  On this small sword, the hilt has a guard displaying a bust of the goddess Athena.  The combination of motifs identifies that work as belonging to someone loyal to the classical heritage.\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283688111",
+      "taken": "2010-04-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310968071"
+    },
+    "views": "276",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-4986488798-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-9871",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medieval",
+          "_content": "medieval",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-57916",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "LateAntique",
+          "_content": "lateantique",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-17110",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sword",
+          "_content": "sword",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-189438",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "hilt",
+          "_content": "hilt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-17112",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copper",
+          "_content": "copper",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-37507",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Athena",
+          "_content": "athena",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-41206",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Minerva",
+          "_content": "minerva",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-7290",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-12435",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bust",
+          "_content": "bust",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-4399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "eagle",
+          "_content": "eagle",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-4986488798-594",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "bird",
+          "_content": "bird",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/4986488798/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

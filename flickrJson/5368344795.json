@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5368344795",
+    "secret": "0dde420e78",
+    "server": "5042",
+    "farm": 6,
+    "dateuploaded": "1295403420",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Bouquet Of Sunflowers_TheMET (4)"
+    },
+    "description": {
+      "_content": "Claude Monet  French, 1840 – 1926\n\nDetail from: <b><i>Bouquet of Sunflowers</i></b>   1881\nOil on canvas\nSigned and dated (upper right): Claude Monet 81\n\nThe sunflowers harvested for this lush bouquet grew flanking the steps that led down to Monet's garden at Vétheuil. He exhibited this painting in 1882 at the seventh Impressionist exhibition, where the &quot;brio and daring&quot; of his technique elicited the critics' admiration. \n\nVincent van Gogh probably saw Monet's &quot;Sunflowers&quot; in Paul Durand-Ruel's gallery when he arrived in Paris in early 1886. In a letter to his brother, Theo, in November 1888, Van Gogh recalled Monet's work in relation to his own &quot;Sunflowers&quot; series: &quot;Gauguin was telling me the other day that he had seen a picture by Claude Monet of sunflowers in a large Japanese vase, very fine, but—he likes mine better. I don't agree.&quot;\n\nH.O. Havemeyer Collection\nBequest of Mrs. H. O. Havemeyer, 1929\n29.100.107\n\n\nFrom the placard:.  Metropolitan Museum of Art\n\nW 628 - 1881 Detail "
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1295403420",
+      "taken": "2011-01-17 10:42:37",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1392138540"
+    },
+    "views": "974",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5368344795-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5368344795-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5368344795-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5368344795-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5368344795-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5368344795-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5368344795/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

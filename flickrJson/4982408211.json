@@ -1,0 +1,153 @@
+{
+  "photo": {
+    "id": "4982408211",
+    "secret": "a410299feb",
+    "server": "4104",
+    "farm": 5,
+    "dateuploaded": "1284303272",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Johann Joachim Winckelmann _TheMET (4)"
+    },
+    "description": {
+      "_content": "Anton Raphael Mengs  German, 1728-1779\n\n‘Johann Joachim Winckelmann (1717-1768)’  Shortly after 1755\nOil on canvas\nInscribed (on spine of book, in Greek):ILIAD\n\nOne of the most influential writers on art and archaeology—his ‘Reflections on the Imitation of Greek Art in Paintings and Sculpture’ was published in Dresden in 1755, and his ‘History of Ancient Art’ appeared n 1764—Johann Joachim Winckelmann was also a close friend and admirer of Mengs, the leading exponent of the nascent Neoclassical movement in Rome.  In this idealized posthumous portrait, which was painted shortly before Meng’s death, Winckelmann is shown holding a Greek edition of Homer’s Illiad.\n\nHarris Brisbane Dick Fund, 1948\n48.141\n\nFrom the placard:  Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1284303272",
+      "taken": "2010-09-04 10:59:51",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1378556492"
+    },
+    "views": "892",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157624814798549",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "184",
+          "y": "98",
+          "w": "116",
+          "h": "94",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/4982403129/in/photostream/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4982408211-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-60797459",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_199",
+          "_content": "bench199",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-161149",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Mengs",
+          "_content": "mengs",
+          "machine_tag": false
+        },
+        {
+          "id": "26249217-4982408211-18889453",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Anton Raphael Mengs",
+          "_content": "antonraphaelmengs",
+          "machine_tag": false
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4982408211/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

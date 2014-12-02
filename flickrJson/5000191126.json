@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "5000191126",
+    "secret": "f77ebb508b",
+    "server": "4083",
+    "farm": 5,
+    "dateuploaded": "1284773280",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "SorrowfulWomanofIschia_TheMET (5)"
+    },
+    "description": {
+      "_content": "\nFrench Painter   Early 19th century\n\n‘Sorrowful Woman of Ischia\nOil on canvas\nInscribed: Louis-Léopold Robert  1822 Rome\n\nThe Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase,\nGift of Mr.and Mrs. Charles S. McVeigh, by exchange, 2003\n2003.42.31\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1284773280",
+      "taken": "2010-09-04 10:21:49",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1284813148"
+    },
+    "views": "430",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157624980818754",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "186",
+          "y": "115",
+          "w": "95",
+          "h": "74",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5000193700/in/set-72157624783023047/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5000191126-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5000191126-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5000191126-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5000191126-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5000191126-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5000191126-61020515",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "19th Century Oil Sketches:",
+          "_content": "19thcenturyoilsketches",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5000191126/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

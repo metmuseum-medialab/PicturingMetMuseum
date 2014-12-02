@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "7052048255",
+    "secret": "c4b8e8aa8b",
+    "server": "5449",
+    "farm": 6,
+    "dateuploaded": "1333755084",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "WilliamMaxwellEvarts_TheMET(7)"
+    },
+    "description": {
+      "_content": "Augustus Saint-Gaudens (1848-1907)\n<b><i> William Maxwell Evarts </i></b>\n1872-73; this carving, 1874\nMarble\nEarly in his career, Saint-Gaudens secured several commissions for portrait busts of middle-aged male sitters, all of which he executed in the hybrid real-ideal style that was popular at the time.  This portrait of the prominent attorney William Maxwell Evarts (1818-1901) is a vigorous, naturalistic bust terminating in a classicizing undraped chest and an ennobling herm.  When he first met the sculptor in Rome, Evarts was based in Geneva, Switzerland, as the United State’s counsel at the Alabama claims tribunal, which had been convened to review sanctions against the British for aiding the Confederate cause during the Civil War.\n\nGift of Erving and Joyce Wolf, in memory of Diane R. Wolf, 1987\n1987.405\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7052048255&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1333755084",
+      "taken": "2011-02-24 11:22:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1333759756"
+    },
+    "views": "250",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7052048255-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7052048255-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7052048255-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7052048255-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7052048255-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7052048255-529517",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Augustus Saint-Gaudens",
+          "_content": "augustussaintgaudens",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7052048255/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

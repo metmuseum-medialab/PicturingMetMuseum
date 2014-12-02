@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "4847133125",
+    "secret": "2d196ba451",
+    "server": "4144",
+    "farm": 5,
+    "dateuploaded": "1280616119",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "acc955f1f7",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Portrait of a Child, 1835"
+    },
+    "description": {
+      "_content": "Camille Corot (French, 1796–1875)\nTitle Portrait of a Child\nDate ca. 1835\nMedium Oil on wood\nDimensions12 5/8 x 9 1/4 in. (32.1 x 23.5 cm)\nClassification Paintings\nCredit Line H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\n\n\nAccession Number 29.100.564"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1280616119",
+      "taken": "2010-06-25 13:01:38",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1307058140"
+    },
+    "views": "885",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4847133125-7685706",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Jean-Baptiste-Camille",
+          "_content": "jeanbaptistecamille",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847133125-539847",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Corot",
+          "_content": "corot",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847133125-38320",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "camille",
+          "_content": "camille",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847133125-221027",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1835",
+          "_content": "1835",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4847133125/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

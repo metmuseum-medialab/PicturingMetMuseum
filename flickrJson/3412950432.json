@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "3412950432",
+    "secret": "8d8c488c45",
+    "server": "3583",
+    "farm": 4,
+    "dateuploaded": "1238881418",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "e9894ff1a2",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Saint Catherine of Alexandria"
+    },
+    "description": {
+      "_content": "Pietro Lorenzetti (Italian, Sienese, active 1320–44)\nSaint Catherine of Alexandria\nshortly after 1342\nTempera on wood, gold ground\nOverall 26 x 16 1/4 in. (66 x 41.3 cm); painted surface 24 1/2 x 16 1/4 in. (62.2 x 41.3 cm)\nCredit LineRogers Fund, 1913\nAccession Number13.212\n\nThis panel is by one of the most innovative artists of the fourteenth century in Siena. Although Pietro was trained by Duccio, he was no less attentive to the art of Giotto. This figure has the three-dimensionality of a work by Giotto. The panel is from a polyptych of which six other fragments are known. The inscription at the top suggests that it was surmounted originally by a figure of Saint Agnes. The altarpiece seems to have been painted soon after 1342."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1238881418",
+      "taken": "2009-03-06 14:50:40",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1324259071"
+    },
+    "views": "1407",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3412950432-938",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Saint",
+          "_content": "saint",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412950432-13256",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Catherine",
+          "_content": "catherine",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412950432-896",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Alexandria",
+          "_content": "alexandria",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412950432-120163",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Pietro",
+          "_content": "pietro",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3412950432-242979",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Lorenzetti",
+          "_content": "lorenzetti",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3412950432-1500",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3412950432-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3412950432-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": false
+        },
+        {
+          "id": "2489564-3412950432-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitanmuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412950432-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3412950432-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "met",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3412950432/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

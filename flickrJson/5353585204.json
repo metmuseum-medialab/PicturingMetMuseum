@@ -1,0 +1,126 @@
+{
+  "photo": {
+    "id": "5353585204",
+    "secret": "4871fd0193",
+    "server": "5090",
+    "farm": 6,
+    "dateuploaded": "1294971219",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Heroic Landscape with Rainbow_TheMET (11)"
+    },
+    "description": {
+      "_content": "Joseph Anton Koch   German  1768 – 1839\n\nDetail from: ‘Heroic Landscape with Rainbow’, 1824\nOil on canvas\n\nPurchase, Anne Cox Chambers Gift, Gift of Alfred and Katrina Romney, by exchange, and Nineteenth Century, Modern, and Contemporary Funds, 2008\n2008.420\n\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1294971219",
+      "taken": "2010-11-06 10:56:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1295064174"
+    },
+    "views": "1083",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5353585204-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353585204-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353585204-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353585204-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353585204-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5353585204-668380",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Barbizon",
+          "_content": "barbizon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5353585204/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

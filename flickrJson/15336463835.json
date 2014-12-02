@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "15336463835",
+    "secret": "068864f659",
+    "server": "3840",
+    "farm": 4,
+    "dateuploaded": "1411516740",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Saint Christopher and the Infant Christ TheMET(8)"
+    },
+    "description": {
+      "_content": "Week 3 Problem is,  once you’ve done hands and feet…now you have to do knees  (661-665)\nDomenico Ghirlandaio ( Domenico Bigordi)   Italian, Florence  1448/49—1494 Florence\n<b><i>Saint Christopher and the Infant Christ </i></b>,  ca. 1472-75\nFresco\nInscribed (on globe):  ASIA / AFRIHA / [E]VROPA\nThis mural is an early work by the Florentine artist Ghirlandaio, who was renowned as a fresco painter and the head of an important workshop where the young Michelangelo trained.  In the fresco technique, pigments mixed with water are applied directly on a fresh ( or fresco) plaster wall.   As the plaster sets, a chemical reaction occurs whereby the pigment particles become locked into the wall, giving the work great durability.\nThe imposing figure of Saint Christopher, with wind –blown garments, wades through the water carrying the Christ Child on his shoulders.  His identity unknown, the Christ Child asked Christopher ( meaning “Christ-bearer”) to help him cross the river, as he had done for others.   As he grew increasingly heavy, the Christ Child revealed himself to Christopher and informed him that he was bearing the weight of the world and its creator on his shoulders. Images of Saint Christopher, the patron saint of travelers, were often placed near the doorways of churches.  This fresco may have adorned a chapel in the Michelozzi villa in Florence.\nThis work is on generous loan from the Department of European Paintings.\nGift of Cornelius Vanderbilt,  1880 ( 80.3.674)\nFrom the placard:  Metropolitan Museum of Art\n.\n<a href=\"http://www.metmuseum.org/\" rel=\"nofollow\">www.metmuseum.org/</a>\n<a href=\"http://en.wikipedia.org/wiki/Domenico_Ghirlandaio\" rel=\"nofollow\">en.wikipedia.org/wiki/Domenico_Ghirlandaio</a>\n<a href=\"https://www.britishmuseum.org/explore/highlights/highlight_objects/pd/d/ghirlandaio,_birth_of_virgin.aspx\" rel=\"nofollow\">www.britishmuseum.org/explore/highlights/highlight_object...</a>\n<a href=\"http://womeninrenaissanceart.wikispaces.com/Birth+of+the+Virgin\" rel=\"nofollow\">womeninrenaissanceart.wikispaces.com/Birth+of+the+Virgin</a>\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1411516740",
+      "taken": "2014-02-07 15:21:42",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411775951"
+    },
+    "views": "3578",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "11"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-15336463835-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15336463835-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15336463835-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15336463835-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-15336463835-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/15336463835/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

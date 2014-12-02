@@ -1,0 +1,136 @@
+{
+  "photo": {
+    "id": "3194727179",
+    "secret": "c2d331099c",
+    "server": "3498",
+    "farm": 4,
+    "dateuploaded": "1231890861",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "9e62d1b922",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "General Étienne-Maurice Gérard (1773–1852), Marshal of France"
+    },
+    "description": {
+      "_content": "Jacques-Louis David (French, 1748–1825)\n\nTitle\nGeneral Étienne-Maurice Gérard (1773–1852), Marshal of France\n\nDate\n1816\n\nMedium\nOil on canvas\n\nDimensions\n77 5/8 x 53 5/8 in. (197.2 x 136.2 cm)\n\nCredit Line\nPurchase, Rogers and Fletcher Funds, and Mary Wetmore Shively Bequest, in memory of her husband, Henry L. Shively M.D., 1965\n\nAccession Number\n65.14.5\n\nSigned, dated, and inscribed: (on pedestal base) L. DAVID. 1816 / BRUX[ELLES]; (on envelope) A Son Excellence / L[e] Gé[néral] Gérard / Com[mandant en] Chef. (To his excellency General Gérard, commander in chief)"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1231890861",
+      "taken": "2009-02-28 14:39:44",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1297633301"
+    },
+    "views": "1628",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3194727179-2661453",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Jacques-Louis",
+          "_content": "jacqueslouis",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-471",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "David",
+          "_content": "david",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3194727179-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3194727179/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

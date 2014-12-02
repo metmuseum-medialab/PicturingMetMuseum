@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "1676006149",
+    "secret": "8094b84768",
+    "server": "2340",
+    "farm": 3,
+    "dateuploaded": "1192993103",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Silver Plate with the Battle of David and Goliath in the Metropolitan Museum of Art, August 2007"
+    },
+    "description": {
+      "_content": "Silver Plate with David and Goliath, 629–630\nByzantine; Made in Constantinople\nSilver; Diam. 19 1/2 in. (49.4 cm), D. 1 1/2 in. (3.8 cm) \nGift of J. Pierpont Morgan, 1917 (17.190.396)   \n\nThis beautiful and exceptionally important plate is the largest of a set of nine showing scenes from the life of the Old Testament king David. Six belong to the Metropolitan Museum while three are in the Cyprus Museum in Nicosia. The group was discovered in 1902 in Karavás (northern Cyprus) sealed with a hoard of jewelry and gold, much of which is also now in the Metroplitan's collection. Originally the smaller plates were arranged around the largest, the one shown here depicting David's combat with Goliath. On the backs of all the plates are the control stamps of the emperor Heraclius, who may have commissioned them to celebrate his victory over the Persians in 628–29, which resulted in the recapture of Jerusalem. During the war, it is said that Heraclius fought the Persian general Razatis in single-handed combat, an event that is perhaps evoked in the depiction of David's defeat of Goliath. Imperial imagery is present also on other plates, where ceremonial scenes from the biblical king's life are set before the arcade of a palace. Their style is a conscious reference to classical art. The plates may have been ordered for display in the banquet hall of a member of the Byzantine aristocracy.\n \nText from: <a href=\"http://www.metmuseum.org/toah/ho/06/eusb/hod_17.190.396.htm\">www.metmuseum.org/toah/ho/06/eusb/hod_17.190.396.htm</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1192993103",
+      "taken": "2007-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1315931699"
+    },
+    "views": "2505",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-1676006149-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-61839",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Byzantine",
+          "_content": "byzantine",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-1395",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "silver",
+          "_content": "silver",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-8451",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "plate",
+          "_content": "plate",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-471",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "David",
+          "_content": "david",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-33952",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Goliath",
+          "_content": "goliath",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-57916",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "LateAntique",
+          "_content": "lateantique",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1676006149-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/1676006149/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

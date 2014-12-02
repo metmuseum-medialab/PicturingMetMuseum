@@ -1,0 +1,120 @@
+{
+  "photo": {
+    "id": "4392358157",
+    "secret": "2b69719ea3",
+    "server": "4010",
+    "farm": 5,
+    "dateuploaded": "1267302275",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "0a66bc74e3",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "The Chariot of Apollo"
+    },
+    "description": {
+      "_content": "Odilon Redon (French, 1840–1916)\nTitle The Chariot of Apollo\nDate1905–16\nMedium Oil on canvas\nDimensions26 x 32 in. (66 x 81.3 cm)\nClassification Paintings\nCredit Line Anonymous Gift, 1927\nAccession Number27.29\n\nBetween 1905 and 1916, Redon devoted a number of oils, pastels, and watercolors to the theme of horses of the sun, driven by Apollo or Phaëthon. This painting is closely related to a larger oil of the same subject of about 1905 (Petit Palais, Paris).\nProvenanceAlexander Max Bing, New York (until 1927)\nExhibition History\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1267302275",
+      "taken": "2009-08-30 11:46:31",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1340630653"
+    },
+    "views": "1275",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4392358157-229008",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "The",
+          "_content": "the",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4392358157-63832",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Chariot",
+          "_content": "chariot",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4392358157-38725",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Apollo",
+          "_content": "apollo",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4392358157-1293403",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "odilon",
+          "_content": "odilon",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4392358157-37440",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "redon",
+          "_content": "redon",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4392358157/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

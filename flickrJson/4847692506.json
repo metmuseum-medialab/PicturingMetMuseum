@@ -1,0 +1,120 @@
+{
+  "photo": {
+    "id": "4847692506",
+    "secret": "0a738b7276",
+    "server": "4090",
+    "farm": 5,
+    "dateuploaded": "1280614552",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "b45fe45701",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Alfred Dedreux (1810–1860) as a Child, ca. 1819–20"
+    },
+    "description": {
+      "_content": "Alfred Dedreux (1810–1860) as a Child, ca. 1819–20\nThéodore Gericault (French, 1791–1824)\nOil on canvas\n\n18 x 15 in. (45.7 x 38.1 cm)\nThe Alfred N. Punnett Endowment Fund, 1941 (41.17)\n\nAmong the many achievements in his short career, Gericault is remembered for invigorating the genre of children's portraits. In his hands, the young were neither miniature adults nor simpering objects of affection. Instead, Gericault endowed them with remarkably self-confident grace.\n\nThe subject of this portrait is the nephew of Gericault's close friend the painter Pierre-Joseph Dedreux-Dorcy. Gericault crossed paths with the family in Siena in 1817, at the end of his Italian sojourn; the Dedreux children returned to Paris with their mother in fall 1819, which helps to establish a probable date for the likeness. This canvas is one of a small group of drawings and paintings by Gericault (in various private collections) that depict Alfred and his sister, Elisabeth, two years his junior. Alfred became a painter, and like Gericault, was enamored of horses and equestrian sports. Eugène Delacroix, who had studied with Gericault, later owned this painting.\n\nSource: Théodore Gericault: Alfred Dedreux (1810–1860) as a Child (41.17) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1280614552",
+      "taken": "2010-07-24 12:11:57",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1286250979"
+    },
+    "views": "1270",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4847692506-21709",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Alfred",
+          "_content": "alfred",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847692506-38748161",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Dedreux",
+          "_content": "dedreux",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847692506-291844",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1819",
+          "_content": "1819",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847692506-1832254",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Théodore",
+          "_content": "théodore",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4847692506-553000",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Gericault",
+          "_content": "gericault",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4847692506/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

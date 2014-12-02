@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "3169111084",
+    "secret": "87f07b15b0",
+    "server": "1170",
+    "farm": 2,
+    "dateuploaded": "1231119195",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "18528dfa18",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Young Women from the Village"
+    },
+    "description": {
+      "_content": "Gustave Courbet (French, 1819–1877)\n\nTitle\nYoung Women from the Village\n\nDate\n1852\n\nMedium\nOil on canvas\n\nDimensions\n76 3/4 x 102 3/4 in. (194.9 x 261 cm)\n\nCredit Line\nGift of Harry Payne Bingham, 1940\n\nAccession Number\n40.175\n\nThis painting, which initiated a series of pictures devoted to the lives of women, shows Courbet's three sisters out for a walk in the Communal, a small valley near his native village of Ornans. Painted during the winter of 1851–52, &quot;Young Ladies of the Village&quot; was preceded by several studies including an oil sketch (Leeds City Art Gallery) in which Courbet established the leading features of the Metropolitan's picture. In this, the final work, he gave the figures a more prominent role and altered the landscape, omitting the two large trees that in the study are silhouetted against the sky. He also repainted and enlarged the cattle. When the work was exhibited in the Salon of 1852, critics bitterly attacked it, finding it tasteless and clumsy and berating the common features and countrified costumes of the three girls, the &quot;ridiculous&quot; little dog and cattle, and the painting's overall lack of unity, including traditional perspective and scale. Ironically, the very effects that Courbet worked hardest to achieve were the ones that proved most troublesome."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1231119195",
+      "taken": "2009-01-04 12:11:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1390417976"
+    },
+    "views": "5216",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3169111084-7363",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Young",
+          "_content": "young",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-2997",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Women",
+          "_content": "women",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-56",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "from",
+          "_content": "from",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-3837",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Village",
+          "_content": "village",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-171804",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Gustave",
+          "_content": "gustave",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-165660",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Courbet",
+          "_content": "courbet",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-59219",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan_museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-607",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3169111084-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3169111084/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

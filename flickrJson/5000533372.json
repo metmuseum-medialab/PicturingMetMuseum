@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "5000533372",
+    "secret": "f65323705f",
+    "server": "4084",
+    "farm": 5,
+    "dateuploaded": "1284786120",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Kneeling Statue of Hatshepsut in the Metropolitan Museum of Art, September 2008"
+    },
+    "description": {
+      "_content": "Title:  Large Kneeling Statue of Hatshepsut\n\nPeriod: New Kingdom\n\nDynasty:  Dynasty 18\n\nReign:  Joint reign of Hatshepsut and Thutmose III\n\nDate:  ca. 1473–1458 B.C.\n\nGeography:  Egypt, Upper Egypt; Thebes, Hatshepsut Hole, Senenmut Quarry, Deir el-Bahri, MMA 1927-1928\n\nMedium: Granite\n\nDimensions:  H. 295.9 cm (116 1/2 in); w. of base 81.3 cm (32 in); d. of base 145.4 cm (57 1/4 in) shipping weight in 2006, 3175.2 kg. (7000 lbs)\n\nCredit Line:  Rogers Fund, 1930\n\nAccession Number:  30.3.1\n\nText from: <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/egyptian_art/large_kneeling_statue_of_hatshepsut//objectview.aspx?OID=100000734&amp;collID=10&amp;dd1=10\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/egypti...</a>\n\nand\n\nHatshepsut was represented in her temple by at least ten over-life-sized statues in kneeling pose offering globular vessels to the god Amun.  These huge figures flanked the processional way along the which the god's image was carried toward the temple's main sanctuary.  Most probably the large kneeling images occupied the space between the ramps in the second court.  Since in this particular piece the pharaoh wears the white crown, it must have stood on the left (southern) side of the processional way.  On the base, Hatshepsut is said to be &quot;presenting the annual revenues before Amun&quot; and on the back pillar, &quot;beloved of Amun in Djeserdjeseru.&quot;  The latter is the name of her temple meaning &quot;holy of holies.&quot;\n\nText from the Metropolitan Museum of Art label."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1284786120",
+      "taken": "2008-09-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1322508671"
+    },
+    "views": "477",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5000533372-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-7477",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egypt",
+          "_content": "egypt",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-15671",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-87769",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Hatshepsut",
+          "_content": "hatshepsut",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-17458",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "pharaoh",
+          "_content": "pharaoh",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-10901",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "queen",
+          "_content": "queen",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5000533372-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5000533372/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

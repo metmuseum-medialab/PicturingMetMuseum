@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "5593767062",
+    "secret": "af8c75488a",
+    "server": "5028",
+    "farm": 6,
+    "dateuploaded": "1302045066",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Abraham Dismissing Hagar and Ishmael_TheMET (4)"
+    },
+    "description": {
+      "_content": "Nicolaes Maes    Dutch, Dordrecht (1634-1693) Amsterdam\n\n\n<b><i> Abraham Dismissing Hagar and Ishmael</i></b>\nOil on canvas\nSighned and dated(lower center, on step): NMAES.[first four letters in ligature] 1653\n\nThis painting is the earliest known dated work by Maes, who was Rembrandt’s pupil between about 1650 and 1652.  The composition was inspired by the master’s etching of 1637, which Maes surpassed at least in the expressions of Abraham’s concubine, Hagar, and the couple’s son, Ishmael.  The dog is a tender and, in this scene, ironic reminder of fidelity.\n\nGift of Mrs. Edward Brayton, 1971\n1971.73\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1302045066",
+      "taken": "2011-03-05 11:49:38",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1302284185"
+    },
+    "views": "504",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157626437801166",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "241",
+          "y": "105",
+          "w": "121",
+          "h": "91",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5593181089/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5593767062-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-68946699",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_216",
+          "_content": "bench216",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5593767062-68946701",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_217",
+          "_content": "bench217",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5593767062/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

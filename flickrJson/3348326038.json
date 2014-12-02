@@ -1,0 +1,128 @@
+{
+  "photo": {
+    "id": "3348326038",
+    "secret": "56e6a2fcbb",
+    "server": "3549",
+    "farm": 4,
+    "dateuploaded": "1236822708",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "b2f5f8611b",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Self-Portrait, 1795"
+    },
+    "description": {
+      "_content": "George Romney (English, 1734–1802)\n\nTitle\nSelf-portrait\n\nDate\nprobably 1795\n\nMedium\nOil on canvas\n\nDimensions\n30 x 25 in. (76.2 x 63.5 cm)\n\nCredit Line\nBequest of Maria DeWitt Jesup, from the collection of her husband, Morris K. Jesup, 1914\n\nAccession Number\n15.30.37\n\n\nThis must be the self-portrait described by the artist's son John (1830): &quot;In the winter of 1795 he painted a head of himself, which, though slight, and not entirely finished, being painted at once, shows uncommon power of execution; the likeness also is strong, but there is a certain expression of languor that indicates the approach of disease. . . . It is remarkable that it is painted without spectacles, though he had been in the habit of using glasses for many years.&quot; The broad handling of the brushwork is noteworthy."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1236822708",
+      "taken": "2009-02-28 16:11:13",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1315450007"
+    },
+    "views": "1646",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-3348326038-2359",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "George",
+          "_content": "george",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3348326038-135695",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Romney",
+          "_content": "romney",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3348326038-411",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Self-portrait",
+          "_content": "selfportrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3348326038-53005",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "metropolitan",
+          "_content": "metropolitan",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3348326038-1154",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-3348326038-29750",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/3348326038/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,144 @@
+{
+  "photo": {
+    "id": "14339218740",
+    "secret": "83afae89de",
+    "server": "3877",
+    "farm": 4,
+    "dateuploaded": "1403956525",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "e6fb3365fd",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0934 - Frans Hals, 1582-1666, Portrait d'un homme, prob. Nicolaes Pitersz Duyst van Voorhout (v. 1600-1650), v. 1638, Metropolitan Museum of Art, NYC"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1403956525",
+      "taken": "2014-05-04 01:32:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1403992001"
+    },
+    "views": "575",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14339218740-278",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-338522",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Frans Hals",
+          "_content": "franshals",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-790",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Haarlem",
+          "_content": "haarlem",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-48245997",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Ecole hollandaise",
+          "_content": "ecolehollandaise",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-466",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "man",
+          "_content": "man",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-90053",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "homme",
+          "_content": "homme",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-5657",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "17th century",
+          "_content": "17thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14339218740-15858453",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "XVIIème siècle",
+          "_content": "xviièmesiècle",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14339218740/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,277 @@
+{
+  "photo": {
+    "id": "5587689136",
+    "secret": "bb31893c59",
+    "server": "5135",
+    "farm": 6,
+    "dateuploaded": "1301107241",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "By the Seashore by Renoir in the Metropolitan Museum of Art, November 2008"
+    },
+    "description": {
+      "_content": "Artist:  Auguste Renoir (French, Limoges 1841–1919 Cagnes-sur-Mer)\n\nTitle:  By the Seashore\n\nDate:  1883\n\nMedium:  Oil on canvas\n\nDimensions:  36 1/4 x 28 1/2 in. (92.1 x 72.4 cm)\n\nClassification:  Paintings\n\nCredit Line:  H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929\n\nAccession Number:  29.100.125\n\n\nGallery Label:\n\nLike other artists who painted in an Impressionist style in the 1870s, Renoir eventually began to explore a different manner of painting. A trip to Italy in 1881–82 brought prolonged exposure to Renaissance art and led him to emphasize contours and modeling in his painting. He also began to abandon the notion that scenes should be painted outdoors to capture nuances of light and atmosphere. &quot;By the Seashore&quot; is thought to have been painted in the artist's studio, where Renoir's model, Aline Charigot—whom he married in 1890—posed in a wicker chair. Although Renoir visited Guernsey the year this painting was made, the beach depicted here is probably not in the Channel Islands but near Dieppe, on the Normandy coast.        \n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/european_paintings/by_the_seashore_auguste_renoir//objectview.aspx?OID=110001881&amp;collID=11&amp;dd1=11\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/europe...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1301107241",
+      "taken": "2008-11-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969386"
+    },
+    "views": "377",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5587689136-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-37813",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2008",
+          "_content": "2008",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-7089",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "19thCentury",
+          "_content": "19thcentury",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-1668",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "French",
+          "_content": "french",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-1500",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "painting",
+          "_content": "painting",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-18127",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Impressionism",
+          "_content": "impressionism",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-119001",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Renoir",
+          "_content": "renoir",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-2917",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "chair",
+          "_content": "chair",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5587689136-4892",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "furniture",
+          "_content": "furniture",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5587689136/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

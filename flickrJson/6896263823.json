@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "6896263823",
+    "secret": "efdb8ef1ca",
+    "server": "7067",
+    "farm": 8,
+    "dateuploaded": "1329571414",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Saint Teresa of Ávila Interceding for Souls in Purgatory_TheMET(6)"
+    },
+    "description": {
+      "_content": "Workshop of Peter Paul Rubens\nFlemish, Siegen 1577-1640  Antwerp\n\n<b><i>Saint Teresa of Ávila Interceding for Souls in Purgatory </i></b>\nOil on canvas\n\nThe present painting is a reduced workshop version of a large altarpiece painted by Rubens about 1630 to 1633 for the Church of the Discalced Carmelites in Antwerp.  The inscription on an engraving by Schelte a Bolswert  after Ruben’s altarpiece relates the scene to the story of Bernardino del Mandoza, a young Spaniard who had given Saint Teresa land on which to build a convent.  Bernardino died before it could be built, and Christ appeared to Saint Teresa informing her that his soul could not be released from Purgatory until the convent was completed.\nBernardino appears in Purgatory at the left of the painting\n\nGift of J. Pierpont Morgan, 1917\n17.190.19\n\n\nFrom the placard: Metropolitan Museum\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1329571414",
+      "taken": "2011-09-25 12:09:14",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1415779540"
+    },
+    "views": "663",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "5"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629369698727",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "267",
+          "y": "123",
+          "w": "52",
+          "h": "44",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6890993197/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6896263823-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6896263823-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6896263823-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6896263823-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6896263823-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6896263823/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

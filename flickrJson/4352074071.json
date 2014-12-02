@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "4352074071",
+    "secret": "e0b7e0879f",
+    "server": "4060",
+    "farm": 5,
+    "dateuploaded": "1266028115",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheBathJavea_TheMET (3)"
+    },
+    "description": {
+      "_content": "‘The Bath, Javea’  1905  Joaquin Sorolla y Bastida.  Spanish, 1863-1923\nOil on canvas\nSigned and dated (lower right): J. Sorolla Bastida / 1905\n\nSorolla was a precocious draftsman, who at the age of fifteen, enrolled in the Academy of San Carlos in Valencia, Spain.  Later, after studying in Roma and Paris, he settled in Valencia, where he developed the high-keyed painterly style for which he is famous.  This style resulted from a variety of influences, including Impressionism and the work of Adolph Menzel (1815-1905) and jules Bastien-Lepage ( 1848-1884).  The seacoast town of Javeea, south of Valencia, provided Sorolla with the subjects for many of his paintings.  Some of the most popular were scenes of children swimming.  By the early years of the twentieth century, Sorolla had achieved an international reputation.\n\nCatharine Lorillard Wolfe Collection, Wolfe Fund, 1909\n09.71.2\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1266028115",
+      "taken": "2009-12-26 09:53:33",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1266067419"
+    },
+    "views": "1235",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157623423879948",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "155",
+          "y": "63",
+          "w": "277",
+          "h": "174",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/4352822614/\">Detail<a></a></a></b>\n\n"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4352074071-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-52162144",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_191",
+          "_content": "bench191",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4352074071-2134634",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Joaquin Sorolla y Bastida",
+          "_content": "joaquinsorollaybastida",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4352074071/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

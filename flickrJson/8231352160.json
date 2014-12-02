@@ -1,0 +1,118 @@
+{
+  "photo": {
+    "id": "8231352160",
+    "secret": "8d185c8450",
+    "server": "8202",
+    "farm": 9,
+    "dateuploaded": "1354233391",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The Return to the Fold TheMET(6)"
+    },
+    "description": {
+      "_content": "Anton Mauve     Dutch,  1838-1888\n\n<b><i>The Return to the Fold </i></b>\nOil on canvas\nSigned (lower right): AMauve f\nAnton Mauve was extremely productive during the last years of his career and often treated the motif of the shepherd and his flock.  These works were extremely popular with both European and American collectors.  In 1881 and 1882 his wife’s cousin, Vincent van Gogh, studied with him.  Van Gogh’s letters are filled with admiration for Mauve’s talent and the work of many of the other members of The Hague School, a group of painters who comprised the Dutch equivalent of the Barbizon School in France.\nBequest of Benjamin Altman,  1913\n14.40.816\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1354233391",
+      "taken": "2012-11-10 10:51:46",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1367868000"
+    },
+    "views": "294",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-8231352160-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8231352160-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8231352160-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8231352160-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-8231352160-889449",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Painting",
+          "_content": "europeanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/8231352160/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

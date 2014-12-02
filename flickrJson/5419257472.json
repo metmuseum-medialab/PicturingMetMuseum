@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "5419257472",
+    "secret": "090460747e",
+    "server": "5220",
+    "farm": 6,
+    "dateuploaded": "1296930304",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Chrysanthemums_TheMET (7)"
+    },
+    "description": {
+      "_content": "Claude Monet  French, 1840 – 1926\n\nDetail from:  <b><i>Chrysanthemums</i></b>  1882\nOil on canvas\nSigned and dated ( lower left): Claude Monet 82\n\nMonet produced a variety of still lifes throughout his career, including some twenty rapidly painted depictions of garden flowers, dating from 1878 to 1883, which were sought after by collectors. Although this picture is dated 1882—the year Monet sold it to his dealer, Paul Durand-Ruel—&quot;Chrysanthemums&quot; likely belongs to a group of nine still lifes (seven of which are floral subjects) that Monet painted during the winter of 1880-81.\n\nH.O.Havemeyer Collection\nBequest of Mrs. H.O. Havemeyer, 1929\n29.100.106\n\nFrom the placard:.  Metropolitan Museum of Art\n\nW 634 – detail  1882 \n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296930304",
+      "taken": "2011-01-17 10:41:48",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1392138542"
+    },
+    "views": "761",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5419257472-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-104021",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Claude Monet",
+          "_content": "claudemonet",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5419257472-66581739",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_35_36",
+          "_content": "bench3536",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5419257472/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

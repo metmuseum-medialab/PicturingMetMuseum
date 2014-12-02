@@ -1,0 +1,168 @@
+{
+  "photo": {
+    "id": "14418246403",
+    "secret": "9a54a040b6",
+    "server": "3851",
+    "farm": 4,
+    "dateuploaded": "1402493643",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "af76c1d117",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "50260960@N06",
+      "username": "Afchine Davoudi",
+      "realname": "",
+      "location": "",
+      "iconserver": "7519",
+      "iconfarm": 8,
+      "path_alias": null
+    },
+    "title": {
+      "_content": "La représentation continue 0913 - François Clouet (actif en 1516 - Paris, v. 1540), Guillaume Budé (1467-1540), 1536, Metropolitan Museum of Art, New York City"
+    },
+    "description": {
+      "_content": ""
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1402493643",
+      "taken": "2014-05-04 01:37:26",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1409829203"
+    },
+    "views": "704",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "50215638-14418246403-49739",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Renaissance",
+          "_content": "renaissance",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-1097104",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Clouet",
+          "_content": "clouet",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-487",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "France",
+          "_content": "france",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-2502251",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Humaniste",
+          "_content": "humaniste",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-15677718",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Guillaume Budé",
+          "_content": "guillaumebudé",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-97327",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-440",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-278",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "Portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-221245691",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "De Asse",
+          "_content": "deasse",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-7677063",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "XVIème siècle",
+          "_content": "xvièmesiècle",
+          "machine_tag": 0
+        },
+        {
+          "id": "50215638-14418246403-148183",
+          "author": "50260960@N06",
+          "authorname": "Afchine Davoudi",
+          "raw": "16th century",
+          "_content": "16thcentury",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/50260960@N06/14418246403/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

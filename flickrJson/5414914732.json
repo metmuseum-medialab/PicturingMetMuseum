@@ -1,0 +1,181 @@
+{
+  "photo": {
+    "id": "5414914732",
+    "secret": "d7874c8439",
+    "server": "4081",
+    "farm": 5,
+    "dateuploaded": "1296784904",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Wheat Field with Cypresses_TheMET(16)"
+    },
+    "description": {
+      "_content": "Vincent van Gogh    Dutch, 1853-1890\n\n<b><i>Wheat Field with Cypresses</i></b>,   1889\nOil on canvas\n\nWriting to his brother, Theo, from the asylum in Saint-Rémy in early July 1889,Van Gogh described his latest work in the series he had begun in June:  “I have a canvas of cypresses with some ears of wheat, some poppies, a blue sky like a piece of Scotch Plaid; the former painted with a thick impasto…and the wheat field in the sun which represents the extreme heat, very thick too.”  Van Gogh regarded this sun-drenched landscape as one of his “best summer canvases , and he reproduced the composition in reed pen drawing (Van Gogh Museum, Amsterdam) and two variants in oil paint ( National Gallery, London, and private collection).\n\nPurchase, The Annenberg Foundation Gift, 1993\n1993.132\n\nFrom the placard: Metropolitan Museum of Art.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1296784904",
+      "taken": "2010-11-06 09:45:44",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1297041068"
+    },
+    "views": "336",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157625846510655",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "105",
+          "y": "195",
+          "w": "114",
+          "h": "73",
+          "_content": "<b><a href=\"http://www.flickr.com/photos/rverc/5414918742/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157625971951168",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "277",
+          "y": "45",
+          "w": "178",
+          "h": "302",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/3391328774/in/set-72157616828466740/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157625846543375",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "135",
+          "y": "174",
+          "w": "145",
+          "h": "95",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/3391326856/in/set-72157616828466740/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5414914732-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-26538",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Van",
+          "_content": "van",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-33942",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Gogh",
+          "_content": "gogh",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-38643097",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_86",
+          "_content": "bench86",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5414914732-36935461",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_102",
+          "_content": "bench102",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5414914732/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

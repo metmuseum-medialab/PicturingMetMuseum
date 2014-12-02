@@ -1,0 +1,104 @@
+{
+  "photo": {
+    "id": "4579617174",
+    "secret": "675e6aef82",
+    "server": "4009",
+    "farm": 5,
+    "dateuploaded": "1273007787",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "a825c2dcf6",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Fishing Boats, Collioure, 1905"
+    },
+    "description": {
+      "_content": "Fishing Boats, Collioure, 1905\nAndré Derain (French, 1880–1954)\nOil on canvas\n\n31 7/8 x 39 1/2 in. (81 x 100.3 cm)\nGift of Raymonde Paul, in memory of her brother, C. Michael Paul and Purchase, Lila Acheson Wallace Gift, 1982 (1982.179.29)\n© 2010 Artists Rights Society (ARS), New York / ADAGP, Paris\n\nIn this painting, made at Collioure, Derain's heavily outlined forms present a dense, allover pattern dominated by the overlapping sails that cross the picture diagonally. At the lower left, two figures watch the fishermen at work on the shore. Beyond the multicolored sails are the sea, rising mountains, and a brief expanse of sky. The topography of the landscape can be identified, but Derain attempts no verisimilitude of space or color.\n\nSource: André Derain: Fishing Boats, Collioure (1982.179.29) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1273007787",
+      "taken": "2009-08-30 11:45:16",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1349207377"
+    },
+    "views": "1674",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4579617174-54256",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "André",
+          "_content": "andré",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4579617174-2127431",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Derain",
+          "_content": "derain",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4579617174-106215",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1905",
+          "_content": "1905",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4579617174/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

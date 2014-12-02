@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "6428211127",
+    "secret": "3294d9db5e",
+    "server": "6228",
+    "farm": 7,
+    "dateuploaded": "1322616603",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "A Path among the Rocks _TheMET(8)"
+    },
+    "description": {
+      "_content": "Théodore Rousseau \n French,  1812–1867\nDetail from: <b><i> A Path among the Rocks </i></b>   probably 1861\nOil on wood\nSigned (lower left): TH. Rousseau\n\nThis picture was shown in an exhibition of Rousseau’s painted studies, held inParis in 1867.  In the accompanying catalogue, it was identified as <i> A  Morning in Early Summer in the Forest of Fontainebleau</i> and dated 1861.  Rousseau’s technique, which builds up a lively, light filled surface with delicate touches of translucent glazes, is characteristic of his ‘ mature style.\n\nBequest of Benjamin Altman, 1913\n14.40.814\n\nFrom the placard :  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1322616603",
+      "taken": "2011-09-25 10:19:09",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1322619058"
+    },
+    "views": "352",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6428211127-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-15777032",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Théodore Rousseau",
+          "_content": "théodorerousseau",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428211127-79173881",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_232",
+          "_content": "bench232",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6428211127/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,191 @@
+{
+  "photo": {
+    "id": "13131676454",
+    "secret": "3a07639bc3",
+    "server": "3793",
+    "farm": 4,
+    "dateuploaded": "1394736153",
+    "isfavorite": 0,
+    "license": "5",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "6a499f56c6",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "84985982@N00",
+      "username": "andryn2006",
+      "realname": "Andrew Moore",
+      "location": "Johannesburg, South Africa",
+      "iconserver": "7373",
+      "iconfarm": 8,
+      "path_alias": "andryn2006"
+    },
+    "title": {
+      "_content": "Column Capital of the God Bes"
+    },
+    "description": {
+      "_content": "Egyptian Art at The Metropolitan - &quot;This large head unmistakably depicts the god known as Bes, or, more accurately, what is known as a &quot;Bes-image,&quot; since Bes's appearance was sometimes adopted for other gods, and there is no name preserved on the statue. From the Kushite Period onward, images of Bes appeared on architectural support elements such as abaci, column shafts, or, rarely, large two-sided pillars. These architectural images are especially associated with mammisis, or temples celebrating the birth of a child-god; it is thought that this is related to the long association of the deity with domestic concerns and fertility. Such Bes figures are typically frontal and carved in high relief, but the depth of this figure against an abacus or shaft surface, if that is actually its origin, would have been quite unusual. \nAnother possibility is that the head originally belonged to a freestanding statue. A 1-meter-tall statue of Bes was found in a chapel at the Serapeum in Saqqara along with sphinxes dated to the reign of Nectanebo II. If this head comes from such a statue, the identity of the god represented by the Bes-image might not be the domestic god Bes but a number of the other gods-especially, but not exclusively, gods associated with Horus-who adopted the deity's appearance. \nThis head is said to have come from the site of Bubastis in the Egyptian Delta. Work at this important but much-damaged site has produced mostly hard-stone elements, but some fragments of limestone from wall decorations have also been found there. The limestone from Bubastis is visually quite similar to the stone of this head, so it could be that the statue does indeed originate there. If so, a date to the reign of Nectanebo II, who built extensively at Bubastis and whose name is attested among its limestone remains, would be a reasonable suggestion. Moreover, although there is considerable continuity in the representation of the disquieting features associated with the Bes-image in the Late Period and into the Ptolemaic Period, the carving of the god's preserved ear-which, although leonine, is greater in height than in width-is similar to that of certain images dated to the Thirtieth Dynasty.&quot;"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1394736153",
+      "taken": "2014-02-25 23:33:50",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1408930381"
+    },
+    "views": "544",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 1
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "5863141-13131676454-607",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-214782",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Bes",
+          "_content": "bes",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-15671",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Egyptian",
+          "_content": "egyptian",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-97327",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-440",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-351",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-17458",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "pharaoh",
+          "_content": "pharaoh",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-4074",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "United States",
+          "_content": "unitedstates",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13131676454-7290",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Goddess",
+          "_content": "goddess",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779144,
+      "longitude": -73.962687,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/andryn2006/13131676454/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

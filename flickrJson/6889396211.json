@@ -1,0 +1,155 @@
+{
+  "photo": {
+    "id": "6889396211",
+    "secret": "2b4e4b638d",
+    "server": "7181",
+    "farm": 8,
+    "dateuploaded": "1329446076",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "AForestAtDawnWithADeerHunt_TheMET(5)"
+    },
+    "description": {
+      "_content": "Peter Paul Rubens\nFlemish, Siegen 1577-1640  Antwerp\n\n<b><i> A Forest at Dawn with a Deer Hunt </i></b>\nOil on wood\n\nRubens painted about three dozen landscapes during his busy career; in large part for his own pleasure.  This dramatic picture of about 1635 is recorded in the inventory of the artist’s estate.  It was later owned by Sir Joshua Reynolds, the Marquess of Lansdowne, and Sir Watkin Williams-Wynn (1772-1840), whose descendants kept the picture at the family seat, Llangedwyn Hall in North Wales, until 1989.\n\nRubens drew upon the imaginary current in Flemish landscape painting to give his essentially realistic views the look of myth and metaphor.  In this case a familiar theme embodies elemental forces such as light and darkness, life and death, growth and decay.\n\nPurchase, The Annenberg Foundation, Mrs. Charles Wrightsman, Michel David-Weill, The Dillon Fund, Henry J. and Dure Heinz Foundation, Lola Kramarsky, Annette del la Renta. Mr. andMrs Arthur Ochs Sulzberger, The Vincent Astor Foundation, and Peter J. Sharp Gifts; special funds, gifts, and other gifts and bequess, by exchange, 1990\n1990.196\n\n\nFrom the placard: Metropolitan Museum\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1329446076",
+      "taken": "2011-09-25 12:01:01",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1329605291"
+    },
+    "views": "921",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "4"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629351655225",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "162",
+          "y": "62",
+          "w": "78",
+          "h": "63",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6883912175/\">Detail<a></a></a></b>"
+        },
+        {
+          "id": "72157629351668339",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "262",
+          "y": "234",
+          "w": "87",
+          "h": "64",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6880716295/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6889396211-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-1319534",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Peter Paul Rubens",
+          "_content": "peterpaulrubens",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6889396211-83800171",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_237",
+          "_content": "bench237",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6889396211/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

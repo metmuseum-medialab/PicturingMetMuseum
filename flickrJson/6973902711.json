@@ -1,0 +1,165 @@
+{
+  "photo": {
+    "id": "6973902711",
+    "secret": "004c882961",
+    "server": "7183",
+    "farm": 8,
+    "dateuploaded": "1331501982",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "JungleTales_TheMET(8)"
+    },
+    "description": {
+      "_content": "James Jebusa Shannon (1862 – 1923)\n\nDetail from: <b><i> Jungle Tales (Contes de la jungle)</i></b>\n1895\nOil on canvas\n\nShannon studied in London during the 1880s and remained there, enjoying success as a society portraitist and figure painter. ( in 1922 he renounced his United States citizenship in order to accept a knighthood).  <i>Jungle Tales</i> portrays the artist’s wife reading to their daughter, Kitty, shown in profile, and another child.  The painting’s title and date and its London origin suggest that the little group is captivated by Rudyard Kipling’s <i>Jungle Book</i>, which had appeared in 1894.  The intensely realistic faces contrast with the decorative patterns of the dotted-muslin and lace costumes and the elaborate design on the brilliant blue backdrop.\n\nArthur Hoppock Hearn Fund, 1913\n13.143.1\n\nFrom the placard:  Metropolitan Museum of Art\n\n\n<a href=\"http://bighugelabs.com/onblack.php?id=6973902711&amp;size=large\" rel=\"nofollow\">View On Black</a>\n\n<b><a href=\"http://www.metmuseum.org/Collections/search-the-collections/20012923?rpp=20&amp;pg=1&amp;gallerynos=768&amp;ft=*&amp;pos=1\" rel=\"nofollow\">Metropolitan Museum Link<a></a></a></b>\n.\n.\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1331501982",
+      "taken": "2011-02-24 11:47:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1413058593"
+    },
+    "views": "1544",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "7"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6973902711-766256",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Wing",
+          "_content": "americanwing",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6973902711-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6973902711-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6973902711-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6973902711-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6973902711-13732338",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "American_Painting",
+          "_content": "americanpainting",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.780663,
+      "longitude": -73.963506,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6973902711/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

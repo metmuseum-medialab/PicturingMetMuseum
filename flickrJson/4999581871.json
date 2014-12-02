@@ -1,0 +1,137 @@
+{
+  "photo": {
+    "id": "4999581871",
+    "secret": "f5d9ac8f26",
+    "server": "4112",
+    "farm": 5,
+    "dateuploaded": "1284773081",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "ItalianCoupleAtaRoadsideShrine_TheMET (5)"
+    },
+    "description": {
+      "_content": "Léopold Robert   Swiss,  1794-1835\n\n‘Italian Couple at a Roadside Shrine’  1824.\nOil on canvas\nSigned and dated: Lld Robert Rome. 1824\n\nThe Whitney Collection, Promised Gift of Wheelock Whitney III, and Purchase,\nGift of Mr.and Mrs. Charles S. McVeigh, by exchange, 2003\n2003.42.50\n\nFrom the placard: Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1284773081",
+      "taken": "2010-09-04 10:20:55",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1284784851"
+    },
+    "views": "310",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157624979006692",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "186",
+          "y": "103",
+          "w": "159",
+          "h": "124",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5000188286/in/photostream/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4999581871-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4999581871-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4999581871-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4999581871-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4999581871-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4999581871-61020515",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "19th Century Oil Sketches:",
+          "_content": "19thcenturyoilsketches",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4999581871/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

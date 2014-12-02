@@ -1,0 +1,112 @@
+{
+  "photo": {
+    "id": "5212281070",
+    "secret": "1a6aa3d434",
+    "server": "4103",
+    "farm": 5,
+    "dateuploaded": "1290882760",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "d700817ced",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Plaque depicting Bernard Palissy, 1846"
+    },
+    "description": {
+      "_content": "Plaque depicting Bernard Palissy, 1846\nPainter of plaque: Nicolas-Marie Moriot (French, active 1828–48); Painter of enamels: Jacob Meyer-Heine (French, 1805–1879)\nFrance; Sèvres\nHard-paste porcelain with gilt-bronze, enamel, and biscuit porcelain frame\n\n19 3/8 x 17 1/2 in. (49.1 x 44.5 cm)\nPurchase, The Isaacson-Draper Foundation Gift, 2007 (2007.221)\n\nThis framed Sèvres plaque is one of the most ambitious and original works of art produced in the Renaissance Revival style of mid-nineteenth-century France. Both the plaque and the elaborate frame pay homage to the flourishing of the decorative arts that took place during the French Renaissance. The scene on the plaque, by Nicolas-Marie Moriot after a painting by Charles Alexandre Debacq (1804–1853), portrays the Renaissance pottery Bernard Palissy burning the furniture in his house to fire his kiln. The oval enamel-on-copper plaques that decorate the frame depict events from Palissy's life, and their grisaille decoration evokes Limoges enamels of the sixteenth century. The plaques were painted by Jacob Meyer-Heine, who was named head of the recently established enamel workshop at Sèvres in 1840. The dragons entwined with strapwork on the gilt-bronze frame by Armande Feuchère are drawn from the architectural vocabulary of the French Renaissance, and the biscuit porcelain figures modeled by Jean-Baptiste-Jules Klagmann (1810–1867) recall the stucco decoration of the Galerie François I at Fontainebleau, the supreme example of Renaissance art in France. The designs and molds for this plaque are preserved at the Sèvres manufactory.\n\n\nSource: Nicolas-Marie Moriot and Jacob Meyer-Heine: Plaque depicting Bernard Palissy (2007.221) | Heilbrunn Timeline of Art History | The Metropolitan Museum of Art"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1290882760",
+      "taken": "2010-10-16 12:48:45",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1411239495"
+    },
+    "views": "1746",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-5212281070-64072303",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Nicolas-Marie",
+          "_content": "nicolasmarie",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5212281070-44429675",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Moriot",
+          "_content": "moriot",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5212281070-1194135",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Palissy",
+          "_content": "palissy",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-5212281070-477770",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "1846",
+          "_content": "1846",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/5212281070/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,145 @@
+{
+  "photo": {
+    "id": "5540306845",
+    "secret": "58a6057701",
+    "server": "5259",
+    "farm": 6,
+    "dateuploaded": "1300565248",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Maria_TheMET(4)"
+    },
+    "description": {
+      "_content": "Kees van Dongen    Dutch, 1877-1968\n\n<b><i> Maria </i></b>    1907-10\nOil on canvas\n\n\nThis portrait entitled Maria, presumably after the model who sat for the picture, captures the direct gaze of the sitter. The painting was quickly rendered with a large brush and intense, unblended color. Van Dongen’s use of unblended color reflects his exposure to and general association with Fauvism and Expressionism, two artistic movements in Paris characterized by bold, sometimes violent use of color. Painted with a certain stylization, Van Dongen’s female sitters often resemble one another with their large, blackened eyes and pale white flesh tones.\n\nRobert Lehman Collection, 1975\n1975.1.230\n\nFrom the Collection Database: Metropolitan Museum of Art\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1300565248",
+      "taken": "2011-03-05 12:27:13",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1319324145"
+    },
+    "views": "770",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157626302125978",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "166",
+          "y": "113",
+          "w": "113",
+          "h": "78",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/5540894208/in/photostream/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-5540306845-2236707",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Kees van Dongen",
+          "_content": "keesvandongen",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-16082376",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Robert Lehman Collection",
+          "_content": "robertlehmancollection",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-5540306845-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/5540306845/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

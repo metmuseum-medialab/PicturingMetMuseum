@@ -1,0 +1,110 @@
+{
+  "photo": {
+    "id": "7133436125",
+    "secret": "92a1d603db",
+    "server": "7226",
+    "farm": 8,
+    "dateuploaded": "1335909192",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "Celia Thaxter’s Garden_TheMET(8)"
+    },
+    "description": {
+      "_content": "This photograph was Identify the Painter (38) ]\n\nChilde Hassam\n(1859-1935)\nDetail from: <b><i> Celia Thaxter’s Garden, Isles of Shoals, Maine </i></b>\n1890  Oil on canvas\nThis painting is one of the finest works in a series Hassam made during summers in the 1890s on Appledore Island, the largest in a group of islands called the Isles of Shoals, ten miles east of Portsmouth, New Hampshire.  ( Appledore actually lies in Maine waters). The series portrays the sumptuous wildflower garden cultivated by Hassam’s friend Celia Thaxter, a poet and amateur artist, which provided a marvelous contrast to the island’s rugged terrain.  In the painting, vibrant red poppies entangled in lush garden foliage introduce a view of sun-bleached Babb’s Rock.  Nowhere visible is the hotel owned and operated by Thaxter’s family.\nAnonymous Gift,  1994\n1994-567\n\nFrom the placard:  Metropolitan Museum of Art\n\n<a href=\"http://bighugelabs.com/onblack.php?id=7133436125&amp;bg=white&amp;size=large\" rel=\"nofollow\">View On White</a>\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1335909192",
+      "taken": "2011-02-24 14:43:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1336010207"
+    },
+    "views": "426",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "9"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-7133436125-85886460",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropoloitan_Museum",
+          "_content": "metropoloitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7133436125-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7133436125-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-7133436125-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/7133436125/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

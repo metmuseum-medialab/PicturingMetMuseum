@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "3848874809",
+    "secret": "1947cc9c46",
+    "server": "2552",
+    "farm": 3,
+    "dateuploaded": "1251054422",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheMerryMakers_TheMET (2)"
+    },
+    "description": {
+      "_content": "Detail from: ‘Merrymakers at Shrovetide’  Frans Hals Dutch, born after 1580, died 1666\nOil on canvas\nSigned (on flagon):fh\n\nThis important early painting by Hals dates from about 1615 and in its coloring, brushwork, and crowded composition, recalls contemporary works by the Flemish artist Jacob Jordaens.  The subject is Vastenavond (Shrovetime or Mardi Gras), a pre Lenten feast devoted to fools.  Two of the figures are recognizable as stock characters from comic theater:  Peeckelhaering ( Pickled Herring) with the garland of eggs and sausages, and Hans Wurst with sausages on his cap.  The young woman ( a male actor?) is surrounded by food, objects such as the bagpipe, and an obscene gesture, all of which comprise a chorus of sexual references.  The painting inspired copies and  versions by Haarlem artists and in its coarse humor brings to mind Adriaen Brouwer, Hals’s famous Flemish pupil of the 1620s.\n\nBequest of Benjamin Altman, 1913\n14, 40.605\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1251054422",
+      "taken": "2009-07-05 11:04:25",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1275618239"
+    },
+    "views": "710",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3848874809-41383784",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_137",
+          "_content": "bench137",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-165667",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Hals",
+          "_content": "hals",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3848874809-338522",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Frans Hals",
+          "_content": "franshals",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3848874809/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

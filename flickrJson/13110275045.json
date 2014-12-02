@@ -1,0 +1,175 @@
+{
+  "photo": {
+    "id": "13110275045",
+    "secret": "fc5673274b",
+    "server": "7401",
+    "farm": 8,
+    "dateuploaded": "1394650670",
+    "isfavorite": 0,
+    "license": "5",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "13b1163f60",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "84985982@N00",
+      "username": "andryn2006",
+      "realname": "Andrew Moore",
+      "location": "Johannesburg, South Africa",
+      "iconserver": "7373",
+      "iconfarm": 8,
+      "path_alias": "andryn2006"
+    },
+    "title": {
+      "_content": "Detail - Narva (1961)"
+    },
+    "description": {
+      "_content": "Jean Tinguely's sculpture at the Metropolitan"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1394650670",
+      "taken": "2014-02-25 21:10:53",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1414394924"
+    },
+    "views": "293",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "5863141-13110275045-607",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-627221",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Jean Tinguely",
+          "_content": "jeantinguely",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-97327",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Metropolitan Museum of Art",
+          "_content": "metropolitanmuseumofart",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-881885",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "Narva",
+          "_content": "narva",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-440",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "New York",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-351",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "USA",
+          "_content": "usa",
+          "machine_tag": 0
+        },
+        {
+          "id": "5863141-13110275045-4074",
+          "author": "84985982@N00",
+          "authorname": "andryn2006",
+          "raw": "United States",
+          "_content": "unitedstates",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779144,
+      "longitude": -73.962687,
+      "accuracy": "16",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/andryn2006/13110275045/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

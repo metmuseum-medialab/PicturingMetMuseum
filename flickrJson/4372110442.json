@@ -1,0 +1,96 @@
+{
+  "photo": {
+    "id": "4372110442",
+    "secret": "94d5e74013",
+    "server": "2723",
+    "farm": 3,
+    "dateuploaded": "1266637819",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "originalsecret": "0186bcb0ba",
+    "originalformat": "jpg",
+    "owner": {
+      "nsid": "17884832@N00",
+      "username": "Maulleigh",
+      "realname": "Molly",
+      "location": "Bronx, NY, United States of America",
+      "iconserver": "8399",
+      "iconfarm": 9,
+      "path_alias": "maulleigh"
+    },
+    "title": {
+      "_content": "Blind Man's Bluff: Panoramic View of the Palace and Gardens of Versailles (Detail)"
+    },
+    "description": {
+      "_content": "John Vanderlyn (1775–1852)\nTitle Panoramic View of the Palace and Gardens of Versailles\nDate 1818–19\nMedium Oil on canvas\nDimensions12 x 165 ft. (3.6 x 49.5 m)\nCredit Line Gift of the Senate House Association, Kingston, N.Y., 1952\nAccession Number52.184\n\nThis circular panoramic view of Versailles was painted at Kingston, New York, and New York City between 1818 and 1819. Vanderlyn used numerous sketches (Senate House Museum, Kingston, New York) that he had made at Versailles in 1814. The perspective was carefully adjusted to the circular shape. The painting was originally intended for display in the Rotunda built by Vanderlyn in 1818 at the northeast corner of City Hall Park in New York. Its showing there was not as successful as Vanderlyn had wished. In search of some profit, Vanderlyn toured intermittently with the panorama until his death. The artist depicted himself pointing out Czar Alexander I and King Frederick William II of Prussia to the right of the Basin de Latone."
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1266637819",
+      "taken": "2010-02-13 15:43:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1270027993"
+    },
+    "views": "1037",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 1,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "2489564-4372110442-1443",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "John",
+          "_content": "john",
+          "machine_tag": 0
+        },
+        {
+          "id": "2489564-4372110442-6395144",
+          "author": "17884832@N00",
+          "authorname": "Maulleigh",
+          "raw": "Vanderlyn",
+          "_content": "vanderlyn",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/maulleigh/4372110442/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

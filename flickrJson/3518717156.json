@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "3518717156",
+    "secret": "e825ee9b43",
+    "server": "3581",
+    "farm": 4,
+    "dateuploaded": "1241964357",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "AtTheMilliners_TheMET (3)"
+    },
+    "description": {
+      "_content": "Edgar Degas   French,  1834-1917\n\nDetail from:  <b><i> At the Milliner's </i></b>,    1881\nPastel on five pieces of wove paper backed with paper and laid down on canvas\nSigned (lower right): Degas\n\nThis work is perhaps the earliest of Dega’s pastels of scenes in millines’ shops.  It may have been conceived as a picture of a shopgirl (at left) adjusting a hat on a stand.  However, once Degas drew the woman underneath the hat at the right and added the back of the sofa, the identity of the figure at the left was transformed, as shopgirls were not allowed to sit.  Thus the picture became one of two friends or sisters.\n\nThe Walter H. and Leonore Annenberg Collection,\nGift of Walter H. and Leonore Annenberg, 1997,\nBequest of Walter H. Annenberg, 2002\n1997.391.1\n\nFrom the placard:  Metropolitan Museum of Art.\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1241964357",
+      "taken": "2009-05-03 11:42:22",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1297609738"
+    },
+    "views": "355",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "1"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-3518717156-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-31141",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Degas",
+          "_content": "degas",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-37277400",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_5",
+          "_content": "bench5",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-3518717156-1029226",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Edgar Degas",
+          "_content": "edgardegas",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/3518717156/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

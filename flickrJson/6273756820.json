@@ -1,0 +1,237 @@
+{
+  "photo": {
+    "id": "6273756820",
+    "secret": "936e094656",
+    "server": "6097",
+    "farm": 7,
+    "dateuploaded": "1319224650",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Detail of a Leaf from a Manuscript of the Materia Medica in the Metropolitan Museum of Art, May 2011"
+    },
+    "description": {
+      "_content": "Materia Medica of Dioscorides\n\nObject Name: Illustrated manuscript, folio \n\nDate: dated A.H. 621/ A.D. 1224 \n\nGeography: Iraq \n\nMedium: Ink, opaque watercolor and gold on paper \n\nDimensions: H. 13 1/16 in. (33.2 cm) W: 9 3/4 in. (24.8 cm) \nMat size: 14 1/4 in. x 19 1/4 in. \nFrame: 16 3/4 x 21 5/8 in. \n\nClassification: Codices \n\nCredit Line: Rogers Fund, 1913 \n\nAccession Number: 13.152.6\n\n\nInscription: \nDefinition: Arabic. \nThere are two translations: Translation of text by R. D. Messaiah: Preparation of medicine (wine) for colds or coughs: ease the throat by taking 1/4 oke of bitter root, 1/8 oke of licorice root, 1/4 or 1/8 oke of white pepper. Pulverize them together and put the resulting powder into a cloth, tie it up, and immerse it in sweet wine for three days. Strain the liquor into a clean vessel. Drink after dinner. Notes: 1 oke, a measure of weight equaling about 2-3/4 lbs., measure of capacity, equals about 2/3 of a quart. Translation of text by F. D. Day, 1950: The making of a drink (shirab) for catarrhs, coughs, swelling of the belly, and loosening of the stomach. Take myrrh 1/4 uqiyya, roots of susan 1/8 uqiyya, white pepper 1/4 and (...) 1/8 uqiyya. Pound them together, tie it up in a rag, put into 3 qusts of good wine, and let stand three days. Then strain and put into a clean vessel. Drink after supper.\n\nText from:  <a href=\"http://www.metmuseum.org/Collections/search-the-collections/140003495\" rel=\"nofollow\">www.metmuseum.org/Collections/search-the-collections/1400...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1319224650",
+      "taken": "2011-05-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1324943935"
+    },
+    "views": "430",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-6273756820-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-676190",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2011",
+          "_content": "2011",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-90844",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Islamic",
+          "_content": "islamic",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-103837",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inscription",
+          "_content": "inscription",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-6273756820-42474",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "manuscript",
+          "_content": "manuscript",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/6273756820/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

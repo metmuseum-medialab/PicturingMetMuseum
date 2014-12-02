@@ -1,0 +1,301 @@
+{
+  "photo": {
+    "id": "942218498",
+    "secret": "37f57d09be",
+    "server": "1297",
+    "farm": 2,
+    "dateuploaded": "1185733827",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "The Wounded Amazon in the Metropolitan Museum of Art,  July 2007"
+    },
+    "description": {
+      "_content": "Statue of a wounded Amazon, 1st–2nd century A.D.\nRoman copy of a Greek bronze statue, ca. 450–425 B.C.\nMarble (Pentelic); H. 80 1/4 in. (203.84 cm)\nGift of John D. Rockefeller, Jr., 1932 (32.11.4)\n\nThe Amazons were a mythical race of warrior women renowned for their skills in archery and horsemanship. This marble statue depicting a wounded Amazon is a Roman copy of a Greek bronze original dated around 450–425 B.C. The original bronze may have stood in the sanctuary of Artemis at Ephesus on the coast of Asia Minor, where the Amazons had legendary and cultic connections with the goddess.\n\nHere, the mythical warrior woman has been stripped of her weapons and horse, and wounded under her right breast. She wears a short, sleeveless chiton unfastened at one shoulder and belted at the waist with a makeshift bit of bridle from her horse. The garment is known as an exomis, the type of clothing worn by Greek men for exercise, horse riding, or hard labor. Despite her plight, this Amazon shows no sign of pain or fatigue. She gently leans on the pillar at her left and rests her right arm gracefully on her head in a gesture often used to denote sleep or death. The serenity of her pose and the emotional restraint in her facial expression are characteristic of Classical sculpture of the second half of the fifth century B.C.\n\nThe Roman writer Pliny the Younger describes a competition held in the mid-fifth century B.C. between five famous sculptors, including Pheidias, Polykleitos, and Kresilas, who were to make a statue of an Amazon for the temple of Artemis. This type of statue, which is reproduced in other marble copies, is generally associated with that contest.\n\nOf this marble copy, the lower legs and feet have been restored with plaster casts taken from other marble copies of this type in Berlin and Copenhagen. Most of the right, the lower end of the left forearm, the lower part of the pillar, and the plinth are eighteenth-century marble restorations. However, the sharply carved facial features and the crisply carved curls indicate a faithful rendering of the bronze original.\n \nText from: <a href=\"http://www.metmuseum.org/toah/hd/god1/hod_32.11.4.htm\">www.metmuseum.org/toah/hd/god1/hod_32.11.4.htm</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1185733827",
+      "taken": "2007-07-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1357930310"
+    },
+    "views": "6225",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "6"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-942218498-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-19957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "classical",
+          "_content": "classical",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-1874",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Greek",
+          "_content": "greek",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-24978",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "marble",
+          "_content": "marble",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-1000",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "statue",
+          "_content": "statue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-2959",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Amazon",
+          "_content": "amazon",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-45134",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "copy",
+          "_content": "copy",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-942218498-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/942218498/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

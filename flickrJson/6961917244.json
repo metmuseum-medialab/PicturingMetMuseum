@@ -1,0 +1,129 @@
+{
+  "photo": {
+    "id": "6961917244",
+    "secret": "c22722696e",
+    "server": "8164",
+    "farm": 9,
+    "dateuploaded": "1335228019",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "The 9 45 Accomodation_TheMET(5)"
+    },
+    "description": {
+      "_content": "Edward Lamson Henry (1841-1919)\n\n<b><i> The 9:45 Accommodation </i> </b>  1867\nOil on canvas\n\nHenry, who was interested in all modes of transportation, painted this canvas for John Taylor Johnston, president of the New Jersey Central Railroad and first president of The Metropolitan Museum of Art.  The artist’s wife recalled that Johnston paid her husband “$500, and almost unheard-of-price at that time even by a man of reputation….It was placed on an easel at one of Mr. Johnston’s artist receptions, attracting a good deal of attention, as also [did] the young artist.”  The particular station shown here is unidentified; many stations were built on the same model, and Henry may have combined elements from several different stations.\nBequest of Moses Tanenbaum, 1937\n39.47.1\n\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1335228019",
+      "taken": "2011-02-25 12:38:53",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1335320232"
+    },
+    "views": "286",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "2"
+    },
+    "notes": {
+      "note": [
+        {
+          "id": "72157629522495934",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "x": "138",
+          "y": "169",
+          "w": "84",
+          "h": "55",
+          "_content": "...<b><a href=\"http://www.flickr.com/photos/rverc/6959411774/\">Detail<a></a></a></b>"
+        }
+      ]
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6961917244-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6961917244-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6961917244-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6961917244-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6961917244-87558433",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_511",
+          "_content": "bench511",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6961917244/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

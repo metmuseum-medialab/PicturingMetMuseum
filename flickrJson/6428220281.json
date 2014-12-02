@@ -1,0 +1,134 @@
+{
+  "photo": {
+    "id": "6428220281",
+    "secret": "1ebbe6f53a",
+    "server": "7017",
+    "farm": 8,
+    "dateuploaded": "1322616734",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "A Village in a Valley_TheMET(9)"
+    },
+    "description": {
+      "_content": "Théodore Rousseau \n French,  1812–1867\nDetail from: <b><i> A Village in a Valley, ca. late 1820s </i></b>\nOil on paper, mounted on canvas\nSigned (lower left): TH.Rousseau.\n\nNot yet twenty years old, Rousseau painted this study from nature during one of his many expeditions into the countryside around Paris in the late 1820s.  It is probably the painting described as a view of the plain of Saint-Ouen from the hill of Batignolles, with the forest of Montmorency in the distance, that was included in the 1867 retrospective of his work.\nThe Friedsam Collection, Bequest of Michael Friedsam, 1931\n32.100.133\nFrom the placard:  Metropolitan Museum of Art\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1322616734",
+      "taken": "2011-09-25 10:13:08",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1322619058"
+    },
+    "views": "345",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-6428220281-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-15777032",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Théodore Rousseau",
+          "_content": "théodorerousseau",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-6428220281-79173881",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_232",
+          "_content": "bench232",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/6428220281/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

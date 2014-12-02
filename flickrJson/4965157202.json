@@ -1,0 +1,142 @@
+{
+  "photo": {
+    "id": "4965157202",
+    "secret": "f466def479",
+    "server": "4146",
+    "farm": 5,
+    "dateuploaded": "1283803483",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "26270547@N07",
+      "username": "rverc",
+      "realname": "Regan Vercruysse",
+      "location": "Stewartsville, New Jersey, USA",
+      "iconserver": "2319",
+      "iconfarm": 3,
+      "path_alias": "rverc"
+    },
+    "title": {
+      "_content": "TheAlbum_TheMET (5)"
+    },
+    "description": {
+      "_content": "\nÉdouard Vuillard   French, 1868-1940\n\nDetail from:   <b><i>The Album</i></b>  1895\nOil on canvas\nSigned(lower left): E.Vuillard\n\nThis painting was part of a decorative series of five works—known collectively as ‘The Album’—that was commissioned by Thadée and Misia Natanson in 1894-95.  the unusual character of these works matched that of the Natansons’ Paris apartment, a large open space adjoined by several small alcove areas.  Its unconventional décor reflected Misia’s taste, which was inspired by the English Arts and Crafts movement.  The apartment often served as an alternate office for Thadée’s lively avant-garde journal, ‘La Revue blanche’.  Among the contributors to this influential publication were Claude Debussy, Léon Blum, Stéphane Mallarmé, and André Gide.  The evocative Symbolist qualities of Mallarmé’s poetry and Debussy’s music find echoes in Vuillard’s five panels, which take their name from this painting.\n\nThe Walter H. and Leonore Annenberg Collection,\nGift of Walter H. and Leonore Annenberg, 2000,\nBequest of Walter H. Annenberg, 2002\n2000.93.2\n\nFrom the placard: Metropolitan Museum of Art.\n\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1283803483",
+      "taken": "2010-09-04 09:45:37",
+      "takengranularity": "0",
+      "takenunknown": 0,
+      "lastupdate": "1300528186"
+    },
+    "views": "694",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "3"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "26249217-4965157202-6610486",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "European_Paintings",
+          "_content": "europeanpaintings",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-59219",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Metropolitan_Museum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-29750",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "MET",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-106",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-607",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-11301766",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Edouard Vuillard",
+          "_content": "edouardvuillard",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-37269046",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_8",
+          "_content": "bench8",
+          "machine_tag": 0
+        },
+        {
+          "id": "26249217-4965157202-60666320",
+          "author": "26270547@N07",
+          "authorname": "rverc",
+          "raw": "Bench_205",
+          "_content": "bench205",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/rverc/4965157202/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

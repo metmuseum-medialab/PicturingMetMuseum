@@ -1,0 +1,285 @@
+{
+  "photo": {
+    "id": "1519603934",
+    "secret": "917831f8b7",
+    "server": "2391",
+    "farm": 3,
+    "dateuploaded": "1191888542",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Ivory Panel with a Male Figure Grasping a Tree in the Metropolitan Museum of Art, August 2007"
+    },
+    "description": {
+      "_content": "Panel with a male figure grasping a tree; winged sun disk above\nIvory\nMesopotamia, excavated at Nimrud (ancient Kahlu), Fort Shalmaneser, Room SW 7\nNeo-Assyrian period, Syrian style\n8th century BC\n\nExpedition of the British School of Archaeology in Iraq.\n\nAccession # 59.107.6\n\n\nIn contrast to the grand, stylized reliefs that flanked the walls of the palace of Ashurnasirpal II at Nimrud are the delicate ornamental ivories that once adorned royal furniture. Ivory, prized throughout the ancient world, was used extensively at the time of the Assyrian Empire (ca. 883–612 B.C.). The material was valued by craftsmen because it could be carved in such detail. Although modern tastes appreciate the beauty of an ivory surface, these carvings were often covered with gold foil. Many of the ivories found at Nimrud were brought as booty or tribute from the vassal states to the west of Assyria, where elephants were native and ivory carving was a long-established craft. Others were undoubtedly carved in Assyria by craftsmen brought as captives to the capital cities. Contemporary inscriptions record that Ashurnasirpal took &quot;couches of ivory overlaid with gold&quot; from a city on the western Tigris and received tribute of &quot;elephant tusks and ivory thrones overlaid with gold and silver.&quot; Thousands of ivory fragments were discovered by the British in their excavations of the ruins of Nimrud. Stripped of their gold covering by invading armies, the ivories themselves were discarded as being of little worth.\n\nSyrian-style ivories have been found in Syria—particularly at the site of Arslan Tash—as well as in the Assyrian palaces of northern Mesopotamia. Works in this style include both flat panels used for furniture decoration and such three-dimensional objects as circular boxes and small figures. Syrian-style ivory carving is distinguished by the stocky proportions of the figures, oval faces with small mouths and large eyes, plants with a long wavy stem, and a winged sun disc with pendant volute curls. Unlike the symmetrical compositions of Phoenician ivories, Syrian examples often depict a single figure in profile that completely fills the surface of the plaque. Nude female figures wearing elaborately curled tresses and diadems, sculpted in the round either singly or in groups, are a particularly striking theme. Syrian-style ivories were made primarily during the ninth and eighth centuries B.C.\n\nThis ivory carving would have been one of a group of similar panels used in the back of a chair. It depicts a bearded man, perhaps a warrior, holding the stem of a lotus plant. Above him, a winged disc provides protection. \n\n\nText from the Metropolitan Museum of Art label and \n<a href=\"http://www.metmuseum.org/Works_of_Art/viewOne.asp?dep=3&amp;viewmode=0&amp;item=59.107.6\">www.metmuseum.org/Works_of_Art/viewOne.asp?dep=3&amp;view...</a>\n\n"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1191888542",
+      "taken": "2007-08-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1311007721"
+    },
+    "views": "7152",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "10"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-1519603934-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-106428",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2007",
+          "_content": "2007",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-684399",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NearEast",
+          "_content": "neareast",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-263624",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Assyrian",
+          "_content": "assyrian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-7652",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ivory",
+          "_content": "ivory",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-4892",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "furniture",
+          "_content": "furniture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-150770",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "inlay",
+          "_content": "inlay",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-1519603934-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "fujifinepixs6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/1519603934/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}

@@ -1,0 +1,333 @@
+{
+  "photo": {
+    "id": "5714525305",
+    "secret": "70073fb1d4",
+    "server": "3362",
+    "farm": 4,
+    "dateuploaded": "1305174155",
+    "isfavorite": 0,
+    "license": "0",
+    "safety_level": "0",
+    "rotation": 0,
+    "owner": {
+      "nsid": "23655879@N00",
+      "username": "ElissaSCA",
+      "realname": "",
+      "location": "Queens, New York, United States",
+      "iconserver": "53",
+      "iconfarm": 1,
+      "path_alias": "elissacorsini"
+    },
+    "title": {
+      "_content": "Glass Phalera with Imperial Portraits in the Metropolitan Museum of Art, October 2010"
+    },
+    "description": {
+      "_content": "Title:  Glass phalera (medallion) with imperial portraits\n\nMedium; Technique:  Glass, blue; cast\n\nCulture:  Roman\n\nPeriod:  Early Imperial, Julio-Claudian\n\nDate:  early 1st century A.D.\n\nDimensions:  Other: 1 7/16 x 1/4 in. (3.7 x 0.7 cm)\n\nClassification:  Gems\n\nCredit Line:  Gift of J. Pierpont Morgan, 1917\n\nAccession Number:  17.194.18\n\nDescription:\n\nThe central bust has been identified as the emperor Tiberius. He is flanked by Germanicus and Drusus the Younger, two younger members of the imperial family. Such medallions were worn as badges on military uniforms and were issued to promote a sense of identity within the army and of loyalty to the commander-in-chief, the emperor.\n\nText from:  <a href=\"http://www.metmuseum.org/Works_of_Art/collection_database/greek_and_roman_art/glass_phalera_medallion_with_imperial_portraits//objectview.aspx?OID=130009743&amp;collID=13&amp;dd1=13\" rel=\"nofollow\">www.metmuseum.org/Works_of_Art/collection_database/greek_...</a>"
+    },
+    "visibility": {
+      "ispublic": 1,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "dates": {
+      "posted": "1305174155",
+      "taken": "2010-10-01 00:00:00",
+      "takengranularity": "4",
+      "takenunknown": 0,
+      "lastupdate": "1310969130"
+    },
+    "views": "387",
+    "editability": {
+      "cancomment": 0,
+      "canaddmeta": 0
+    },
+    "publiceditability": {
+      "cancomment": 1,
+      "canaddmeta": 0
+    },
+    "usage": {
+      "candownload": 0,
+      "canblog": 0,
+      "canprint": 0,
+      "canshare": 1
+    },
+    "comments": {
+      "_content": "0"
+    },
+    "notes": {
+      "note": []
+    },
+    "people": {
+      "haspeople": 0
+    },
+    "tags": {
+      "tag": [
+        {
+          "id": "1771406-5714525305-59219",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MetropolitanMuseum",
+          "_content": "metropolitanmuseum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-1154",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Museum",
+          "_content": "museum",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-607",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Art",
+          "_content": "art",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-29750",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Met",
+          "_content": "met",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-442258",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "MMA",
+          "_content": "mma",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-5392",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Manhattan",
+          "_content": "manhattan",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-440",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYork",
+          "_content": "newyork",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-109",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NewYorkCity",
+          "_content": "newyorkcity",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-439",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NY",
+          "_content": "ny",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-106",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "NYC",
+          "_content": "nyc",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-2918",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancient",
+          "_content": "ancient",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-531131",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "ancientworld",
+          "_content": "ancientworld",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-4745",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Roman",
+          "_content": "roman",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-15575",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Empire",
+          "_content": "empire",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-809",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "glass",
+          "_content": "glass",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-11645",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "relief",
+          "_content": "relief",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-308",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "sculpture",
+          "_content": "sculpture",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-113574",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "2010",
+          "_content": "2010",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-12169774",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "FujiFinePixS6000fd",
+          "_content": "fujifinepixs6000fd",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-141",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "blue",
+          "_content": "blue",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-17224",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "medallion",
+          "_content": "medallion",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-73957",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "emperor",
+          "_content": "emperor",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-5965090",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Julio-Claudian",
+          "_content": "julioclaudian",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-231673",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Tiberius",
+          "_content": "tiberius",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-1556779",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Germanicus",
+          "_content": "germanicus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-1556778",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "Drusus",
+          "_content": "drusus",
+          "machine_tag": 0
+        },
+        {
+          "id": "1771406-5714525305-278",
+          "author": "23655879@N00",
+          "authorname": "ElissaSCA",
+          "raw": "portrait",
+          "_content": "portrait",
+          "machine_tag": 0
+        }
+      ]
+    },
+    "location": {
+      "latitude": 40.779509,
+      "longitude": -73.963458,
+      "accuracy": "15",
+      "context": "0",
+      "neighbourhood": {
+        "_content": "Upper East Side",
+        "place_id": "zzA0hmBTUb9GY797pA",
+        "woeid": "23511893"
+      },
+      "locality": {
+        "_content": "New York",
+        "place_id": ".skCPTpTVr.Q3WKW",
+        "woeid": "2459115"
+      },
+      "county": {
+        "_content": "Manhattan",
+        "place_id": "eFEYI5ZQUL_VqqpXvg",
+        "woeid": "12589342"
+      },
+      "region": {
+        "_content": "New York",
+        "place_id": "ODHTuIhTUb75gdBu",
+        "woeid": "2347591"
+      },
+      "country": {
+        "_content": "United States",
+        "place_id": "nz.gsghTUb4c2WAecA",
+        "woeid": "23424977"
+      },
+      "place_id": "zzA0hmBTUb9GY797pA",
+      "woeid": "23511893"
+    },
+    "geoperms": {
+      "ispublic": 1,
+      "iscontact": 0,
+      "isfriend": 0,
+      "isfamily": 0
+    },
+    "urls": {
+      "url": [
+        {
+          "type": "photopage",
+          "_content": "https://www.flickr.com/photos/elissacorsini/5714525305/"
+        }
+      ]
+    },
+    "media": "photo"
+  },
+  "stat": "ok"
+}
