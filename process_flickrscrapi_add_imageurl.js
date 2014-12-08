@@ -6,9 +6,9 @@ var scrapiSearch = "http://scrapi.org/search/{term}";
 
 var scrapiObject = "http://scrapi.org/object/{objectid}";
 
-var sourceCsv = "FlickrWithScrapi.csv";
+var sourceCsv = 'SILK CSVs FlickrScrapi/allData.csv';
 
-var destCsv  = "FlickrScrapiWithImageUrl.csv";
+var destCsv  = "allDataWithFlickr.csv";
 
 var csv_parse = require("csv-parse");
 var csv_transform = require("stream-transform");
@@ -17,7 +17,7 @@ var fs = require("fs");
 var request = require("request")
 
 
-var parser = csv_parse({delimiter: ','});
+var parser = csv_parse({delimiter: ',', quote: '"'});
 
 var skip = 0;
 
@@ -123,7 +123,7 @@ var transformer = csv_transform(function(record, callback){
 	})(record, callback, flickrid);
 
 
-},{parallel : 20});
+},{parallel : 1});
 
 var stringifier= csv_stringify({delimiter: ","});
 
