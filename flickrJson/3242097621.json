@@ -15,7 +15,7 @@
       "nsid": "17884832@N00",
       "username": "Maulleigh",
       "realname": "Molly",
-      "location": "Bronx, NY, United States of America",
+      "location": "Rosta, Italy",
       "iconserver": "8399",
       "iconfarm": 9,
       "path_alias": "maulleigh"
@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1325783558"
     },
-    "views": "1700",
+    "views": "1704",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "Maulleigh",
           "raw": "Anders",
           "_content": "anders",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3242097621-32627",
@@ -78,7 +78,7 @@
           "authorname": "Maulleigh",
           "raw": "Leonard",
           "_content": "leonard",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3242097621-77479",
@@ -86,7 +86,7 @@
           "authorname": "Maulleigh",
           "raw": "Zorn",
           "_content": "zorn",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3242097621-278",
@@ -94,7 +94,7 @@
           "authorname": "Maulleigh",
           "raw": "portrait",
           "_content": "portrait",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3242097621-59219",
@@ -126,7 +126,7 @@
           "authorname": "Maulleigh",
           "raw": "art",
           "_content": "art",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3242097621-29750",

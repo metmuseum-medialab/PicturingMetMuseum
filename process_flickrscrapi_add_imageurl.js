@@ -6,7 +6,7 @@ var scrapiSearch = "http://scrapi.org/search/{term}";
 
 var scrapiObject = "http://scrapi.org/object/{objectid}";
 
-var sourceCsv = 'SILK CSVs FlickrScrapi/allData.csv';
+var sourceCsv = 'FlickrMinimalData01_42_2014_12_08.csv';
 
 var destCsv  = "allDataWithFlickr.csv";
 

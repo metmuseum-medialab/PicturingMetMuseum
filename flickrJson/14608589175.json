@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1405395208"
     },
-    "views": "835",
+    "views": "847",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "jaroslavd",
           "raw": "Artemisia",
           "_content": "artemisia",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "804072-14608589175-1386964",

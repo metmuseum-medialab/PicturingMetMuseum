@@ -15,7 +15,7 @@
       "nsid": "17884832@N00",
       "username": "Maulleigh",
       "realname": "Molly",
-      "location": "Bronx, NY, United States of America",
+      "location": "Rosta, Italy",
       "iconserver": "8399",
       "iconfarm": 9,
       "path_alias": "maulleigh"
@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1324259071"
     },
-    "views": "1407",
+    "views": "1412",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -94,7 +94,7 @@
           "authorname": "Maulleigh",
           "raw": "Pietro",
           "_content": "pietro",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3412950432-242979",
@@ -102,7 +102,7 @@
           "authorname": "Maulleigh",
           "raw": "Lorenzetti",
           "_content": "lorenzetti",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3412950432-1500",
@@ -110,7 +110,7 @@
           "authorname": "Maulleigh",
           "raw": "painting",
           "_content": "painting",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3412950432-607",
@@ -118,7 +118,7 @@
           "authorname": "Maulleigh",
           "raw": "art",
           "_content": "art",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3412950432-1154",
@@ -126,7 +126,7 @@
           "authorname": "Maulleigh",
           "raw": "museum",
           "_content": "museum",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "2489564-3412950432-59219",

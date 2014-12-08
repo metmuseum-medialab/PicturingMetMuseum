@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1415360355"
     },
-    "views": "422",
+    "views": "429",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Rubens",
           "_content": "rubens",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14339323507-278",
@@ -78,7 +78,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Portrait",
           "_content": "portrait",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14339323507-6092",
@@ -86,7 +86,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "femme",
           "_content": "femme",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14339323507-32690699",

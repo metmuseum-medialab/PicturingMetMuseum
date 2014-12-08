@@ -15,7 +15,7 @@
       "nsid": "17884832@N00",
       "username": "Maulleigh",
       "realname": "Molly",
-      "location": "Bronx, NY, United States of America",
+      "location": "Rosta, Italy",
       "iconserver": "8399",
       "iconfarm": 9,
       "path_alias": "maulleigh"
@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1264206621"
     },
-    "views": "1695",
+    "views": "1699",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "Maulleigh",
           "raw": "Jean",
           "_content": "jean",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-172161",
@@ -78,7 +78,7 @@
           "authorname": "Maulleigh",
           "raw": "Baptiste",
           "_content": "baptiste",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-1097235",
@@ -86,7 +86,7 @@
           "authorname": "Maulleigh",
           "raw": "Greuze",
           "_content": "greuze",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-278",
@@ -94,7 +94,7 @@
           "authorname": "Maulleigh",
           "raw": "portrait",
           "_content": "portrait",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-1500",
@@ -102,7 +102,7 @@
           "authorname": "Maulleigh",
           "raw": "painting",
           "_content": "painting",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-59219",
@@ -118,7 +118,7 @@
           "authorname": "Maulleigh",
           "raw": "metropolitan",
           "_content": "metropolitan",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-1154",
@@ -126,7 +126,7 @@
           "authorname": "Maulleigh",
           "raw": "museum",
           "_content": "museum",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-607",
@@ -134,7 +134,7 @@
           "authorname": "Maulleigh",
           "raw": "art",
           "_content": "art",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "2489564-3121948190-29750",
@@ -142,7 +142,7 @@
           "authorname": "Maulleigh",
           "raw": "MET",
           "_content": "met",
-          "machine_tag": 0
+          "machine_tag": false
         }
       ]
     },

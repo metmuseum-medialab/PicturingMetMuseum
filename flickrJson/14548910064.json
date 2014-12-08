@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1409063588"
     },
-    "views": "513",
+    "views": "523",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -78,7 +78,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Caravaggio",
           "_content": "caravaggio",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14548910064-1684650",
@@ -110,7 +110,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Metropolitan Museum of Art",
           "_content": "metropolitanmuseumofart",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14548910064-440",
@@ -118,7 +118,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "New York",
           "_content": "newyork",
-          "machine_tag": false
+          "machine_tag": 0
         }
       ]
     },

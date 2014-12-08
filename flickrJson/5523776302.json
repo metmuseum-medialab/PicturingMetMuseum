@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1301019132"
     },
-    "views": "318",
+    "views": "319",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -68,7 +68,7 @@
           "authorname": "rverc",
           "raw": "Clytie",
           "_content": "clytie",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-5523776302-766256",
@@ -92,7 +92,7 @@
           "authorname": "rverc",
           "raw": "Art",
           "_content": "art",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-5523776302-106",

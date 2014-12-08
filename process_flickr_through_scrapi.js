@@ -6,9 +6,9 @@ var scrapiSearch = "http://scrapi.org/search/{term}";
 
 var scrapiObject = "http://scrapi.org/object/{objectid}";
 
-var sourceCsv = "Flickr sets accession numbers.csv";
+var sourceCsv = "allDataWithFlickr.csv";
 
-var destCsv  = "FlickrWithScrapi.csv";
+var destCsv  = "allDataWithFlickrAndScrapi.csv";
 
 var csv_parse = require("csv-parse");
 var csv_transform = require("stream-transform");
@@ -113,6 +113,12 @@ var transformer = csv_transform(function(record, callback){
 		callback(null);
 		return;
 	}
+
+	if(acc_no == "-"){
+		callback(null, record);
+		return;
+	}
+
 	console.log("acc_no " + acc_no);
 	var length = record.length;
 	console.log(length);
@@ -133,6 +139,35 @@ var transformer = csv_transform(function(record, callback){
 		    	return;
 		    }
 		    var i =0;
+
+
+/*
+// this needs some figuring out...
+		    function matchAccNo(index, items, callback){
+		    	if(index >= items.length){
+		    		return false;
+		    	}
+		    	var url = items[index].href;
+
+		    	request(__url, function(err2, resp2, body2){
+				    if(error){
+				      console.log("in call to Met Page, got error" + error );
+				      __callback(null, __record);     
+				      return;
+				    }
+				    var obj = JSON.parse(body2);
+				    real_acc = obj.accessionNumber;
+				    console.log("got object info : " + real_acc + " : " + __acc_no);
+				    if(real_acc == __acc_no){
+				    	console.log("this is the real object");
+				    	combine_data(__record, obj, __callback);
+				    	return;
+				    }else{
+				    	console.log("NOT matching accession number");
+				    }
+		    	});
+		    }
+*/
 		    while(i < items.length){
 		    	var url = items[i].href;
 		    	console.log("url is " + url);
@@ -141,6 +176,10 @@ var transformer = csv_transform(function(record, callback){
 			    	request(__url, function(err2, resp2, body2){
 					    if(error){
 					      console.log("in call to Met Page, got error" + error );
+					      __callback(null, __record);     
+					      return;
+					    }
+					    if(!body2 || body2.trim() == "undefined"){
 					      __callback(null, __record);     
 					      return;
 					    }

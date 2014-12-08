@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1414637341"
     },
-    "views": "608",
+    "views": "632",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -126,7 +126,7 @@
           "authorname": "jaroslavd",
           "raw": "sculpture",
           "_content": "sculpture",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "804072-14903202429-12828456",

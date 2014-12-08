@@ -38,7 +38,7 @@
       "takenunknown": "0",
       "lastupdate": "1416447919"
     },
-    "views": "11238",
+    "views": "11323",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -166,7 +166,7 @@
           "authorname": "wallyg",
           "raw": "manhattan",
           "_content": "manhattan",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "1713009-2224874868-9012",
@@ -174,7 +174,7 @@
           "authorname": "wallyg",
           "raw": "landmark",
           "_content": "landmark",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "1713009-2224874868-29835",
@@ -238,7 +238,7 @@
           "authorname": "wallyg",
           "raw": "ny",
           "_content": "ny",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "1713009-2224874868-34805",

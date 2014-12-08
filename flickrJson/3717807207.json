@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1334785391"
     },
-    "views": "578",
+    "views": "593",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -68,7 +68,7 @@
           "authorname": "rverc",
           "raw": "MET",
           "_content": "met",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-607",
@@ -76,7 +76,7 @@
           "authorname": "rverc",
           "raw": "Art",
           "_content": "art",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-106",
@@ -84,7 +84,7 @@
           "authorname": "rverc",
           "raw": "NYC",
           "_content": "nyc",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-59219",
@@ -92,7 +92,7 @@
           "authorname": "rverc",
           "raw": "Metropolitan_Museum",
           "_content": "metropolitanmuseum",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-6610486",
@@ -100,7 +100,7 @@
           "authorname": "rverc",
           "raw": "European_Paintings",
           "_content": "europeanpaintings",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-1325105",
@@ -108,7 +108,7 @@
           "authorname": "rverc",
           "raw": "Rosa Bonheur",
           "_content": "rosabonheur",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-3717807207-2838004",
@@ -140,7 +140,7 @@
           "authorname": "rverc",
           "raw": "Bench_177",
           "_content": "bench177",
-          "machine_tag": 0
+          "machine_tag": false
         }
       ]
     },

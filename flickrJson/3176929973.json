@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1391813005"
     },
-    "views": "1147",
+    "views": "1157",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -68,7 +68,7 @@
           "authorname": "qpkarl",
           "raw": "3D",
           "_content": "3d",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-12472",
@@ -76,7 +76,7 @@
           "authorname": "qpkarl",
           "raw": "stereo",
           "_content": "stereo",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-2551",
@@ -100,7 +100,7 @@
           "authorname": "qpkarl",
           "raw": "stereography",
           "_content": "stereography",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-22592",
@@ -108,7 +108,7 @@
           "authorname": "qpkarl",
           "raw": "canon digital rebel",
           "_content": "canondigitalrebel",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-109",
@@ -124,7 +124,7 @@
           "authorname": "qpkarl",
           "raw": "metropolitan museum",
           "_content": "metropolitanmuseum",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-17396572",
@@ -132,7 +132,7 @@
           "authorname": "qpkarl",
           "raw": "Art Gallery and Museums",
           "_content": "artgalleryandmuseums",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-315466",
@@ -140,7 +140,7 @@
           "authorname": "qpkarl",
           "raw": "stereographic",
           "_content": "stereographic",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-170205",
@@ -148,7 +148,7 @@
           "authorname": "qpkarl",
           "raw": "stereoscope",
           "_content": "stereoscope",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-2550",
@@ -156,7 +156,7 @@
           "authorname": "qpkarl",
           "raw": "stereoscopic",
           "_content": "stereoscopic",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-181615",
@@ -164,7 +164,7 @@
           "authorname": "qpkarl",
           "raw": "stereoscopy",
           "_content": "stereoscopy",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "12650316-3176929973-2553",
@@ -172,7 +172,7 @@
           "authorname": "qpkarl",
           "raw": "stereophotography",
           "_content": "stereophotography",
-          "machine_tag": 0
+          "machine_tag": false
         }
       ]
     },

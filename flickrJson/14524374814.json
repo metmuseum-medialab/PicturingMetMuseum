@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1415360351"
     },
-    "views": "505",
+    "views": "516",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Rubens",
           "_content": "rubens",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14524374814-223205205",
@@ -86,7 +86,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "Metropolitan Museum of Art",
           "_content": "metropolitanmuseumofart",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14524374814-440",
@@ -94,7 +94,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "New York",
           "_content": "newyork",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14524374814-6683605",
@@ -118,7 +118,7 @@
           "authorname": "Afchine Davoudi",
           "raw": "peinture d'histoire",
           "_content": "peinturedhistoire",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "50215638-14524374814-30640",

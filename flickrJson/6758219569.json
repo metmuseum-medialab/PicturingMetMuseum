@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1327540432"
     },
-    "views": "401",
+    "views": "402",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -68,7 +68,7 @@
           "authorname": "rverc",
           "raw": "Metropolitan_Museum",
           "_content": "metropolitanmuseum",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-6758219569-6610486",
@@ -76,7 +76,7 @@
           "authorname": "rverc",
           "raw": "European_Paintings",
           "_content": "europeanpaintings",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-6758219569-46849",
@@ -84,7 +84,7 @@
           "authorname": "rverc",
           "raw": "Goya",
           "_content": "goya",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-6758219569-29750",
@@ -92,7 +92,7 @@
           "authorname": "rverc",
           "raw": "MET",
           "_content": "met",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-6758219569-106",
@@ -100,7 +100,7 @@
           "authorname": "rverc",
           "raw": "NYC",
           "_content": "nyc",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "26249217-6758219569-607",
@@ -108,7 +108,7 @@
           "authorname": "rverc",
           "raw": "Art",
           "_content": "art",
-          "machine_tag": 0
+          "machine_tag": false
         }
       ]
     },

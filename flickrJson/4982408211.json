@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1378556492"
     },
-    "views": "892",
+    "views": "909",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -79,7 +79,7 @@
           "authorname": "rverc",
           "raw": "European_Paintings",
           "_content": "europeanpaintings",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-59219",
@@ -87,7 +87,7 @@
           "authorname": "rverc",
           "raw": "Metropolitan_Museum",
           "_content": "metropolitanmuseum",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-607",
@@ -95,7 +95,7 @@
           "authorname": "rverc",
           "raw": "Art",
           "_content": "art",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-106",
@@ -103,7 +103,7 @@
           "authorname": "rverc",
           "raw": "NYC",
           "_content": "nyc",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-29750",
@@ -111,7 +111,7 @@
           "authorname": "rverc",
           "raw": "MET",
           "_content": "met",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-60797459",
@@ -119,7 +119,7 @@
           "authorname": "rverc",
           "raw": "Bench_199",
           "_content": "bench199",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-161149",
@@ -127,7 +127,7 @@
           "authorname": "rverc",
           "raw": "Mengs",
           "_content": "mengs",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "26249217-4982408211-18889453",
@@ -135,7 +135,7 @@
           "authorname": "rverc",
           "raw": "Anton Raphael Mengs",
           "_content": "antonraphaelmengs",
-          "machine_tag": false
+          "machine_tag": 0
         }
       ]
     },

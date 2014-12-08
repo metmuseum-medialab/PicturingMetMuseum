@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1412607862"
     },
-    "views": "404",
+    "views": "409",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -70,7 +70,7 @@
           "authorname": "andryn2006",
           "raw": "Art",
           "_content": "art",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-15671",
@@ -78,7 +78,7 @@
           "authorname": "andryn2006",
           "raw": "Egyptian",
           "_content": "egyptian",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-49675230",
@@ -94,7 +94,7 @@
           "authorname": "andryn2006",
           "raw": "Metropolitan Museum of Art",
           "_content": "metropolitanmuseumofart",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-27735",
@@ -102,7 +102,7 @@
           "authorname": "andryn2006",
           "raw": "Mummy",
           "_content": "mummy",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-440",
@@ -110,7 +110,7 @@
           "authorname": "andryn2006",
           "raw": "New York",
           "_content": "newyork",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-17707",
@@ -118,7 +118,7 @@
           "authorname": "andryn2006",
           "raw": "Sarcophagus",
           "_content": "sarcophagus",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-351",
@@ -126,7 +126,7 @@
           "authorname": "andryn2006",
           "raw": "USA",
           "_content": "usa",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-17458",
@@ -134,7 +134,7 @@
           "authorname": "andryn2006",
           "raw": "pharaoh",
           "_content": "pharaoh",
-          "machine_tag": false
+          "machine_tag": 0
         },
         {
           "id": "5863141-13132416065-4074",
@@ -142,7 +142,7 @@
           "authorname": "andryn2006",
           "raw": "United States",
           "_content": "unitedstates",
-          "machine_tag": false
+          "machine_tag": 0
         }
       ]
     },

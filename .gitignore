@@ -3,3 +3,5 @@ met_metadata.txt
 extra
 data
 node_modules
+flickrJson
+*.json

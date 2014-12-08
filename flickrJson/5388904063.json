@@ -36,7 +36,7 @@
       "takenunknown": 0,
       "lastupdate": "1296700323"
     },
-    "views": "678",
+    "views": "681",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -132,7 +132,7 @@
           "authorname": "NYC-Man",
           "raw": "Isis-Aphrodite",
           "_content": "isisaphrodite",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "32787860-5388904063-5458",
@@ -140,7 +140,7 @@
           "authorname": "NYC-Man",
           "raw": "Terracotta",
           "_content": "terracotta",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "32787860-5388904063-59219",

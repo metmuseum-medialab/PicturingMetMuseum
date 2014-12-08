@@ -38,7 +38,7 @@
       "takenunknown": 0,
       "lastupdate": "1388052009"
     },
-    "views": "1731",
+    "views": "1766",
     "editability": {
       "cancomment": 0,
       "canaddmeta": 0
@@ -86,7 +86,7 @@
           "authorname": "jaroslavd",
           "raw": "Lorenzo Lotto",
           "_content": "lorenzolotto",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "804072-6355888869-20208",
@@ -110,7 +110,7 @@
           "authorname": "jaroslavd",
           "raw": "Metropolitan Museum of Art",
           "_content": "metropolitanmuseumofart",
-          "machine_tag": 0
+          "machine_tag": false
         },
         {
           "id": "804072-6355888869-29750",
