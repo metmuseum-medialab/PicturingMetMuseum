@@ -172,7 +172,7 @@ var transformer = csv_transform(function(record, callback){
 		    	return;
 		    }
 
-		    matchAccNo(_acc_no, 0, items, _record, _callback);
+		    matchAccNo(_acc_no, 0, items, _callback, _record);
 		});
 	}(record, acc_no, callback));
 },{parallel : 20});
