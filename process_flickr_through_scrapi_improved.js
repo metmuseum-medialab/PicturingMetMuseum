@@ -98,7 +98,7 @@ var subarray = function(record, sub_term){
 
 
 function matchAccNo(acc_no, index, items, callback, record){
-	if(index >= items.length){
+	if(!items || index >= items.length){
 	    callback(null, record);     
 		return false;
 	}
