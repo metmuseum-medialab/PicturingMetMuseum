@@ -102,6 +102,8 @@ function matchAccNo(acc_no, index, items, callback, record){
 	    callback(null, record);     
 		return false;
 	}
+	console.log(index + " : " + acc_no);
+	console.log(items);
 	var url = items[index].href;
 
 	request(url, function(err2, resp2, body2){
