@@ -8,7 +8,7 @@ var scrapiObject = "http://scrapi.org/object/{objectid}";
 
 var sourceCsv = "allDataWithFlickr.csv";
 
-var destCsv  = "allDataWithFlickrAndScrapi.csv";
+var destCsv  = "allDataWithFlickrAndScrapiImproved.csv";
 
 var csv_parse = require("csv-parse");
 var csv_transform = require("stream-transform");
@@ -138,66 +138,39 @@ var transformer = csv_transform(function(record, callback){
 		    	_callback(null, _record);
 		    	return;
 		    }
-		    var i =0;
 
-
-/*
-// this needs some figuring out...
-		    function matchAccNo(index, items, callback){
+		    function matchAccNo(acc_no, index, items, callback, record){
 		    	if(index >= items.length){
+				    callback(null, record);     
 		    		return false;
 		    	}
 		    	var url = items[index].href;
 
-		    	request(__url, function(err2, resp2, body2){
-				    if(error){
-				      console.log("in call to Met Page, got error" + error );
-				      __callback(null, __record);     
+		    	request(url, function(err2, resp2, body2){
+				    if(err){
+				      console.log("in call to Met Page, got error" + err );
+				      matchAccNo(acc_no, index+1, items, callback, record);
+				      return;
+				    }
+				    if(!body2 || body2.trim() == "undefined"){
+				      matchAccNo(acc_no, index+1, items, callback, record);
 				      return;
 				    }
 				    var obj = JSON.parse(body2);
 				    real_acc = obj.accessionNumber;
-				    console.log("got object info : " + real_acc + " : " + __acc_no);
+				    console.log("got object info : " + real_acc + " : " + acc_no);
 				    if(real_acc == __acc_no){
 				    	console.log("this is the real object");
-				    	combine_data(__record, obj, __callback);
-				    	return;
+				    	combine_data(record, obj, callback);
+				    	return true;
 				    }else{
 				    	console.log("NOT matching accession number");
+				    	matchAccNo(acc_no, index+1, items, callback, record);
 				    }
 		    	});
 		    }
-*/
-		    while(i < items.length){
-		    	var url = items[i].href;
-		    	console.log("url is " + url);
-		    	i++;
-		    	(function(__record, __acc_no, __url, __callback){
-			    	request(__url, function(err2, resp2, body2){
-					    if(error){
-					      console.log("in call to Met Page, got error" + error );
-					      __callback(null, __record);     
-					      return;
-					    }
-					    if(!body2 || body2.trim() == "undefined" || body2.trim() == "Not Found"){
-					      __callback(null, __record);     
-					      return;
-					    }
-					    var obj = JSON.parse(body2);
-					    real_acc = obj.accessionNumber;
-					    console.log("got object info : " + real_acc + " : " + __acc_no);
-					    if(real_acc == __acc_no){
-					    	console.log("this is the real object");
-					    	combine_data(__record, obj, __callback);
-					    	return;
-					    }else{
-					    	console.log("NOT matching accession number");
-					    }
-			    	});
-		    	}(_record, _acc_no, url, _callback));
-		    }
-		    callback(null);
-		});
+
+		    matchAccNo(_acc_no, 0, items, _record, _callback);
 	}(record, acc_no, callback));
 },{parallel : 20});
 
