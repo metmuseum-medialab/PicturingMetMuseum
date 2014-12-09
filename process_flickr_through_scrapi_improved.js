@@ -96,6 +96,39 @@ var subarray = function(record, sub_term){
 	return new_array;
 }
 
+
+function matchAccNo(acc_no, index, items, callback, record){
+	if(index >= items.length){
+	    callback(null, record);     
+		return false;
+	}
+	var url = items[index].href;
+
+	request(url, function(err2, resp2, body2){
+	    if(err){
+	      console.log("in call to Met Page, got error" + err );
+	      matchAccNo(acc_no, index+1, items, callback, record);
+	      return;
+	    }
+	    if(!body2 || body2.trim() == "undefined"){
+	      matchAccNo(acc_no, index+1, items, callback, record);
+	      return;
+	    }
+	    var obj = JSON.parse(body2);
+	    real_acc = obj.accessionNumber;
+	    console.log("got object info : " + real_acc + " : " + acc_no);
+	    if(real_acc == __acc_no){
+	    	console.log("this is the real object");
+	    	combine_data(record, obj, callback);
+	    	return true;
+	    }else{
+	    	console.log("NOT matching accession number");
+	    	matchAccNo(acc_no, index+1, items, callback, record);
+	    }
+	});
+}
+
+
 var first = true;
 var rowcount= 0;
 var transformer = csv_transform(function(record, callback){
@@ -139,38 +172,8 @@ var transformer = csv_transform(function(record, callback){
 		    	return;
 		    }
 
-		    function matchAccNo(acc_no, index, items, callback, record){
-		    	if(index >= items.length){
-				    callback(null, record);     
-		    		return false;
-		    	}
-		    	var url = items[index].href;
-
-		    	request(url, function(err2, resp2, body2){
-				    if(err){
-				      console.log("in call to Met Page, got error" + err );
-				      matchAccNo(acc_no, index+1, items, callback, record);
-				      return;
-				    }
-				    if(!body2 || body2.trim() == "undefined"){
-				      matchAccNo(acc_no, index+1, items, callback, record);
-				      return;
-				    }
-				    var obj = JSON.parse(body2);
-				    real_acc = obj.accessionNumber;
-				    console.log("got object info : " + real_acc + " : " + acc_no);
-				    if(real_acc == __acc_no){
-				    	console.log("this is the real object");
-				    	combine_data(record, obj, callback);
-				    	return true;
-				    }else{
-				    	console.log("NOT matching accession number");
-				    	matchAccNo(acc_no, index+1, items, callback, record);
-				    }
-		    	});
-		    }
-
 		    matchAccNo(_acc_no, 0, items, _record, _callback);
+		});
 	}(record, acc_no, callback));
 },{parallel : 20});
 
