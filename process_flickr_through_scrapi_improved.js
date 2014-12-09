@@ -117,7 +117,7 @@ function matchAccNo(acc_no, index, items, callback, record){
 	    var obj = JSON.parse(body2);
 	    real_acc = obj.accessionNumber;
 	    console.log("got object info : " + real_acc + " : " + acc_no);
-	    if(real_acc == __acc_no){
+	    if(real_acc == acc_no){
 	    	console.log("this is the real object");
 	    	combine_data(record, obj, callback);
 	    	return true;
