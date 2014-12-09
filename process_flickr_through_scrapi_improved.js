@@ -105,8 +105,8 @@ function matchAccNo(acc_no, index, items, callback, record){
 	var url = items[index].href;
 
 	request(url, function(err2, resp2, body2){
-	    if(err){
-	      console.log("in call to Met Page, got error" + err );
+	    if(err2){
+	      console.log("in call to Met Page, got error" + err2 );
 	      matchAccNo(acc_no, index+1, items, callback, record);
 	      return;
 	    }
