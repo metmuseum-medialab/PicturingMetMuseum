@@ -6,9 +6,12 @@ var scrapiSearch = "http://scrapi.org/search/{term}";
 
 var scrapiObject = "http://scrapi.org/object/{objectid}";
 
-var sourceCsv = 'FlickrMinimalData01_42_2014_12_08.csv';
-
-var destCsv  = "allDataWithFlickr.csv";
+var argv = require('minimist')(process.argv.slice(2));
+var sourceCsv = argv._[0];
+var destCsv = argv._[1];
+console.log(argv);
+console.log(sourceCsv);
+console.log(destCsv);
 
 var csv_parse = require("csv-parse");
 var csv_transform = require("stream-transform");

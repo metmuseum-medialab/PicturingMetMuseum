@@ -6,9 +6,14 @@ var scrapiSearch = "http://scrapi.org/search/{term}";
 
 var scrapiObject = "http://scrapi.org/object/{objectid}";
 
-var sourceCsv = "allDataWithFlickr.csv";
 
-var destCsv  = "allDataWithFlickrAndScrapi.csv";
+var argv = require('minimist')(process.argv.slice(2));
+var sourceCsv = argv._[0];
+var destCsv = argv._[1];
+console.log(argv);
+console.log(sourceCsv);
+console.log(destCsv);
+
 
 var csv_parse = require("csv-parse");
 var csv_transform = require("stream-transform");
@@ -114,7 +119,7 @@ var transformer = csv_transform(function(record, callback){
 		return;
 	}
 
-	if(acc_no == "-"){
+	if(acc_no == "-" || !acc_no || acc_no.trim() == ""){
 		callback(null, record);
 		return;
 	}
