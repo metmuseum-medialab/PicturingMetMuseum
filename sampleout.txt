@@ -1,0 +1,979 @@
+{ _: [ 'Flickr_Spaces.csv', 'Flickr_Spaces_Addtl_Flickr2.csv' ] }
+Flickr_Spaces.csv
+Flickr_Spaces_Addtl_Flickr2.csv
+
+got flickr stuff
+File Name
+10952727204.jpg
+10952727204
+flickr result
+{ photo: 
+   { id: '10952727204',
+     secret: 'a7ca43c583',
+     server: '5501',
+     farm: 6,
+     dateuploaded: '1384903909',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: 'c2f04076ae',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '8729032@N06',
+        username: 'zigwaffle',
+        realname: 'Jim Zigman',
+        location: 'USA',
+        iconserver: '5327',
+        iconfarm: 6,
+        path_alias: null },
+     title: { _content: '2013-11-11 - American Wing Courtyard balcony - View from balcony' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1384903909',
+        taken: '2013-11-11 12:04:11',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1385441684' },
+     views: '30',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     location: 
+      { latitude: 40.779395,
+        longitude: -73.963576,
+        accuracy: '16',
+        context: '0',
+        neighbourhood: [Object],
+        locality: [Object],
+        county: [Object],
+        region: [Object],
+        country: [Object],
+        place_id: 'zzA0hmBTUb9GY797pA',
+        woeid: '23511893' },
+     geoperms: { ispublic: 1, iscontact: 0, isfriend: 0, isfamily: 0 },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/8729032@N06/10952727204/' } ] }
+http://c2.staticflickr.com/6/5501/10952727204_a7ca43c583.jpg
+13476672063.jpg
+13476672063
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13476672063',
+     secret: 'ddd12589c2',
+     server: '7162',
+     farm: 8,
+     dateuploaded: '1396051522',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     owner: 
+      { nsid: '26270547@N07',
+        username: 'rverc',
+        realname: 'Regan Vercruysse',
+        location: 'Stewartsville, New Jersey, USA',
+        iconserver: '2319',
+        iconfarm: 3,
+        path_alias: 'rverc' },
+     title: { _content: 'Petrie Court TheMET (34)' },
+     description: { _content: 'Running out of time...' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1396051522',
+        taken: '2014-02-07 12:30:48',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1397031167' },
+     views: '962',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 1 },
+     usage: { candownload: 0, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '11' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/rverc/13476672063/' } ] }
+http://c2.staticflickr.com/8/7162/13476672063_ddd12589c2.jpg
+13518457503.jpg
+13518457503
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13518457503',
+     secret: '18b495c5bf',
+     server: '3790',
+     farm: 4,
+     dateuploaded: '1396208079',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: 'da651b6e96',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '61624831@N00',
+        username: 'Tilius - Silvio Lucchini',
+        realname: 'Silvio Lucchini',
+        location: 'Ciriè (TO), Italy',
+        iconserver: '137',
+        iconfarm: 1,
+        path_alias: 'tilius' },
+     title: { _content: 'MET still life' },
+     description: { _content: 'Sometimes there are scenes where life become theater, there are actors and a stage... and you can only contemplate' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1396208079',
+        taken: '2014-03-30 21:23:43',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1402869773' },
+     views: '503',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '3' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/tilius/13518457503/' } ] }
+http://c2.staticflickr.com/4/3790/13518457503_18b495c5bf.jpg
+13910374090.jpg
+13910374090
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13910374090',
+     secret: '99b567f00d',
+     server: '2933',
+     farm: 3,
+     dateuploaded: '1399133232',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '14a58ecd46',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '119879946@N08',
+        username: 'angelica therese',
+        realname: 'Angelica Therese',
+        location: 'Wilmington, NC, USA',
+        iconserver: '7186',
+        iconfarm: 8,
+        path_alias: 'angelicatherese' },
+     title: { _content: 'MET NYC' },
+     description: { _content: '' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1399133232',
+        taken: '2014-04-16 02:45:54',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1399215375' },
+     views: '23',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/angelicatherese/13910374090/' } ] }
+http://c2.staticflickr.com/3/2933/13910374090_99b567f00d.jpg
+13910386888.jpg
+13910386888
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13910386888',
+     secret: '7f77ab0c2c',
+     server: '2928',
+     farm: 3,
+     dateuploaded: '1399133229',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '98d775cf56',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '119879946@N08',
+        username: 'angelica therese',
+        realname: 'Angelica Therese',
+        location: 'Wilmington, NC, USA',
+        iconserver: '7186',
+        iconfarm: 8,
+        path_alias: 'angelicatherese' },
+     title: { _content: 'MET NYC' },
+     description: { _content: '' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1399133229',
+        taken: '2014-04-16 02:31:34',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1399215375' },
+     views: '27',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/angelicatherese/13910386888/' } ] }
+http://c2.staticflickr.com/3/2928/13910386888_7f77ab0c2c.jpg
+13959309096.jpg
+13959309096
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13959309096',
+     secret: '3b32926b38',
+     server: '2916',
+     farm: 3,
+     dateuploaded: '1398258900',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: 'd9641c0647',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2970' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258900',
+        taken: '2014-02-11 22:25:45',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '56',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13959309096/' } ] }
+http://c2.staticflickr.com/3/2916/13959309096_3b32926b38.jpg
+13959310436.jpg
+13959310436
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13959310436',
+     secret: 'fa282b32b2',
+     server: '7433',
+     farm: 8,
+     dateuploaded: '1398258897',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '40915038d5',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2964' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258897',
+        taken: '2014-02-11 22:17:24',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1399492662' },
+     views: '55',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13959310436/' } ] }
+http://c2.staticflickr.com/8/7433/13959310436_fa282b32b2.jpg
+13979232361.jpg
+13979232361
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13979232361',
+     secret: 'ef28c0cd57',
+     server: '7126',
+     farm: 8,
+     dateuploaded: '1398258901',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '6cdefc8b2d',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2972' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258901',
+        taken: '2014-02-11 22:26:53',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '58',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13979232361/' } ] }
+http://c2.staticflickr.com/8/7126/13979232361_ef28c0cd57.jpg
+13979233161.jpg
+13979233161
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13979233161',
+     secret: '8a45073026',
+     server: '2928',
+     farm: 3,
+     dateuploaded: '1398258899',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '2954d3b6cc',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2968' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258899',
+        taken: '2014-02-11 22:21:52',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '59',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13979233161/' } ] }
+http://c2.staticflickr.com/3/2928/13979233161_8a45073026.jpg
+13979234661.jpg
+13979234661
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13979234661',
+     secret: '99786393ce',
+     server: '5110',
+     farm: 6,
+     dateuploaded: '1398258896',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: 'd624ea0580',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2963' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258896',
+        taken: '2014-02-11 22:15:31',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '53',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13979234661/' } ] }
+http://c2.staticflickr.com/6/5110/13979234661_99786393ce.jpg
+13982418215.jpg
+13982418215
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13982418215',
+     secret: '91f1613933',
+     server: '5038',
+     farm: 6,
+     dateuploaded: '1398258902',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '0c31da3166',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2975' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258902',
+        taken: '2014-02-11 22:28:16',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '59',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13982418215/' } ] }
+http://c2.staticflickr.com/6/5038/13982418215_91f1613933.jpg
+13982845904.jpg
+13982845904
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13982845904',
+     secret: 'edb88aa1e9',
+     server: '7298',
+     farm: 8,
+     dateuploaded: '1398258909',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '4cfd3e51cd',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2987' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258909',
+        taken: '2014-02-11 22:55:51',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1400575919' },
+     views: '56',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13982845904/' } ] }
+http://c2.staticflickr.com/8/7298/13982845904_edb88aa1e9.jpg
+13982849614.jpg
+13982849614
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13982849614',
+     secret: 'abb6eed9ce',
+     server: '5179',
+     farm: 6,
+     dateuploaded: '1398258900',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: 'a6a5eb9f94',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2971' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258900',
+        taken: '2014-02-11 22:26:39',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '55',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13982849614/' } ] }
+http://c2.staticflickr.com/6/5179/13982849614_abb6eed9ce.jpg
+13982850834.jpg
+13982850834
+The file was saved!
+flickr result
+{ photo: 
+   { id: '13982850834',
+     secret: '33a98bef23',
+     server: '2929',
+     farm: 3,
+     dateuploaded: '1398258897',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '48e7255115',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2965' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258897',
+        taken: '2014-02-11 22:17:52',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '56',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/13982850834/' } ] }
+http://c2.staticflickr.com/3/2929/13982850834_33a98bef23.jpg
+14002408693.jpg
+14002408693
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14002408693',
+     secret: 'e354148198',
+     server: '2927',
+     farm: 3,
+     dateuploaded: '1398258904',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '9c00f6d286',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2978' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258904',
+        taken: '2014-02-11 22:35:45',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '56',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/14002408693/' } ] }
+http://c2.staticflickr.com/3/2927/14002408693_e354148198.jpg
+14002409153.jpg
+14002409153
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14002409153',
+     secret: '3d27a1f04b',
+     server: '5575',
+     farm: 6,
+     dateuploaded: '1398258902',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '5603354ec6',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2976' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258902',
+        taken: '2014-02-11 22:28:28',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '60',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/14002409153/' } ] }
+http://c2.staticflickr.com/6/5575/14002409153_3d27a1f04b.jpg
+14002409523.jpg
+14002409523
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14002409523',
+     secret: '4320348c3a',
+     server: '5095',
+     farm: 6,
+     dateuploaded: '1398258901',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '633a88f9e3',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2974' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258901',
+        taken: '2014-02-11 22:27:38',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '57',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/14002409523/' } ] }
+http://c2.staticflickr.com/6/5095/14002409523_4320348c3a.jpg
+14002411263.jpg
+14002411263
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14002411263',
+     secret: '5c1180d197',
+     server: '7106',
+     farm: 8,
+     dateuploaded: '1398258898',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '498ce4b6c4',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '113314806@N07',
+        username: 'The diary of Blue Shoes!',
+        realname: '',
+        location: 'Dublin, Irlanda',
+        iconserver: '7426',
+        iconfarm: 8,
+        path_alias: null },
+     title: { _content: 'IMG_2967' },
+     description: { _content: '                               ' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1398258898',
+        taken: '2014-02-11 22:21:07',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1398258917' },
+     views: '61',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/113314806@N07/14002411263/' } ] }
+http://c2.staticflickr.com/8/7106/14002411263_5c1180d197.jpg
+14097413224.jpg
+14097413224
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14097413224',
+     secret: 'ff1dc052cc',
+     server: '7330',
+     farm: 8,
+     dateuploaded: '1399133231',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '9ab97d762d',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '119879946@N08',
+        username: 'angelica therese',
+        realname: 'Angelica Therese',
+        location: 'Wilmington, NC, USA',
+        iconserver: '7186',
+        iconfarm: 8,
+        path_alias: 'angelicatherese' },
+     title: { _content: 'MET NYC' },
+     description: { _content: '' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1399133231',
+        taken: '2014-04-16 02:50:50',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1399215375' },
+     views: '27',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/angelicatherese/14097413224/' } ] }
+http://c2.staticflickr.com/8/7330/14097413224_ff1dc052cc.jpg
+14117060453.jpg
+14117060453
+The file was saved!
+flickr result
+{ photo: 
+   { id: '14117060453',
+     secret: '9d1476c3d8',
+     server: '5441',
+     farm: 6,
+     dateuploaded: '1399133229',
+     isfavorite: 0,
+     license: '0',
+     safety_level: '0',
+     rotation: 0,
+     originalsecret: '6b1bd5622c',
+     originalformat: 'jpg',
+     owner: 
+      { nsid: '119879946@N08',
+        username: 'angelica therese',
+        realname: 'Angelica Therese',
+        location: 'Wilmington, NC, USA',
+        iconserver: '7186',
+        iconfarm: 8,
+        path_alias: 'angelicatherese' },
+     title: { _content: 'MET NYC' },
+     description: { _content: '' },
+     visibility: { ispublic: 1, isfriend: 0, isfamily: 0 },
+     dates: 
+      { posted: '1399133229',
+        taken: '2014-04-16 02:33:08',
+        takengranularity: '0',
+        takenunknown: 0,
+        lastupdate: '1399215375' },
+     views: '27',
+     editability: { cancomment: 0, canaddmeta: 0 },
+     publiceditability: { cancomment: 1, canaddmeta: 0 },
+     usage: { candownload: 1, canblog: 0, canprint: 0, canshare: 1 },
+     comments: { _content: '0' },
+     notes: { note: [] },
+     people: { haspeople: 0 },
+     tags: { tag: [Object] },
+     urls: { url: [Object] },
+     media: 'photo' },
+  stat: 'ok' }
+{ url: 
+   [ { type: 'photopage',
+       _content: 'https://www.flickr.com/photos/angelicatherese/14117060453/' } ] }
+http://c2.staticflickr.com/6/5441/14117060453_9d1476c3d8.jpg
+14225476400.jpg
+14225476400
+The file was saved!
